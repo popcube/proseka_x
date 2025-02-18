@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/18 12:32
+### 最終更新：2025/02/18 12:48
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1891684066887442456"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/18（火） 11:59
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1891683855674884207"></a>
 </blockquote>
 
 ---
@@ -40,9 +48,9 @@
 
 **DATE**: 02/17（月） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1891321683593531886"></a>
-</blockquote>
+[「プロジェ...](https://twitter.com/pj_sekai/status/1891321683593531886)
+<br>
+#セカイの4コマ #KAITO #KAITO19th #KAITO誕生祭2025
 
 ---
 
