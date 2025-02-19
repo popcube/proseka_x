@@ -1,8 +1,40 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/18 23:30
+### 最終更新：2025/02/19 12:15
 
+
+---
+
+**DATE**: 02/19（水） 11:42
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1892042115837800752"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/19（水） 11:41
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1892041718289064107"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/19（水） 11:40
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1892041541729788015"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/19（水） 11:40
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1892041433059819669"></a>
+</blockquote>
 
 ---
 
@@ -16,33 +48,27 @@
 
 **DATE**: 02/18（火） 22:22
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1891840665706791028"></a>
-</blockquote>
+[☘️MOR...](https://twitter.com/pj_sekai/status/1891840665706791028)
 
 ---
 
 **DATE**: 02/18（火） 21:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1891820459156701659"></a>
-</blockquote>
+[『アンチユ...](https://twitter.com/pj_sekai/status/1891820459156701659)
+<br>
+#モモジャン
 
 ---
 
 **DATE**: 02/18（火） 21:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1891820207485878433"></a>
-</blockquote>
+[💭プロセカ...](https://twitter.com/pj_sekai/status/1891820207485878433)
 
 ---
 
 **DATE**: 02/18（火） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1891819958511993029"></a>
-</blockquote>
+[本日22時...](https://twitter.com/pj_sekai/status/1891819958511993029)
 
 ---
 
@@ -1215,13 +1241,13 @@
 
 **DATE**: 01/31（金） 12:06
 <br>
-[『Nigh...](https://twitter.com/pj_sekai/status/1885162725808144659)
+[【静かな図...](https://twitter.com/pj_sekai/status/1885162727708172678)
 
 ---
 
 **DATE**: 01/31（金） 12:06
 <br>
-[【静かな図...](https://twitter.com/pj_sekai/status/1885162727708172678)
+[『Nigh...](https://twitter.com/pj_sekai/status/1885162725808144659)
 
 ---
 
