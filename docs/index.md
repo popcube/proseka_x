@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/19 21:21
+### 最終更新：2025/02/19 21:55
 
+
+---
+
+**DATE**: 02/19（水） 21:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1892185293140238400"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/19（水） 20:47
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1892179308980138246"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,17 @@
 
 **DATE**: 02/19（水） 17:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1892124397726585215"></a>
-</blockquote>
+[先日投稿し...](https://twitter.com/pj_sekai/status/1892124397726585215)
+<br>
+#プロセカあんスタコラボ
 
 ---
 
 **DATE**: 02/19（水） 17:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1892122861050982747"></a>
-</blockquote>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1892122861050982747)
+<br>
+#プロセカあんスタコラボ #あんスタ
 
 ---
 
@@ -789,13 +805,13 @@
 
 **DATE**: 02/10（月） 12:02
 <br>
-[「Stay...](https://twitter.com/pj_sekai/status/1888785502436049004)
+[【真剣会議...](https://twitter.com/pj_sekai/status/1888785504675701204)
 
 ---
 
 **DATE**: 02/10（月） 12:02
 <br>
-[【真剣会議...](https://twitter.com/pj_sekai/status/1888785504675701204)
+[「Stay...](https://twitter.com/pj_sekai/status/1888785502436049004)
 
 ---
 
