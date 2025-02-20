@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/20 16:11
+### 最終更新：2025/02/20 19:13
 
+
+---
+
+**DATE**: 02/20（木） 18:39
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1892509256542204164"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/20（木） 18:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1892502247566880924"></a>
+</blockquote>
 
 ---
 
@@ -36,17 +52,13 @@
 
 **DATE**: 02/20（木） 12:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1892411436955291813"></a>
-</blockquote>
+[『魔女が紡...](https://twitter.com/pj_sekai/status/1892411436955291813)
 
 ---
 
 **DATE**: 02/20（木） 12:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1892411222336950730"></a>
-</blockquote>
+[【スクリー...](https://twitter.com/pj_sekai/status/1892411222336950730)
 
 ---
 
@@ -58,13 +70,13 @@
 
 **DATE**: 02/20（木） 12:08
 <br>
-[『魔女が紡...](https://twitter.com/pj_sekai/status/1892411003943440769)
+[【思い出の...](https://twitter.com/pj_sekai/status/1892411006795563075)
 
 ---
 
 **DATE**: 02/20（木） 12:08
 <br>
-[【思い出の...](https://twitter.com/pj_sekai/status/1892411006795563075)
+[『魔女が紡...](https://twitter.com/pj_sekai/status/1892411003943440769)
 
 ---
 
