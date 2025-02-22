@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/21 23:39
+### 最終更新：2025/02/22 13:33
 
+
+---
+
+**DATE**: 02/22（土） 13:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1893148786047992034"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/22（土） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1893134115425394850"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,15 @@
 
 **DATE**: 02/21（金） 18:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1892863366676566141"></a>
-</blockquote>
+[#プロセカ...](https://twitter.com/pj_sekai/status/1892863366676566141)
+<br>
+#プロセカあんスタコラボ #あんスタ
 
 ---
 
 **DATE**: 02/21（金） 15:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1892819109794238485"></a>
-</blockquote>
+[追加楽曲紹...](https://twitter.com/pj_sekai/status/1892819109794238485)
 
 ---
 
@@ -1029,17 +1043,17 @@
 
 **DATE**: 02/10（月） 12:48
 <br>
-[【#プロセ...](https://twitter.com/pj_sekai/status/1888797193257234723)
+[#プロセカ...](https://twitter.com/pj_sekai/status/1888797190702920037)
 <br>
-#プロセカあんスタコラボ広告
+#プロセカあんスタコラボ広告 #プロセカあんスタコラボ広告
 
 ---
 
 **DATE**: 02/10（月） 12:48
 <br>
-[#プロセカ...](https://twitter.com/pj_sekai/status/1888797190702920037)
+[【#プロセ...](https://twitter.com/pj_sekai/status/1888797193257234723)
 <br>
-#プロセカあんスタコラボ広告 #プロセカあんスタコラボ広告
+#プロセカあんスタコラボ広告
 
 ---
 
@@ -5059,13 +5073,13 @@
 
 **DATE**: 12/11（水） 12:04
 <br>
-[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
+[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
 
 ---
 
 **DATE**: 12/11（水） 12:04
 <br>
-[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
+[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
 
 ---
 
@@ -5951,19 +5965,5 @@
 **DATE**: 11/20（水） 11:39
 <br>
 [下記楽曲の...](https://twitter.com/pj_sekai/status/1859063973431365898)
-
----
-
-**DATE**: 11/19（火） 18:07
-<br>
-[『東京テデ...](https://twitter.com/pj_sekai/status/1858799282683605071)
-<br>
-#レオニ
-
----
-
-**DATE**: 11/19（火） 15:04
-<br>
-[明日、11...](https://twitter.com/pj_sekai/status/1858753310905557173)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
