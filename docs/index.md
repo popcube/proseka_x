@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/23 13:33
+### 最終更新：2025/02/23 16:24
 
+
+---
+
+**DATE**: 02/23（日） 13:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1893518779306385585"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 02/23（日） 12:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1893496321232822372"></a>
-</blockquote>
+[【メンテナ...](https://twitter.com/pj_sekai/status/1893496321232822372)
 
 ---
 
@@ -396,13 +402,13 @@
 
 **DATE**: 02/20（木） 12:08
 <br>
-[『魔女が紡...](https://twitter.com/pj_sekai/status/1892411003943440769)
+[【思い出の...](https://twitter.com/pj_sekai/status/1892411006795563075)
 
 ---
 
 **DATE**: 02/20（木） 12:08
 <br>
-[【思い出の...](https://twitter.com/pj_sekai/status/1892411006795563075)
+[『魔女が紡...](https://twitter.com/pj_sekai/status/1892411003943440769)
 
 ---
 
@@ -5300,13 +5306,13 @@
 
 ---
 
-**DATE**: 12/09（月） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1866090419299180812)
+**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
 
 ---
 
-**DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
+**DATE**: 12/09（月） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1866090419299180812)
 
 ---
 
