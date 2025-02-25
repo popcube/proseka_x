@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/24 16:26
+### 最終更新：2025/02/25 20:24
 
+
+---
+
+**DATE**: 02/25（火） 17:29
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1894303609699143710"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 02/23（日） 23:12
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1893665130958782770"></a>
-</blockquote>
+[📝アンケー...](https://twitter.com/pj_sekai/status/1893665130958782770)
 
 ---
 
@@ -3773,13 +3779,13 @@
 
 **DATE**: 12/31（火） 12:13
 <br>
-[【お手玉だ...](https://twitter.com/pj_sekai/status/1873930449183228415)
+[「[202...](https://twitter.com/pj_sekai/status/1873930447019008383)
 
 ---
 
 **DATE**: 12/31（火） 12:13
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873930447019008383)
+[【お手玉だ...](https://twitter.com/pj_sekai/status/1873930449183228415)
 
 ---
 
@@ -5097,13 +5103,13 @@
 
 **DATE**: 12/21（土） 12:01
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
+[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
 
 ---
 
 **DATE**: 12/21（土） 12:01
 <br>
-[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
 
 ---
 
@@ -5337,13 +5343,13 @@
 
 **DATE**: 12/11（水） 12:04
 <br>
-[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
+[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
 
 ---
 
 **DATE**: 12/11（水） 12:04
 <br>
-[「high...](https://twitter.com/pj_sekai/status/1866680420450046165)
+[【言葉にな...](https://twitter.com/pj_sekai/status/1866680422698192940)
 
 ---
 
@@ -6087,65 +6093,5 @@
 **DATE**: 11/25（月） 12:55
 <br>
 [【v4.1...](https://twitter.com/pj_sekai/status/1860894936247472241)
-
----
-
-**DATE**: 11/22（金） 21:00
-<br>
-[WEBラジ...](https://twitter.com/pj_sekai/status/1859929826175668229)
-<br>
-#セカラジ
-
----
-
-**DATE**: 11/22（金） 20:02
-<br>
-[【v4.1...](https://twitter.com/pj_sekai/status/1859915407207150078)
-
----
-
-**DATE**: 11/22（金） 20:00
-<br>
-[📺WEBラ...](https://twitter.com/pj_sekai/status/1859914727339827221)
-<br>
-#セカラジ
-
----
-
-**DATE**: 11/22（金） 19:38
-<br>
-[先ほど投稿...](https://twitter.com/pj_sekai/status/1859909381107900706)
-<br>
-#セカイの4コマ
-
----
-
-**DATE**: 11/22（金） 19:38
-<br>
-[「プロジェ...](https://twitter.com/pj_sekai/status/1859909294793404706)
-<br>
-#セカイの4コマ
-
----
-
-**DATE**: 11/22（金） 12:23
-<br>
-[「プロジェ...](https://twitter.com/pj_sekai/status/1859799953553707217)
-<br>
-#セカイの4コマ
-
----
-
-**DATE**: 11/22（金） 11:07
-<br>
-[11月22...](https://twitter.com/pj_sekai/status/1859780702327406777)
-
----
-
-**DATE**: 11/22（金） 11:03
-<br>
-[11月22...](https://twitter.com/pj_sekai/status/1859779635493712304)
-<br>
-#セカラジ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
