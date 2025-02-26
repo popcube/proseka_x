@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/02/26 22:48
+### 最終更新：2025/02/26 23:12
 
 
 ---
@@ -90,6 +90,14 @@
 
 ---
 
+**DATE**: 02/26（水） 20:35
+<br>
+[🎶楽曲追加...](https://twitter.com/pj_sekai/status/1894713015272124831)
+<br>
+#プロセカ放送局
+
+---
+
 **DATE**: 02/26（水） 20:34
 <br>
 [🌟ミクの日...](https://twitter.com/pj_sekai/status/1894712528078549451)
@@ -101,6 +109,14 @@
 **DATE**: 02/26（水） 20:31
 <br>
 [🏡マイセカ...](https://twitter.com/pj_sekai/status/1894711782188761590)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 02/26（水） 20:30
+<br>
+[💐ホワイト...](https://twitter.com/pj_sekai/status/1894711575740862888)
 <br>
 #プロセカ放送局
 
@@ -633,13 +649,13 @@
 
 **DATE**: 02/21（金） 12:33
 <br>
-[推奨端末で...](https://twitter.com/pj_sekai/status/1892779597135036458)
+[待合エリア...](https://twitter.com/pj_sekai/status/1892779595318837534)
 
 ---
 
 **DATE**: 02/21（金） 12:33
 <br>
-[待合エリア...](https://twitter.com/pj_sekai/status/1892779595318837534)
+[推奨端末で...](https://twitter.com/pj_sekai/status/1892779597135036458)
 
 ---
 
@@ -4034,13 +4050,13 @@
 
 **DATE**: 12/31（火） 12:13
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873930447019008383)
+[【お手玉だ...](https://twitter.com/pj_sekai/status/1873930449183228415)
 
 ---
 
 **DATE**: 12/31（火） 12:13
 <br>
-[【お手玉だ...](https://twitter.com/pj_sekai/status/1873930449183228415)
+[「[202...](https://twitter.com/pj_sekai/status/1873930447019008383)
 
 ---
 
@@ -4058,13 +4074,13 @@
 
 **DATE**: 12/31（火） 12:08
 <br>
-[【思いがけ...](https://twitter.com/pj_sekai/status/1873929287633690825)
+[「[202...](https://twitter.com/pj_sekai/status/1873929285171634292)
 
 ---
 
 **DATE**: 12/31（火） 12:08
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873929285171634292)
+[【思いがけ...](https://twitter.com/pj_sekai/status/1873929287633690825)
 
 ---
 
@@ -4082,13 +4098,13 @@
 
 **DATE**: 12/31（火） 12:06
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873928693443420210)
+[【誇りに思...](https://twitter.com/pj_sekai/status/1873928695804813758)
 
 ---
 
 **DATE**: 12/31（火） 12:06
 <br>
-[【誇りに思...](https://twitter.com/pj_sekai/status/1873928695804813758)
+[「[202...](https://twitter.com/pj_sekai/status/1873928693443420210)
 
 ---
 
