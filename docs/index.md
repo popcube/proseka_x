@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/03/10 22:00
+### 最終更新：2025/03/11 17:42
 
+
+---
+
+**DATE**: 03/11（火） 16:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1899355071248531670"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 03/10（月） 12:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1898933880201290068"></a>
-</blockquote>
+[【ドーナツ...](https://twitter.com/pj_sekai/status/1898933880201290068)
 
 ---
 
@@ -1305,13 +1311,13 @@
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1892533447215788301)
+[【お知らせ...](https://twitter.com/pj_sekai/status/1892533448897626280)
 
 ---
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1892533448897626280)
+[【お知らせ...](https://twitter.com/pj_sekai/status/1892533447215788301)
 
 ---
 
@@ -2744,13 +2750,13 @@
 
 **DATE**: 01/31（金） 12:06
 <br>
-[『Nigh...](https://twitter.com/pj_sekai/status/1885162725808144659)
+[【静かな図...](https://twitter.com/pj_sekai/status/1885162727708172678)
 
 ---
 
 **DATE**: 01/31（金） 12:06
 <br>
-[【静かな図...](https://twitter.com/pj_sekai/status/1885162727708172678)
+[『Nigh...](https://twitter.com/pj_sekai/status/1885162725808144659)
 
 ---
 
@@ -5962,13 +5968,13 @@
 
 **DATE**: 12/21（土） 12:02
 <br>
-[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
 
 ---
 
 **DATE**: 12/21（土） 12:02
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303712880800051)
+[【待ちきれ...](https://twitter.com/pj_sekai/status/1870303714864706045)
 
 ---
 
@@ -6416,21 +6422,5 @@
 [🎮プロジェ...](https://twitter.com/pj_sekai/status/1865229753026007394)
 <br>
 #プロセカCS
-
----
-
-**DATE**: 12/06（金） 21:00
-<br>
-[WEBラジ...](https://twitter.com/pj_sekai/status/1865003259938902102)
-<br>
-#セカラジ
-
----
-
-**DATE**: 12/06（金） 20:00
-<br>
-[📺WEBラ...](https://twitter.com/pj_sekai/status/1864988156183150707)
-<br>
-#セカラジ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
