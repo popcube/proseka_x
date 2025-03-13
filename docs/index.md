@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/03/12 16:12
+### 最終更新：2025/03/13 15:44
 
+
+---
+
+**DATE**: 03/13（木） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1900020225292272113"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 03/12（水） 11:35
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1899650341701853278"></a>
-</blockquote>
+[【機能メン...](https://twitter.com/pj_sekai/status/1899650341701853278)
 
 ---
 
@@ -1353,13 +1359,13 @@
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1892533448897626280)
+[【お知らせ...](https://twitter.com/pj_sekai/status/1892533447215788301)
 
 ---
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1892533447215788301)
+[【お知らせ...](https://twitter.com/pj_sekai/status/1892533448897626280)
 
 ---
 
@@ -1427,13 +1433,13 @@
 
 **DATE**: 02/20（木） 12:08
 <br>
-[『魔女が紡...](https://twitter.com/pj_sekai/status/1892411003943440769)
+[【思い出の...](https://twitter.com/pj_sekai/status/1892411006795563075)
 
 ---
 
 **DATE**: 02/20（木） 12:08
 <br>
-[【思い出の...](https://twitter.com/pj_sekai/status/1892411006795563075)
+[『魔女が紡...](https://twitter.com/pj_sekai/status/1892411003943440769)
 
 ---
 
@@ -6022,13 +6028,13 @@
 
 **DATE**: 12/21（土） 12:01
 <br>
-[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
+[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
 
 ---
 
 **DATE**: 12/21（土） 12:01
 <br>
-[『君と見る...](https://twitter.com/pj_sekai/status/1870303665652937159)
+[【サンタさ...](https://twitter.com/pj_sekai/status/1870303667464876424)
 
 ---
 
@@ -6338,115 +6344,5 @@
 ---
 
 **DATE**: 12/09（月） 21:00 イベント「**傷だらけの手で、私達は**」 終了
-
----
-
-**DATE**: 12/08（日） 21:48
-<br>
-[🎮プロジェ...](https://twitter.com/pj_sekai/status/1865740107770478796)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 12/08（日） 21:22
-<br>
-[🎮プロジェ...](https://twitter.com/pj_sekai/status/1865733789684814172)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 12/08（日） 20:58
-<br>
-[🎮プロジェ...](https://twitter.com/pj_sekai/status/1865727654982525001)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 12/08（日） 20:45
-<br>
-[準決勝Gr...](https://twitter.com/pj_sekai/status/1865724502388392401)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 12/08（日） 20:29
-<br>
-[🎮プロジェ...](https://twitter.com/pj_sekai/status/1865720353655586821)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 12/08（日） 20:07
-<br>
-[準決勝Gr...](https://twitter.com/pj_sekai/status/1865714707732353395)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 12/08（日） 19:52
-<br>
-[🎮プロジェ...](https://twitter.com/pj_sekai/status/1865711027243065712)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 12/08（日） 19:26
-<br>
-[準決勝Gr...](https://twitter.com/pj_sekai/status/1865704546326237408)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 12/08（日） 19:11
-<br>
-[🎮プロジェ...](https://twitter.com/pj_sekai/status/1865700632914690425)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 12/08（日） 18:52
-<br>
-[準決勝Gr...](https://twitter.com/pj_sekai/status/1865695927379599427)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 12/08（日） 18:33
-<br>
-[🎮プロジェ...](https://twitter.com/pj_sekai/status/1865691173798732046)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 12/08（日） 18:00
-<br>
-[🎮プロジェ...](https://twitter.com/pj_sekai/status/1865682909434450138)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 12/08（日） 12:07
-<br>
-[🎮プロジェ...](https://twitter.com/pj_sekai/status/1865593964939887054)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 12/08（日） 12:05
-<br>
-[本日12時...](https://twitter.com/pj_sekai/status/1865593581639192670)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
