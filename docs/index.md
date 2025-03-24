@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/03/23 04:17
+### 最終更新：2025/03/24 15:45
 
+
+---
+
+**DATE**: 03/24（月） 15:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1904051457571340703"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 03/21（金） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1902919424451162258"></a>
-</blockquote>
+[✉プロセカ...](https://twitter.com/pj_sekai/status/1902919424451162258)
 
 ---
 
@@ -1611,13 +1617,13 @@
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1892533448897626280)
+[【お知らせ...](https://twitter.com/pj_sekai/status/1892533447215788301)
 
 ---
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1892533447215788301)
+[【お知らせ...](https://twitter.com/pj_sekai/status/1892533448897626280)
 
 ---
 
@@ -4980,13 +4986,13 @@
 
 **DATE**: 12/31（火） 12:08
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873929285171634292)
+[【思いがけ...](https://twitter.com/pj_sekai/status/1873929287633690825)
 
 ---
 
 **DATE**: 12/31（火） 12:08
 <br>
-[【思いがけ...](https://twitter.com/pj_sekai/status/1873929287633690825)
+[「[202...](https://twitter.com/pj_sekai/status/1873929285171634292)
 
 ---
 
@@ -5004,13 +5010,13 @@
 
 **DATE**: 12/31（火） 12:06
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873928693443420210)
+[【誇りに思...](https://twitter.com/pj_sekai/status/1873928695804813758)
 
 ---
 
 **DATE**: 12/31（火） 12:06
 <br>
-[【誇りに思...](https://twitter.com/pj_sekai/status/1873928695804813758)
+[「[202...](https://twitter.com/pj_sekai/status/1873928693443420210)
 
 ---
 
@@ -6329,65 +6335,5 @@
 **DATE**: 12/20（金） 11:35
 <br>
 [下記楽曲の...](https://twitter.com/pj_sekai/status/1869934699034067191)
-
----
-
-**DATE**: 12/19（木） 22:37
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1869738846407291126)
-
----
-
-**DATE**: 12/19（木） 22:34
-<br>
-[☘️MOR...](https://twitter.com/pj_sekai/status/1869737975321686268)
-
----
-
-**DATE**: 12/19（木） 22:07
-<br>
-[『はしる!...](https://twitter.com/pj_sekai/status/1869731371041923200)
-<br>
-#モモジャン
-
----
-
-**DATE**: 12/19（木） 22:05
-<br>
-[☘️MOR...](https://twitter.com/pj_sekai/status/1869730785252851887)
-<br>
-#モモジャン
-
----
-
-**DATE**: 12/19（木） 21:01
-<br>
-[💭プロセカ...](https://twitter.com/pj_sekai/status/1869714548233548058)
-
----
-
-**DATE**: 12/19（木） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1869714307589792243)
-
----
-
-**DATE**: 12/19（木） 21:00 イベント「**Grow glorious glow**」 終了
-
----
-
-**DATE**: 12/19（木） 15:00
-<br>
-[🎍行く年来...](https://twitter.com/pj_sekai/status/1869623702670958622)
-<br>
-#プロセカCS #プロセカ収録楽曲予想
-
----
-
-**DATE**: 12/19（木） 12:07
-<br>
-[12月20...](https://twitter.com/pj_sekai/status/1869580326168858897)
-<br>
-#セカラジ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
