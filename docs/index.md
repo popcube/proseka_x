@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/03/29 00:48
+### 最終更新：2025/03/29 01:43
 
+
+---
+
+**DATE**: 03/28（金） 21:40
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1905600905615212980"></a>
+</blockquote>
 
 ---
 
@@ -22,31 +30,47 @@
 
 ---
 
+**DATE**: 03/28（金） 21:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1905594607586414982"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/28（金） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1905590857455337971"></a>
+</blockquote>
+
+---
+
 **DATE**: 03/28（金） 21:00 イベント「**Unreliable Notes**」 終了
 
 ---
 
 **DATE**: 03/28（金） 20:58
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1905590252712189963"></a>
-</blockquote>
+[💭アフター...](https://twitter.com/pj_sekai/status/1905590252712189963)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 03/28（金） 20:57
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1905590094800814292"></a>
-</blockquote>
+[🎤アナザー...](https://twitter.com/pj_sekai/status/1905590094800814292)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 03/28（金） 20:52
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1905588846374375919"></a>
-</blockquote>
+[👑ワンダー...](https://twitter.com/pj_sekai/status/1905588846374375919)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -140,7 +164,23 @@
 
 **DATE**: 03/28（金） 20:31
 <br>
+[㊗4.5周...](https://twitter.com/pj_sekai/status/1905583641675129165)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 03/28（金） 20:31
+<br>
 [㊗4.5周...](https://twitter.com/pj_sekai/status/1905583576709554249)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 03/28（金） 20:31
+<br>
+[㊗4.5周...](https://twitter.com/pj_sekai/status/1905583466328326590)
 <br>
 #プロセカ放送局
 
@@ -1110,13 +1150,13 @@
 
 ---
 
-**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
-
----
-
 **DATE**: 02/26（水） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1894719059587223560)
+
+---
+
+**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
 
 ---
 
@@ -1877,13 +1917,13 @@
 
 **DATE**: 02/21（金） 12:33
 <br>
-[推奨端末で...](https://twitter.com/pj_sekai/status/1892779597135036458)
+[待合エリア...](https://twitter.com/pj_sekai/status/1892779595318837534)
 
 ---
 
 **DATE**: 02/21（金） 12:33
 <br>
-[待合エリア...](https://twitter.com/pj_sekai/status/1892779595318837534)
+[推奨端末で...](https://twitter.com/pj_sekai/status/1892779597135036458)
 
 ---
 
@@ -1933,13 +1973,13 @@
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1892533447215788301)
+[【お知らせ...](https://twitter.com/pj_sekai/status/1892533448897626280)
 
 ---
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1892533448897626280)
+[【お知らせ...](https://twitter.com/pj_sekai/status/1892533447215788301)
 
 ---
 
@@ -2397,15 +2437,15 @@
 
 **DATE**: 02/15（土） 15:12
 <br>
-[「交わるせ...](https://twitter.com/pj_sekai/status/1890645360537657759)
-<br>
-#プロセカあんスタコラボ
+[【共鳴する...](https://twitter.com/pj_sekai/status/1890645363532656654)
 
 ---
 
 **DATE**: 02/15（土） 15:12
 <br>
-[【共鳴する...](https://twitter.com/pj_sekai/status/1890645363532656654)
+[「交わるせ...](https://twitter.com/pj_sekai/status/1890645360537657759)
+<br>
+#プロセカあんスタコラボ
 
 ---
 
