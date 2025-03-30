@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/03/30 14:48
+### 最終更新：2025/03/30 15:16
 
 
 ---
@@ -14,6 +14,30 @@
 
 ---
 
+**DATE**: 03/30（日） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1906181134947590411"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/30（日） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1906181096611758103"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/30（日） 11:37
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1906173929452089847"></a>
+</blockquote>
+
+---
+
 **DATE**: 03/30（日） 11:37
 <br>
 <blockquote class="twitter-tweet">
@@ -22,27 +46,29 @@
 
 ---
 
+**DATE**: 03/30（日） 11:35
+<br>
+[【v5.2...](https://twitter.com/pj_sekai/status/1906173465750811074)
+
+---
+
 **DATE**: 03/30（日） 11:34
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1906173140855820590"></a>
-</blockquote>
+[【メンテナ...](https://twitter.com/pj_sekai/status/1906173140855820590)
 
 ---
 
 **DATE**: 03/30（日） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1905998381979406340"></a>
-</blockquote>
+[🌟プロジェ...](https://twitter.com/pj_sekai/status/1905998381979406340)
 
 ---
 
 **DATE**: 03/29（土） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1905953091662348379"></a>
-</blockquote>
+[WEBラジ...](https://twitter.com/pj_sekai/status/1905953091662348379)
+<br>
+#セカラジ
 
 ---
 
@@ -716,13 +742,13 @@
 
 **DATE**: 03/21（金） 12:05
 <br>
-[✉プロセカ...](https://twitter.com/pj_sekai/status/1902919424451162258)
+[✉プロセカ...](https://twitter.com/pj_sekai/status/1902919422664380628)
 
 ---
 
 **DATE**: 03/21（金） 12:05
 <br>
-[✉プロセカ...](https://twitter.com/pj_sekai/status/1902919422664380628)
+[✉プロセカ...](https://twitter.com/pj_sekai/status/1902919424451162258)
 
 ---
 
@@ -766,13 +792,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【バッグい...](https://twitter.com/pj_sekai/status/1902556548502843463)
+[「Obsc...](https://twitter.com/pj_sekai/status/1902556546615353645)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://twitter.com/pj_sekai/status/1902556546615353645)
+[【バッグい...](https://twitter.com/pj_sekai/status/1902556548502843463)
 
 ---
 
@@ -2363,13 +2389,13 @@
 
 **DATE**: 02/20（木） 12:08
 <br>
-[『魔女が紡...](https://twitter.com/pj_sekai/status/1892411003943440769)
+[【思い出の...](https://twitter.com/pj_sekai/status/1892411006795563075)
 
 ---
 
 **DATE**: 02/20（木） 12:08
 <br>
-[【思い出の...](https://twitter.com/pj_sekai/status/1892411006795563075)
+[『魔女が紡...](https://twitter.com/pj_sekai/status/1892411003943440769)
 
 ---
 
