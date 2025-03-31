@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/03/30 21:56
+### 最終更新：2025/03/31 12:54
 
+
+---
+
+**DATE**: 03/31（月） 12:24
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1906548066120835136"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 03/30（日） 12:16
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1906183831977378209"></a>
-</blockquote>
+[【響く想い...](https://twitter.com/pj_sekai/status/1906183831977378209)
 
 ---
 
@@ -78,13 +84,13 @@
 
 **DATE**: 03/30（日） 12:12
 <br>
-[【巡るセカ...](https://twitter.com/pj_sekai/status/1906182759259017432)
+[「[4.5...](https://twitter.com/pj_sekai/status/1906182756666871831)
 
 ---
 
 **DATE**: 03/30（日） 12:12
 <br>
-[「[4.5...](https://twitter.com/pj_sekai/status/1906182756666871831)
+[【巡るセカ...](https://twitter.com/pj_sekai/status/1906182759259017432)
 
 ---
 
@@ -906,13 +912,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://twitter.com/pj_sekai/status/1902556546615353645)
+[【バッグい...](https://twitter.com/pj_sekai/status/1902556548502843463)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【バッグい...](https://twitter.com/pj_sekai/status/1902556548502843463)
+[「Obsc...](https://twitter.com/pj_sekai/status/1902556546615353645)
 
 ---
 
@@ -1478,13 +1484,13 @@
 
 **DATE**: 02/28（金） 12:03
 <br>
-[『果てなき...](https://twitter.com/pj_sekai/status/1895308885197758886)
+[【よしよし...](https://twitter.com/pj_sekai/status/1895308887693406393)
 
 ---
 
 **DATE**: 02/28（金） 12:03
 <br>
-[【よしよし...](https://twitter.com/pj_sekai/status/1895308887693406393)
+[『果てなき...](https://twitter.com/pj_sekai/status/1895308885197758886)
 
 ---
 
@@ -2373,13 +2379,13 @@
 
 **DATE**: 02/21（金） 12:33
 <br>
-[待合エリア...](https://twitter.com/pj_sekai/status/1892779595318837534)
+[推奨端末で...](https://twitter.com/pj_sekai/status/1892779597135036458)
 
 ---
 
 **DATE**: 02/21（金） 12:33
 <br>
-[推奨端末で...](https://twitter.com/pj_sekai/status/1892779597135036458)
+[待合エリア...](https://twitter.com/pj_sekai/status/1892779595318837534)
 
 ---
 
@@ -2429,13 +2435,13 @@
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1892533448897626280)
+[【お知らせ...](https://twitter.com/pj_sekai/status/1892533447215788301)
 
 ---
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1892533447215788301)
+[【お知らせ...](https://twitter.com/pj_sekai/status/1892533448897626280)
 
 ---
 
@@ -2503,13 +2509,13 @@
 
 **DATE**: 02/20（木） 12:08
 <br>
-[【思い出の...](https://twitter.com/pj_sekai/status/1892411006795563075)
+[『魔女が紡...](https://twitter.com/pj_sekai/status/1892411003943440769)
 
 ---
 
 **DATE**: 02/20（木） 12:08
 <br>
-[『魔女が紡...](https://twitter.com/pj_sekai/status/1892411003943440769)
+[【思い出の...](https://twitter.com/pj_sekai/status/1892411006795563075)
 
 ---
 
@@ -2825,13 +2831,13 @@
 
 **DATE**: 02/15（土） 17:10
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1890675016267616435)
+[【お知らせ...](https://twitter.com/pj_sekai/status/1890675014770528604)
 
 ---
 
 **DATE**: 02/15（土） 17:10
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1890675014770528604)
+[【お知らせ...](https://twitter.com/pj_sekai/status/1890675016267616435)
 
 ---
 
@@ -2893,15 +2899,15 @@
 
 **DATE**: 02/15（土） 15:12
 <br>
-[「交わるせ...](https://twitter.com/pj_sekai/status/1890645360537657759)
-<br>
-#プロセカあんスタコラボ
+[【共鳴する...](https://twitter.com/pj_sekai/status/1890645363532656654)
 
 ---
 
 **DATE**: 02/15（土） 15:12
 <br>
-[【共鳴する...](https://twitter.com/pj_sekai/status/1890645363532656654)
+[「交わるせ...](https://twitter.com/pj_sekai/status/1890645360537657759)
+<br>
+#プロセカあんスタコラボ
 
 ---
 
@@ -5028,13 +5034,13 @@
 
 ---
 
-**DATE**: 01/19（日） 21:00 イベント「**Time to take off！**」 終了
-
----
-
 **DATE**: 01/19（日） 21:00
 <br>
 [本日22時...](https://twitter.com/pj_sekai/status/1880948321138655364)
+
+---
+
+**DATE**: 01/19（日） 21:00 イベント「**Time to take off！**」 終了
 
 ---
 
@@ -5798,19 +5804,13 @@
 
 **DATE**: 12/31（火） 12:08
 <br>
-[【思いがけ...](https://twitter.com/pj_sekai/status/1873929287633690825)
+[「[202...](https://twitter.com/pj_sekai/status/1873929285171634292)
 
 ---
 
 **DATE**: 12/31（火） 12:08
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873929285171634292)
-
----
-
-**DATE**: 12/31（火） 12:06
-<br>
-[【かけがえ...](https://twitter.com/pj_sekai/status/1873928722400862649)
+[【思いがけ...](https://twitter.com/pj_sekai/status/1873929287633690825)
 
 ---
 
@@ -5822,13 +5822,19 @@
 
 **DATE**: 12/31（火） 12:06
 <br>
-[【誇りに思...](https://twitter.com/pj_sekai/status/1873928695804813758)
+[【かけがえ...](https://twitter.com/pj_sekai/status/1873928722400862649)
 
 ---
 
 **DATE**: 12/31（火） 12:06
 <br>
 [「[202...](https://twitter.com/pj_sekai/status/1873928693443420210)
+
+---
+
+**DATE**: 12/31（火） 12:06
+<br>
+[【誇りに思...](https://twitter.com/pj_sekai/status/1873928695804813758)
 
 ---
 
@@ -5991,961 +5997,5 @@
 [「プロジェ...](https://twitter.com/pj_sekai/status/1872478222027518010)
 <br>
 #セカイの4コマ #鏡音17誕 #鏡音リン誕生祭2024 #鏡音レン誕生祭2024
-
----
-
-**DATE**: 12/27（金） 00:02
-<br>
-[🎤鏡音レン...](https://twitter.com/pj_sekai/status/1872296813471879384)
-<br>
-#鏡音17誕 #鏡音レン誕生祭2024
-
----
-
-**DATE**: 12/27（金） 00:01
-<br>
-[🎤鏡音リン...](https://twitter.com/pj_sekai/status/1872296561386123433)
-<br>
-#鏡音17誕 #鏡音リン誕生祭2024
-
----
-
-**DATE**: 12/27（金） 00:00
-<br>
-[㊗️本日1...](https://twitter.com/pj_sekai/status/1872296313527890222)
-<br>
-#鏡音17誕 #鏡音リン誕生祭2024 #鏡音レン誕生祭2024
-
----
-
-**DATE**: 12/26（木） 21:56
-<br>
-[#プロセカ...](https://twitter.com/pj_sekai/status/1872265274835275970)
-<br>
-#プロセカあんスタコラボ
-
----
-
-**DATE**: 12/26（木） 21:56
-<br>
-[劇場版プロ...](https://twitter.com/pj_sekai/status/1872265158351077623)
-<br>
-#劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 21:55
-<br>
-[🎊プロセカ...](https://twitter.com/pj_sekai/status/1872265035747401821)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 21:39
-<br>
-[#プロセカ...](https://twitter.com/pj_sekai/status/1872260954802835642)
-<br>
-#プロセカあんスタコラボ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 21:38
-<br>
-[🌟コネクト...](https://twitter.com/pj_sekai/status/1872260721125527656)
-<br>
-#プロセカ年末大特番 #プロセカあんスタコラボ
-
----
-
-**DATE**: 12/26（木） 21:37
-<br>
-[🌟コネクト...](https://twitter.com/pj_sekai/status/1872260492900856301)
-<br>
-#あんスタ #プロセカ年末大特番 #プロセカあんスタコラボ
-
----
-
-**DATE**: 12/26（木） 21:33
-<br>
-[🌟コネクト...](https://twitter.com/pj_sekai/status/1872259324606881826)
-<br>
-#プロセカ年末大特番 #プロセカあんスタコラボ
-
----
-
-**DATE**: 12/26（木） 21:26
-<br>
-[#プロセカ...](https://twitter.com/pj_sekai/status/1872257720503652360)
-<br>
-#プロセカあんスタコラボ #あんスタ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 21:26
-<br>
-[#プロセカ...](https://twitter.com/pj_sekai/status/1872257555172626880)
-<br>
-#プロセカあんスタコラボ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 21:24
-<br>
-[#プロセカ...](https://twitter.com/pj_sekai/status/1872257262657613856)
-<br>
-#プロセカあんスタコラボ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 21:24
-<br>
-[#プロセカ...](https://twitter.com/pj_sekai/status/1872257147993788497)
-<br>
-#プロセカあんスタコラボ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 21:24
-<br>
-[#プロセカ...](https://twitter.com/pj_sekai/status/1872257085586759788)
-<br>
-#プロセカあんスタコラボ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 21:23
-<br>
-[#プロセカ...](https://twitter.com/pj_sekai/status/1872256952128188599)
-<br>
-#プロセカあんスタコラボ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 21:16
-<br>
-[プロジェク...](https://twitter.com/pj_sekai/status/1872255112435105828)
-<br>
-#プロセカ年末大特番 #あんスタ #プロセカあんスタコラボ
-
----
-
-**DATE**: 12/26（木） 21:14
-<br>
-[【#プロセ...](https://twitter.com/pj_sekai/status/1872254631956586698)
-<br>
-#プロセカ年末大特番 #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 21:11
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872253801085960564)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 21:09
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872253502086689035)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 21:09
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872253376261738574)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 21:08
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872253141682659429)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 21:07
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872252815491596651)
-<br>
-#劇場版プロセカ #劇場版プロセカ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 21:06
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872252528634806691)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 21:05
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872252377702797526)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 21:04
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872252207778918488)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 21:04
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872252046793142335)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 21:03
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872251982054125834)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 21:03
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872251866387796124)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 21:02
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872251732740514301)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 21:01
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872251454683275460)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 21:00
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872251108158226930)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:58
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872250707191173615)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:57
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872250434263597336)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:56
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872250253589852554)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:55
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872249973531983940)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:55
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872249802194575696)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:54
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872249569381421204)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:53
-<br>
-[#劇場版プ...](https://twitter.com/pj_sekai/status/1872249329421021358)
-<br>
-#劇場版プロセカ #プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:52
-<br>
-[『劇場版プ...](https://twitter.com/pj_sekai/status/1872249128237031805)
-<br>
-#プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:50
-<br>
-[『劇場版プ...](https://twitter.com/pj_sekai/status/1872248634198401391)
-
----
-
-**DATE**: 12/26（木） 20:49
-<br>
-[『劇場版プ...](https://twitter.com/pj_sekai/status/1872248286406750628)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:47
-<br>
-[『劇場版プ...](https://twitter.com/pj_sekai/status/1872247942087844169)
-<br>
-#プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:46
-<br>
-[『劇場版プ...](https://twitter.com/pj_sekai/status/1872247658255097942)
-<br>
-#プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:42
-<br>
-[劇場版エン...](https://twitter.com/pj_sekai/status/1872246688750227781)
-<br>
-#プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:41
-<br>
-[『劇場版プ...](https://twitter.com/pj_sekai/status/1872246365704827280)
-<br>
-#プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:40
-<br>
-[劇場版プロ...](https://twitter.com/pj_sekai/status/1872246131440456068)
-<br>
-#プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:38
-<br>
-[劇場版オー...](https://twitter.com/pj_sekai/status/1872245541742186633)
-<br>
-#プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:37
-<br>
-[劇場版オー...](https://twitter.com/pj_sekai/status/1872245355036946614)
-<br>
-#プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:37
-<br>
-[🎶楽曲追加...](https://twitter.com/pj_sekai/status/1872245256009433261)
-<br>
-#プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:36
-<br>
-[『劇場版プ...](https://twitter.com/pj_sekai/status/1872245137612718137)
-<br>
-#プロセカ年末大特番 #劇場版プロセカ
-
----
-
-**DATE**: 12/26（木） 20:29
-<br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1872243423316722159)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:28
-<br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1872243147121766891)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:27
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872242933086474724)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:25
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872242289156002290)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:23
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872241892769030500)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:22
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872241633540075640)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:22
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872241597951475770)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:22
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872241449590509688)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:20
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872240983624282497)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:19
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872240826090443207)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:18
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872240607873380471)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:15
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872239828789776625)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:14
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872239602708418593)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:12
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872239081717121216)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:12
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872238938670419987)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:11
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872238898925256750)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:11
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872238689625296986)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:09
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872238406308377068)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:09
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872238205631922214)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:08
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872238135347966006)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:06
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872237526490267794)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:05
-<br>
-[新機能「#...](https://twitter.com/pj_sekai/status/1872237287364501635)
-<br>
-#マイセカイ #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 20:01
-<br>
-[アップデー...](https://twitter.com/pj_sekai/status/1872236279854952519)
-
----
-
-**DATE**: 12/26（木） 20:00
-<br>
-[「ワールド...](https://twitter.com/pj_sekai/status/1872236113248870422)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:59
-<br>
-[アップデー...](https://twitter.com/pj_sekai/status/1872235807278576091)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:58
-<br>
-[アップデー...](https://twitter.com/pj_sekai/status/1872235553841975355)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:58
-<br>
-[アップデー...](https://twitter.com/pj_sekai/status/1872235421842993235)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:57
-<br>
-[アップデー...](https://twitter.com/pj_sekai/status/1872235278766874827)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:57
-<br>
-[⏱ショート...](https://twitter.com/pj_sekai/status/1872235221275590766)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:57
-<br>
-[🎊プロセカ...](https://twitter.com/pj_sekai/status/1872235193630941578)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:45
-<br>
-[💿Vivi...](https://twitter.com/pj_sekai/status/1872232305152127256)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:44
-<br>
-[💿Vivi...](https://twitter.com/pj_sekai/status/1872232094438699191)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:43
-<br>
-[ハチ楽曲追...](https://twitter.com/pj_sekai/status/1872231759041208348)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:42
-<br>
-[ハチ楽曲追...](https://twitter.com/pj_sekai/status/1872231523128320272)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:41
-<br>
-[🎍行く年来...](https://twitter.com/pj_sekai/status/1872231224925966395)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:40
-<br>
-[🎍行く年来...](https://twitter.com/pj_sekai/status/1872230906708283608)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:38
-<br>
-[🎍行く年来...](https://twitter.com/pj_sekai/status/1872230577677754791)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:37
-<br>
-[🎍行く年来...](https://twitter.com/pj_sekai/status/1872230277562642856)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:36
-<br>
-[🎍行く年来...](https://twitter.com/pj_sekai/status/1872230079138570407)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:36
-<br>
-[🎍行く年来...](https://twitter.com/pj_sekai/status/1872230023752733018)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:36
-<br>
-[🎍行く年来...](https://twitter.com/pj_sekai/status/1872229886687089113)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:34
-<br>
-[🎍行く年来...](https://twitter.com/pj_sekai/status/1872229548252864846)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:32
-<br>
-[🎶楽曲追加...](https://twitter.com/pj_sekai/status/1872228931048444380)
-<br>
-#プロセカ年末大特
-
----
-
-**DATE**: 12/26（木） 19:31
-<br>
-[🎶楽曲追加...](https://twitter.com/pj_sekai/status/1872228743684784298)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:30
-<br>
-[🎶楽曲追加...](https://twitter.com/pj_sekai/status/1872228546191769845)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:28
-<br>
-[㊗プロセカ...](https://twitter.com/pj_sekai/status/1872227916521853090)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:27
-<br>
-[㊗プロセカ...](https://twitter.com/pj_sekai/status/1872227769574371344)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:26
-<br>
-[🎍初夢お年...](https://twitter.com/pj_sekai/status/1872227522571903290)
-
----
-
-**DATE**: 12/26（木） 19:26
-<br>
-[🎯運試し1...](https://twitter.com/pj_sekai/status/1872227408797216945)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:25
-<br>
-[12月31...](https://twitter.com/pj_sekai/status/1872227266962542939)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:25
-<br>
-[㊗️202...](https://twitter.com/pj_sekai/status/1872227161043865798)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:24
-<br>
-[㊗️202...](https://twitter.com/pj_sekai/status/1872227049085243824)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:23
-<br>
-[⛩️202...](https://twitter.com/pj_sekai/status/1872226790518960267)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:23
-<br>
-[🎍行く年来...](https://twitter.com/pj_sekai/status/1872226644859256961)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:22
-<br>
-[✨プレミア...](https://twitter.com/pj_sekai/status/1872226536864293284)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:22
-<br>
-[🌅待合エリ...](https://twitter.com/pj_sekai/status/1872226463476580448)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:22
-<br>
-[ハッピーニ...](https://twitter.com/pj_sekai/status/1872226352046502097)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:21
-<br>
-[カウントダ...](https://twitter.com/pj_sekai/status/1872226236107464958)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:21
-<br>
-[⛩️もうす...](https://twitter.com/pj_sekai/status/1872226136102683065)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:20
-<br>
-[🎶APPE...](https://twitter.com/pj_sekai/status/1872226069971149193)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:16
-<br>
-[🎨一緒につ...](https://twitter.com/pj_sekai/status/1872224964704919979)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:15
-<br>
-[🎨一緒につ...](https://twitter.com/pj_sekai/status/1872224714644660604)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:13
-<br>
-[🎨一緒につ...](https://twitter.com/pj_sekai/status/1872224292777447488)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:12
-<br>
-[🎨一緒につ...](https://twitter.com/pj_sekai/status/1872224026451706104)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:10
-<br>
-[第25回プ...](https://twitter.com/pj_sekai/status/1872223557629198703)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:07
-<br>
-[🎊一緒につ...](https://twitter.com/pj_sekai/status/1872222812502679555)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:04
-<br>
-[生放送中に...](https://twitter.com/pj_sekai/status/1872221858705363087)
-<br>
-#プロセカ年末大特番 #プロセカ年末大特番 #プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:00
-<br>
-[🌈プロセカ...](https://twitter.com/pj_sekai/status/1872220962814587111)
-<br>
-#プロセカ年末大特番
-
----
-
-**DATE**: 12/26（木） 19:00 「**プロセカ放送局 年末大特番**」 放送開始
-
----
-
-**DATE**: 12/26（木） 18:00
-<br>
-[このあと1...](https://twitter.com/pj_sekai/status/1872205725096939938)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
