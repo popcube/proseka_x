@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/04/01 15:47
+### 最終更新：2025/04/01 16:48
 
+
+---
+
+**DATE**: 04/01（火） 16:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1906964755090468964"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 04/01（火） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1906904356059754880"></a>
-</blockquote>
+[今月の #...](https://twitter.com/pj_sekai/status/1906904356059754880)
+<br>
+#プロセカスケジュール
 
 ---
 
@@ -1040,25 +1048,25 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://twitter.com/pj_sekai/status/1902556546615353645)
-
----
-
-**DATE**: 03/20（木） 12:03
-<br>
 [【バッグい...](https://twitter.com/pj_sekai/status/1902556548502843463)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【静寂のキ...](https://twitter.com/pj_sekai/status/1902556531331326038)
+[「Obsc...](https://twitter.com/pj_sekai/status/1902556546615353645)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
 [「Obsc...](https://twitter.com/pj_sekai/status/1902556529301287289)
+
+---
+
+**DATE**: 03/20（木） 12:03
+<br>
+[【静寂のキ...](https://twitter.com/pj_sekai/status/1902556531331326038)
 
 ---
 
@@ -1736,13 +1744,13 @@
 
 ---
 
-**DATE**: 02/26（水） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1894719059587223560)
+**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
 
 ---
 
-**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
+**DATE**: 02/26（水） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1894719059587223560)
 
 ---
 
