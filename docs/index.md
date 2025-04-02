@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/04/02 13:15
+### 最終更新：2025/04/02 15:18
 
+
+---
+
+**DATE**: 04/02（水） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1907267241940517226"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 04/01（火） 17:22
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1906985493973061770"></a>
-</blockquote>
+[🎊第28回...](https://twitter.com/pj_sekai/status/1906985493973061770)
 
 ---
 
@@ -1116,13 +1122,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://twitter.com/pj_sekai/status/1902556529301287289)
+[【静寂のキ...](https://twitter.com/pj_sekai/status/1902556531331326038)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【静寂のキ...](https://twitter.com/pj_sekai/status/1902556531331326038)
+[「Obsc...](https://twitter.com/pj_sekai/status/1902556529301287289)
 
 ---
 
@@ -6008,13 +6014,13 @@
 
 **DATE**: 12/31（火） 12:06
 <br>
-[「[202...](https://twitter.com/pj_sekai/status/1873928720249217439)
+[【かけがえ...](https://twitter.com/pj_sekai/status/1873928722400862649)
 
 ---
 
 **DATE**: 12/31（火） 12:06
 <br>
-[【かけがえ...](https://twitter.com/pj_sekai/status/1873928722400862649)
+[「[202...](https://twitter.com/pj_sekai/status/1873928720249217439)
 
 ---
 
