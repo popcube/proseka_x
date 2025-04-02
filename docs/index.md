@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/04/02 15:45
+### 最終更新：2025/04/02 18:48
 
+
+---
+
+**DATE**: 04/02（水） 15:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1907313100430389423"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/02（水） 15:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1907312892946624678"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,17 @@
 
 **DATE**: 04/02（水） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1907085544267350231"></a>
-</blockquote>
+[ヒーローと...](https://twitter.com/pj_sekai/status/1907085544267350231)
+<br>
+#エイプリルフール
 
 ---
 
 **DATE**: 04/01（火） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1907025155500765598"></a>
-</blockquote>
+[#エイプリ...](https://twitter.com/pj_sekai/status/1907025155500765598)
+<br>
+#エイプリルフール
 
 ---
 
@@ -3548,13 +3564,13 @@
 
 **DATE**: 02/10（月） 12:02
 <br>
-[「Stay...](https://twitter.com/pj_sekai/status/1888785502436049004)
+[【真剣会議...](https://twitter.com/pj_sekai/status/1888785504675701204)
 
 ---
 
 **DATE**: 02/10（月） 12:02
 <br>
-[【真剣会議...](https://twitter.com/pj_sekai/status/1888785504675701204)
+[「Stay...](https://twitter.com/pj_sekai/status/1888785502436049004)
 
 ---
 
