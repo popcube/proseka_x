@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/04/08 20:34
+### 最終更新：2025/04/08 21:25
 
+
+---
+
+**DATE**: 04/08（火） 20:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1909563777340882983"></a>
+</blockquote>
 
 ---
 
@@ -15,6 +23,14 @@
 ---
 
 **DATE**: 04/08（火） 20:00 イベント「**Turning Pain into Drive**」 開始
+
+---
+
+**DATE**: 04/08（火） 18:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1909532369964441957"></a>
+</blockquote>
 
 ---
 
@@ -36,17 +52,13 @@
 
 **DATE**: 04/08（火） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1909442474017538168"></a>
-</blockquote>
+[【煌めく記...](https://twitter.com/pj_sekai/status/1909442474017538168)
 
 ---
 
 **DATE**: 04/08（火） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1909442471375126797"></a>
-</blockquote>
+[『Glan...](https://twitter.com/pj_sekai/status/1909442471375126797)
 
 ---
 
@@ -2008,13 +2020,13 @@
 
 ---
 
-**DATE**: 02/26（水） 21:00
-<br>
-[本日22時...](https://twitter.com/pj_sekai/status/1894719059587223560)
+**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
 
 ---
 
-**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
+**DATE**: 02/26（水） 21:00
+<br>
+[本日22時...](https://twitter.com/pj_sekai/status/1894719059587223560)
 
 ---
 
@@ -2779,13 +2791,13 @@
 
 **DATE**: 02/21（金） 12:33
 <br>
-[待合エリア...](https://twitter.com/pj_sekai/status/1892779595318837534)
+[推奨端末で...](https://twitter.com/pj_sekai/status/1892779597135036458)
 
 ---
 
 **DATE**: 02/21（金） 12:33
 <br>
-[推奨端末で...](https://twitter.com/pj_sekai/status/1892779597135036458)
+[待合エリア...](https://twitter.com/pj_sekai/status/1892779595318837534)
 
 ---
 
@@ -3231,13 +3243,13 @@
 
 **DATE**: 02/15（土） 17:10
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1890675014770528604)
+[【お知らせ...](https://twitter.com/pj_sekai/status/1890675016267616435)
 
 ---
 
 **DATE**: 02/15（土） 17:10
 <br>
-[【お知らせ...](https://twitter.com/pj_sekai/status/1890675016267616435)
+[【お知らせ...](https://twitter.com/pj_sekai/status/1890675014770528604)
 
 ---
 
@@ -5945,11 +5957,5 @@
 **DATE**: 01/04（土） 15:03
 <br>
 [本日15時...](https://twitter.com/pj_sekai/status/1875422716691673327)
-
----
-
-**DATE**: 01/04（土） 12:03
-<br>
-[『玲瓏たる...](https://twitter.com/pj_sekai/status/1875377407231979823)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
