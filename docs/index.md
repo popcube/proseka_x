@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/04/08 16:13
+### 最終更新：2025/04/08 16:48
 
+
+---
+
+**DATE**: 04/08（火） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1909487698643194124"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/08（火） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1909442474017538168"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,19 @@
 
 **DATE**: 04/08（火） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1909442400139042907"></a>
-</blockquote>
+[【切なさも...](https://twitter.com/pj_sekai/status/1909442400139042907)
 
 ---
 
 **DATE**: 04/08（火） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1909442397689585960"></a>
-</blockquote>
+[『Glan...](https://twitter.com/pj_sekai/status/1909442397689585960)
+
+---
+
+**DATE**: 04/08（火） 12:05
+<br>
+[【夕暮れ色...](https://twitter.com/pj_sekai/status/1909442348628799995)
 
 ---
 
@@ -1294,13 +1312,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://twitter.com/pj_sekai/status/1902556508874826094)
+[【見えない...](https://twitter.com/pj_sekai/status/1902556511429390580)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【見えない...](https://twitter.com/pj_sekai/status/1902556511429390580)
+[「Obsc...](https://twitter.com/pj_sekai/status/1902556508874826094)
 
 ---
 
@@ -2867,13 +2885,13 @@
 
 **DATE**: 02/20（木） 12:08
 <br>
-[【思い出の...](https://twitter.com/pj_sekai/status/1892411006795563075)
+[『魔女が紡...](https://twitter.com/pj_sekai/status/1892411003943440769)
 
 ---
 
 **DATE**: 02/20（木） 12:08
 <br>
-[『魔女が紡...](https://twitter.com/pj_sekai/status/1892411003943440769)
+[【思い出の...](https://twitter.com/pj_sekai/status/1892411006795563075)
 
 ---
 
