@@ -26,5 +26,5 @@ jobs:
       - name: upload csv
         uses: actions/upload-artifact@v4
         with:
-          path: ./sorted_data.csv
+          path: ./docs/sorted_data.csv
           name: sorted_data.csv
