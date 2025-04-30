@@ -1,9 +1,9 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/04/30 14:45
+### 最終更新：2025/04/30 15:44
 
-<div class="announcement-bar">テスト　アナウンス</div>
+<div class="highlight"><div class="gd">テスト　アナウンス</div></div>
 
 ---
 
