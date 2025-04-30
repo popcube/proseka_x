@@ -1,0 +1,30 @@
+name: csv decrypt
+on:
+  workflow_dispatch:
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    env:
+      CSV_KEY: ${{ secrets.CSV_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+          cache: 'pip'
+
+      - name: setup
+        run: pip install -r requirements.txt
+
+      - name: data decrypt
+        run: python encode_decode.py
+        env:
+          ENC_DEC: 'DEC'
+
+      - name: upload csv
+        uses: actions/upload-artifact@v4
+        with:
+          path: ./sorted_data.csv
+          name: sorted_data.csv
