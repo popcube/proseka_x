@@ -1,0 +1,7 @@
+requests
+google-api-python-client
+cryptography
+pandas
+lxml
+html5lib
+bs4

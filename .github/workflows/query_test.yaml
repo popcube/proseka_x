@@ -1,0 +1,46 @@
+name: query test
+on:
+  # push:
+  workflow_dispatch:
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    env:
+      CSV_KEY: ${{ secrets.CSV_KEY }}
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      SEARCH_ENGINE_ID: ${{ secrets.SEARCH_ENGINE_ID }}
+      DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+          cache: 'pip'
+
+      - name: setup
+        run: pip install -r requirements.txt
+      
+      - name: data decrypt
+        run: python encode_decode.py
+        env:
+          ENC_DEC: 'DEC'
+      
+      # - name: trigger event info
+      #   run: |
+      #     echo '${{ github.event_name }}'
+      #     echo '${{ github.event.schedule }}'
+
+      - if: ${{ github.event_name == 'schedule' && github.event.schedule == '0 19 * * *' }}
+        run: echo "MAX_PAGES=10" >> "$GITHUB_ENV"
+          
+      - name: main
+        id: main
+        run: python main_test.py
+
+      - name: upload out.json
+        uses: actions/upload-artifact@v4
+        with:
+          path: ./out.json
+          name: out.json

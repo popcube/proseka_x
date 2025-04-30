@@ -1,0 +1,84 @@
+name: main
+on:
+  # push:
+  workflow_dispatch:
+  schedule:
+  # every 1 hour from 4am to 12am JST with a wrap up at 4am
+    - cron: '0 19 * * *'
+    - cron: '0 20-23 * * *'
+    - cron: '0 0-3 * * *'
+  # every 15 min from 12am to 3am JST
+    - cron: '0/15 3-16 * * *'
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    env:
+      CSV_KEY: ${{ secrets.CSV_KEY }}
+      GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+      SEARCH_ENGINE_ID: ${{ secrets.SEARCH_ENGINE_ID }}
+      DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+          cache: 'pip'
+
+      - name: setup
+        run: pip install -r requirements.txt
+      
+      - name: data decrypt
+        run: python encode_decode.py
+        env:
+          ENC_DEC: 'DEC'
+      
+      # - name: trigger event info
+      #   run: |
+      #     echo '${{ github.event_name }}'
+      #     echo '${{ github.event.schedule }}'
+
+      - if: ${{ github.event_name == 'schedule' && github.event.schedule == '0 19 * * *' }}
+        run: echo "MAX_PAGES=10" >> "$GITHUB_ENV"
+          
+      - name: main
+        id: main
+        run: python main.py
+
+      # - name: test output
+      #   run: |
+      #     echo ${{ steps.main.outputs.CHANGE }}
+      #     echo ${{ steps.main.outputs.CHANGE == 'YES' }}
+      #     echo ${{ steps.main.outputs.CHANGE == 'NO' }}
+
+      - name: upload out.json
+        if: ${{ github.event_name == 'schedule' && github.event.schedule == '0 19 * * *' }}
+        uses: actions/upload-artifact@v4
+        with:
+          path: ./out.json
+          name: out.json
+          
+      - name: upload raw data
+        if: ${{ steps.main.outputs.CHANGE == 'YES' }}
+        uses: actions/upload-artifact@v4
+        with:
+          path: ./sorted_data_viewer.csv
+          name: sorted_data.csv
+
+      - name: data encrypt
+        if: ${{ steps.main.outputs.CHANGE == 'YES' }}
+        run: python encode_decode.py
+        env:
+          ENC_DEC: 'ENC'
+
+      - name: commit new posts
+        if: ${{ steps.main.outputs.CHANGE == 'YES' }}
+        run: |          
+          git config --global user.name ${{ github.actor }}
+          git config --global user.email ${{ secrets.MY_EMAIL }}
+          git add ./docs/. -A \
+          && git diff --cached --exit-code \
+          || (git add -A ./docs/. \
+          && git commit -m "auto commit docs folder" \
+          && git push)

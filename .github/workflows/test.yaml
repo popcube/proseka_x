@@ -1,0 +1,5 @@
+on: workflow_dispatch
+
+jobs:
+  job1:
+    uses: popcube/update_to_lambda/.github/workflows/main_2_workflow_call.yml@main

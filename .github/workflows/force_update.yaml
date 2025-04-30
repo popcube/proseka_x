@@ -1,0 +1,68 @@
+name: force update
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        required: true
+        type: string
+      gt:
+        required: true
+        type: string
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    env:
+      CSV_KEY: ${{ secrets.CSV_KEY }}
+      DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+      FULL_REPO_TOKEN: ${{ secrets.FULL_REPO_TOKEN }}
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: sub script checkout
+      uses: actions/checkout@v4
+      with:
+        token: ${{ env.FULL_REPO_TOKEN }}
+        repository: "popcube/private_script_storage"
+        path: ./private_script_storage
+
+    - uses: actions/setup-python@v5
+      with:
+        python-version: 3.x
+        cache: 'pip'
+
+    - name: setup
+      run: pip install -r requirements.txt
+    
+    - name: data decrypt
+      run: python encode_decode.py
+      env:
+        ENC_DEC: 'DEC'
+        
+    - name: main
+      id: main
+      run: python force_update.py
+        
+    - name: upload raw data
+      if: ${{ steps.main.outputs.CHANGE == 'YES' }}
+      uses: actions/upload-artifact@v4
+      with:
+        path: ./sorted_data_viewer.csv
+        name: sorted_data.csv
+
+    - name: data encrypt
+      if: ${{ steps.main.outputs.CHANGE == 'YES' }}
+      run: python encode_decode.py
+      env:
+        ENC_DEC: 'ENC'
+
+    - name: commit new posts
+      if: ${{ steps.main.outputs.CHANGE == 'YES' }}
+      run: |          
+        git config --global user.name ${{ github.actor }}
+        git config --global user.email ${{ secrets.MY_EMAIL }}
+        git add ./docs/. -A \
+        && git diff --cached --exit-code \
+        || (git add -A ./docs/. \
+        && git commit -m "auto commit docs folder" \
+        && git push)
