@@ -5,6 +5,7 @@ import pandas as pd
 from get_event_table import get_event_table, get_stream_table
 
 weekday_ja = ["月", "火", "水", "木", "金", "土", "日"]
+maint_datetime_match = r'(\d{1,2})月(\d{1,2})日[^\d]+(\d{1,2}:\d{1,2})[^\d]+(\d{1,2}:\d{2}).+'
 
 def entry_format(in_dt, body):
   # format change from ISO YYYY-mm-ddTHH:MM:SS to mm/dd（曜日） HH:MM
@@ -48,6 +49,37 @@ def decorate_supplement(row):
   return entry_format(row.iat[0], row.iat[1])
   # print(row)
   # sys.exit(19)
+
+def extract_two_datetimes(in_text):
+  in_line_list = in_text.split("\n")
+  if in_line_list[0] != "【メンテナンス実施のお知らせ】":
+    return False
+  
+  for in_line in in_line_list[1:]:
+    try:
+      print(re.match(maint_datetime_match, in_line))
+      dt_match = re.match(maint_datetime_match, re.sub(r'\s+', '', in_line))
+      if dt_match:
+        break
+    except:
+      continue
+  else:
+    
+    print(in_line_list)
+    return False
+  
+  month, day, start_time, end_time = dt_match.groups()
+  
+  if datetime.now().month >= 11 and month <= 2:
+    year = datetime.now().year + 1
+  else:
+    year = datetime.now().year
+  
+  start_datetime = datetime.strptime(f"{year}-{month}-{day} {start_time}", "%Y-%m-%d %H:%M")
+  end_datetime = datetime.strptime(f"{year}-{month}-{day} {end_time}", "%Y-%m-%d %H:%M")
+  
+  return start_datetime, end_datetime
+
   
 
 def main():
