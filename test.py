@@ -1,6 +1,8 @@
 import re
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import pandas as pd
+import numpy as np
+
 maint_datetime_match = re.compile(r'(\d{1,2})月(\d{1,2})日[^\d]+(\d{1,2}:\d{2})[^\d]+(\d{1,2}:\d{2}).*')
 raw_post_table = pd.read_csv("./sorted_data.csv", parse_dates=["POST DATE"], date_format="ISO8601")
 
@@ -30,11 +32,11 @@ def testfunc(in_text):
   start_datetime = datetime.strptime(f"{year}-{month}-{day} {start_time}", "%Y-%m-%d %H:%M")
   end_datetime = datetime.strptime(f"{year}-{month}-{day} {end_time}", "%Y-%m-%d %H:%M")
   
-  return start_datetime, end_datetime
+  return start_datetime.replace(tzinfo=timezone(timedelta(hours=+9), 'JST')), end_datetime.replace(tzinfo=timezone(timedelta(hours=+9), 'JST'))
 
 
 samples = raw_post_table
-now =datetime.now() + timedelta(days=-66, hours=-4, minutes=30)
+now =datetime.now(timezone(timedelta(hours=+9), 'JST')) + timedelta(days=-66, hours=-5, minutes=-00)
 print(samples["BODY TEXT"][samples["BODY TEXT"].str.startswith("【メンテナンス実施のお知らせ】")])
 raw_datetime_ds = samples["BODY TEXT"].apply(testfunc)
 datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)

@@ -6,6 +6,7 @@ from get_event_table import get_event_table, get_stream_table
 
 weekday_ja = ["月", "火", "水", "木", "金", "土", "日"]
 maint_datetime_match = re.compile(r'(\d{1,2})月(\d{1,2})日[^\d]+(\d{1,2}:\d{2})[^\d]+(\d{1,2}:\d{2}).*')
+timezone_jst = timezone(timedelta(hours=+9), name="JST")
 
 def entry_format(in_dt, body):
   # format change from ISO YYYY-mm-ddTHH:MM:SS to mm/dd（曜日） HH:MM
@@ -75,11 +76,11 @@ def extract_two_datetimes(in_text):
   start_datetime = datetime.strptime(f"{year}-{month}-{day} {start_time}", "%Y-%m-%d %H:%M")
   end_datetime = datetime.strptime(f"{year}-{month}-{day} {end_time}", "%Y-%m-%d %H:%M")
   
-  return start_datetime, end_datetime  
+  return start_datetime.replace(tzinfo=timezone_jst), end_datetime.replace(tzinfo=timezone_jst)
 
 def main():
 
-  now_dt = datetime.now(timezone(timedelta(hours=+9), 'JST'))
+  now_dt = datetime.now(timezone_jst)
   now_dt += timedelta(days=-66, hours=-4, minutes=30) #delete this
 
   res = []
