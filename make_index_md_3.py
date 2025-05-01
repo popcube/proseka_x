@@ -103,7 +103,7 @@ def main():
   raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
   datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
   datetime_df.columns = ['START', 'END']
-  notice_df = datetime_df[datetime_df["END"].ge(now_dt)]
+  notice_df = datetime_df[datetime_df["END"].ge(now_dt)].sort_values("START")
   for row in notice_df.itertuples():
     if row.START < now_dt:
       res.append('<div class="highlight"><div class="gd">')
@@ -111,9 +111,12 @@ def main():
     else:
       res.append('<div class="highlight"><div class="gi">')
       res.append("【メンテナンス予定あり】")
+    res.append("")
     res.append(row.START.strftime("%Y/%m/%d %H:%M") + "～" + row.END.strftime("%H:%M"))
-    source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'  
-    res.append(f'<a href="{source_url} target="_blank">ソース</a>　＊これはテストです')
+    source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'
+    res.append("")
+    res.append(f'<a href="{source_url} target="_blank">ソース</a>')
+    res.append("　＊これはテストです") #delete this
     res.append("</div></div>")
     
     # print(row, flush=True)

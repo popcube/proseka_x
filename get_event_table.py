@@ -4,6 +4,7 @@ import requests
 from functools import partial
 import sys
 import re
+from urllib3.util.retry import Retry
 
 pd.options.mode.copy_on_write = True
 
@@ -75,7 +76,7 @@ def date_convert(in_df, start=False, end=False):
 
 def get_event_table():
     try:
-        pjsekai_res = requests.get("https://pjsekai.com/?2d384281f1")
+        pjsekai_res = requests.get("https://pjsekai.com/?2d384281f1", timeout=3.0)
         if pjsekai_res.ok:
 
             a = pd.read_html(pjsekai_res.content, index_col='No', encoding="utf-8",
@@ -101,7 +102,7 @@ def get_event_table():
 
 def get_stream_table():
     try:
-        pjsekai_res = requests.get("https://pjsekai.com/?1c5f55649f")
+        pjsekai_res = requests.get("https://pjsekai.com/?1c5f55649f", timeout=3.0)
         if pjsekai_res.ok:
             a = pd.read_html(pjsekai_res.content, 
                         encoding="utf-8",
