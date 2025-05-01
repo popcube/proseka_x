@@ -97,7 +97,7 @@ def get_event_table():
         else:
             raise ValueError("status code: " + str(pjsekai_res.status_code))
     except Exception as e:
-        print("ERROR at fetchig event table")
+        print("ERROR at fetchig event table. Using event_table.csv ...")
         print(e)
 
         saved_df = pd.read_csv("./docs/event_table.csv", parse_dates=["開始日", "終了日"], date_format="ISO8601")
@@ -107,8 +107,8 @@ def get_event_table():
 def get_stream_table():
     try:
         pjsekai_res = requests.get("https://pjsekai.com/?1c5f55649f", timeout=3.0)
-        # if pjsekai_res.ok:
-        if False: #delete this and activate above
+        if pjsekai_res.ok:
+        # if False: #delete this and activate above
             a = pd.read_html(pjsekai_res.content, 
                         encoding="utf-8",
                         attrs={"border": "0", "cellspacing": "1", "class": "style_table"})
@@ -130,15 +130,12 @@ def get_stream_table():
         else:
             raise ValueError("status code: " + str(pjsekai_res.status_code))
     except Exception as e:
-        print("ERROR at fetchig stream table")
+        print("ERROR at fetchig stream table. Using stream_table.csv ...")
         print(e)
 
         saved_df = pd.read_csv("./docs/stream_table.csv", parse_dates=["配信日時"], date_format="ISO8601")
         return saved_df[["No", "配信日時"]]
         # return pd.DataFrame(columns=["No", "配信日時"])
-
-test_table = get_stream_table()
-# print(test_table)
 
 if __name__ == "__main__":
     print("##### stream table #####")
