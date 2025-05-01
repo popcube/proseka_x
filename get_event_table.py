@@ -87,8 +87,9 @@ def get_event_table():
             # a["ユニット"] = a["ユニット"].apply(unit_name_convert)
             a["開始日"] = date_convert(a, start=True)
             a["終了日"] = date_convert(a, end=True)
-            
 
+
+            a.to_csv("./docs/event_table.csv", encoding='utf-8', errors='ignore')
             
             # a.to_csv("./event_data.csv", index=False, header=False)
             return a
@@ -97,7 +98,9 @@ def get_event_table():
     except Exception as e:
         print("ERROR at fetchig event table")
         print(e)
-        return pd.DataFrame(columns=["開始日", "終了日", "イベント名"])
+
+        saved_df = pd.read_csv("./docs/event_table.csv")
+        return saved_df[["開始日", "終了日", "イベント名"]]
 
 
 def get_stream_table():
