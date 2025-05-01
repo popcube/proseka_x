@@ -91,7 +91,7 @@ def main():
   res.append("")
 
   ## TEST BLOCK STARTS
-  print("ENTERED the script")
+  print("ENTERED the script", flush=True)
   ## TEST BLOCK ENDS
   
   # header
@@ -115,8 +115,8 @@ def main():
     source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'  
     res.append(f'[ソース]({source_url})　＊これはテストです')
     
-    print(row)
-    
+    print(row, flush=True)
+
   # get the oldest and lastest POST DATE as data cutoff
   oldest_date = raw_post_table.iloc[-1]["POST DATE"]
   latest_date = raw_post_table.loc[0, "POST DATE"]
