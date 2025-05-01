@@ -81,7 +81,7 @@ def extract_two_datetimes(in_text):
 def main():
 
   now_dt = datetime.now(timezone_jst)
-  now_dt += timedelta(days=-66, hours=-6, minutes=-00) #delete this
+  # now_dt += timedelta(days=-66, hours=-6, minutes=-00) #delete this
 
   res = []
   res.append("")
@@ -115,7 +115,7 @@ def main():
     res.append(row.START.strftime("%Y/%m/%d %H:%M") + "～" + row.END.strftime("%H:%M"))
     source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'
     res.append(f'[ソース]({source_url})')
-    res.append("　＊これはテストです") #delete this
+    # res.append("　＊これはテストです") #delete this
     
     # print(row, flush=True)
 
