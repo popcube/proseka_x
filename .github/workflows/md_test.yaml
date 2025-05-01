@@ -34,8 +34,10 @@ jobs:
           git config --global user.email ${{ secrets.MY_EMAIL }}
           git add ./docs/index.md -A \
           && git add ./docs/event_table.csv -A \
+          && git add ./docs/stream_table.csv -A \
           && git diff --cached --exit-code \
           || (git add ./docs/index.md -A \
           && git add ./docs/event_table.csv -A \
+          && git add ./docs/stream_table.csv -A \
           && git commit -m "auto commit docs folder" \
           && git push)

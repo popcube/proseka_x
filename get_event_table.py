@@ -77,7 +77,8 @@ def date_convert(in_df, start=False, end=False):
 def get_event_table():
     try:
         pjsekai_res = requests.get("https://pjsekai.com/?2d384281f1", timeout=3.0)
-        if pjsekai_res.ok:
+        # if pjsekai_res.ok:
+        if False: #delete this and activate above
 
             a = pd.read_html(pjsekai_res.content, index_col='No', encoding="utf-8",
                             attrs={"id": "sortable_table1"})[0]
@@ -121,6 +122,8 @@ def get_stream_table():
             a_temp["配信日時"] = a_temp["配信日時"].apply(read_date_str)
             a_temp.loc[:, "No"] = a_temp["No"].apply(lambda x: "プロセカ放送局 " + x)
 
+            a_temp.to_csv("./docs/stream_table.csv", encoding='utf-8', errors='ignore')
+
             # Be careful that No column includes the description of the stream
             return a_temp
         else:
@@ -128,7 +131,9 @@ def get_stream_table():
     except Exception as e:
         print("ERROR at fetchig stream table")
         print(e)
-        return pd.DataFrame(columns=["No", "配信日時"])
+
+        saved_df = pd.read_csv("./docs/stream_table.csv")
+        return saved_df[["No", "配信日時"]]
 
 test_table = get_stream_table()
 # print(test_table)
