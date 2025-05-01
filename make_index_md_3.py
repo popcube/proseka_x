@@ -91,7 +91,7 @@ def main():
   res.append("")
 
   ## TEST BLOCK STARTS
-  # res.append('<div class="highlight"><div class="gd">テスト　アナウンス</div></div>')
+  print("ENTERED the script")
   ## TEST BLOCK ENDS
   
   # header
@@ -114,7 +114,9 @@ def main():
     res.append(row.START.strftime("%Y/%m/%d %H:%M") + "～" + row.END.strftime("%H:%M"))
     source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'  
     res.append(f'[ソース]({source_url})　＊これはテストです')
-  
+    
+    print(row)
+    
   # get the oldest and lastest POST DATE as data cutoff
   oldest_date = raw_post_table.iloc[-1]["POST DATE"]
   latest_date = raw_post_table.loc[0, "POST DATE"]
