@@ -133,7 +133,8 @@ def get_stream_table():
         print(e)
 
         saved_df = pd.read_csv("./docs/stream_table.csv")
-        return saved_df[["No", "配信日時"]]
+        # return saved_df[["No", "配信日時"]]
+        return pd.DataFrame(columns=["No", "配信日時"])
 
 test_table = get_stream_table()
 # print(test_table)
