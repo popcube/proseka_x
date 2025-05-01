@@ -81,7 +81,7 @@ def extract_two_datetimes(in_text):
 def main():
 
   now_dt = datetime.now(timezone_jst)
-  now_dt += timedelta(days=-66, hours=-5, minutes=-30) #delete this
+  now_dt += timedelta(days=-66, hours=-6, minutes=-00) #delete this
 
   res = []
   res.append("")
