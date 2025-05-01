@@ -81,7 +81,7 @@ def extract_two_datetimes(in_text):
 def main():
 
   now_dt = datetime.now(timezone_jst)
-  now_dt += timedelta(days=-66, hours=-4, minutes=30) #delete this
+  now_dt += timedelta(days=-66, hours=-6, minutes=0) #delete this
 
   res = []
   res.append("")
@@ -91,7 +91,7 @@ def main():
   res.append("")
 
   ## TEST BLOCK STARTS
-  print("ENTERED the script", flush=True)
+  # print("ENTERED the script", flush=True)
   ## TEST BLOCK ENDS
   
   # header
@@ -114,8 +114,9 @@ def main():
     res.append(row.START.strftime("%Y/%m/%d %H:%M") + "～" + row.END.strftime("%H:%M"))
     source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'  
     res.append(f'[ソース]({source_url})　＊これはテストです')
+    res.append("</div></div>")
     
-    print(row, flush=True)
+    # print(row, flush=True)
 
   # get the oldest and lastest POST DATE as data cutoff
   oldest_date = raw_post_table.iloc[-1]["POST DATE"]
