@@ -77,8 +77,8 @@ def date_convert(in_df, start=False, end=False):
 def get_event_table():
     try:
         pjsekai_res = requests.get("https://pjsekai.com/?2d384281f1", timeout=3.0)
-        # if pjsekai_res.ok:
-        if False: #delete this and activate above
+        if pjsekai_res.ok:
+        # if False: #delete this and activate above
 
             a = pd.read_html(pjsekai_res.content, index_col='No', encoding="utf-8",
                             attrs={"id": "sortable_table1"})[0]
@@ -107,7 +107,8 @@ def get_event_table():
 def get_stream_table():
     try:
         pjsekai_res = requests.get("https://pjsekai.com/?1c5f55649f", timeout=3.0)
-        if pjsekai_res.ok:
+        # if pjsekai_res.ok:
+        if False: #delete this and activate above
             a = pd.read_html(pjsekai_res.content, 
                         encoding="utf-8",
                         attrs={"border": "0", "cellspacing": "1", "class": "style_table"})
@@ -133,8 +134,8 @@ def get_stream_table():
         print(e)
 
         saved_df = pd.read_csv("./docs/stream_table.csv", parse_dates=["配信日時"], date_format="ISO8601")
-        # return saved_df[["No", "配信日時"]]
-        return pd.DataFrame(columns=["No", "配信日時"])
+        return saved_df[["No", "配信日時"]]
+        # return pd.DataFrame(columns=["No", "配信日時"])
 
 test_table = get_stream_table()
 # print(test_table)
