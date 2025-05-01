@@ -5,7 +5,7 @@ import pandas as pd
 from get_event_table import get_event_table, get_stream_table
 
 weekday_ja = ["月", "火", "水", "木", "金", "土", "日"]
-maint_datetime_match = r'(\d{1,2})月(\d{1,2})日[^\d]+(\d{1,2}:\d{1,2})[^\d]+(\d{1,2}:\d{2}).+'
+maint_datetime_match = re.compile(r'(\d{1,2})月(\d{1,2})日[^\d]+(\d{1,2}:\d{2})[^\d]+(\d{1,2}:\d{2}).*')
 
 def entry_format(in_dt, body):
   # format change from ISO YYYY-mm-ddTHH:MM:SS to mm/dd（曜日） HH:MM
@@ -47,8 +47,6 @@ def decorate_row_widget(row):
 
 def decorate_supplement(row):
   return entry_format(row.iat[0], row.iat[1])
-  # print(row)
-  # sys.exit(19)
 
 def extract_two_datetimes(in_text):
   in_line_list = in_text.split("\n")
@@ -57,15 +55,14 @@ def extract_two_datetimes(in_text):
   
   for in_line in in_line_list[1:]:
     try:
-      print(re.match(maint_datetime_match, in_line))
-      dt_match = re.match(maint_datetime_match, re.sub(r'\s+', '', in_line))
+      dt_match = maint_datetime_match.search(re.sub(r'\s+', '', in_line))
       if dt_match:
         break
     except:
       continue
   else:
     
-    print(in_line_list)
+    # print(in_line_list)
     return False
   
   month, day, start_time, end_time = dt_match.groups()
@@ -78,21 +75,22 @@ def extract_two_datetimes(in_text):
   start_datetime = datetime.strptime(f"{year}-{month}-{day} {start_time}", "%Y-%m-%d %H:%M")
   end_datetime = datetime.strptime(f"{year}-{month}-{day} {end_time}", "%Y-%m-%d %H:%M")
   
-  return start_datetime, end_datetime
-
-  
+  return start_datetime, end_datetime  
 
 def main():
+
+  now_dt = datetime.now(timezone(timedelta(hours=+9), 'JST'))
+  now_dt += timedelta(days=-66, hours=-4, minutes=30) #delete this
 
   res = []
   res.append("")
   res.append("## プロセカX(旧Twitter) 投稿記録")
   res.append("当サイトは非公式です。プロセカ運営とは関係がありません。")
-  res.append("### 最終更新：" + datetime.now(timezone(timedelta(hours=+9), 'JST')).strftime("%Y/%m/%d %H:%M"))
+  res.append("### 最終更新：" + now_dt.strftime("%Y/%m/%d %H:%M"))
   res.append("")
 
   ## TEST BLOCK STARTS
-  res.append('<div class="highlight"><div class="gd">テスト　アナウンス</div></div>')
+  # res.append('<div class="highlight"><div class="gd">テスト　アナウンス</div></div>')
   ## TEST BLOCK ENDS
   
   # header
@@ -100,6 +98,21 @@ def main():
   raw_post_table = pd.read_csv("./docs/sorted_data.csv",
                    parse_dates=["POST DATE"],
                    date_format="ISO8601")
+
+  raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
+  datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
+  datetime_df.columns = ['START', 'END']
+  notice_df = datetime_df[datetime_df["END"].ge(now_dt)]
+  for row in notice_df.itertuples():
+    if row.START < now_dt:
+      res.append('<div class="highlight"><div class="gd">')
+      res.append("【メンテナンス実施中】")
+    else:
+      res.append('<div class="highlight"><div class="gi">')
+      res.append("【メンテナンス予定あり】")
+    res.append(row.START.strftime("%Y/%m/%d %H:%M") + "～" + row.END.strftime("%H:%M"))
+    source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'  
+    res.append(f'[ソース]({source_url})　＊これはテストです')
   
   # get the oldest and lastest POST DATE as data cutoff
   oldest_date = raw_post_table.iloc[-1]["POST DATE"]
