@@ -111,13 +111,11 @@ def main():
     else:
       res.append('<div class="highlight"><div class="gi">')
       res.append("【メンテナンス予定あり】")
-    res.append("")
+    res.append("</div></div>")
     res.append(row.START.strftime("%Y/%m/%d %H:%M") + "～" + row.END.strftime("%H:%M"))
     source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'
-    res.append("")
-    res.append(f'<a href="{source_url} target="_blank">ソース</a>')
+    res.append(f'[ソース]({source_url})')
     res.append("　＊これはテストです") #delete this
-    res.append("</div></div>")
     
     # print(row, flush=True)
 
