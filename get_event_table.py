@@ -100,7 +100,7 @@ def get_event_table():
         print("ERROR at fetchig event table")
         print(e)
 
-        saved_df = pd.read_csv("./docs/event_table.csv")
+        saved_df = pd.read_csv("./docs/event_table.csv", parse_dates=["開始日", "終了日"], date_format="ISO8601")
         return saved_df[["開始日", "終了日", "イベント名"]]
 
 
@@ -132,7 +132,7 @@ def get_stream_table():
         print("ERROR at fetchig stream table")
         print(e)
 
-        saved_df = pd.read_csv("./docs/stream_table.csv")
+        saved_df = pd.read_csv("./docs/stream_table.csv", parse_dates=["配信日時"], date_format="ISO8601")
         # return saved_df[["No", "配信日時"]]
         return pd.DataFrame(columns=["No", "配信日時"])
 
