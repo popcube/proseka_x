@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/03 12:54
+### 最終更新：2025/05/03 13:52
 
+
+---
+
+**DATE**: 05/03（土） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1918501269712392475"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 05/02（金） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1918139179265130994"></a>
-</blockquote>
+[ワンダーラ...](https://x.com/pj_sekai/status/1918139179265130994)
 
 ---
 
