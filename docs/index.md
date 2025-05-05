@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/04 18:29
+### 最終更新：2025/05/05 15:19
 
+
+---
+
+**DATE**: 05/05（月） 15:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1919271961546703048"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 05/03（土） 15:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1918546565289132436"></a>
-</blockquote>
+[『チルノの...](https://x.com/pj_sekai/status/1918546565289132436)
 
 ---
 
@@ -4452,13 +4458,13 @@
 
 **DATE**: 02/15（土） 17:10
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1890675014770528604)
+[【お知らせ...](https://x.com/pj_sekai/status/1890675016267616435)
 
 ---
 
 **DATE**: 02/15（土） 17:10
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1890675016267616435)
+[【お知らせ...](https://x.com/pj_sekai/status/1890675014770528604)
 
 ---
 
@@ -4963,13 +4969,13 @@
 
 **DATE**: 02/10（月） 12:02
 <br>
-[「Stay...](https://x.com/pj_sekai/status/1888785502436049004)
+[【真剣会議...](https://x.com/pj_sekai/status/1888785504675701204)
 
 ---
 
 **DATE**: 02/10（月） 12:02
 <br>
-[【真剣会議...](https://x.com/pj_sekai/status/1888785504675701204)
+[「Stay...](https://x.com/pj_sekai/status/1888785502436049004)
 
 ---
 
@@ -5495,13 +5501,13 @@
 
 **DATE**: 01/31（金） 12:06
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1885162725808144659)
+[【静かな図...](https://x.com/pj_sekai/status/1885162727708172678)
 
 ---
 
 **DATE**: 01/31（金） 12:06
 <br>
-[【静かな図...](https://x.com/pj_sekai/status/1885162727708172678)
+[『Nigh...](https://x.com/pj_sekai/status/1885162725808144659)
 
 ---
 
@@ -5532,51 +5538,5 @@
 **DATE**: 01/31（金） 11:45
 <br>
 [【メンテナ...](https://x.com/pj_sekai/status/1885157310043160839)
-
----
-
-**DATE**: 01/30（木） 18:04
-<br>
-[『FUN!...](https://x.com/pj_sekai/status/1884890520348229863)
-<br>
-#劇場版プロセカ
-
----
-
-**DATE**: 01/30（木） 18:03
-<br>
-[#劇場版プ...](https://x.com/pj_sekai/status/1884890107179909367)
-<br>
-#劇場版プロセカ #モモジャン
-
----
-
-**DATE**: 01/30（木） 15:03
-<br>
-[明日、1月...](https://x.com/pj_sekai/status/1884844972039692507)
-
----
-
-**DATE**: 01/30（木） 12:08
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1884800856895459766)
-<br>
-#プロセカあんスタコラボ
-
----
-
-**DATE**: 01/30（木） 12:06
-<br>
-[1月31日...](https://x.com/pj_sekai/status/1884800219931611286)
-<br>
-#セカラジ
-
----
-
-**DATE**: 01/30（木） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/1884798702730297455)
-<br>
-#セカイの4コマ #巡音ルカ #巡音ルカ16th #巡音ルカ誕生祭2025
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
