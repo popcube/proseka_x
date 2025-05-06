@@ -1,8 +1,20 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/06 12:34
+### 最終更新：2025/05/06 21:27
 
+
+---
+
+**DATE**: 05/06（火） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1919723821990584460"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
 
 ---
 
@@ -40,9 +52,9 @@
 
 **DATE**: 05/04（日） 15:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1918909009085554960"></a>
-</blockquote>
+[『とうほう...](https://x.com/pj_sekai/status/1918909009085554960)
+<br>
+#ワンダショ
 
 ---
 
@@ -4020,13 +4032,13 @@
 
 **DATE**: 02/21（金） 12:33
 <br>
-[待合エリア...](https://x.com/pj_sekai/status/1892779595318837534)
+[推奨端末で...](https://x.com/pj_sekai/status/1892779597135036458)
 
 ---
 
 **DATE**: 02/21（金） 12:33
 <br>
-[推奨端末で...](https://x.com/pj_sekai/status/1892779597135036458)
+[待合エリア...](https://x.com/pj_sekai/status/1892779595318837534)
 
 ---
 
@@ -4076,13 +4088,13 @@
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1892533447215788301)
+[【お知らせ...](https://x.com/pj_sekai/status/1892533448897626280)
 
 ---
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1892533448897626280)
+[【お知らせ...](https://x.com/pj_sekai/status/1892533447215788301)
 
 ---
 
@@ -4472,13 +4484,13 @@
 
 **DATE**: 02/15（土） 17:10
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1890675014770528604)
+[【お知らせ...](https://x.com/pj_sekai/status/1890675016267616435)
 
 ---
 
 **DATE**: 02/15（土） 17:10
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1890675016267616435)
+[【お知らせ...](https://x.com/pj_sekai/status/1890675014770528604)
 
 ---
 
@@ -4955,17 +4967,17 @@
 
 **DATE**: 02/10（月） 12:48
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1888797190702920037)
+[【#プロセ...](https://x.com/pj_sekai/status/1888797193257234723)
 <br>
-#プロセカあんスタコラボ広告 #プロセカあんスタコラボ広告
+#プロセカあんスタコラボ広告
 
 ---
 
 **DATE**: 02/10（月） 12:48
 <br>
-[【#プロセ...](https://x.com/pj_sekai/status/1888797193257234723)
+[#プロセカ...](https://x.com/pj_sekai/status/1888797190702920037)
 <br>
-#プロセカあんスタコラボ広告
+#プロセカあんスタコラボ広告 #プロセカあんスタコラボ広告
 
 ---
 
@@ -4983,13 +4995,13 @@
 
 **DATE**: 02/10（月） 12:02
 <br>
-[【真剣会議...](https://x.com/pj_sekai/status/1888785504675701204)
+[「Stay...](https://x.com/pj_sekai/status/1888785502436049004)
 
 ---
 
 **DATE**: 02/10（月） 12:02
 <br>
-[「Stay...](https://x.com/pj_sekai/status/1888785502436049004)
+[【真剣会議...](https://x.com/pj_sekai/status/1888785504675701204)
 
 ---
 
@@ -5380,49 +5392,5 @@
 [本日15時...](https://x.com/pj_sekai/status/1885569457533444443)
 <br>
 #レオニ
-
----
-
-**DATE**: 02/01（土） 12:06
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1885525216375562521)
-<br>
-#プロセカあんスタコラボ
-
----
-
-**DATE**: 02/01（土） 12:06
-<br>
-[#劇場版プ...](https://x.com/pj_sekai/status/1885524999135781009)
-<br>
-#劇場版プロセカ #劇場版プロセカ
-
----
-
-**DATE**: 02/01（土） 12:05
-<br>
-[#劇場版プ...](https://x.com/pj_sekai/status/1885524859297681835)
-<br>
-#劇場版プロセカ
-
----
-
-**DATE**: 02/01（土） 12:02
-<br>
-[2月1日0...](https://x.com/pj_sekai/status/1885523970130165783)
-
----
-
-**DATE**: 02/01（土） 12:01
-<br>
-[2月1日0...](https://x.com/pj_sekai/status/1885523718455324887)
-
----
-
-**DATE**: 02/01（土） 12:00
-<br>
-[今月の #...](https://x.com/pj_sekai/status/1885523474900205644)
-<br>
-#プロセカスケジュール
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
