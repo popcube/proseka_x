@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/06 23:13
+### 最終更新：2025/05/07 00:17
 
 
 ---
@@ -14,7 +14,19 @@
 
 ---
 
-**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
+**DATE**: 05/06（火） 22:12
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1919742100746469777"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/06（火） 22:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1919741514256945357"></a>
+</blockquote>
 
 ---
 
@@ -23,6 +35,10 @@
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1919723821990584460"></a>
 </blockquote>
+
+---
+
+**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
 
 ---
 
@@ -36,17 +52,13 @@
 
 **DATE**: 05/05（月） 15:12
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1919274052696588374"></a>
-</blockquote>
+[『超ナイト...](https://x.com/pj_sekai/status/1919274052696588374)
 
 ---
 
 **DATE**: 05/05（月） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1919271961546703048"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/1919271961546703048)
 
 ---
 
@@ -4492,13 +4504,13 @@
 
 **DATE**: 02/15（土） 17:10
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1890675016267616435)
+[【お知らせ...](https://x.com/pj_sekai/status/1890675014770528604)
 
 ---
 
 **DATE**: 02/15（土） 17:10
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1890675014770528604)
+[【お知らせ...](https://x.com/pj_sekai/status/1890675016267616435)
 
 ---
 
@@ -5386,19 +5398,5 @@
 [👗一緒につ...](https://x.com/pj_sekai/status/1885602754695225549)
 <br>
 #プロセカ衣装デザイン
-
----
-
-**DATE**: 02/01（土） 15:02
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1885569503041597668)
-
----
-
-**DATE**: 02/01（土） 15:02
-<br>
-[本日15時...](https://x.com/pj_sekai/status/1885569457533444443)
-<br>
-#レオニ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
