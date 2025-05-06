@@ -1,8 +1,20 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/06 21:27
+### 最終更新：2025/05/06 23:13
 
+
+---
+
+**DATE**: 05/06（火） 22:52
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1919752103431671986"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
 
 ---
 
@@ -11,10 +23,6 @@
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1919723821990584460"></a>
 </blockquote>
-
----
-
-**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
 
 ---
 
@@ -44,9 +52,9 @@
 
 **DATE**: 05/04（日） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1918953750863216792"></a>
-</blockquote>
+[『とうほう...](https://x.com/pj_sekai/status/1918953750863216792)
+<br>
+#ワンダショ
 
 ---
 
