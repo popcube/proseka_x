@@ -1,13 +1,21 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/07 22:07
+### 最終更新：2025/05/08 14:49
 
 <div class="highlight"><div class="gi">
 【メンテナンス予定あり】
 </div></div>
 2025/05/08 21:05～21:50
 [ソース](https://x.com/pj_sekai/status/1920088826858377698)
+
+---
+
+**DATE**: 05/08（木） 12:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1920314571429908634"></a>
+</blockquote>
 
 ---
 
@@ -45,9 +53,7 @@
 
 **DATE**: 05/07（水） 15:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1919996576430207195"></a>
-</blockquote>
+[5月9日0...](https://x.com/pj_sekai/status/1919996576430207195)
 
 ---
 
@@ -2630,25 +2636,25 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【バッグい...](https://x.com/pj_sekai/status/1902556548502843463)
-
----
-
-**DATE**: 03/20（木） 12:03
-<br>
 [「Obsc...](https://x.com/pj_sekai/status/1902556546615353645)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【静寂のキ...](https://x.com/pj_sekai/status/1902556531331326038)
+[【バッグい...](https://x.com/pj_sekai/status/1902556548502843463)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
 [「Obsc...](https://x.com/pj_sekai/status/1902556529301287289)
+
+---
+
+**DATE**: 03/20（木） 12:03
+<br>
+[【静寂のキ...](https://x.com/pj_sekai/status/1902556531331326038)
 
 ---
 
@@ -4227,13 +4233,13 @@
 
 **DATE**: 02/20（木） 12:08
 <br>
-[『魔女が紡...](https://x.com/pj_sekai/status/1892411003943440769)
+[【思い出の...](https://x.com/pj_sekai/status/1892411006795563075)
 
 ---
 
 **DATE**: 02/20（木） 12:08
 <br>
-[【思い出の...](https://x.com/pj_sekai/status/1892411006795563075)
+[『魔女が紡...](https://x.com/pj_sekai/status/1892411003943440769)
 
 ---
 
@@ -4617,15 +4623,15 @@
 
 **DATE**: 02/15（土） 15:12
 <br>
-[【共鳴する...](https://x.com/pj_sekai/status/1890645363532656654)
+[「交わるせ...](https://x.com/pj_sekai/status/1890645360537657759)
+<br>
+#プロセカあんスタコラボ
 
 ---
 
 **DATE**: 02/15（土） 15:12
 <br>
-[「交わるせ...](https://x.com/pj_sekai/status/1890645360537657759)
-<br>
-#プロセカあんスタコラボ
+[【共鳴する...](https://x.com/pj_sekai/status/1890645363532656654)
 
 ---
 
@@ -5383,21 +5389,5 @@
 [#プロセカ...](https://x.com/pj_sekai/status/1886248250631676111)
 <br>
 #プロセカあんスタコラボ
-
----
-
-**DATE**: 02/02（日） 18:03
-<br>
-[『スマイル...](https://x.com/pj_sekai/status/1885977390905765963)
-<br>
-#劇場版プロセカ
-
----
-
-**DATE**: 02/02（日） 18:03
-<br>
-[#劇場版プ...](https://x.com/pj_sekai/status/1885977344177008820)
-<br>
-#劇場版プロセカ #ワンダショ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
