@@ -1,13 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/08 16:42
+### 最終更新：2025/05/08 22:48
 
-<div class="highlight"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-2025/05/08 21:05～21:50
-[ソース](https://x.com/pj_sekai/status/1920088826858377698)
+
+---
+
+**DATE**: 05/08（木） 21:54
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1920462239053627763"></a>
+</blockquote>
 
 ---
 
@@ -45,9 +48,7 @@
 
 **DATE**: 05/07（水） 21:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1920088190934716727"></a>
-</blockquote>
+[💭プロセカ...](https://x.com/pj_sekai/status/1920088190934716727)
 
 ---
 
@@ -4109,13 +4110,13 @@
 
 **DATE**: 02/21（金） 12:33
 <br>
-[待合エリア...](https://x.com/pj_sekai/status/1892779595318837534)
+[推奨端末で...](https://x.com/pj_sekai/status/1892779597135036458)
 
 ---
 
 **DATE**: 02/21（金） 12:33
 <br>
-[推奨端末で...](https://x.com/pj_sekai/status/1892779597135036458)
+[待合エリア...](https://x.com/pj_sekai/status/1892779595318837534)
 
 ---
 
@@ -5387,13 +5388,5 @@
 [#劇場版プ...](https://x.com/pj_sekai/status/1886338842002923954)
 <br>
 #劇場版プロセカ #ワンダショ
-
----
-
-**DATE**: 02/03（月） 12:00
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1886248250631676111)
-<br>
-#プロセカあんスタコラボ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
