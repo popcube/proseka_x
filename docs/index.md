@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/09 14:13
+### 最終更新：2025/05/09 15:19
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1920676558747934940"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/09（金） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1920675096823558453"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/09（金） 11:37
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1920669311741333713"></a>
 </blockquote>
 
 ---
@@ -32,17 +48,15 @@
 
 **DATE**: 05/09（金） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1920493898473865462"></a>
-</blockquote>
+[㊗️本日5...](https://x.com/pj_sekai/status/1920493898473865462)
+<br>
+#天馬咲希誕生祭2025
 
 ---
 
 **DATE**: 05/08（木） 21:54
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1920462239053627763"></a>
-</blockquote>
+[【メンテナ...](https://x.com/pj_sekai/status/1920462239053627763)
 
 ---
 
@@ -118,13 +132,13 @@
 
 ---
 
-**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
-
----
-
 **DATE**: 05/06（火） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
+
+---
+
+**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
 
 ---
 
@@ -2693,13 +2707,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
+[「Obsc...](https://x.com/pj_sekai/status/1902556508874826094)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556508874826094)
+[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
 
 ---
 
