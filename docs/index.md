@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/09 20:11
+### 最終更新：2025/05/09 21:25
 
+
+---
+
+**DATE**: 05/09（金） 20:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1920796959163498885"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 05/09（金） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1920676558747934940"></a>
-</blockquote>
+[『Drea...](https://x.com/pj_sekai/status/1920676558747934940)
 
 ---
 
@@ -2735,13 +2741,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556546615353645)
+[【バッグい...](https://x.com/pj_sekai/status/1902556548502843463)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【バッグい...](https://x.com/pj_sekai/status/1902556548502843463)
+[「Obsc...](https://x.com/pj_sekai/status/1902556546615353645)
 
 ---
 
@@ -3307,13 +3313,13 @@
 
 **DATE**: 02/28（金） 12:03
 <br>
-[『果てなき...](https://x.com/pj_sekai/status/1895308885197758886)
+[【よしよし...](https://x.com/pj_sekai/status/1895308887693406393)
 
 ---
 
 **DATE**: 02/28（金） 12:03
 <br>
-[【よしよし...](https://x.com/pj_sekai/status/1895308887693406393)
+[『果てなき...](https://x.com/pj_sekai/status/1895308885197758886)
 
 ---
 
@@ -3431,13 +3437,13 @@
 
 ---
 
-**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
-
----
-
 **DATE**: 02/26（水） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1894719059587223560)
+
+---
+
+**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
 
 ---
 
@@ -4202,13 +4208,13 @@
 
 **DATE**: 02/21（金） 12:33
 <br>
-[推奨端末で...](https://x.com/pj_sekai/status/1892779597135036458)
+[待合エリア...](https://x.com/pj_sekai/status/1892779595318837534)
 
 ---
 
 **DATE**: 02/21（金） 12:33
 <br>
-[待合エリア...](https://x.com/pj_sekai/status/1892779595318837534)
+[推奨端末で...](https://x.com/pj_sekai/status/1892779597135036458)
 
 ---
 
@@ -4258,13 +4264,13 @@
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1892533447215788301)
+[【お知らせ...](https://x.com/pj_sekai/status/1892533448897626280)
 
 ---
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1892533448897626280)
+[【お知らせ...](https://x.com/pj_sekai/status/1892533447215788301)
 
 ---
 
@@ -4722,15 +4728,15 @@
 
 **DATE**: 02/15（土） 15:12
 <br>
-[「交わるせ...](https://x.com/pj_sekai/status/1890645360537657759)
-<br>
-#プロセカあんスタコラボ
+[【共鳴する...](https://x.com/pj_sekai/status/1890645363532656654)
 
 ---
 
 **DATE**: 02/15（土） 15:12
 <br>
-[【共鳴する...](https://x.com/pj_sekai/status/1890645363532656654)
+[「交わるせ...](https://x.com/pj_sekai/status/1890645360537657759)
+<br>
+#プロセカあんスタコラボ
 
 ---
 
@@ -5448,13 +5454,5 @@
 [2月11日...](https://x.com/pj_sekai/status/1886701236256461273)
 <br>
 #にじプロセカ部 #にじプロセカ部来て #マイセカイ #にじプロセカ部
-
----
-
-**DATE**: 02/04（火） 12:00
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1886610635590656158)
-<br>
-#プロセカあんスタコラボ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
