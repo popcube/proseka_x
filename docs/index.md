@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/09 22:37
+### 最終更新：2025/05/09 23:34
 
+
+---
+
+**DATE**: 05/09（金） 20:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1920797007175709165"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 05/09（金） 15:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1920721229545115951"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/1920721229545115951)
+<br>
+#ビビバス
 
 ---
 
@@ -1159,13 +1167,13 @@
 
 **DATE**: 04/22（火） 12:11
 <br>
-[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
+[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
 
 ---
 
 **DATE**: 04/22（火） 12:11
 <br>
-[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
+[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
 
 ---
 
@@ -2759,13 +2767,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【バッグい...](https://x.com/pj_sekai/status/1902556548502843463)
+[「Obsc...](https://x.com/pj_sekai/status/1902556546615353645)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556546615353645)
+[【バッグい...](https://x.com/pj_sekai/status/1902556548502843463)
 
 ---
 
@@ -3455,13 +3463,13 @@
 
 ---
 
-**DATE**: 02/26（水） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1894719059587223560)
+**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
 
 ---
 
-**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
+**DATE**: 02/26（水） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1894719059587223560)
 
 ---
 
@@ -4226,13 +4234,13 @@
 
 **DATE**: 02/21（金） 12:33
 <br>
-[待合エリア...](https://x.com/pj_sekai/status/1892779595318837534)
+[推奨端末で...](https://x.com/pj_sekai/status/1892779597135036458)
 
 ---
 
 **DATE**: 02/21（金） 12:33
 <br>
-[推奨端末で...](https://x.com/pj_sekai/status/1892779597135036458)
+[待合エリア...](https://x.com/pj_sekai/status/1892779595318837534)
 
 ---
 
