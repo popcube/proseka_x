@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/09 15:19
+### 最終更新：2025/05/09 15:47
 
+
+---
+
+**DATE**: 05/09（金） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1920676716952867139"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/09（金） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1920676562745118990"></a>
+</blockquote>
 
 ---
 
@@ -10,6 +26,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1920676558747934940"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/09（金） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1920676450060890567"></a>
 </blockquote>
 
 ---
@@ -24,25 +48,21 @@
 
 **DATE**: 05/09（金） 11:37
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1920669311741333713"></a>
-</blockquote>
+[「世界を照...](https://x.com/pj_sekai/status/1920669311741333713)
 
 ---
 
 **DATE**: 05/09（金） 11:36
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1920669286961385689"></a>
-</blockquote>
+[下記楽曲の...](https://x.com/pj_sekai/status/1920669286961385689)
 
 ---
 
 **DATE**: 05/09（金） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1920494147997241796"></a>
-</blockquote>
+[💫天馬咲希...](https://x.com/pj_sekai/status/1920494147997241796)
+<br>
+#天馬咲希誕生祭2025
 
 ---
 
@@ -1083,13 +1103,13 @@
 
 **DATE**: 04/22（火） 12:11
 <br>
-[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
+[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
 
 ---
 
 **DATE**: 04/22（火） 12:11
 <br>
-[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
+[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
 
 ---
 
@@ -3379,13 +3399,13 @@
 
 ---
 
-**DATE**: 02/26（水） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1894719059587223560)
+**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
 
 ---
 
-**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
+**DATE**: 02/26（水） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1894719059587223560)
 
 ---
 
