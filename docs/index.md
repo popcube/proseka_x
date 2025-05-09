@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/09 00:34
+### 最終更新：2025/05/09 13:26
 
+
+---
+
+**DATE**: 05/09（金） 11:36
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1920669286961385689"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 05/08（木） 12:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1920314571429908634"></a>
-</blockquote>
+[5月9日（...](https://x.com/pj_sekai/status/1920314571429908634)
+<br>
+#セカラジ
 
 ---
 
@@ -1055,13 +1063,13 @@
 
 **DATE**: 04/22（火） 12:11
 <br>
-[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
+[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
 
 ---
 
 **DATE**: 04/22（火） 12:11
 <br>
-[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
+[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
 
 ---
 
@@ -2679,13 +2687,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556508874826094)
+[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
+[「Obsc...](https://x.com/pj_sekai/status/1902556508874826094)
 
 ---
 
@@ -3351,13 +3359,13 @@
 
 ---
 
-**DATE**: 02/26（水） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1894719059587223560)
+**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
 
 ---
 
-**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
+**DATE**: 02/26（水） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1894719059587223560)
 
 ---
 
@@ -4178,13 +4186,13 @@
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1892533448897626280)
+[【お知らせ...](https://x.com/pj_sekai/status/1892533447215788301)
 
 ---
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1892533447215788301)
+[【お知らせ...](https://x.com/pj_sekai/status/1892533448897626280)
 
 ---
 
@@ -5376,29 +5384,5 @@
 [#プロセカ...](https://x.com/pj_sekai/status/1886610635590656158)
 <br>
 #プロセカあんスタコラボ
-
----
-
-**DATE**: 02/03（月） 19:00
-<br>
-[『スマイル...](https://x.com/pj_sekai/status/1886353949256782064)
-<br>
-#劇場版プロセカ
-
----
-
-**DATE**: 02/03（月） 18:12
-<br>
-[本日より、...](https://x.com/pj_sekai/status/1886342069893165086)
-<br>
-#劇場版プロセカ #ワンダショ
-
----
-
-**DATE**: 02/03（月） 18:00
-<br>
-[#劇場版プ...](https://x.com/pj_sekai/status/1886338842002923954)
-<br>
-#劇場版プロセカ #ワンダショ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
