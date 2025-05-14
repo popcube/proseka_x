@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/14 14:13
+### 最終更新：2025/05/14 22:05
 
+
+---
+
+**DATE**: 05/14（水） 18:57
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1922592218189066597"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 05/12（月） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1921763650475266253"></a>
-</blockquote>
+[本日12時...](https://x.com/pj_sekai/status/1921763650475266253)
 
 ---
 
@@ -152,13 +158,13 @@
 
 **DATE**: 05/09（金） 12:05
 <br>
-[【決意を胸...](https://x.com/pj_sekai/status/1920676378824905121)
+[『Drea...](https://x.com/pj_sekai/status/1920676375729438953)
 
 ---
 
 **DATE**: 05/09（金） 12:05
 <br>
-[『Drea...](https://x.com/pj_sekai/status/1920676375729438953)
+[【決意を胸...](https://x.com/pj_sekai/status/1920676378824905121)
 
 ---
 
@@ -1227,13 +1233,13 @@
 
 **DATE**: 04/22（火） 12:11
 <br>
-[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
+[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
 
 ---
 
 **DATE**: 04/22（火） 12:11
 <br>
-[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
+[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
 
 ---
 
@@ -5328,13 +5334,5 @@
 **DATE**: 02/09（日） 15:00
 <br>
 [明日、2月...](https://x.com/pj_sekai/status/1888468055480803678)
-
----
-
-**DATE**: 02/09（日） 11:00
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1888407472580468883)
-<br>
-#プロセカあんスタコラボ #あんスタ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
