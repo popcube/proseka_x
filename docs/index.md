@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/15 16:13
+### 最終更新：2025/05/15 17:45
 
+
+---
+
+**DATE**: 05/15（木） 15:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1922895321199194611"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 05/12（月） 15:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1921808159049445392"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/1921808159049445392)
 
 ---
 
@@ -2013,13 +2019,13 @@
 
 **DATE**: 03/30（日） 12:12
 <br>
-[「[4.5...](https://x.com/pj_sekai/status/1906182756666871831)
+[【巡るセカ...](https://x.com/pj_sekai/status/1906182759259017432)
 
 ---
 
 **DATE**: 03/30（日） 12:12
 <br>
-[【巡るセカ...](https://x.com/pj_sekai/status/1906182759259017432)
+[「[4.5...](https://x.com/pj_sekai/status/1906182756666871831)
 
 ---
 
@@ -2841,13 +2847,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556546615353645)
+[【バッグい...](https://x.com/pj_sekai/status/1902556548502843463)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【バッグい...](https://x.com/pj_sekai/status/1902556548502843463)
+[「Obsc...](https://x.com/pj_sekai/status/1902556546615353645)
 
 ---
 
@@ -4308,13 +4314,13 @@
 
 **DATE**: 02/21（金） 12:33
 <br>
-[待合エリア...](https://x.com/pj_sekai/status/1892779595318837534)
+[推奨端末で...](https://x.com/pj_sekai/status/1892779597135036458)
 
 ---
 
 **DATE**: 02/21（金） 12:33
 <br>
-[推奨端末で...](https://x.com/pj_sekai/status/1892779597135036458)
+[待合エリア...](https://x.com/pj_sekai/status/1892779595318837534)
 
 ---
 
@@ -4364,13 +4370,13 @@
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1892533448897626280)
+[【お知らせ...](https://x.com/pj_sekai/status/1892533447215788301)
 
 ---
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1892533447215788301)
+[【お知らせ...](https://x.com/pj_sekai/status/1892533448897626280)
 
 ---
 
@@ -4438,13 +4444,13 @@
 
 **DATE**: 02/20（木） 12:08
 <br>
-[『魔女が紡...](https://x.com/pj_sekai/status/1892411003943440769)
+[【思い出の...](https://x.com/pj_sekai/status/1892411006795563075)
 
 ---
 
 **DATE**: 02/20（木） 12:08
 <br>
-[【思い出の...](https://x.com/pj_sekai/status/1892411006795563075)
+[『魔女が紡...](https://x.com/pj_sekai/status/1892411003943440769)
 
 ---
 
@@ -4828,15 +4834,15 @@
 
 **DATE**: 02/15（土） 15:12
 <br>
-[【共鳴する...](https://x.com/pj_sekai/status/1890645363532656654)
+[「交わるせ...](https://x.com/pj_sekai/status/1890645360537657759)
+<br>
+#プロセカあんスタコラボ
 
 ---
 
 **DATE**: 02/15（土） 15:12
 <br>
-[「交わるせ...](https://x.com/pj_sekai/status/1890645360537657759)
-<br>
-#プロセカあんスタコラボ
+[【共鳴する...](https://x.com/pj_sekai/status/1890645363532656654)
 
 ---
 
