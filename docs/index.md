@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/15 17:45
+### 最終更新：2025/05/15 22:51
 
+
+---
+
+**DATE**: 05/15（木） 20:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1922971697814048834"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 05/12（月） 20:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1921884763477913783"></a>
-</blockquote>
+[ワールドリ...](https://x.com/pj_sekai/status/1921884763477913783)
 
 ---
 
@@ -2797,13 +2803,13 @@
 
 **DATE**: 03/21（金） 12:05
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1902919424451162258)
+[✉プロセカ...](https://x.com/pj_sekai/status/1902919422664380628)
 
 ---
 
 **DATE**: 03/21（金） 12:05
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1902919422664380628)
+[✉プロセカ...](https://x.com/pj_sekai/status/1902919424451162258)
 
 ---
 
@@ -2847,13 +2853,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【バッグい...](https://x.com/pj_sekai/status/1902556548502843463)
+[「Obsc...](https://x.com/pj_sekai/status/1902556546615353645)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556546615353645)
+[【バッグい...](https://x.com/pj_sekai/status/1902556548502843463)
 
 ---
 
@@ -2871,13 +2877,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556508874826094)
+[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
+[「Obsc...](https://x.com/pj_sekai/status/1902556508874826094)
 
 ---
 
@@ -3419,13 +3425,13 @@
 
 **DATE**: 02/28（金） 12:03
 <br>
-[『果てなき...](https://x.com/pj_sekai/status/1895308885197758886)
+[【よしよし...](https://x.com/pj_sekai/status/1895308887693406393)
 
 ---
 
 **DATE**: 02/28（金） 12:03
 <br>
-[【よしよし...](https://x.com/pj_sekai/status/1895308887693406393)
+[『果てなき...](https://x.com/pj_sekai/status/1895308885197758886)
 
 ---
 
@@ -4314,13 +4320,13 @@
 
 **DATE**: 02/21（金） 12:33
 <br>
-[推奨端末で...](https://x.com/pj_sekai/status/1892779597135036458)
+[待合エリア...](https://x.com/pj_sekai/status/1892779595318837534)
 
 ---
 
 **DATE**: 02/21（金） 12:33
 <br>
-[待合エリア...](https://x.com/pj_sekai/status/1892779595318837534)
+[推奨端末で...](https://x.com/pj_sekai/status/1892779597135036458)
 
 ---
 
@@ -4444,13 +4450,13 @@
 
 **DATE**: 02/20（木） 12:08
 <br>
-[【思い出の...](https://x.com/pj_sekai/status/1892411006795563075)
+[『魔女が紡...](https://x.com/pj_sekai/status/1892411003943440769)
 
 ---
 
 **DATE**: 02/20（木） 12:08
 <br>
-[『魔女が紡...](https://x.com/pj_sekai/status/1892411003943440769)
+[【思い出の...](https://x.com/pj_sekai/status/1892411006795563075)
 
 ---
 
@@ -4766,13 +4772,13 @@
 
 **DATE**: 02/15（土） 17:10
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1890675016267616435)
+[【お知らせ...](https://x.com/pj_sekai/status/1890675014770528604)
 
 ---
 
 **DATE**: 02/15（土） 17:10
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1890675014770528604)
+[【お知らせ...](https://x.com/pj_sekai/status/1890675016267616435)
 
 ---
 
@@ -5240,77 +5246,5 @@
 [#プロセカ...](https://x.com/pj_sekai/status/1888830323695481240)
 <br>
 #プロセカあんスタコラボ #プロセカあんスタここ好き
-
----
-
-**DATE**: 02/10（月） 15:00 イベント「**Rise and Strive**」 開始
-
----
-
-**DATE**: 02/10（月） 12:48
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1888797190702920037)
-<br>
-#プロセカあんスタコラボ広告 #プロセカあんスタコラボ広告
-
----
-
-**DATE**: 02/10（月） 12:48
-<br>
-[【#プロセ...](https://x.com/pj_sekai/status/1888797193257234723)
-<br>
-#プロセカあんスタコラボ広告
-
----
-
-**DATE**: 02/10（月） 12:02
-<br>
-[【後悔も包...](https://x.com/pj_sekai/status/1888785531456413903)
-
----
-
-**DATE**: 02/10（月） 12:02
-<br>
-[「Stay...](https://x.com/pj_sekai/status/1888785529422086307)
-
----
-
-**DATE**: 02/10（月） 12:02
-<br>
-[「Stay...](https://x.com/pj_sekai/status/1888785502436049004)
-
----
-
-**DATE**: 02/10（月） 12:02
-<br>
-[【真剣会議...](https://x.com/pj_sekai/status/1888785504675701204)
-
----
-
-**DATE**: 02/10（月） 12:02
-<br>
-[【突きつけ...](https://x.com/pj_sekai/status/1888785484283089258)
-
----
-
-**DATE**: 02/10（月） 12:02
-<br>
-[「Stay...](https://x.com/pj_sekai/status/1888785481837732332)
-
----
-
-**DATE**: 02/10（月） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/1888784969520001085)
-<br>
-#セカイの4コマ #宵崎奏誕生祭2025
-
----
-
-**DATE**: 02/10（月） 11:00
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1888769858092851302)
-<br>
-#プロセカあんスタコラボ #あんスタ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
