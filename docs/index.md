@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/23 18:40
+### 最終更新：2025/05/23 19:51
 
+
+---
+
+**DATE**: 05/23（金） 18:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1925840000752484836"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 05/23（金） 15:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1925796097127034943"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/1925796097127034943)
 
 ---
 
@@ -504,13 +510,13 @@
 
 ---
 
-**DATE**: 05/06（火） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
+**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
 
 ---
 
-**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
+**DATE**: 05/06（火） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
 
 ---
 
@@ -4652,13 +4658,13 @@
 
 **DATE**: 02/20（木） 12:08
 <br>
-[【思い出の...](https://x.com/pj_sekai/status/1892411006795563075)
+[『魔女が紡...](https://x.com/pj_sekai/status/1892411003943440769)
 
 ---
 
 **DATE**: 02/20（木） 12:08
 <br>
-[『魔女が紡...](https://x.com/pj_sekai/status/1892411003943440769)
+[【思い出の...](https://x.com/pj_sekai/status/1892411006795563075)
 
 ---
 
