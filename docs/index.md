@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/23 17:18
+### 最終更新：2025/05/23 17:45
 
 
 ---
@@ -30,23 +30,35 @@
 
 ---
 
+**DATE**: 05/23（金） 15:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1925794567149789570"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/23（金） 15:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1925794436652343317"></a>
+</blockquote>
+
+---
+
 **DATE**: 05/23（金） 15:00 イベント「**Cheer with my Heart!**」 開始
 
 ---
 
 **DATE**: 05/23（金） 12:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1925750292714234114"></a>
-</blockquote>
+[【レッツ・...](https://x.com/pj_sekai/status/1925750292714234114)
 
 ---
 
 **DATE**: 05/23（金） 12:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1925750289698537983"></a>
-</blockquote>
+[「Star...](https://x.com/pj_sekai/status/1925750289698537983)
 
 ---
 
@@ -64,13 +76,13 @@
 
 **DATE**: 05/23（金） 12:01
 <br>
-[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
+[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
 
 ---
 
 **DATE**: 05/23（金） 12:01
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
+[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
 
 ---
 
@@ -474,13 +486,13 @@
 
 ---
 
-**DATE**: 05/06（火） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
+**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
 
 ---
 
-**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
+**DATE**: 05/06（火） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
 
 ---
 
