@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/23 17:45
+### 最終更新：2025/05/23 17:56
 
 
 ---
@@ -22,6 +22,22 @@
 
 ---
 
+**DATE**: 05/23（金） 15:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1925796193545637942"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/23（金） 15:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1925796097127034943"></a>
+</blockquote>
+
+---
+
 **DATE**: 05/23（金） 15:03
 <br>
 <blockquote class="twitter-tweet">
@@ -32,17 +48,13 @@
 
 **DATE**: 05/23（金） 15:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1925794567149789570"></a>
-</blockquote>
+[5月25日...](https://x.com/pj_sekai/status/1925794567149789570)
 
 ---
 
 **DATE**: 05/23（金） 15:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1925794436652343317"></a>
-</blockquote>
+[💿青柳冬弥...](https://x.com/pj_sekai/status/1925794436652343317)
 
 ---
 
@@ -76,13 +88,13 @@
 
 **DATE**: 05/23（金） 12:01
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
+[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
 
 ---
 
 **DATE**: 05/23（金） 12:01
 <br>
-[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
+[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
 
 ---
 
@@ -486,13 +498,13 @@
 
 ---
 
-**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
-
----
-
 **DATE**: 05/06（火） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
+
+---
+
+**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
 
 ---
 
@@ -1437,13 +1449,13 @@
 
 **DATE**: 04/22（火） 12:11
 <br>
-[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
+[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
 
 ---
 
 **DATE**: 04/22（火） 12:11
 <br>
-[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
+[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
 
 ---
 
@@ -2209,13 +2221,13 @@
 
 **DATE**: 03/30（日） 12:12
 <br>
-[【巡るセカ...](https://x.com/pj_sekai/status/1906182759259017432)
+[「[4.5...](https://x.com/pj_sekai/status/1906182756666871831)
 
 ---
 
 **DATE**: 03/30（日） 12:12
 <br>
-[「[4.5...](https://x.com/pj_sekai/status/1906182756666871831)
+[【巡るセカ...](https://x.com/pj_sekai/status/1906182759259017432)
 
 ---
 
