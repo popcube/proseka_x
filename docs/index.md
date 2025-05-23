@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/23 20:11
+### 最終更新：2025/05/23 22:04
 
+
+---
+
+**DATE**: 05/23（金） 20:31
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1925877235900149891"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 05/23（金） 15:38
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1925803391051083929"></a>
-</blockquote>
+[5月25日...](https://x.com/pj_sekai/status/1925803391051083929)
 
 ---
 
@@ -516,13 +522,13 @@
 
 ---
 
-**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
-
----
-
 **DATE**: 05/06（火） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
+
+---
+
+**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
 
 ---
 
@@ -2239,13 +2245,13 @@
 
 **DATE**: 03/30（日） 12:12
 <br>
-[「[4.5...](https://x.com/pj_sekai/status/1906182756666871831)
+[【巡るセカ...](https://x.com/pj_sekai/status/1906182759259017432)
 
 ---
 
 **DATE**: 03/30（日） 12:12
 <br>
-[【巡るセカ...](https://x.com/pj_sekai/status/1906182759259017432)
+[「[4.5...](https://x.com/pj_sekai/status/1906182756666871831)
 
 ---
 
@@ -3639,13 +3645,13 @@
 
 **DATE**: 02/28（金） 12:03
 <br>
-[【よしよし...](https://x.com/pj_sekai/status/1895308887693406393)
+[『果てなき...](https://x.com/pj_sekai/status/1895308885197758886)
 
 ---
 
 **DATE**: 02/28（金） 12:03
 <br>
-[『果てなき...](https://x.com/pj_sekai/status/1895308885197758886)
+[【よしよし...](https://x.com/pj_sekai/status/1895308887693406393)
 
 ---
 
@@ -4664,13 +4670,13 @@
 
 **DATE**: 02/20（木） 12:08
 <br>
-[『魔女が紡...](https://x.com/pj_sekai/status/1892411003943440769)
+[【思い出の...](https://x.com/pj_sekai/status/1892411006795563075)
 
 ---
 
 **DATE**: 02/20（木） 12:08
 <br>
-[【思い出の...](https://x.com/pj_sekai/status/1892411006795563075)
+[『魔女が紡...](https://x.com/pj_sekai/status/1892411003943440769)
 
 ---
 
@@ -4883,19 +4889,5 @@
 **DATE**: 02/18（火） 15:12
 <br>
 [【メンテナ...](https://x.com/pj_sekai/status/1891732453556941079)
-
----
-
-**DATE**: 02/18（火） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/1891684066887442456)
-<br>
-#セカイの4コマ #プロセカあんスタコラボ
-
----
-
-**DATE**: 02/18（火） 11:59
-<br>
-[先日公開し...](https://x.com/pj_sekai/status/1891683855674884207)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
