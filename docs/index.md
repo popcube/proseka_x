@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/24 23:11
+### 最終更新：2025/05/25 01:14
 
+
+---
+
+**DATE**: 05/25（日） 00:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1926292353012367620"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/25（日） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1926292110866784636"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,13 @@
 
 **DATE**: 05/24（土） 17:37
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1926195858053157027"></a>
-</blockquote>
+[「セカラジ...](https://x.com/pj_sekai/status/1926195858053157027)
 
 ---
 
 **DATE**: 05/23（金） 22:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1925902088749371595"></a>
-</blockquote>
+[💭プロセカ...](https://x.com/pj_sekai/status/1925902088749371595)
 
 ---
 
@@ -3119,25 +3131,25 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556529301287289)
-
----
-
-**DATE**: 03/20（木） 12:03
-<br>
 [【静寂のキ...](https://x.com/pj_sekai/status/1902556531331326038)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
+[「Obsc...](https://x.com/pj_sekai/status/1902556529301287289)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
 [「Obsc...](https://x.com/pj_sekai/status/1902556508874826094)
+
+---
+
+**DATE**: 03/20（木） 12:03
+<br>
+[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
 
 ---
 
@@ -4630,13 +4642,13 @@
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1892533447215788301)
+[【お知らせ...](https://x.com/pj_sekai/status/1892533448897626280)
 
 ---
 
 **DATE**: 02/20（木） 20:15
 <br>
-[【お知らせ...](https://x.com/pj_sekai/status/1892533448897626280)
+[【お知らせ...](https://x.com/pj_sekai/status/1892533447215788301)
 
 ---
 
@@ -4791,11 +4803,5 @@
 [#プロセカ...](https://x.com/pj_sekai/status/1892122861050982747)
 <br>
 #プロセカあんスタコラボ #あんスタ
-
----
-
-**DATE**: 02/19（水） 15:13
-<br>
-[明日、2月...](https://x.com/pj_sekai/status/1892095119748133331)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
