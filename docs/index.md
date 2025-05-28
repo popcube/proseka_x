@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/27 18:49
+### 最終更新：2025/05/28 12:38
 
+
+---
+
+**DATE**: 05/28（水） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1927560710671991151"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/28（水） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1927560469017235693"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,15 @@
 
 **DATE**: 05/26（月） 15:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1926881468841676906"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/1926881468841676906)
 
 ---
 
 **DATE**: 05/26（月） 15:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1926881443730382955"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/1926881443730382955)
+<br>
+#レオニ
 
 ---
 
@@ -200,25 +214,25 @@
 
 **DATE**: 05/23（金） 12:03
 <br>
-[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
+[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
 
 ---
 
 **DATE**: 05/23（金） 12:03
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
-
----
-
-**DATE**: 05/23（金） 12:01
-<br>
-[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
+[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
 
 ---
 
 **DATE**: 05/23（金） 12:01
 <br>
 [「Star...](https://x.com/pj_sekai/status/1925748874762653763)
+
+---
+
+**DATE**: 05/23（金） 12:01
+<br>
+[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
 
 ---
 
@@ -3177,25 +3191,25 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556546615353645)
-
----
-
-**DATE**: 03/20（木） 12:03
-<br>
 [【バッグい...](https://x.com/pj_sekai/status/1902556548502843463)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556529301287289)
+[「Obsc...](https://x.com/pj_sekai/status/1902556546615353645)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
 [【静寂のキ...](https://x.com/pj_sekai/status/1902556531331326038)
+
+---
+
+**DATE**: 03/20（木） 12:03
+<br>
+[「Obsc...](https://x.com/pj_sekai/status/1902556529301287289)
 
 ---
 
@@ -4421,139 +4435,5 @@
 **DATE**: 02/23（日） 12:01
 <br>
 [【メンテナ...](https://x.com/pj_sekai/status/1893496321232822372)
-
----
-
-**DATE**: 02/22（土） 21:55
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1893283566894674099)
-<br>
-#プロセカあんスタコラボ #コラボコネライ #あんスタ
-
----
-
-**DATE**: 02/22（土） 20:44
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1893265633166410095)
-<br>
-#プロセカあんスタコラボ #コラボコネライ #あんスタ
-
----
-
-**DATE**: 02/22（土） 20:30
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1893261958658547719)
-<br>
-#プロセカあんスタコラボ #あんスタ #コラボコネライ
-
----
-
-**DATE**: 02/22（土） 20:01
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1893254850403529129)
-<br>
-#プロセカあんスタコラボ #コラボコネライ #あんスタ
-
----
-
-**DATE**: 02/22（土） 17:30
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1893216778815160794)
-<br>
-#プロセカあんスタコラボ #コラボコネライ #あんスタ
-
----
-
-**DATE**: 02/22（土） 17:00
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1893209155957334104)
-<br>
-#プロセカあんスタコラボ #あんスタ #コラボコネライ
-
----
-
-**DATE**: 02/22（土） 16:36
-<br>
-[コネクトラ...](https://x.com/pj_sekai/status/1893203067853472233)
-<br>
-#コラボコネライ
-
----
-
-**DATE**: 02/22（土） 16:35
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1893203051206582421)
-<br>
-#プロセカあんスタコラボ #あんスタ
-
----
-
-**DATE**: 02/22（土） 16:35
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1893203029094212062)
-<br>
-#プロセカあんスタコラボ #コラボコネライ
-
----
-
-**DATE**: 02/22（土） 16:15
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1893197843659198873)
-<br>
-#プロセカあんスタコラボ #コラボコネライ #あんスタ
-
----
-
-**DATE**: 02/22（土） 13:47
-<br>
-[【お知らせ...](https://x.com/pj_sekai/status/1893160777806189046)
-
----
-
-**DATE**: 02/22（土） 13:30
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1893156376169587040)
-<br>
-#プロセカあんスタコラボ #コラボコネライ #あんスタ
-
----
-
-**DATE**: 02/22（土） 13:29
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1893156020475810021)
-<br>
-#プロセカあんスタコラボ
-
----
-
-**DATE**: 02/22（土） 13:00
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1893148786047992034)
-<br>
-#プロセカあんスタコラボ #あんスタ #コラボコネライ
-
----
-
-**DATE**: 02/22（土） 12:02
-<br>
-[コネクトラ...](https://x.com/pj_sekai/status/1893134115425394850)
-<br>
-#あんスタ #コラボコネライ
-
----
-
-**DATE**: 02/22（土） 12:01
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1893133863628530073)
-<br>
-#プロセカあんスタコラボ #あんスタ #コラボコネライ
-
----
-
-**DATE**: 02/22（土） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/1893133620086190586)
-<br>
-#セカイの4コマ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
