@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/28 18:49
+### 最終更新：2025/05/28 20:12
 
+
+---
+
+**DATE**: 05/28（水） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1927681347226665302"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/28（水） 19:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1927673825963151727"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/28（水） 19:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1927673787937669370"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +48,19 @@
 
 **DATE**: 05/28（水） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1927560469017235693"></a>
-</blockquote>
+[👑ワンダー...](https://x.com/pj_sekai/status/1927560469017235693)
 
 ---
 
 **DATE**: 05/27（火） 18:17
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1927293039728263658"></a>
-</blockquote>
+[👾セカイの...](https://x.com/pj_sekai/status/1927293039728263658)
 
 ---
 
 **DATE**: 05/27（火） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1927288668454035547"></a>
-</blockquote>
+[👾セカイの...](https://x.com/pj_sekai/status/1927288668454035547)
 
 ---
 
@@ -232,13 +250,13 @@
 
 **DATE**: 05/23（金） 12:01
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
+[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
 
 ---
 
 **DATE**: 05/23（金） 12:01
 <br>
-[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
+[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
 
 ---
 
@@ -518,13 +536,13 @@
 
 **DATE**: 05/09（金） 12:05
 <br>
-[『Drea...](https://x.com/pj_sekai/status/1920676375729438953)
+[【決意を胸...](https://x.com/pj_sekai/status/1920676378824905121)
 
 ---
 
 **DATE**: 05/09（金） 12:05
 <br>
-[【決意を胸...](https://x.com/pj_sekai/status/1920676378824905121)
+[『Drea...](https://x.com/pj_sekai/status/1920676375729438953)
 
 ---
 
@@ -3209,13 +3227,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【静寂のキ...](https://x.com/pj_sekai/status/1902556531331326038)
+[「Obsc...](https://x.com/pj_sekai/status/1902556529301287289)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556529301287289)
+[【静寂のキ...](https://x.com/pj_sekai/status/1902556531331326038)
 
 ---
 
@@ -3769,13 +3787,13 @@
 
 **DATE**: 02/28（金） 12:03
 <br>
-[【よしよし...](https://x.com/pj_sekai/status/1895308887693406393)
+[『果てなき...](https://x.com/pj_sekai/status/1895308885197758886)
 
 ---
 
 **DATE**: 02/28（金） 12:03
 <br>
-[『果てなき...](https://x.com/pj_sekai/status/1895308885197758886)
+[【よしよし...](https://x.com/pj_sekai/status/1895308887693406393)
 
 ---
 
@@ -3893,13 +3911,13 @@
 
 ---
 
-**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
-
----
-
 **DATE**: 02/26（水） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1894719059587223560)
+
+---
+
+**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
 
 ---
 
