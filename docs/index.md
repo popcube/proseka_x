@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/30 16:13
+### 最終更新：2025/05/30 18:48
 
+
+---
+
+**DATE**: 05/30（金） 18:16
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1928379965600645520"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 05/29（木） 22:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1928076308182909185"></a>
-</blockquote>
+[『イレヴン...](https://x.com/pj_sekai/status/1928076308182909185)
+<br>
+#モモジャン
 
 ---
 
@@ -542,25 +550,25 @@
 
 **DATE**: 05/23（金） 12:03
 <br>
-[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
+[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
 
 ---
 
 **DATE**: 05/23（金） 12:03
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
-
----
-
-**DATE**: 05/23（金） 12:01
-<br>
-[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
+[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
 
 ---
 
 **DATE**: 05/23（金） 12:01
 <br>
 [【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
+
+---
+
+**DATE**: 05/23（金） 12:01
+<br>
+[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
 
 ---
 
@@ -1919,13 +1927,13 @@
 
 **DATE**: 04/22（火） 12:11
 <br>
-[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
+[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
 
 ---
 
 **DATE**: 04/22（火） 12:11
 <br>
-[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
+[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
 
 ---
 
@@ -3519,13 +3527,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556546615353645)
+[【バッグい...](https://x.com/pj_sekai/status/1902556548502843463)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【バッグい...](https://x.com/pj_sekai/status/1902556548502843463)
+[「Obsc...](https://x.com/pj_sekai/status/1902556546615353645)
 
 ---
 
