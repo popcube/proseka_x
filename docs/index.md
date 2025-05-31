@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/05/30 22:39
+### 最終更新：2025/05/31 12:36
 
+
+---
+
+**DATE**: 05/31（土） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1928648885787824252"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 05/30（金） 15:33
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1928339022654623908"></a>
-</blockquote>
+[「とても痛...](https://x.com/pj_sekai/status/1928339022654623908)
 
 ---
 
@@ -3545,13 +3551,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【バッグい...](https://x.com/pj_sekai/status/1902556548502843463)
+[「Obsc...](https://x.com/pj_sekai/status/1902556546615353645)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556546615353645)
+[【バッグい...](https://x.com/pj_sekai/status/1902556548502843463)
 
 ---
 
@@ -3569,13 +3575,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556508874826094)
+[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
+[「Obsc...](https://x.com/pj_sekai/status/1902556508874826094)
 
 ---
 
@@ -4241,13 +4247,13 @@
 
 ---
 
-**DATE**: 02/26（水） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1894719059587223560)
+**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
 
 ---
 
-**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
+**DATE**: 02/26（水） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1894719059587223560)
 
 ---
 
@@ -4627,29 +4633,5 @@
 **DATE**: 02/26（水） 12:00
 <br>
 [本日19:...](https://x.com/pj_sekai/status/1894583174362976703)
-
----
-
-**DATE**: 02/25（火） 18:04
-<br>
-[『群青讃歌...](https://x.com/pj_sekai/status/1894312604409237906)
-<br>
-#劇場版プロセカ
-
----
-
-**DATE**: 02/25（火） 17:33
-<br>
-[先日投稿し...](https://x.com/pj_sekai/status/1894304684380491849)
-<br>
-#プロセカあんスタコラボ #フュージョン
-
----
-
-**DATE**: 02/25（火） 17:29
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/1894303609699143710)
-<br>
-#プロセカあんスタコラボ #あんスタ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
