@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/01 12:55
+### 最終更新：2025/06/01 17:43
 
+
+---
+
+**DATE**: 06/01（日） 17:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1929088340470718652"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/01（日） 17:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1929088256995475552"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,13 @@
 
 **DATE**: 05/31（土） 18:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1928738471272919144"></a>
-</blockquote>
+[✉プロセカ...](https://x.com/pj_sekai/status/1928738471272919144)
 
 ---
 
 **DATE**: 05/31（土） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1928738232508055632"></a>
-</blockquote>
+[💭プロセカ...](https://x.com/pj_sekai/status/1928738232508055632)
 
 ---
 
@@ -3641,25 +3653,25 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【静寂のキ...](https://x.com/pj_sekai/status/1902556531331326038)
-
----
-
-**DATE**: 03/20（木） 12:03
-<br>
 [「Obsc...](https://x.com/pj_sekai/status/1902556529301287289)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
+[【静寂のキ...](https://x.com/pj_sekai/status/1902556531331326038)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
 [「Obsc...](https://x.com/pj_sekai/status/1902556508874826094)
+
+---
+
+**DATE**: 03/20（木） 12:03
+<br>
+[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
 
 ---
 
