@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/07 21:24
+### 最終更新：2025/06/07 22:00
 
 
 ---
@@ -14,7 +14,23 @@
 
 ---
 
+**DATE**: 06/07（土） 21:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1931320484609548584"></a>
+</blockquote>
+
+---
+
 **DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
+
+---
+
+**DATE**: 06/07（土） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1931320235090661505"></a>
+</blockquote>
 
 ---
 
@@ -36,17 +52,15 @@
 
 **DATE**: 06/05（木） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1930461080050118869"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/1930461080050118869)
 
 ---
 
 **DATE**: 06/05（木） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1930460269416984604"></a>
-</blockquote>
+[6月6日（...](https://x.com/pj_sekai/status/1930460269416984604)
+<br>
+#セカラジ
 
 ---
 
@@ -178,13 +192,13 @@
 
 **DATE**: 05/31（土） 12:04
 <br>
-[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
+[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
 
 ---
 
 **DATE**: 05/31（土） 12:04
 <br>
-[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
+[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
 
 ---
 
@@ -800,13 +814,13 @@
 
 ---
 
-**DATE**: 05/21（水） 20:00
-<br>
-[本日21時...](https://x.com/pj_sekai/status/1925144540140188079)
+**DATE**: 05/21（水） 20:00 イベント「**Dear my fellows**」 終了
 
 ---
 
-**DATE**: 05/21（水） 20:00 イベント「**Dear my fellows**」 終了
+**DATE**: 05/21（水） 20:00
+<br>
+[本日21時...](https://x.com/pj_sekai/status/1925144540140188079)
 
 ---
 
