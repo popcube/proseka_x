@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/09 20:28
+### 最終更新：2025/06/10 16:48
 
+
+---
+
+**DATE**: 06/10（火） 16:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1932332606147948675"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,9 @@
 
 **DATE**: 06/09（月） 18:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1932000250782494977"></a>
-</blockquote>
+[「プロセカ...](https://x.com/pj_sekai/status/1932000250782494977)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -158,13 +166,13 @@
 
 ---
 
-**DATE**: 06/07（土） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
+**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
 
 ---
 
-**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
+**DATE**: 06/07（土） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
 
 ---
 
@@ -946,13 +954,13 @@
 
 ---
 
-**DATE**: 05/21（水） 20:00
-<br>
-[本日21時...](https://x.com/pj_sekai/status/1925144540140188079)
+**DATE**: 05/21（水） 20:00 イベント「**Dear my fellows**」 終了
 
 ---
 
-**DATE**: 05/21（水） 20:00 イベント「**Dear my fellows**」 終了
+**DATE**: 05/21（水） 20:00
+<br>
+[本日21時...](https://x.com/pj_sekai/status/1925144540140188079)
 
 ---
 
@@ -3813,13 +3821,13 @@
 
 **DATE**: 03/21（金） 12:05
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1902919422664380628)
+[✉プロセカ...](https://x.com/pj_sekai/status/1902919424451162258)
 
 ---
 
 **DATE**: 03/21（金） 12:05
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1902919424451162258)
+[✉プロセカ...](https://x.com/pj_sekai/status/1902919422664380628)
 
 ---
 
@@ -3875,13 +3883,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556529301287289)
+[【静寂のキ...](https://x.com/pj_sekai/status/1902556531331326038)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【静寂のキ...](https://x.com/pj_sekai/status/1902556531331326038)
+[「Obsc...](https://x.com/pj_sekai/status/1902556529301287289)
 
 ---
 
@@ -4238,23 +4246,5 @@
 **DATE**: 03/08（土） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1898342941288243568)
-
----
-
-**DATE**: 03/08（土） 21:00 イベント「**Connect hearts message**」 終了
-
----
-
-**DATE**: 03/07（金） 15:16
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1897894171962413239)
-
----
-
-**DATE**: 03/07（金） 15:15
-<br>
-[本日15時...](https://x.com/pj_sekai/status/1897893965942403240)
-<br>
-#モモジャン
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
