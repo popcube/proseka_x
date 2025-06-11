@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/10 16:48
+### 最終更新：2025/06/11 12:43
 
+
+---
+
+**DATE**: 06/11（水） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1932633898942345283"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 06/09（月） 20:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1932031588424159366"></a>
-</blockquote>
+[本日20:...](https://x.com/pj_sekai/status/1932031588424159366)
 
 ---
 
@@ -4216,35 +4222,5 @@
 [㊗️ミクの...](https://x.com/pj_sekai/status/1898569433473573033)
 <br>
 #ミクの日
-
----
-
-**DATE**: 03/09（日） 00:06
-<br>
-[本日0時よ...](https://x.com/pj_sekai/status/1898389745937637707)
-<br>
-#ミクの日
-
----
-
-**DATE**: 03/09（日） 00:05
-<br>
-[㊗️ミクの...](https://x.com/pj_sekai/status/1898389495214743644)
-<br>
-#ミクの日
-
----
-
-**DATE**: 03/09（日） 00:00
-<br>
-[🎊3月9日...](https://x.com/pj_sekai/status/1898388238899028176)
-<br>
-#ミクの日
-
----
-
-**DATE**: 03/08（土） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1898342941288243568)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
