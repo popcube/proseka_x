@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/15 20:34
+### 最終更新：2025/06/16 12:48
 
+
+---
+
+**DATE**: 06/16（月） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1934446405130784778"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 06/11（水） 19:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1932741655347802365"></a>
-</blockquote>
+[💿Vivi...](https://x.com/pj_sekai/status/1932741655347802365)
 
 ---
 
@@ -3857,13 +3863,13 @@
 
 **DATE**: 03/21（金） 12:05
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1902919424451162258)
+[✉プロセカ...](https://x.com/pj_sekai/status/1902919422664380628)
 
 ---
 
 **DATE**: 03/21（金） 12:05
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1902919422664380628)
+[✉プロセカ...](https://x.com/pj_sekai/status/1902919424451162258)
 
 ---
 
@@ -3919,13 +3925,13 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【静寂のキ...](https://x.com/pj_sekai/status/1902556531331326038)
+[「Obsc...](https://x.com/pj_sekai/status/1902556529301287289)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556529301287289)
+[【静寂のキ...](https://x.com/pj_sekai/status/1902556531331326038)
 
 ---
 
@@ -4064,21 +4070,5 @@
 [💐ホワイト...](https://x.com/pj_sekai/status/1900381368648974555)
 <br>
 #ホワイトデー
-
----
-
-**DATE**: 03/14（金） 00:00
-<br>
-[💙💐Hap...](https://x.com/pj_sekai/status/1900200188330869168)
-<br>
-#ホワイトデー
-
----
-
-**DATE**: 03/13（木） 12:04
-<br>
-[3月14日...](https://x.com/pj_sekai/status/1900020225292272113)
-<br>
-#セカラジ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
