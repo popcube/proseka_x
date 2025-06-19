@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/18 20:28
+### 最終更新：2025/06/19 12:43
 
+
+---
+
+**DATE**: 06/19（木） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1935533623895277809"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/19（木） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1935533248316362883"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,13 @@
 
 **DATE**: 06/16（月） 15:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1934491328827793841"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/1934491328827793841)
 
 ---
 
 **DATE**: 06/16（月） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1934446405130784778"></a>
-</blockquote>
+[Leo/n...](https://x.com/pj_sekai/status/1934446405130784778)
 
 ---
 
@@ -398,13 +410,13 @@
 
 **DATE**: 05/31（土） 12:04
 <br>
-[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
+[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
 
 ---
 
 **DATE**: 05/31（土） 12:04
 <br>
-[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
+[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
 
 ---
 
