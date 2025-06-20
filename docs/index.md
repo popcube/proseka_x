@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/19 12:43
+### 最終更新：2025/06/20 12:42
 
+
+---
+
+**DATE**: 06/20（金） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1935896895173673450"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 06/16（月） 15:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1934491571065680264"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/1934491571065680264)
 
 ---
 
@@ -3899,13 +3905,13 @@
 
 **DATE**: 03/21（金） 12:05
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1902919424451162258)
+[✉プロセカ...](https://x.com/pj_sekai/status/1902919422664380628)
 
 ---
 
 **DATE**: 03/21（金） 12:05
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1902919422664380628)
+[✉プロセカ...](https://x.com/pj_sekai/status/1902919424451162258)
 
 ---
 
@@ -4040,35 +4046,5 @@
 **DATE**: 03/18（火） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1901966822922199330)
-
----
-
-**DATE**: 03/18（火） 21:00 イベント「**You are my HERO!!**」 終了
-
----
-
-**DATE**: 03/17（月） 15:23
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1901519704780628053)
-
----
-
-**DATE**: 03/17（月） 15:22
-<br>
-[本日15時...](https://x.com/pj_sekai/status/1901519530561786070)
-<br>
-#レオニ
-
----
-
-**DATE**: 03/17（月） 15:20
-<br>
-[3月19日...](https://x.com/pj_sekai/status/1901519005384429966)
-
----
-
-**DATE**: 03/17（月） 15:20
-<br>
-[☘️桃井愛...](https://x.com/pj_sekai/status/1901518995997798451)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
