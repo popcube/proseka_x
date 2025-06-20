@@ -1,13 +1,29 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/20 20:11
+### 最終更新：2025/06/20 21:27
 
 <div class="highlight"><div class="gi">
 【メンテナンス予定あり】
 </div></div>
 2025/06/23 08:30～11:30
 [ソース](https://x.com/pj_sekai/status/1936001884743254081)
+
+---
+
+**DATE**: 06/20（金） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1936031287317258644"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/20（金） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1936016177337123161"></a>
+</blockquote>
 
 ---
 
@@ -37,17 +53,15 @@
 
 **DATE**: 06/20（金） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1935896895173673450"></a>
-</blockquote>
+[6月27日...](https://x.com/pj_sekai/status/1935896895173673450)
 
 ---
 
 **DATE**: 06/19（木） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1935533623895277809"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/1935533623895277809)
+<br>
+#セカイの4コマ
 
 ---
 
@@ -203,13 +217,13 @@
 
 **DATE**: 06/09（月） 12:02
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
+[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
 
 ---
 
 **DATE**: 06/09（月） 12:02
 <br>
-[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
+[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
 
 ---
 
@@ -275,13 +289,13 @@
 
 ---
 
-**DATE**: 06/07（土） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
+**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
 
 ---
 
-**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
+**DATE**: 06/07（土） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
 
 ---
 
@@ -441,13 +455,13 @@
 
 **DATE**: 05/31（土） 12:04
 <br>
-[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
+[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
 
 ---
 
 **DATE**: 05/31（土） 12:04
 <br>
-[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
+[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
 
 ---
 
@@ -1063,13 +1077,13 @@
 
 ---
 
-**DATE**: 05/21（水） 20:00
-<br>
-[本日21時...](https://x.com/pj_sekai/status/1925144540140188079)
+**DATE**: 05/21（水） 20:00 イベント「**Dear my fellows**」 終了
 
 ---
 
-**DATE**: 05/21（水） 20:00 イベント「**Dear my fellows**」 終了
+**DATE**: 05/21（水） 20:00
+<br>
+[本日21時...](https://x.com/pj_sekai/status/1925144540140188079)
 
 ---
 
