@@ -1,13 +1,37 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/21 23:32
+### 最終更新：2025/06/22 15:46
 
 <div class="highlight"><div class="gi">
 【メンテナンス予定あり】
 </div></div>
 2025/06/23 08:30～11:30
 [ソース](https://x.com/pj_sekai/status/1936001884743254081)
+
+---
+
+**DATE**: 06/22（日） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1936666824466424015"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/22（日） 15:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1936666531045556307"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/22（日） 15:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1936665896791179433"></a>
+</blockquote>
 
 ---
 
@@ -29,9 +53,7 @@
 
 **DATE**: 06/21（土） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1936378568356847648"></a>
-</blockquote>
+[本日21時...](https://x.com/pj_sekai/status/1936378568356847648)
 
 ---
 
@@ -41,17 +63,17 @@
 
 **DATE**: 06/20（金） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1936031287317258644"></a>
-</blockquote>
+[7月4日（...](https://x.com/pj_sekai/status/1936031287317258644)
+<br>
+#セカラジ
 
 ---
 
 **DATE**: 06/20（金） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1936016177337123161"></a>
-</blockquote>
+[📺WEBラ...](https://x.com/pj_sekai/status/1936016177337123161)
+<br>
+#セカラジ
 
 ---
 
@@ -239,13 +261,13 @@
 
 **DATE**: 06/09（月） 12:02
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
+[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
 
 ---
 
 **DATE**: 06/09（月） 12:02
 <br>
-[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
+[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
 
 ---
 
@@ -2416,13 +2438,13 @@
 
 **DATE**: 04/22（火） 12:11
 <br>
-[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
+[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
 
 ---
 
 **DATE**: 04/22（火） 12:11
 <br>
-[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
+[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
 
 ---
 
@@ -3188,13 +3210,13 @@
 
 **DATE**: 03/30（日） 12:12
 <br>
-[【巡るセカ...](https://x.com/pj_sekai/status/1906182759259017432)
+[「[4.5...](https://x.com/pj_sekai/status/1906182756666871831)
 
 ---
 
 **DATE**: 03/30（日） 12:12
 <br>
-[「[4.5...](https://x.com/pj_sekai/status/1906182756666871831)
+[【巡るセカ...](https://x.com/pj_sekai/status/1906182759259017432)
 
 ---
 
@@ -4040,36 +4062,12 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
+[「Obsc...](https://x.com/pj_sekai/status/1902556508874826094)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556508874826094)
-
----
-
-**DATE**: 03/19（水） 17:38
-<br>
-[マイセカイ...](https://x.com/pj_sekai/status/1902278594920914953)
-
----
-
-**DATE**: 03/19（水） 17:35
-<br>
-[「ECHO...](https://x.com/pj_sekai/status/1902277674330099758)
-
----
-
-**DATE**: 03/19（水） 17:32
-<br>
-[下記楽曲の...](https://x.com/pj_sekai/status/1902277030923923690)
-
----
-
-**DATE**: 03/19（水） 15:04
-<br>
-[明日、3月...](https://x.com/pj_sekai/status/1902239640184057949)
+[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
