@@ -1,13 +1,29 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/22 15:46
+### 最終更新：2025/06/22 16:13
 
 <div class="highlight"><div class="gi">
 【メンテナンス予定あり】
 </div></div>
 2025/06/23 08:30～11:30
 [ソース](https://x.com/pj_sekai/status/1936001884743254081)
+
+---
+
+**DATE**: 06/22（日） 15:46
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1936677103791136832"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/22（日） 15:43
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1936676430441759053"></a>
+</blockquote>
 
 ---
 
@@ -37,17 +53,13 @@
 
 **DATE**: 06/21（土） 22:22
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1936414321493541175"></a>
-</blockquote>
+[💭プロセカ...](https://x.com/pj_sekai/status/1936414321493541175)
 
 ---
 
 **DATE**: 06/21（土） 21:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1936395830359126161"></a>
-</blockquote>
+[💭プロセカ...](https://x.com/pj_sekai/status/1936395830359126161)
 
 ---
 
@@ -499,13 +511,13 @@
 
 **DATE**: 05/31（土） 12:04
 <br>
-[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
+[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
 
 ---
 
 **DATE**: 05/31（土） 12:04
 <br>
-[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
+[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
 
 ---
 
@@ -3988,13 +4000,13 @@
 
 **DATE**: 03/21（金） 12:05
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1902919424451162258)
+[✉プロセカ...](https://x.com/pj_sekai/status/1902919422664380628)
 
 ---
 
 **DATE**: 03/21（金） 12:05
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1902919422664380628)
+[✉プロセカ...](https://x.com/pj_sekai/status/1902919424451162258)
 
 ---
 
@@ -4062,12 +4074,12 @@
 
 **DATE**: 03/20（木） 12:03
 <br>
-[「Obsc...](https://x.com/pj_sekai/status/1902556508874826094)
+[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
 
 ---
 
 **DATE**: 03/20（木） 12:03
 <br>
-[【見えない...](https://x.com/pj_sekai/status/1902556511429390580)
+[「Obsc...](https://x.com/pj_sekai/status/1902556508874826094)
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
