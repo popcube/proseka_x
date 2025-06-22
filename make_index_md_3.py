@@ -119,15 +119,15 @@ def main():
                 + " ～ "
                 + row.END.strftime("%m/%d（") 
                 + weekday_ja[row.END.weekday()]
-                + row.START.strftime("） %H:%M"))
+                + row.END.strftime("） %H:%M"))
     else:
       res.append(row.START.strftime("%m/%d（") 
                 + weekday_ja[row.START.weekday()]
                 + row.START.strftime("） %H:%M") 
                 + " ～ "
-                + row.START.strftime("%H:%M"))
+                + row.END.strftime("%H:%M"))
     source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'
-    res.append(f'[公式ポスト]]({source_url})')
+    res.append(f'[公式ポスト]({source_url})')
     # res.append("　＊これはテストです") #delete this
     
     # print(row, flush=True)
