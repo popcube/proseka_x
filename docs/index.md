@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/25 14:15
+### 最終更新：2025/06/25 19:53
 
+
+---
+
+**DATE**: 06/25（水） 18:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1937798413791510553"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 06/24（火） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1937163990154830150"></a>
-</blockquote>
+[👑神代類 ...](https://x.com/pj_sekai/status/1937163990154830150)
+<br>
+#神代類誕生祭2025
 
 ---
 
