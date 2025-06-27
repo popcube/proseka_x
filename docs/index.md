@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/27 18:50
+### 最終更新：2025/06/27 19:52
 
+
+---
+
+**DATE**: 06/27（金） 19:31
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1938545599344971962"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 06/25（水） 18:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1937798413791510553"></a>
-</blockquote>
+[『さよなら...](https://x.com/pj_sekai/status/1937798413791510553)
+<br>
+#モモジャン
 
 ---
 
@@ -538,13 +546,13 @@
 
 ---
 
-**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
-
----
-
 **DATE**: 06/07（土） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
+
+---
+
+**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
 
 ---
 
