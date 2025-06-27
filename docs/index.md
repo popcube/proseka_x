@@ -1,8 +1,40 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/27 20:27
+### 最終更新：2025/06/27 20:38
 
+
+---
+
+**DATE**: 06/27（金） 20:31
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1938560713372623297"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/27（金） 20:29
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1938560335700742307"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/27（金） 20:23
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1938558760307564628"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/27（金） 20:19
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1938557761245294860"></a>
+</blockquote>
 
 ---
 
@@ -16,33 +48,27 @@
 
 **DATE**: 06/27（金） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1938545399645798564"></a>
-</blockquote>
+[🌈プロセカ...](https://x.com/pj_sekai/status/1938545399645798564)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 06/27（金） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1938522703264371029"></a>
-</blockquote>
+[このあと1...](https://x.com/pj_sekai/status/1938522703264371029)
 
 ---
 
 **DATE**: 06/27（金） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1938432100044095737"></a>
-</blockquote>
+[本日19:...](https://x.com/pj_sekai/status/1938432100044095737)
 
 ---
 
 **DATE**: 06/26（木） 20:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1938192462532776098"></a>
-</blockquote>
+[ワールドリ...](https://x.com/pj_sekai/status/1938192462532776098)
 
 ---
 
@@ -482,13 +508,13 @@
 
 **DATE**: 06/09（月） 12:02
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
+[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
 
 ---
 
 **DATE**: 06/09（月） 12:02
 <br>
-[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
+[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
 
 ---
 
