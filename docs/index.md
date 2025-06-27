@@ -1,48 +1,128 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/27 20:48
+### 最終更新：2025/06/27 21:27
 
+
+---
+
+**DATE**: 06/27（金） 21:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1938569042526413126"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/27（金） 20:49
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1938565413769802123"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/27（金） 20:44
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1938564041217331515"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/27（金） 20:43
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1938563768424046764"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/27（金） 20:39
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1938562949863633100"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/27（金） 20:36
+<br>
+[7月7日よ...](https://x.com/pj_sekai/status/1938562018891776148)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/27（金） 20:35
+<br>
+[ブルームフ...](https://x.com/pj_sekai/status/1938561902277435422)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/27（金） 20:34
+<br>
+[ブルームフ...](https://x.com/pj_sekai/status/1938561671330709670)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 06/27（金） 20:33
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1938561275849757049"></a>
-</blockquote>
+[MORE ...](https://x.com/pj_sekai/status/1938561275849757049)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 06/27（金） 20:31
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1938560713372623297"></a>
-</blockquote>
+[海外版コン...](https://x.com/pj_sekai/status/1938560713372623297)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 06/27（金） 20:29
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1938560335700742307"></a>
-</blockquote>
+[海外版コン...](https://x.com/pj_sekai/status/1938560335700742307)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/27（金） 20:25
+<br>
+[🌟コネクト...](https://x.com/pj_sekai/status/1938559383316934757)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/27（金） 20:25
+<br>
+[🎤Drea...](https://x.com/pj_sekai/status/1938559306833743938)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 06/27（金） 20:23
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1938558760307564628"></a>
-</blockquote>
+[🌟コネクト...](https://x.com/pj_sekai/status/1938558760307564628)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 06/27（金） 20:21
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1938558342064153073"></a>
-</blockquote>
+[🏡マイセカ...](https://x.com/pj_sekai/status/1938558342064153073)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -1754,13 +1834,13 @@
 
 ---
 
-**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
-
----
-
 **DATE**: 05/06（火） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
+
+---
+
+**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
 
 ---
 
