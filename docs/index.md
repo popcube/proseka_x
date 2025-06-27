@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/26 21:28
+### 最終更新：2025/06/27 15:49
 
+
+---
+
+**DATE**: 06/27（金） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1938432100044095737"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 06/25（水） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1937708243545129083"></a>
-</blockquote>
+[💫Leo/...](https://x.com/pj_sekai/status/1937708243545129083)
 
 ---
 
@@ -526,13 +532,13 @@
 
 ---
 
-**DATE**: 06/07（土） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
+**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
 
 ---
 
-**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
+**DATE**: 06/07（土） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
 
 ---
 
@@ -4132,19 +4138,5 @@
 **DATE**: 03/26（水） 18:20
 <br>
 [👑ワンダー...](https://x.com/pj_sekai/status/1904825902372184285)
-
----
-
-**DATE**: 03/24（月） 15:03
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1904051457571340703)
-
----
-
-**DATE**: 03/24（月） 15:02
-<br>
-[本日15時...](https://x.com/pj_sekai/status/1904051109481848948)
-<br>
-#ワンダショ
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
