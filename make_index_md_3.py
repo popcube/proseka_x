@@ -104,14 +104,15 @@ def main():
   datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
   datetime_df.columns = ['START', 'END']
   notice_df = datetime_df[datetime_df["END"].ge(now_dt)].sort_values("START")
+  res.append
   for row in notice_df.itertuples():
-    if row.START < now_dt:
-      res.append('<div class="highlight"><div class="gd">')
-      res.append("【メンテナンス実施中】")
-    else:
-      res.append('<div class="highlight"><div class="gi">')
-      res.append("【メンテナンス予定あり】")
+    res.append('<div class="highlight" id="maint-ongoing" style="display: none;"><div class="gd">')
+    res.append("【メンテナンス実施中】")
     res.append("</div></div>")
+    res.append('<div class="highlight" id="maint-planned" style="display: none;"><div class="gi">')
+    res.append("【メンテナンス予定あり】")
+    res.append("</div></div>")
+    res.append('<div id="maint" style="display: none;">')
     if row.START.day != row.END.day:
       res.append(row.START.strftime("%m/%d（") 
                 + weekday_ja[row.START.weekday()]
@@ -127,8 +128,9 @@ def main():
                 + " ～ "
                 + row.END.strftime("%H:%M"))
     source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'
-    res.append(f'[公式ポスト]({source_url})')
-    # res.append("　＊これはテストです") #delete this
+  res.append(f'[公式ポスト]({source_url})')
+  res.append("　＊これはテストです") #delete this
+  res.append("</div>")
     
     # print(row, flush=True)
 
@@ -185,7 +187,38 @@ def main():
   # sys.exit(1)
     
   res.append("")
-  res.append('<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>')
+  res.append('<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">')
+
+
+    
+  # js
+  # let nowDt = new Date();
+  # let startDt = new Date(row.START.year, row.START.month - 1, row.START.day, row.START.hour, row.START.minute);
+  # let endDt = new Date(row.END.year, row.END.month - 1, row.END.day, row.END.hour, row.END.minute);
+  
+  # if (startDt < nowDt) && (nowDt < endDt){
+  #   document.getElementById('maint-ongoing').style.display = 'block';
+  #   document.getElementById('maint').style.display = 'block';
+  # }
+  # else if (nowDt < startDt){
+  #   document.getElementById('maint-ongoing').style.display = 'block';
+  #   document.getElementById('maint').style.display = 'block';
+  # }
+  
+  res.append("let nowDt = new Date(2025, 6,23, 9);")
+  # res.append("let nowDt = new Date(2025, );")
+  res.append(f"let startDt = new Date({row.START.year}, {row.START.month - 1}, {row.START.day}, {row.START.hour}, {row.START.minute});")
+  res.append(f"let endDt = new Date({row.END.year}, {row.END.month - 1}, {row.END.day}, {row.END.hour}, {row.END.minute});")
+  res.append("if (startDt < nowDt) && (nowDt < endDt){")
+  res.append("  document.getElementById('maint-ongoing').style.display = 'block';")
+  res.append("  document.getElementById('maint').style.display = 'block';")
+  res.append("}")
+  res.append("else if (nowDt < startDt){")
+  res.append("  document.getElementById('maint-ongoing').style.display = 'block';")
+  res.append("  document.getElementById('maint').style.display = 'block';")
+  res.append("}") 
+    
+  res.append('</script>')
       
   with open(
     "./docs/index.md", "w",
