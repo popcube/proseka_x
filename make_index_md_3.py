@@ -104,16 +104,15 @@ def main():
   datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
   datetime_df.columns = ['START', 'END']
   # notice_df = datetime_df[datetime_df["END"].ge(now_dt)].sort_values("START")
-  notice_df = datetime_df.sort_values("START", ascending=False) # Switch this for testing 
-  res.append
-  for row in notice_df.itertuples():
-    res.append('<div class="highlight" id="maint-ongoing" style="display: none;"><div class="gd">')
+  notice_df = datetime_df.sort_values("START") # Switch this for testing 
+  for id_num, row in enumerate(notice_df.itertuples()):
+    res.append(f'<div class="highlight" id="maint-ongoing-{id_num}" style="display: none;"><div class="gd">')
     res.append("【メンテナンス実施中】")
     res.append("</div></div>")
-    res.append('<div class="highlight" id="maint-planned" style="display: none;"><div class="gi">')
+    res.append(f'<div class="highlight" id="maint-planned-{id_num}" style="display: none;"><div class="gi">')
     res.append("【メンテナンス予定あり】")
     res.append("</div></div>")
-    res.append('<div id="maint" style="display: none;">')
+    res.append(f'<div id="maint-{id_num}" style="display: none;">')
     if row.START.day != row.END.day:
       res.append(row.START.strftime("%m/%d（") 
                 + weekday_ja[row.START.weekday()]
@@ -205,19 +204,20 @@ def main():
   #   document.getElementById('maint-ongoing').style.display = 'block';
   #   document.getElementById('maint').style.display = 'block';
   # }
-  
   res.append("let nowDt = new Date(2025, 6,23, 9);")
-  # res.append("let nowDt = new Date(2025, );")
-  res.append(f"let startDt = new Date({row.START.year}, {row.START.month - 1}, {row.START.day}, {row.START.hour}, {row.START.minute});")
-  res.append(f"let endDt = new Date({row.END.year}, {row.END.month - 1}, {row.END.day}, {row.END.hour}, {row.END.minute});")
-  res.append("if (startDt < nowDt) && (nowDt < endDt){")
-  res.append("  document.getElementById('maint-ongoing').style.display = 'block';")
-  res.append("  document.getElementById('maint').style.display = 'block';")
-  res.append("}")
-  res.append("else if (nowDt < startDt){")
-  res.append("  document.getElementById('maint-ongoing').style.display = 'block';")
-  res.append("  document.getElementById('maint').style.display = 'block';")
-  res.append("}") 
+    # res.append("let nowDt = new Date(2025, );")
+
+  for id_num, row in enumerate(notice_df.itertuples()):
+    res.append(f"let startDt = new Date({row.START.year}, {row.START.month - 1}, {row.START.day}, {row.START.hour}, {row.START.minute});")
+    res.append(f"let endDt = new Date({row.END.year}, {row.END.month - 1}, {row.END.day}, {row.END.hour}, {row.END.minute});")
+    res.append("if (startDt < nowDt) && (nowDt < endDt){")
+    res.append(f"  document.getElementById('maint-ongoing-{id_num}').style.display = 'block';")
+    res.append(f"  document.getElementById('maint-{id_num}').style.display = 'block';")
+    res.append("}")
+    res.append("else if (nowDt < startDt){")
+    res.append(f"  document.getElementById('maint-ongoing-{id_num}').style.display = 'block';")
+    res.append(f"  document.getElementById('maint-{id_num}').style.display = 'block';")
+    res.append("}") 
     
   res.append('</script>')
       
