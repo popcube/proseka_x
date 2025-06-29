@@ -1,48 +1,8 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/29 21:25
+### 最終更新：2025/06/29 21:34
 
-<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
-【メンテナンス実施中】
-</div></div>
-<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-<div id="maint-0" style="display: none;">
-03/30（日） 08:30 ～ 11:30
-　<a href="https://x.com/pj_sekai/status/1905622455705882871">公式ポスト</a>
-</div>
-<div class="highlight" id="maint-ongoing-1" style="display: none;"><div class="gd">
-【メンテナンス実施中】
-</div></div>
-<div class="highlight" id="maint-planned-1" style="display: none;"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-<div id="maint-1" style="display: none;">
-04/30（水） 08:30 ～ 11:30
-　<a href="https://x.com/pj_sekai/status/1915753224046547106">公式ポスト</a>
-</div>
-<div class="highlight" id="maint-ongoing-2" style="display: none;"><div class="gd">
-【メンテナンス実施中】
-</div></div>
-<div class="highlight" id="maint-planned-2" style="display: none;"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-<div id="maint-2" style="display: none;">
-05/08（木） 21:05 ～ 21:50
-　<a href="https://x.com/pj_sekai/status/1920088826858377698">公式ポスト</a>
-</div>
-<div class="highlight" id="maint-ongoing-3" style="display: none;"><div class="gd">
-【メンテナンス実施中】
-</div></div>
-<div class="highlight" id="maint-planned-3" style="display: none;"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-<div id="maint-3" style="display: none;">
-06/23（月） 08:30 ～ 11:30
-　<a href="https://x.com/pj_sekai/status/1936001884743254081">公式ポスト</a>
-</div>
 
 ---
 
@@ -4704,46 +4664,6 @@
 [【コネクト...](https://x.com/pj_sekai/status/1905138738466111536)
 
 <script>
-let nowDt = new Date(2025, 6-1, 23, 8);
-let startDt0 = new Date(2025, 2, 30, 8, 30);
-let endDt0 = new Date(2025, 2, 30, 11, 30);
-if ((startDt0 < nowDt) && (nowDt < endDt0)){
-  document.getElementById('maint-ongoing-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
-else if (nowDt < startDt0){
-  document.getElementById('maint-planned-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
-let startDt1 = new Date(2025, 3, 30, 8, 30);
-let endDt1 = new Date(2025, 3, 30, 11, 30);
-if ((startDt1 < nowDt) && (nowDt < endDt1)){
-  document.getElementById('maint-ongoing-1').style.display = 'block';
-  document.getElementById('maint-1').style.display = 'block';
-}
-else if (nowDt < startDt1){
-  document.getElementById('maint-planned-1').style.display = 'block';
-  document.getElementById('maint-1').style.display = 'block';
-}
-let startDt2 = new Date(2025, 4, 8, 21, 5);
-let endDt2 = new Date(2025, 4, 8, 21, 50);
-if ((startDt2 < nowDt) && (nowDt < endDt2)){
-  document.getElementById('maint-ongoing-2').style.display = 'block';
-  document.getElementById('maint-2').style.display = 'block';
-}
-else if (nowDt < startDt2){
-  document.getElementById('maint-planned-2').style.display = 'block';
-  document.getElementById('maint-2').style.display = 'block';
-}
-let startDt3 = new Date(2025, 5, 23, 8, 30);
-let endDt3 = new Date(2025, 5, 23, 11, 30);
-if ((startDt3 < nowDt) && (nowDt < endDt3)){
-  document.getElementById('maint-ongoing-3').style.display = 'block';
-  document.getElementById('maint-3').style.display = 'block';
-}
-else if (nowDt < startDt3){
-  document.getElementById('maint-planned-3').style.display = 'block';
-  document.getElementById('maint-3').style.display = 'block';
-}
+let nowDt = new Date();
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
