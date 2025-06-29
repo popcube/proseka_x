@@ -204,7 +204,7 @@ def main():
   #   document.getElementById('maint-ongoing').style.display = 'block';
   #   document.getElementById('maint').style.display = 'block';
   # }
-  res.append("let nowDt = new Date(2025, 6,23, 9);")
+  res.append("let nowDt = new Date(2025, 6 - 1,23, 9);")
     # res.append("let nowDt = new Date(2025, );")
 
   for id_num, row in enumerate(notice_df.itertuples()):
