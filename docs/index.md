@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/29 11:00
+### 最終更新：2025/06/29 11:07
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -4713,43 +4713,43 @@
 
 <script>
 let nowDt = new Date(2025, 6 - 1,23, 9);
-let startDt = new Date(2025, 2, 30, 8, 30);
-let endDt = new Date(2025, 2, 30, 11, 30);
-if ((startDt < nowDt) && (nowDt < endDt)){
+let startDt0 = new Date(2025, 2, 30, 8, 30);
+let endDt0 = new Date(2025, 2, 30, 11, 30);
+if ((startDt0 < nowDt) && (nowDt < endDt0)){
   document.getElementById('maint-ongoing-0').style.display = 'block';
   document.getElementById('maint-0').style.display = 'block';
 }
-else if (nowDt < startDt){
+else if (nowDt < startDt0){
   document.getElementById('maint-ongoing-0').style.display = 'block';
   document.getElementById('maint-0').style.display = 'block';
 }
-let startDt = new Date(2025, 3, 30, 8, 30);
-let endDt = new Date(2025, 3, 30, 11, 30);
-if ((startDt < nowDt) && (nowDt < endDt)){
+let startDt1 = new Date(2025, 3, 30, 8, 30);
+let endDt1 = new Date(2025, 3, 30, 11, 30);
+if ((startDt1 < nowDt) && (nowDt < endDt1)){
   document.getElementById('maint-ongoing-1').style.display = 'block';
   document.getElementById('maint-1').style.display = 'block';
 }
-else if (nowDt < startDt){
+else if (nowDt < startDt1){
   document.getElementById('maint-ongoing-1').style.display = 'block';
   document.getElementById('maint-1').style.display = 'block';
 }
-let startDt = new Date(2025, 4, 8, 21, 5);
-let endDt = new Date(2025, 4, 8, 21, 50);
-if ((startDt < nowDt) && (nowDt < endDt)){
+let startDt2 = new Date(2025, 4, 8, 21, 5);
+let endDt2 = new Date(2025, 4, 8, 21, 50);
+if ((startDt2 < nowDt) && (nowDt < endDt2)){
   document.getElementById('maint-ongoing-2').style.display = 'block';
   document.getElementById('maint-2').style.display = 'block';
 }
-else if (nowDt < startDt){
+else if (nowDt < startDt2){
   document.getElementById('maint-ongoing-2').style.display = 'block';
   document.getElementById('maint-2').style.display = 'block';
 }
-let startDt = new Date(2025, 5, 23, 8, 30);
-let endDt = new Date(2025, 5, 23, 11, 30);
-if ((startDt < nowDt) && (nowDt < endDt)){
+let startDt3 = new Date(2025, 5, 23, 8, 30);
+let endDt3 = new Date(2025, 5, 23, 11, 30);
+if ((startDt3 < nowDt) && (nowDt < endDt3)){
   document.getElementById('maint-ongoing-3').style.display = 'block';
   document.getElementById('maint-3').style.display = 'block';
 }
-else if (nowDt < startDt){
+else if (nowDt < startDt3){
   document.getElementById('maint-ongoing-3').style.display = 'block';
   document.getElementById('maint-3').style.display = 'block';
 }
