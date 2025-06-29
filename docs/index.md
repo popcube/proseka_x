@@ -1,8 +1,49 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/29 10:03
+### 最終更新：2025/06/29 10:10
 
+<div class="highlight" id="maint-ongoing" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint" style="display: none;">
+06/23（月） 08:30 ～ 11:30
+[公式ポスト](https://x.com/pj_sekai/status/1936001884743254081)
+　＊これはテストです
+<div class="highlight" id="maint-ongoing" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint" style="display: none;">
+05/08（木） 21:05 ～ 21:50
+[公式ポスト](https://x.com/pj_sekai/status/1920088826858377698)
+　＊これはテストです
+<div class="highlight" id="maint-ongoing" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint" style="display: none;">
+04/30（水） 08:30 ～ 11:30
+[公式ポスト](https://x.com/pj_sekai/status/1915753224046547106)
+　＊これはテストです
+<div class="highlight" id="maint-ongoing" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint" style="display: none;">
+03/30（日） 08:30 ～ 11:30
+[公式ポスト](https://x.com/pj_sekai/status/1905622455705882871)
+　＊これはテストです
+</div>
 
 ---
 
@@ -4667,4 +4708,16 @@
 <br>
 [👑ワンダー...](https://x.com/pj_sekai/status/1904825902372184285)
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
+let nowDt = new Date(2025, 6,23, 9);
+let startDt = new Date(2025, 2, 30, 8, 30);
+let endDt = new Date(2025, 2, 30, 11, 30);
+if (startDt < nowDt) && (nowDt < endDt){
+  document.getElementById('maint-ongoing').style.display = 'block';
+  document.getElementById('maint').style.display = 'block';
+}
+else if (nowDt < startDt){
+  document.getElementById('maint-ongoing').style.display = 'block';
+  document.getElementById('maint').style.display = 'block';
+}
+</script>
