@@ -128,7 +128,7 @@ def main():
                 + " ～ "
                 + row.END.strftime("%H:%M"))
     source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'
-    res.append(f'<a href="{source_url}">公式ポスト</a>')
+    res.append(f'　<a href="{source_url}">公式ポスト</a>')
     res.append("　＊これはテストです") #delete this
     res.append("</div>")
     
