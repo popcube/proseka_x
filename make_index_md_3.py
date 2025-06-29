@@ -104,7 +104,7 @@ def main():
   datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
   datetime_df.columns = ['START', 'END']
   # notice_df = datetime_df[datetime_df["END"].ge(now_dt)].sort_values("START")
-  notice_df = datetime_df[datetime_df["END"].sort_values("START", ascending=False) # Switch this for testing 
+  notice_df = datetime_df.sort_values("START", ascending=False) # Switch this for testing 
   res.append
   for row in notice_df.itertuples():
     res.append('<div class="highlight" id="maint-ongoing" style="display: none;"><div class="gd">')
