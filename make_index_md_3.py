@@ -103,8 +103,8 @@ def main():
   raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
   datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
   datetime_df.columns = ['START', 'END']
-  # notice_df = datetime_df[datetime_df["END"].ge(now_dt)].sort_values("START")
-  notice_df = datetime_df.sort_values("START") # Switch this for testing 
+  notice_df = datetime_df[datetime_df["END"].ge(now_dt)].sort_values("START")
+  # notice_df = datetime_df.sort_values("START") # Switch this for testing 
   for id_num, row in enumerate(notice_df.itertuples()):
     res.append(f'<div class="highlight" id="maint-ongoing-{id_num}" style="display: none;"><div class="gd">')
     res.append("【メンテナンス実施中】")
@@ -204,8 +204,8 @@ def main():
   #   document.getElementById('maint').style.display = 'block';
   # }
   res.append('<script>')
-  res.append("let nowDt = new Date(2025, 6 - 1,22, 9);") # Switch for testing
-  # res.append("let nowDt = new Date();") 
+  # res.append("let nowDt = new Date(2025, 6-1, 23, 9);") # Switch for testing
+  res.append("let nowDt = new Date();") 
 
   for id_num, row in enumerate(notice_df.itertuples()):
     res.append(f"let startDt{id_num} = new Date({row.START.year}, {row.START.month - 1}, {row.START.day}, {row.START.hour}, {row.START.minute});")
