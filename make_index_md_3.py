@@ -215,7 +215,7 @@ def main():
     res.append(f"  document.getElementById('maint-{id_num}').style.display = 'block';")
     res.append("}")
     res.append(f"else if (nowDt < startDt{id_num}){{")
-    res.append(f"  document.getElementById('maint-ongoing-{id_num}').style.display = 'block';")
+    res.append(f"  document.getElementById('maint-planned-{id_num}').style.display = 'block';")
     res.append(f"  document.getElementById('maint-{id_num}').style.display = 'block';")
     res.append("}") 
     
