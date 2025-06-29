@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/29 11:07
+### 最終更新：2025/06/29 11:12
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -11,7 +11,7 @@
 </div></div>
 <div id="maint-0" style="display: none;">
 03/30（日） 08:30 ～ 11:30
-[公式ポスト](https://x.com/pj_sekai/status/1905622455705882871)
+<a href="https://x.com/pj_sekai/status/1905622455705882871">公式ポスト</a>
 　＊これはテストです
 </div>
 <div class="highlight" id="maint-ongoing-1" style="display: none;"><div class="gd">
@@ -22,7 +22,7 @@
 </div></div>
 <div id="maint-1" style="display: none;">
 04/30（水） 08:30 ～ 11:30
-[公式ポスト](https://x.com/pj_sekai/status/1915753224046547106)
+<a href="https://x.com/pj_sekai/status/1915753224046547106">公式ポスト</a>
 　＊これはテストです
 </div>
 <div class="highlight" id="maint-ongoing-2" style="display: none;"><div class="gd">
@@ -33,7 +33,7 @@
 </div></div>
 <div id="maint-2" style="display: none;">
 05/08（木） 21:05 ～ 21:50
-[公式ポスト](https://x.com/pj_sekai/status/1920088826858377698)
+<a href="https://x.com/pj_sekai/status/1920088826858377698">公式ポスト</a>
 　＊これはテストです
 </div>
 <div class="highlight" id="maint-ongoing-3" style="display: none;"><div class="gd">
@@ -44,7 +44,7 @@
 </div></div>
 <div id="maint-3" style="display: none;">
 06/23（月） 08:30 ～ 11:30
-[公式ポスト](https://x.com/pj_sekai/status/1936001884743254081)
+<a href="https://x.com/pj_sekai/status/1936001884743254081">公式ポスト</a>
 　＊これはテストです
 </div>
 
@@ -4712,7 +4712,7 @@
 [👑ワンダー...](https://x.com/pj_sekai/status/1904825902372184285)
 
 <script>
-let nowDt = new Date(2025, 6 - 1,23, 9);
+let nowDt = new Date(2025, 6 - 1,22, 9);
 let startDt0 = new Date(2025, 2, 30, 8, 30);
 let endDt0 = new Date(2025, 2, 30, 11, 30);
 if ((startDt0 < nowDt) && (nowDt < endDt0)){
