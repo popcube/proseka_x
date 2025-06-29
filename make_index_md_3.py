@@ -187,7 +187,6 @@ def main():
   # sys.exit(1)
     
   res.append("")
-  res.append('<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">')
 
 
     
@@ -204,6 +203,7 @@ def main():
   #   document.getElementById('maint-ongoing').style.display = 'block';
   #   document.getElementById('maint').style.display = 'block';
   # }
+  res.append('<script>')
   res.append("let nowDt = new Date(2025, 6 - 1,23, 9);")
     # res.append("let nowDt = new Date(2025, );")
 
@@ -220,6 +220,8 @@ def main():
     res.append("}") 
     
   res.append('</script>')
+  
+  res.append('<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script')
       
   with open(
     "./docs/index.md", "w",
