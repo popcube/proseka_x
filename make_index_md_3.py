@@ -204,8 +204,8 @@ def main():
   #   document.getElementById('maint').style.display = 'block';
   # }
   res.append('<script>')
-  res.append("let nowDt = new Date(2025, 6 - 1,22, 9);")
-    # res.append("let nowDt = new Date(2025, );")
+  res.append("let nowDt = new Date(2025, 6 - 1,22, 9);") # Switch for testing
+  # res.append("let nowDt = new Date();") 
 
   for id_num, row in enumerate(notice_df.itertuples()):
     res.append(f"let startDt{id_num} = new Date({row.START.year}, {row.START.month - 1}, {row.START.day}, {row.START.hour}, {row.START.minute});")
