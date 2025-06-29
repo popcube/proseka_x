@@ -103,7 +103,8 @@ def main():
   raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
   datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
   datetime_df.columns = ['START', 'END']
-  notice_df = datetime_df[datetime_df["END"].ge(now_dt)].sort_values("START")
+  # notice_df = datetime_df[datetime_df["END"].ge(now_dt)].sort_values("START")
+  notice_df = datetime_df[datetime_df["END"].sort_values("START", ascending=False) # Switch this for testing 
   res.append
   for row in notice_df.itertuples():
     res.append('<div class="highlight" id="maint-ongoing" style="display: none;"><div class="gd">')
@@ -128,8 +129,8 @@ def main():
                 + " ～ "
                 + row.END.strftime("%H:%M"))
     source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'
-  res.append(f'[公式ポスト]({source_url})')
-  res.append("　＊これはテストです") #delete this
+    res.append(f'[公式ポスト]({source_url})')
+    res.append("　＊これはテストです") #delete this
   res.append("</div>")
     
     # print(row, flush=True)
