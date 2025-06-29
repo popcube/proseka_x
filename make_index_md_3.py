@@ -128,7 +128,7 @@ def main():
                 + " ～ "
                 + row.END.strftime("%H:%M"))
     source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'
-    res.append(f'[公式ポスト]({source_url})')
+    res.append(f'<a href="{source_url}">公式ポスト</a>')
     res.append("　＊これはテストです") #delete this
     res.append("</div>")
     
@@ -204,7 +204,7 @@ def main():
   #   document.getElementById('maint').style.display = 'block';
   # }
   res.append('<script>')
-  res.append("let nowDt = new Date(2025, 6 - 1,23, 9);")
+  res.append("let nowDt = new Date(2025, 6 - 1,22, 9);")
     # res.append("let nowDt = new Date(2025, );")
 
   for id_num, row in enumerate(notice_df.itertuples()):
