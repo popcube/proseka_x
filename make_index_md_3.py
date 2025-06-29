@@ -208,13 +208,13 @@ def main():
     # res.append("let nowDt = new Date(2025, );")
 
   for id_num, row in enumerate(notice_df.itertuples()):
-    res.append(f"let startDt = new Date({row.START.year}, {row.START.month - 1}, {row.START.day}, {row.START.hour}, {row.START.minute});")
-    res.append(f"let endDt = new Date({row.END.year}, {row.END.month - 1}, {row.END.day}, {row.END.hour}, {row.END.minute});")
-    res.append("if ((startDt < nowDt) && (nowDt < endDt)){")
+    res.append(f"let startDt{id_num} = new Date({row.START.year}, {row.START.month - 1}, {row.START.day}, {row.START.hour}, {row.START.minute});")
+    res.append(f"let endDt{id_num} = new Date({row.END.year}, {row.END.month - 1}, {row.END.day}, {row.END.hour}, {row.END.minute});")
+    res.append(f"if ((startDt{id_num} < nowDt) && (nowDt < endDt{id_num})){{")
     res.append(f"  document.getElementById('maint-ongoing-{id_num}').style.display = 'block';")
     res.append(f"  document.getElementById('maint-{id_num}').style.display = 'block';")
     res.append("}")
-    res.append("else if (nowDt < startDt){")
+    res.append(f"else if (nowDt < startDt{id_num}){{")
     res.append(f"  document.getElementById('maint-ongoing-{id_num}').style.display = 'block';")
     res.append(f"  document.getElementById('maint-{id_num}').style.display = 'block';")
     res.append("}") 
