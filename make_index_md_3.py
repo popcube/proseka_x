@@ -131,7 +131,7 @@ def main():
     source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'
     res.append(f'[公式ポスト]({source_url})')
     res.append("　＊これはテストです") #delete this
-  res.append("</div>")
+    res.append("</div>")
     
     # print(row, flush=True)
 
