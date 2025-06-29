@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/06/29 10:50
+### 最終更新：2025/06/29 11:00
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -4715,7 +4715,7 @@
 let nowDt = new Date(2025, 6 - 1,23, 9);
 let startDt = new Date(2025, 2, 30, 8, 30);
 let endDt = new Date(2025, 2, 30, 11, 30);
-if (startDt < nowDt) && (nowDt < endDt){
+if ((startDt < nowDt) && (nowDt < endDt)){
   document.getElementById('maint-ongoing-0').style.display = 'block';
   document.getElementById('maint-0').style.display = 'block';
 }
@@ -4725,7 +4725,7 @@ else if (nowDt < startDt){
 }
 let startDt = new Date(2025, 3, 30, 8, 30);
 let endDt = new Date(2025, 3, 30, 11, 30);
-if (startDt < nowDt) && (nowDt < endDt){
+if ((startDt < nowDt) && (nowDt < endDt)){
   document.getElementById('maint-ongoing-1').style.display = 'block';
   document.getElementById('maint-1').style.display = 'block';
 }
@@ -4735,7 +4735,7 @@ else if (nowDt < startDt){
 }
 let startDt = new Date(2025, 4, 8, 21, 5);
 let endDt = new Date(2025, 4, 8, 21, 50);
-if (startDt < nowDt) && (nowDt < endDt){
+if ((startDt < nowDt) && (nowDt < endDt)){
   document.getElementById('maint-ongoing-2').style.display = 'block';
   document.getElementById('maint-2').style.display = 'block';
 }
@@ -4745,7 +4745,7 @@ else if (nowDt < startDt){
 }
 let startDt = new Date(2025, 5, 23, 8, 30);
 let endDt = new Date(2025, 5, 23, 11, 30);
-if (startDt < nowDt) && (nowDt < endDt){
+if ((startDt < nowDt) && (nowDt < endDt)){
   document.getElementById('maint-ongoing-3').style.display = 'block';
   document.getElementById('maint-3').style.display = 'block';
 }
@@ -4754,4 +4754,4 @@ else if (nowDt < startDt){
   document.getElementById('maint-3').style.display = 'block';
 }
 </script>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
