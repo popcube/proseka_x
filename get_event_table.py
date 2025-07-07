@@ -52,9 +52,10 @@ def date_convert(in_df, start=False, end=False):
         world_link_sr = in_df["形式"] == "ワールドリンク"
         res_sr[world_link_sr] = in_df[world_link_sr]["開始日"].apply(make_date_str_T20)
         
-        # [special attend] one event started with delay due to extended maintenance
+        # [special attend] some events started with delay due to extended/emergency maintenance
         res_sr[120] = pd.Timestamp(2024, 1, 31, 20)
         res_sr[145] = pd.Timestamp(2024, 10, 12, 18)
+        res_sr[171] = pd.Timestamp(2025, 7, 7, 17)
         
         # normal event start time
         remains_sr = res_sr.apply(lambda x: type(x) == str)
