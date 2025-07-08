@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/07 20:23
+### 最終更新：2025/07/08 16:15
 
+
+---
+
+**DATE**: 07/08（火） 15:25
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1942470041209036980"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 07/07（月） 17:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1942133016639557729"></a>
-</blockquote>
+[本日より、...](https://x.com/pj_sekai/status/1942133016639557729)
 
 ---
 
@@ -2171,13 +2177,13 @@
 
 **DATE**: 05/23（金） 12:03
 <br>
-[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
+[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
 
 ---
 
 **DATE**: 05/23（金） 12:03
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
+[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
 
 ---
 
@@ -3548,13 +3554,13 @@
 
 **DATE**: 04/22（火） 12:11
 <br>
-[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
+[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
 
 ---
 
 **DATE**: 04/22（火） 12:11
 <br>
-[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
+[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
 
 ---
 
@@ -3985,24 +3991,6 @@
 **DATE**: 04/05（土） 15:06
 <br>
 [本日15時...](https://x.com/pj_sekai/status/1908400781495251303)
-
----
-
-**DATE**: 04/04（金） 15:05
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1908038201119486307)
-
----
-
-**DATE**: 04/04（金） 15:05
-<br>
-[本日15時...](https://x.com/pj_sekai/status/1908038189841031573)
-
----
-
-**DATE**: 04/04（金） 12:03
-<br>
-[『Livi...](https://x.com/pj_sekai/status/1907992346089734567)
 
 <script>
 let nowDt = new Date();
