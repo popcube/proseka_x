@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/08 19:15
+### 最終更新：2025/07/09 12:49
 
+
+---
+
+**DATE**: 07/09（水） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1942780760152215644"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 07/07（月） 18:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1942147240098930728"></a>
-</blockquote>
+[「プロセカ...](https://x.com/pj_sekai/status/1942147240098930728)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -3981,22 +3989,6 @@
 **DATE**: 04/06（日） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1908852288212586929)
-
----
-
-**DATE**: 04/06（日） 21:00 イベント「**Find the dream view**」 終了
-
----
-
-**DATE**: 04/05（土） 15:06
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1908400807273521264)
-
----
-
-**DATE**: 04/05（土） 15:06
-<br>
-[本日15時...](https://x.com/pj_sekai/status/1908400781495251303)
 
 <script>
 let nowDt = new Date();
