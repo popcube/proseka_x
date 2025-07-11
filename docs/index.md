@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/11 13:32
+### 最終更新：2025/07/11 22:43
 
+
+---
+
+**DATE**: 07/11（金） 21:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1943649166322008126"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 07/09（水） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1942780760152215644"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/1942780760152215644)
+<br>
+#セカイの4コマ
 
 ---
 
@@ -1489,13 +1497,13 @@
 
 ---
 
-**DATE**: 06/07（土） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
+**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
 
 ---
 
-**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
+**DATE**: 06/07（土） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
 
 ---
 
@@ -2217,13 +2225,13 @@
 
 **DATE**: 05/23（金） 12:03
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
+[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
 
 ---
 
 **DATE**: 05/23（金） 12:03
 <br>
-[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
+[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
 
 ---
 
@@ -3917,66 +3925,6 @@
 [本日15時...](https://x.com/pj_sekai/status/1909487698643194124)
 <br>
 #ビビバス
-
----
-
-**DATE**: 04/08（火） 12:05
-<br>
-[【煌めく記...](https://x.com/pj_sekai/status/1909442474017538168)
-
----
-
-**DATE**: 04/08（火） 12:05
-<br>
-[『Glan...](https://x.com/pj_sekai/status/1909442471375126797)
-
----
-
-**DATE**: 04/08（火） 12:05
-<br>
-[【予想外の...](https://x.com/pj_sekai/status/1909442427838148849)
-
----
-
-**DATE**: 04/08（火） 12:05
-<br>
-[『Glan...](https://x.com/pj_sekai/status/1909442425388777941)
-
----
-
-**DATE**: 04/08（火） 12:05
-<br>
-[【切なさも...](https://x.com/pj_sekai/status/1909442400139042907)
-
----
-
-**DATE**: 04/08（火） 12:05
-<br>
-[『Glan...](https://x.com/pj_sekai/status/1909442397689585960)
-
----
-
-**DATE**: 04/08（火） 12:05
-<br>
-[【夕暮れ色...](https://x.com/pj_sekai/status/1909442348628799995)
-
----
-
-**DATE**: 04/08（火） 12:05
-<br>
-[『Glan...](https://x.com/pj_sekai/status/1909442346070192502)
-
----
-
-**DATE**: 04/08（火） 11:35
-<br>
-[「Beyo...](https://x.com/pj_sekai/status/1909434905995755713)
-
----
-
-**DATE**: 04/08（火） 11:35
-<br>
-[下記楽曲の...](https://x.com/pj_sekai/status/1909434846356910100)
 
 <script>
 let nowDt = new Date();
