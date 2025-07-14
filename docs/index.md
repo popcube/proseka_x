@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/13 22:38
+### 最終更新：2025/07/14 15:22
 
+
+---
+
+**DATE**: 07/14（月） 15:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1944638555168342501"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,7 @@
 
 **DATE**: 07/13（日） 12:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1944230740931358735"></a>
-</blockquote>
+[本日12時...](https://x.com/pj_sekai/status/1944230740931358735)
 
 ---
 
@@ -2271,13 +2277,13 @@
 
 **DATE**: 05/23（金） 12:01
 <br>
-[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
+[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
 
 ---
 
 **DATE**: 05/23（金） 12:01
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
+[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
 
 ---
 
@@ -2319,13 +2325,13 @@
 
 ---
 
-**DATE**: 05/21（水） 20:00
-<br>
-[本日21時...](https://x.com/pj_sekai/status/1925144540140188079)
+**DATE**: 05/21（水） 20:00 イベント「**Dear my fellows**」 終了
 
 ---
 
-**DATE**: 05/21（水） 20:00 イベント「**Dear my fellows**」 終了
+**DATE**: 05/21（水） 20:00
+<br>
+[本日21時...](https://x.com/pj_sekai/status/1925144540140188079)
 
 ---
 
