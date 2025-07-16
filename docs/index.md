@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/15 18:48
+### 最終更新：2025/07/16 18:45
 
+
+---
+
+**DATE**: 07/16（水） 18:21
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1945413389960044945"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 07/15（火） 15:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1945003254296777199"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/1945003254296777199)
+<br>
+#コネクトライブ
 
 ---
 
@@ -1613,13 +1621,13 @@
 
 **DATE**: 06/09（月） 12:01
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
+[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
 
 ---
 
 **DATE**: 06/09（月） 12:01
 <br>
-[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
+[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
 
 ---
 
@@ -3973,18 +3981,6 @@
 [㊗️本日4...](https://x.com/pj_sekai/status/1911434201586684357)
 <br>
 #花里みのり誕生祭2025
-
----
-
-**DATE**: 04/12（土） 15:01
-<br>
-[4月14日...](https://x.com/pj_sekai/status/1910936334052864315)
-
----
-
-**DATE**: 04/12（土） 15:01
-<br>
-[☘️花里み...](https://x.com/pj_sekai/status/1910936319167258635)
 
 <script>
 let nowDt = new Date();
