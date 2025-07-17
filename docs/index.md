@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/16 18:45
+### 最終更新：2025/07/17 12:21
 
+
+---
+
+**DATE**: 07/17（木） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1945679857083449821"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 07/15（火） 15:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1945003379308024135"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/1945003379308024135)
+<br>
+#コネクトライブ
 
 ---
 
@@ -90,25 +98,25 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
-
----
-
-**DATE**: 07/15（火） 12:05
-<br>
 [【お楽しみ...](https://x.com/pj_sekai/status/1944956546657739037)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
+[「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
 [【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
+
+---
+
+**DATE**: 07/15（火） 12:05
+<br>
+[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
 
 ---
 
@@ -1621,13 +1629,13 @@
 
 **DATE**: 06/09（月） 12:01
 <br>
-[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
+[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
 
 ---
 
 **DATE**: 06/09（月） 12:01
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
+[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
 
 ---
 
@@ -2695,13 +2703,13 @@
 
 **DATE**: 05/09（金） 12:05
 <br>
-[【決意を胸...](https://x.com/pj_sekai/status/1920676378824905121)
+[『Drea...](https://x.com/pj_sekai/status/1920676375729438953)
 
 ---
 
 **DATE**: 05/09（金） 12:05
 <br>
-[『Drea...](https://x.com/pj_sekai/status/1920676375729438953)
+[【決意を胸...](https://x.com/pj_sekai/status/1920676378824905121)
 
 ---
 
@@ -3965,22 +3973,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/1911615396786090022)
 <br>
 #セカイの4コマ #花里みのり誕生祭2025
-
----
-
-**DATE**: 04/14（月） 00:01
-<br>
-[☘️花里み...](https://x.com/pj_sekai/status/1911434450522743146)
-<br>
-#花里みのり誕生祭2025
-
----
-
-**DATE**: 04/14（月） 00:00
-<br>
-[㊗️本日4...](https://x.com/pj_sekai/status/1911434201586684357)
-<br>
-#花里みのり誕生祭2025
 
 <script>
 let nowDt = new Date();
