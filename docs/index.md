@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/17 18:18
+### 最終更新：2025/07/18 12:56
 
+
+---
+
+**DATE**: 07/18（金） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1946042645429805315"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 07/15（火） 18:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1945045925572882445"></a>
-</blockquote>
+[✉プロセカ...](https://x.com/pj_sekai/status/1945045925572882445)
 
 ---
 
@@ -1619,13 +1625,13 @@
 
 **DATE**: 06/09（月） 12:02
 <br>
-[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
+[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
 
 ---
 
 **DATE**: 06/09（月） 12:02
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
+[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
 
 ---
 
@@ -3959,34 +3965,6 @@
 **DATE**: 04/15（火） 12:00
 <br>
 [✉プロセカ...](https://x.com/pj_sekai/status/1911977791735939142)
-
----
-
-**DATE**: 04/14（月） 20:02
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/1911736815138013518)
-
----
-
-**DATE**: 04/14（月） 15:03
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1911661580422664373)
-
----
-
-**DATE**: 04/14（月） 15:02
-<br>
-[本日15時...](https://x.com/pj_sekai/status/1911661315434905910)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 04/14（月） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/1911615396786090022)
-<br>
-#セカイの4コマ #花里みのり誕生祭2025
 
 <script>
 let nowDt = new Date();
