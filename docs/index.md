@@ -1,8 +1,42 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/18 23:14
+### 最終更新：2025/07/19 13:25
 
+<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-0" style="display: none;">
+07/23（水） 08:30 ～ 11:30
+　<a href="https://x.com/pj_sekai/status/1946406009628688520">公式ポスト</a>
+</div>
+
+---
+
+**DATE**: 07/19（土） 12:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1946406680469876902"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/19（土） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1946406009628688520"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/19（土） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1946405989655486881"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +58,19 @@
 
 **DATE**: 07/18（金） 18:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1946133398755713250"></a>
-</blockquote>
+[NHKラジ...](https://x.com/pj_sekai/status/1946133398755713250)
 
 ---
 
 **DATE**: 07/18（金） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1946088571183792291"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/1946088571183792291)
 
 ---
 
 **DATE**: 07/18（金） 15:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1946088323363287140"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/1946088323363287140)
 
 ---
 
@@ -1675,13 +1703,13 @@
 
 **DATE**: 06/09（月） 12:02
 <br>
-[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
+[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
 
 ---
 
 **DATE**: 06/09（月） 12:02
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
+[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
 
 ---
 
@@ -1699,13 +1727,13 @@
 
 **DATE**: 06/09（月） 12:01
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
+[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
 
 ---
 
 **DATE**: 06/09（月） 12:01
 <br>
-[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
+[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
 
 ---
 
@@ -1747,13 +1775,13 @@
 
 ---
 
-**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
-
----
-
 **DATE**: 06/07（土） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
+
+---
+
+**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
 
 ---
 
@@ -2475,13 +2503,13 @@
 
 **DATE**: 05/23（金） 12:03
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
+[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
 
 ---
 
 **DATE**: 05/23（金） 12:03
 <br>
-[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
+[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
 
 ---
 
@@ -2897,13 +2925,13 @@
 
 ---
 
-**DATE**: 05/06（火） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
+**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
 
 ---
 
-**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
+**DATE**: 05/06（火） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
 
 ---
 
@@ -3852,13 +3880,13 @@
 
 **DATE**: 04/22（火） 12:11
 <br>
-[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
+[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
 
 ---
 
 **DATE**: 04/22（火） 12:11
 <br>
-[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
+[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
 
 ---
 
@@ -3986,31 +4014,17 @@
 <br>
 [🎧25時、...](https://x.com/pj_sekai/status/1912340694410359130)
 
----
-
-**DATE**: 04/15（火） 18:37
-<br>
-[【緊急メン...](https://x.com/pj_sekai/status/1912077797834825932)
-
----
-
-**DATE**: 04/15（火） 18:11
-<br>
-[【緊急メン...](https://x.com/pj_sekai/status/1912071149657473500)
-
----
-
-**DATE**: 04/15（火） 17:35
-<br>
-[【緊急メン...](https://x.com/pj_sekai/status/1912062163071733877)
-
----
-
-**DATE**: 04/15（火） 16:59
-<br>
-[【緊急メン...](https://x.com/pj_sekai/status/1912053220811456694)
-
 <script>
 let nowDt = new Date();
+let startDt0 = new Date(2025, 6, 23, 8, 30);
+let endDt0 = new Date(2025, 6, 23, 11, 30);
+if ((startDt0 < nowDt) && (nowDt < endDt0)){
+  document.getElementById('maint-ongoing-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
+else if (nowDt < startDt0){
+  document.getElementById('maint-planned-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
