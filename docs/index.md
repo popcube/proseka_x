@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/19 20:38
+### 最終更新：2025/07/19 21:26
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -13,6 +13,14 @@
 07/23（水） 08:30 ～ 11:30
 　<a href="https://x.com/pj_sekai/status/1946406009628688520">公式ポスト</a>
 </div>
+
+---
+
+**DATE**: 07/19（土） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1946540523411435755"></a>
+</blockquote>
 
 ---
 
@@ -50,9 +58,7 @@
 
 **DATE**: 07/18（金） 21:35
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1946187099021136206"></a>
-</blockquote>
+[💭プロセカ...](https://x.com/pj_sekai/status/1946187099021136206)
 
 ---
 
@@ -4013,12 +4019,6 @@
 [『春嵐』F...](https://x.com/pj_sekai/status/1912432283426123817)
 <br>
 #ビビバス
-
----
-
-**DATE**: 04/16（水） 12:02
-<br>
-[🎧25時、...](https://x.com/pj_sekai/status/1912340694410359130)
 
 <script>
 let nowDt = new Date();
