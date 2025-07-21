@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/20 12:39
+### 最終更新：2025/07/21 12:29
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -13,6 +13,22 @@
 07/23（水） 08:30 ～ 11:30
 　<a href="https://x.com/pj_sekai/status/1946406009628688520">公式ポスト</a>
 </div>
+
+---
+
+**DATE**: 07/21（月） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1947129781612695919"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/21（月） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1947129769818194370"></a>
+</blockquote>
 
 ---
 
@@ -42,17 +58,17 @@
 
 **DATE**: 07/19（土） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1946540523411435755"></a>
-</blockquote>
+[8月1日（...](https://x.com/pj_sekai/status/1946540523411435755)
+<br>
+#セカラジ
 
 ---
 
 **DATE**: 07/19（土） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1946525433497030799"></a>
-</blockquote>
+[📺WEBラ...](https://x.com/pj_sekai/status/1946525433497030799)
+<br>
+#セカラジ
 
 ---
 
@@ -1735,13 +1751,13 @@
 
 **DATE**: 06/09（月） 12:02
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
+[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
 
 ---
 
 **DATE**: 06/09（月） 12:02
 <br>
-[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
+[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
 
 ---
 
@@ -1759,13 +1775,13 @@
 
 **DATE**: 06/09（月） 12:01
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
+[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
 
 ---
 
 **DATE**: 06/09（月） 12:01
 <br>
-[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
+[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
 
 ---
 
@@ -1973,13 +1989,13 @@
 
 **DATE**: 05/31（土） 12:04
 <br>
-[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
+[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
 
 ---
 
 **DATE**: 05/31（土） 12:04
 <br>
-[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
+[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
 
 ---
 
@@ -2535,13 +2551,13 @@
 
 **DATE**: 05/23（金） 12:03
 <br>
-[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
+[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
 
 ---
 
 **DATE**: 05/23（金） 12:03
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
+[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
 
 ---
 
@@ -2833,13 +2849,13 @@
 
 **DATE**: 05/09（金） 12:05
 <br>
-[『Drea...](https://x.com/pj_sekai/status/1920676375729438953)
+[【決意を胸...](https://x.com/pj_sekai/status/1920676378824905121)
 
 ---
 
 **DATE**: 05/09（金） 12:05
 <br>
-[【決意を胸...](https://x.com/pj_sekai/status/1920676378824905121)
+[『Drea...](https://x.com/pj_sekai/status/1920676375729438953)
 
 ---
 
@@ -2957,13 +2973,13 @@
 
 ---
 
-**DATE**: 05/06（火） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
+**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
 
 ---
 
-**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
+**DATE**: 05/06（火） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
 
 ---
 
@@ -3912,13 +3928,13 @@
 
 **DATE**: 04/22（火） 12:11
 <br>
-[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
+[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
 
 ---
 
 **DATE**: 04/22（火） 12:11
 <br>
-[【凛と、未...](https://x.com/pj_sekai/status/1914517500886491613)
+[『Bloo...](https://x.com/pj_sekai/status/1914517498906730782)
 
 ---
 
@@ -4005,32 +4021,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/1913065463015432372)
 <br>
 #セカイの4コマ
-
----
-
-**DATE**: 04/17（木） 20:04
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/1912824498950398340)
-
----
-
-**DATE**: 04/17（木） 19:03
-<br>
-[プロジェク...](https://x.com/pj_sekai/status/1912809152038273431)
-
----
-
-**DATE**: 04/17（木） 18:17
-<br>
-[🎧25時、...](https://x.com/pj_sekai/status/1912797661444653457)
-
----
-
-**DATE**: 04/17（木） 18:00
-<br>
-[『春嵐』F...](https://x.com/pj_sekai/status/1912793153691693135)
-<br>
-#ビビバス
 
 <script>
 let nowDt = new Date();
