@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/21 12:29
+### 最終更新：2025/07/21 21:30
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -13,6 +13,26 @@
 07/23（水） 08:30 ～ 11:30
 　<a href="https://x.com/pj_sekai/status/1946406009628688520">公式ポスト</a>
 </div>
+
+---
+
+**DATE**: 07/21（月） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1947265484614688811"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/21（月） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1947265299264524673"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
 
 ---
 
@@ -42,17 +62,17 @@
 
 **DATE**: 07/20（日） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1946586075176067183"></a>
-</blockquote>
+[👑草薙寧々...](https://x.com/pj_sekai/status/1946586075176067183)
+<br>
+#草薙寧々誕生祭2025
 
 ---
 
 **DATE**: 07/20（日） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1946585833982550424"></a>
-</blockquote>
+[㊗️本日7...](https://x.com/pj_sekai/status/1946585833982550424)
+<br>
+#草薙寧々誕生祭2025
 
 ---
 
@@ -244,13 +264,13 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
+[【お楽しみ...](https://x.com/pj_sekai/status/1944956546657739037)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【お楽しみ...](https://x.com/pj_sekai/status/1944956546657739037)
+[「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
 
 ---
 
@@ -481,13 +501,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
@@ -2563,13 +2583,13 @@
 
 **DATE**: 05/23（金） 12:01
 <br>
-[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
+[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
 
 ---
 
 **DATE**: 05/23（金） 12:01
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
+[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
 
 ---
 
@@ -4001,26 +4021,6 @@
 **DATE**: 04/18（金） 15:03
 <br>
 [本日15時...](https://x.com/pj_sekai/status/1913111154148401331)
-
----
-
-**DATE**: 04/18（金） 12:06
-<br>
-[📺番組冒頭...](https://x.com/pj_sekai/status/1913066502301098471)
-
----
-
-**DATE**: 04/18（金） 12:04
-<br>
-[4月25日...](https://x.com/pj_sekai/status/1913065993242628507)
-
----
-
-**DATE**: 04/18（金） 12:02
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/1913065463015432372)
-<br>
-#セカイの4コマ
 
 <script>
 let nowDt = new Date();
