@@ -1,8 +1,28 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/23 13:41
+### 最終更新：2025/07/23 15:30
 
+
+---
+
+**DATE**: 07/23（水） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1947901100075651568"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/23（水） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1947900784353677637"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/23（水） 15:00 イベント「**start rolling! stars' crossing**」 開始
 
 ---
 
@@ -24,25 +44,21 @@
 
 **DATE**: 07/23（水） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1947855846031168013"></a>
-</blockquote>
+[「Open...](https://x.com/pj_sekai/status/1947855843283947636)
 
 ---
 
 **DATE**: 07/23（水） 12:06
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1947855843283947636"></a>
+<a href="https://twitter.com/pj_sekai/status/1947855846031168013"></a>
 </blockquote>
 
 ---
 
 **DATE**: 07/23（水） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1947855546532696139"></a>
-</blockquote>
+[【素直な想...](https://x.com/pj_sekai/status/1947855546532696139)
 
 ---
 
@@ -114,13 +130,13 @@
 
 ---
 
-**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
-
----
-
 **DATE**: 07/21（月） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
+
+---
+
+**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
 
 ---
 
@@ -348,25 +364,25 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【お楽しみ...](https://x.com/pj_sekai/status/1944956546657739037)
-
----
-
-**DATE**: 07/15（火） 12:05
-<br>
 [「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
+[【お楽しみ...](https://x.com/pj_sekai/status/1944956546657739037)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
 [「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
+
+---
+
+**DATE**: 07/15（火） 12:05
+<br>
+[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
 
 ---
 
@@ -585,13 +601,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
@@ -1855,13 +1871,13 @@
 
 **DATE**: 06/09（月） 12:02
 <br>
-[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
+[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
 
 ---
 
 **DATE**: 06/09（月） 12:02
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
+[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
 
 ---
 
@@ -1879,13 +1895,13 @@
 
 **DATE**: 06/09（月） 12:01
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
+[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
 
 ---
 
 **DATE**: 06/09（月） 12:01
 <br>
-[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
+[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
 
 ---
 
@@ -1927,13 +1943,13 @@
 
 ---
 
-**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
-
----
-
 **DATE**: 06/07（土） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
+
+---
+
+**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
 
 ---
 
@@ -2655,13 +2671,13 @@
 
 **DATE**: 05/23（金） 12:03
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
+[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
 
 ---
 
 **DATE**: 05/23（金） 12:03
 <br>
-[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
+[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
 
 ---
 
@@ -2715,13 +2731,13 @@
 
 ---
 
-**DATE**: 05/21（水） 20:00 イベント「**Dear my fellows**」 終了
-
----
-
 **DATE**: 05/21（水） 20:00
 <br>
 [本日21時...](https://x.com/pj_sekai/status/1925144540140188079)
+
+---
+
+**DATE**: 05/21（水） 20:00 イベント「**Dear my fellows**」 終了
 
 ---
 
