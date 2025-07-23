@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/23 12:58
+### 最終更新：2025/07/23 13:41
 
+
+---
+
+**DATE**: 07/23（水） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1947855879065505995"></a>
+</blockquote>
 
 ---
 
@@ -17,32 +25,48 @@
 **DATE**: 07/23（水） 12:06
 <br>
 <blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1947855846031168013"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/23（水） 12:06
+<br>
+<blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1947855843283947636"></a>
 </blockquote>
 
 ---
 
-**DATE**: 07/23（水） 12:04
+**DATE**: 07/23（水） 12:05
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1947855361375146042"></a>
+<a href="https://twitter.com/pj_sekai/status/1947855546532696139"></a>
 </blockquote>
+
+---
+
+**DATE**: 07/23（水） 12:05
+<br>
+[「Open...](https://x.com/pj_sekai/status/1947855544112582856)
+
+---
+
+**DATE**: 07/23（水） 12:04
+<br>
+[『プロジェ...](https://x.com/pj_sekai/status/1947855361375146042)
 
 ---
 
 **DATE**: 07/23（水） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1947855039462248754"></a>
-</blockquote>
+[『プロジェ...](https://x.com/pj_sekai/status/1947855039462248754)
 
 ---
 
 **DATE**: 07/23（水） 11:37
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1947848597019758890"></a>
-</blockquote>
+[下記楽曲の...](https://x.com/pj_sekai/status/1947848597019758890)
 
 ---
 
@@ -561,13 +585,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
@@ -1903,13 +1927,13 @@
 
 ---
 
-**DATE**: 06/07（土） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
+**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
 
 ---
 
-**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
+**DATE**: 06/07（土） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
 
 ---
 
@@ -2069,13 +2093,13 @@
 
 **DATE**: 05/31（土） 12:04
 <br>
-[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
+[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
 
 ---
 
 **DATE**: 05/31（土） 12:04
 <br>
-[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
+[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
 
 ---
 
@@ -3053,13 +3077,13 @@
 
 ---
 
-**DATE**: 05/06（火） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
+**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
 
 ---
 
-**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
+**DATE**: 05/06（火） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
 
 ---
 
