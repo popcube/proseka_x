@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/24 15:54
+### 最終更新：2025/07/25 12:56
 
+
+---
+
+**DATE**: 07/25（金） 12:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1948580794479641039"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/25（金） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1948579504664056256"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,15 @@
 
 **DATE**: 07/23（水） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1947944790890541476"></a>
-</blockquote>
+[💭プロセカ...](https://x.com/pj_sekai/status/1947944790890541476)
 
 ---
 
 **DATE**: 07/23（水） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1947901100075651568"></a>
-</blockquote>
+[☘️MOR...](https://x.com/pj_sekai/status/1947901100075651568)
+<br>
+#モモジャン
 
 ---
 
@@ -400,13 +414,13 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
+[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
+[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
 
 ---
 
@@ -1895,13 +1909,13 @@
 
 **DATE**: 06/09（月） 12:02
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
+[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
 
 ---
 
 **DATE**: 06/09（月） 12:02
 <br>
-[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
+[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
 
 ---
 
@@ -1967,13 +1981,13 @@
 
 ---
 
-**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
-
----
-
 **DATE**: 06/07（土） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
+
+---
+
+**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
 
 ---
 
@@ -4097,20 +4111,6 @@
 **DATE**: 04/22（火） 11:43
 <br>
 [下記楽曲の...](https://x.com/pj_sekai/status/1914510408175771866)
-
----
-
-**DATE**: 04/21（月） 15:08
-<br>
-[明日、4月...](https://x.com/pj_sekai/status/1914199469165580766)
-
----
-
-**DATE**: 04/21（月） 12:00
-<br>
-[WEBラジ...](https://x.com/pj_sekai/status/1914152108594700374)
-<br>
-#セカラジ
 
 <script>
 let nowDt = new Date();
