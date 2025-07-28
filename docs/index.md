@@ -1,48 +1,96 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/28 20:49
+### 最終更新：2025/07/28 21:30
 
+
+---
+
+**DATE**: 07/28（月） 20:51
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1949799977359986826"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/28（月） 20:51
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1949799766948196728"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/28（月） 20:47
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1949798780972200045"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/28（月） 20:39
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1949796862426562940"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/28（月） 20:35
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1949795955437375514"></a>
+</blockquote>
 
 ---
 
 **DATE**: 07/28（月） 20:27
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1949793869639680011"></a>
-</blockquote>
+[🎶楽曲追加...](https://x.com/pj_sekai/status/1949793869639680011)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 07/28（月） 20:27
+<br>
+[🎶楽曲追加...](https://x.com/pj_sekai/status/1949793744187982201)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 07/28（月） 20:20
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1949792099114664079"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/1949792099114664079)
+<br>
+#プロセカ放送局 #たまごっち #Tamagotchi
 
 ---
 
 **DATE**: 07/28（月） 20:19
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1949791903995556101"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/1949791903995556101)
+<br>
+#プロセカ放送局 #たまごっち #Tamagotchi
 
 ---
 
 **DATE**: 07/28（月） 20:18
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1949791468543160356"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/1949791468543160356)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 07/28（月） 20:17
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1949791316482633805"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/1949791316482633805)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -430,13 +478,13 @@
 
 **DATE**: 07/23（水） 12:06
 <br>
-[「Open...](https://x.com/pj_sekai/status/1947855843283947636)
+[【Fant...](https://x.com/pj_sekai/status/1947855846031168013)
 
 ---
 
 **DATE**: 07/23（水） 12:06
 <br>
-[【Fant...](https://x.com/pj_sekai/status/1947855846031168013)
+[「Open...](https://x.com/pj_sekai/status/1947855843283947636)
 
 ---
 
@@ -748,25 +796,25 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
-
----
-
-**DATE**: 07/15（火） 12:05
-<br>
 [【お楽しみ...](https://x.com/pj_sekai/status/1944956546657739037)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
+[「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
 [「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
+
+---
+
+**DATE**: 07/15（火） 12:05
+<br>
+[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
 
 ---
 
@@ -961,13 +1009,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056710308569164)
+[【差し入れ...](https://x.com/pj_sekai/status/1942056712913162361)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【差し入れ...](https://x.com/pj_sekai/status/1942056712913162361)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056710308569164)
 
 ---
 
@@ -985,13 +1033,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
@@ -3353,13 +3401,13 @@
 
 **DATE**: 05/09（金） 12:05
 <br>
-[『Drea...](https://x.com/pj_sekai/status/1920676375729438953)
+[【決意を胸...](https://x.com/pj_sekai/status/1920676378824905121)
 
 ---
 
 **DATE**: 05/09（金） 12:05
 <br>
-[【決意を胸...](https://x.com/pj_sekai/status/1920676378824905121)
+[『Drea...](https://x.com/pj_sekai/status/1920676375729438953)
 
 ---
 
@@ -3477,13 +3525,13 @@
 
 ---
 
-**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
-
----
-
 **DATE**: 05/06（火） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
+
+---
+
+**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
 
 ---
 
@@ -4327,12 +4375,6 @@
 **DATE**: 04/25（金） 18:00
 <br>
 [このあと1...](https://x.com/pj_sekai/status/1915692263667314951)
-
----
-
-**DATE**: 04/25（金） 12:04
-<br>
-[本日19:...](https://x.com/pj_sekai/status/1915602815315267925)
 
 <script>
 let nowDt = new Date();
