@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/27 22:07
+### 最終更新：2025/07/28 12:39
 
+
+---
+
+**DATE**: 07/28（月） 12:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1949668142424150239"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/28（月） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1949666127933837396"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,17 @@
 
 **DATE**: 07/27（日） 19:47
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1949421355470049298"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/1949421355470049298)
+<br>
+#コネクトライブ #コネクトライブ
 
 ---
 
 **DATE**: 07/27（日） 17:58
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1949393835475472756"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/1949393835475472756)
+<br>
+#コネクトライブ #コネクトライブ
 
 ---
 
@@ -783,13 +799,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056710308569164)
+[【差し入れ...](https://x.com/pj_sekai/status/1942056712913162361)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【差し入れ...](https://x.com/pj_sekai/status/1942056712913162361)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056710308569164)
 
 ---
 
@@ -2101,13 +2117,13 @@
 
 **DATE**: 06/09（月） 12:01
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
+[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
 
 ---
 
 **DATE**: 06/09（月） 12:01
 <br>
-[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
+[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
 
 ---
 
@@ -4155,12 +4171,6 @@
 **DATE**: 04/25（金） 12:04
 <br>
 [本日19:...](https://x.com/pj_sekai/status/1915602815315267925)
-
----
-
-**DATE**: 04/24（木） 18:30
-<br>
-[🎧25時、...](https://x.com/pj_sekai/status/1915337443974557970)
 
 <script>
 let nowDt = new Date();
