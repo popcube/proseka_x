@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/29 21:31
+### 最終更新：2025/07/29 22:27
 
+
+---
+
+**DATE**: 07/29（火） 21:32
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1950172606063071235"></a>
+</blockquote>
 
 ---
 
@@ -14,15 +22,15 @@
 
 ---
 
+**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
+
+---
+
 **DATE**: 07/29（火） 21:00
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1950164404064202958"></a>
 </blockquote>
-
----
-
-**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
 
 ---
 
@@ -44,9 +52,9 @@
 
 **DATE**: 07/28（月） 21:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1949802383279595637"></a>
-</blockquote>
+[【#プロセ...](https://x.com/pj_sekai/status/1949802383279595637)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -3443,25 +3451,25 @@
 
 **DATE**: 05/23（金） 12:03
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
+[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
 
 ---
 
 **DATE**: 05/23（金） 12:03
 <br>
-[【一緒に振...](https://x.com/pj_sekai/status/1925749385087910310)
-
----
-
-**DATE**: 05/23（金） 12:01
-<br>
-[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
+[「Star...](https://x.com/pj_sekai/status/1925749382432841817)
 
 ---
 
 **DATE**: 05/23（金） 12:01
 <br>
 [【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
+
+---
+
+**DATE**: 05/23（金） 12:01
+<br>
+[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
 
 ---
 
@@ -3503,13 +3511,13 @@
 
 ---
 
-**DATE**: 05/21（水） 20:00 イベント「**Dear my fellows**」 終了
-
----
-
 **DATE**: 05/21（水） 20:00
 <br>
 [本日21時...](https://x.com/pj_sekai/status/1925144540140188079)
+
+---
+
+**DATE**: 05/21（水） 20:00 イベント「**Dear my fellows**」 終了
 
 ---
 
