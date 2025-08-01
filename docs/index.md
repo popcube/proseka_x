@@ -1,48 +1,82 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/07/31 19:47
+### 最終更新：2025/08/01 12:49
 
+
+---
+
+**DATE**: 08/01（金） 12:13
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1951119181984018530"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/01（金） 12:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1951118568311214190"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/01（金） 12:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1951118498740183116"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/01（金） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1951117369654518149"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/01（金） 10:18
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1951090007428727114"></a>
+</blockquote>
 
 ---
 
 **DATE**: 07/31（木） 18:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1950844132429058294"></a>
-</blockquote>
+[✉プロセカ...](https://x.com/pj_sekai/status/1950844132429058294)
 
 ---
 
 **DATE**: 07/31（木） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1950843889713356945"></a>
-</blockquote>
+[💭プロセカ...](https://x.com/pj_sekai/status/1950843889713356945)
 
 ---
 
 **DATE**: 07/31（木） 15:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1950799445526020114"></a>
-</blockquote>
+[本日15:...](https://x.com/pj_sekai/status/1950799445526020114)
+
+---
+
+**DATE**: 07/31（木） 15:00 イベント「**Competitive fire！**」 開始
 
 ---
 
 **DATE**: 07/31（木） 12:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1950755580961837074"></a>
-</blockquote>
+[【ふたりの...](https://x.com/pj_sekai/status/1950755580961837074)
 
 ---
 
 **DATE**: 07/31（木） 12:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1950755578021859783"></a>
-</blockquote>
+[「Thos...](https://x.com/pj_sekai/status/1950755578021859783)
 
 ---
 
@@ -1471,13 +1505,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
@@ -2765,13 +2799,13 @@
 
 **DATE**: 06/09（月） 12:01
 <br>
-[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
+[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
 
 ---
 
 **DATE**: 06/09（月） 12:01
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
+[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
 
 ---
 
@@ -2813,13 +2847,13 @@
 
 ---
 
-**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
-
----
-
 **DATE**: 06/07（土） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
+
+---
+
+**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
 
 ---
 
@@ -3553,13 +3587,13 @@
 
 **DATE**: 05/23（金） 12:01
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
+[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
 
 ---
 
 **DATE**: 05/23（金） 12:01
 <br>
-[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
+[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
 
 ---
 
@@ -3601,13 +3635,13 @@
 
 ---
 
-**DATE**: 05/21（水） 20:00
-<br>
-[本日21時...](https://x.com/pj_sekai/status/1925144540140188079)
+**DATE**: 05/21（水） 20:00 イベント「**Dear my fellows**」 終了
 
 ---
 
-**DATE**: 05/21（水） 20:00 イベント「**Dear my fellows**」 終了
+**DATE**: 05/21（水） 20:00
+<br>
+[本日21時...](https://x.com/pj_sekai/status/1925144540140188079)
 
 ---
 
@@ -3963,13 +3997,13 @@
 
 ---
 
-**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
-
----
-
 **DATE**: 05/06（火） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1919723821990584460)
+
+---
+
+**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
 
 ---
 
@@ -4253,56 +4287,6 @@
 **DATE**: 04/29（火） 12:11
 <br>
 [🏡マイセカ...](https://x.com/pj_sekai/status/1917054205485043732)
-
----
-
-**DATE**: 04/28（月） 22:27
-<br>
-[💭プロセカ...](https://x.com/pj_sekai/status/1916846818547089517)
-
----
-
-**DATE**: 04/28（月） 22:06
-<br>
-[『オールセ...](https://x.com/pj_sekai/status/1916841538593890652)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 04/28（月） 22:05
-<br>
-[👑ワンダー...](https://x.com/pj_sekai/status/1916841286126178602)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 04/28（月） 21:01
-<br>
-[💭プロセカ...](https://x.com/pj_sekai/status/1916824970199720137)
-
----
-
-**DATE**: 04/28（月） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1916824724564320433)
-
----
-
-**DATE**: 04/28（月） 21:00 イベント「**Choices for the future**」 終了
-
----
-
-**DATE**: 04/28（月） 15:10
-<br>
-[4月30日...](https://x.com/pj_sekai/status/1916736639730135446)
-
----
-
-**DATE**: 04/28（月） 15:09
-<br>
-[🎧東雲絵名...](https://x.com/pj_sekai/status/1916736615768068434)
 
 <script>
 let nowDt = new Date();
