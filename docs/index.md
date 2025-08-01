@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/08/01 12:49
+### 最終更新：2025/08/01 13:10
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1951119181984018530"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/01（金） 12:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1951118632324571548"></a>
 </blockquote>
 
 ---
@@ -40,9 +48,9 @@
 
 **DATE**: 08/01（金） 10:18
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1951090007428727114"></a>
-</blockquote>
+[初音ミク「...](https://x.com/pj_sekai/status/1951090007428727114)
+<br>
+#マジカルミライ2025
 
 ---
 
