@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/08/06 23:26
+### 最終更新：2025/08/07 12:29
 
+
+---
+
+**DATE**: 08/07（木） 12:12
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1953293102330069343"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/07（木） 12:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1953292975192023432"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/07（木） 11:46
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1953286541838635311"></a>
+</blockquote>
 
 ---
 
@@ -24,17 +48,15 @@
 
 **DATE**: 08/06（水） 22:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1953079980482850987"></a>
-</blockquote>
+[💿Vivi...](https://x.com/pj_sekai/status/1953079980482850987)
+<br>
+#ビビバス
 
 ---
 
 **DATE**: 08/06（水） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1953063515138277841"></a>
-</blockquote>
+[本日22時...](https://x.com/pj_sekai/status/1953063515138277841)
 
 ---
 
@@ -44,9 +66,7 @@
 
 **DATE**: 08/06（水） 12:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1952929388644974822"></a>
-</blockquote>
+[📅プロセカ...](https://x.com/pj_sekai/status/1952929388644974822)
 
 ---
 
@@ -1222,13 +1242,13 @@
 
 ---
 
-**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
-
----
-
 **DATE**: 07/21（月） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
+
+---
+
+**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
 
 ---
 
@@ -3775,13 +3795,13 @@
 
 **DATE**: 05/23（金） 12:01
 <br>
-[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
+[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
 
 ---
 
 **DATE**: 05/23（金） 12:01
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
+[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
 
 ---
 
@@ -4210,30 +4230,6 @@
 **DATE**: 05/05（月） 15:04
 <br>
 [プロジェク...](https://x.com/pj_sekai/status/1919271961546703048)
-
----
-
-**DATE**: 05/04（日） 18:00
-<br>
-[『とうほう...](https://x.com/pj_sekai/status/1918953750863216792)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 05/04（日） 15:02
-<br>
-[『とうほう...](https://x.com/pj_sekai/status/1918909009085554960)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 05/04（日） 15:02
-<br>
-[プロジェク...](https://x.com/pj_sekai/status/1918908969935847544)
-<br>
-#ワンダショ
 
 <script>
 let nowDt = new Date();
