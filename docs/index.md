@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/08/14 20:29
+### 最終更新：2025/08/15 12:48
 
+
+---
+
+**DATE**: 08/15（金） 12:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1956191314363781212"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/15（金） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1956190430116372764"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/15（金） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1956189741646536938"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +48,21 @@
 
 **DATE**: 08/14（木） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1955827690013143040"></a>
-</blockquote>
+[8月15日...](https://x.com/pj_sekai/status/1955827690013143040)
+<br>
+#セカラジ
 
 ---
 
 **DATE**: 08/13（水） 12:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1955464687329612255"></a>
-</blockquote>
+[📅プロセカ...](https://x.com/pj_sekai/status/1955464687329612255)
 
 ---
 
 **DATE**: 08/12（火） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1955148562930729031"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/1955148562930729031)
 
 ---
 
@@ -1404,13 +1424,13 @@
 
 **DATE**: 07/23（水） 12:06
 <br>
-[「Open...](https://x.com/pj_sekai/status/1947855876439871829)
+[【ホッとす...](https://x.com/pj_sekai/status/1947855879065505995)
 
 ---
 
 **DATE**: 07/23（水） 12:06
 <br>
-[【ホッとす...](https://x.com/pj_sekai/status/1947855879065505995)
+[「Open...](https://x.com/pj_sekai/status/1947855876439871829)
 
 ---
 
@@ -1746,13 +1766,13 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
+[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
+[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
 
 ---
 
@@ -1971,13 +1991,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
@@ -3241,13 +3261,13 @@
 
 **DATE**: 06/09（月） 12:02
 <br>
-[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
+[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
 
 ---
 
 **DATE**: 06/09（月） 12:02
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
+[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
 
 ---
 
@@ -3313,13 +3333,13 @@
 
 ---
 
-**DATE**: 06/07（土） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
+**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
 
 ---
 
-**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
+**DATE**: 06/07（土） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
 
 ---
 
@@ -3479,13 +3499,13 @@
 
 **DATE**: 05/31（土） 12:04
 <br>
-[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
+[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
 
 ---
 
 **DATE**: 05/31（土） 12:04
 <br>
-[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
+[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
 
 ---
 
@@ -4200,38 +4220,6 @@
 **DATE**: 05/14（水） 12:00
 <br>
 [🎧25時、...](https://x.com/pj_sekai/status/1922487074248093751)
-
----
-
-**DATE**: 05/12（月） 20:06
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/1921884763477913783)
-
----
-
-**DATE**: 05/12（月） 15:02
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1921808159049445392)
-
----
-
-**DATE**: 05/12（月） 15:02
-<br>
-[本日15時...](https://x.com/pj_sekai/status/1921808059569172979)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 05/12（月） 12:05
-<br>
-[本日12時...](https://x.com/pj_sekai/status/1921763650475266253)
-
----
-
-**DATE**: 05/12（月） 12:05
-<br>
-[本日12時...](https://x.com/pj_sekai/status/1921763624890044568)
 
 <script>
 let nowDt = new Date();
