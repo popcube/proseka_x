@@ -1,8 +1,28 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/08/22 13:42
+### 最終更新：2025/08/22 15:49
 
+
+---
+
+**DATE**: 08/22（金） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1958772841610174862"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/22（金） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1958772632117227917"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/22（金） 15:00 イベント「**ほどけぬ明日に手を伸ばして**」 開始
 
 ---
 
@@ -32,17 +52,13 @@
 
 **DATE**: 08/22（金） 12:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1958728170469011600"></a>
-</blockquote>
+[「キミに咲...](https://x.com/pj_sekai/status/1958728170469011600)
 
 ---
 
 **DATE**: 08/22（金） 12:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1958728065829474747"></a>
-</blockquote>
+[【ボクのま...](https://x.com/pj_sekai/status/1958728065829474747)
 
 ---
 
@@ -4277,13 +4293,13 @@
 
 **DATE**: 05/23（金） 12:01
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
+[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
 
 ---
 
 **DATE**: 05/23（金） 12:01
 <br>
-[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
+[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
 
 ---
 
