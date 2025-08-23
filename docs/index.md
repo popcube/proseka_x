@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/08/22 19:14
+### 最終更新：2025/08/23 12:53
 
+
+---
+
+**DATE**: 08/23（土） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1959088203970773334"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 08/22（金） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1958772707736330337"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/1958772707736330337)
 
 ---
 
@@ -82,13 +88,13 @@
 
 **DATE**: 08/22（金） 12:08
 <br>
-[【ボクのま...](https://x.com/pj_sekai/status/1958728065829474747)
+[「キミに咲...](https://x.com/pj_sekai/status/1958728063375782337)
 
 ---
 
 **DATE**: 08/22（金） 12:08
 <br>
-[「キミに咲...](https://x.com/pj_sekai/status/1958728063375782337)
+[【ボクのま...](https://x.com/pj_sekai/status/1958728065829474747)
 
 ---
 
@@ -880,13 +886,13 @@
 
 ---
 
-**DATE**: 07/29（火） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1950164404064202958)
+**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
 
 ---
 
-**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
+**DATE**: 07/29（火） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1950164404064202958)
 
 ---
 
@@ -2010,13 +2016,13 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
+[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
+[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
 
 ---
 
@@ -3743,13 +3749,13 @@
 
 **DATE**: 05/31（土） 12:04
 <br>
-[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
+[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
 
 ---
 
 **DATE**: 05/31（土） 12:04
 <br>
-[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
+[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
 
 ---
 
@@ -4317,13 +4323,13 @@
 
 **DATE**: 05/23（金） 12:01
 <br>
-[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
+[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
 
 ---
 
 **DATE**: 05/23（金） 12:01
 <br>
-[【届かない...](https://x.com/pj_sekai/status/1925748877522612312)
+[「Star...](https://x.com/pj_sekai/status/1925748874762653763)
 
 ---
 
