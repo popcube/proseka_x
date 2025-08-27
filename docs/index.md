@@ -1,8 +1,40 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/08/27 21:27
+### 最終更新：2025/08/27 22:03
 
+
+---
+
+**DATE**: 08/27（水） 21:21
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1960679143512924374"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（水） 21:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1960675119585734940"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（水） 21:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1960675022084956591"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（水） 21:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1960674980313882869"></a>
+</blockquote>
 
 ---
 
@@ -16,33 +48,49 @@
 
 **DATE**: 08/27（水） 20:52
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1960671751924539864"></a>
-</blockquote>
+[👑ワンダー...](https://x.com/pj_sekai/status/1960671751924539864)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 08/27（水） 20:42
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1960669341437059522"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/1960669341437059522)
+<br>
+#プロセカ放送局 #たまごっち #Tamagotchi
 
 ---
 
 **DATE**: 08/27（水） 20:42
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1960669213212991754"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/1960669213212991754)
+<br>
+#プロセカ放送局 #たまごっち #Tamagotchi
+
+---
+
+**DATE**: 08/27（水） 20:42
+<br>
+[プロジェク...](https://x.com/pj_sekai/status/1960669152492052787)
+<br>
+#プロセカ放送局 #たまごっち #Tamagotchi
+
+---
+
+**DATE**: 08/27（水） 20:40
+<br>
+[プロジェク...](https://x.com/pj_sekai/status/1960668760924414291)
+<br>
+#プロセカ放送局 #たまごっち #Tamagotchi
 
 ---
 
 **DATE**: 08/27（水） 20:39
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1960668484742078551"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/1960668484742078551)
+<br>
+#プロセカ放送局 #たまごっち #Tamagotchi
 
 ---
 
@@ -64,7 +112,23 @@
 
 **DATE**: 08/27（水） 20:36
 <br>
+[アップデー...](https://x.com/pj_sekai/status/1960667799690600802)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 08/27（水） 20:36
+<br>
 [プレイヤー...](https://x.com/pj_sekai/status/1960667716765016172)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 08/27（水） 20:28
+<br>
+[リコレクシ...](https://x.com/pj_sekai/status/1960665686382141619)
 <br>
 #プロセカ放送局
 
@@ -1972,13 +2036,13 @@
 
 ---
 
-**DATE**: 07/21（月） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
+**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
 
 ---
 
-**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
+**DATE**: 07/21（月） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
 
 ---
 
@@ -2206,25 +2270,25 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【お楽しみ...](https://x.com/pj_sekai/status/1944956546657739037)
-
----
-
-**DATE**: 07/15（火） 12:05
-<br>
 [「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
+[【お楽しみ...](https://x.com/pj_sekai/status/1944956546657739037)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
 [「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
+
+---
+
+**DATE**: 07/15（火） 12:05
+<br>
+[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
 
 ---
 
