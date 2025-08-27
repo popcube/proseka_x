@@ -1,48 +1,126 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/08/27 20:25
+### 最終更新：2025/08/27 21:27
 
+
+---
+
+**DATE**: 08/27（水） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1960673878243754208"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（水） 20:52
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1960671751924539864"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（水） 20:42
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1960669341437059522"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（水） 20:42
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1960669213212991754"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（水） 20:39
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1960668484742078551"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（水） 20:38
+<br>
+[プロジェク...](https://x.com/pj_sekai/status/1960668236514779178)
+<br>
+#プロセカ放送局 #たまごっち #Tamagotchi
+
+---
+
+**DATE**: 08/27（水） 20:37
+<br>
+[【お知らせ...](https://x.com/pj_sekai/status/1960667900303564922)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 08/27（水） 20:36
+<br>
+[プレイヤー...](https://x.com/pj_sekai/status/1960667716765016172)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 08/27（水） 20:13
+<br>
+[🎨一緒につ...](https://x.com/pj_sekai/status/1960661912817164724)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 08/27（水） 20:10
+<br>
+[🎊一緒につ...](https://x.com/pj_sekai/status/1960661194123174398)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 08/27（水） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1960658622389866954"></a>
-</blockquote>
+[『プロセカ...](https://x.com/pj_sekai/status/1960658622389866954)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 08/27（水） 19:31
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1960651293426700737"></a>
-</blockquote>
+[生放送中に...](https://x.com/pj_sekai/status/1960651293426700737)
+<br>
+#プロセカ放送局 #プロセカ放送局 #プロセカ放送局
 
 ---
 
 **DATE**: 08/27（水） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1960651174513926317"></a>
-</blockquote>
+[ボカロミュ...](https://x.com/pj_sekai/status/1960651174513926317)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 08/27（水） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1960651121036550508"></a>
-</blockquote>
+[🌈プロセカ...](https://x.com/pj_sekai/status/1960651121036550508)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 08/27（水） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1960628358775234797"></a>
-</blockquote>
+[このあと1...](https://x.com/pj_sekai/status/1960628358775234797)
 
 ---
 
@@ -1894,13 +1972,13 @@
 
 ---
 
-**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
-
----
-
 **DATE**: 07/21（月） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
+
+---
+
+**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
 
 ---
 
@@ -2140,13 +2218,13 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
+[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
+[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
 
 ---
 
@@ -3635,13 +3713,13 @@
 
 **DATE**: 06/09（月） 12:02
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
+[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
 
 ---
 
 **DATE**: 06/09（月） 12:02
 <br>
-[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
+[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
 
 ---
 
@@ -3873,13 +3951,13 @@
 
 **DATE**: 05/31（土） 12:04
 <br>
-[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
+[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
 
 ---
 
 **DATE**: 05/31（土） 12:04
 <br>
-[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
+[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
 
 ---
 
@@ -4292,14 +4370,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/1926836006973526525)
 <br>
 #セカイの4コマ
-
----
-
-**DATE**: 05/25（日） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/1926473305273294941)
-<br>
-#セカイの4コマ #青柳冬弥誕生祭2025
 
 <script>
 let nowDt = new Date();
