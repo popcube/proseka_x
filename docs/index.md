@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/08/30 12:23
+### 最終更新：2025/08/30 12:24
 
+
+---
+
+**DATE**: 08/30（土） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1961625922513375396"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 08/29（金） 15:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1961309899587293537"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/1961309899587293537)
 
 ---
 
@@ -2330,25 +2336,25 @@
 
 **DATE**: 07/23（水） 12:06
 <br>
-[「Open...](https://x.com/pj_sekai/status/1947855876439871829)
-
----
-
-**DATE**: 07/23（水） 12:06
-<br>
 [【ホッとす...](https://x.com/pj_sekai/status/1947855879065505995)
 
 ---
 
 **DATE**: 07/23（水） 12:06
 <br>
-[「Open...](https://x.com/pj_sekai/status/1947855843283947636)
+[「Open...](https://x.com/pj_sekai/status/1947855876439871829)
 
 ---
 
 **DATE**: 07/23（水） 12:06
 <br>
 [【Fant...](https://x.com/pj_sekai/status/1947855846031168013)
+
+---
+
+**DATE**: 07/23（水） 12:06
+<br>
+[「Open...](https://x.com/pj_sekai/status/1947855843283947636)
 
 ---
 
@@ -2426,13 +2432,13 @@
 
 ---
 
-**DATE**: 07/21（月） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
+**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
 
 ---
 
-**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
+**DATE**: 07/21（月） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
 
 ---
 
@@ -2660,13 +2666,13 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
+[【お楽しみ...](https://x.com/pj_sekai/status/1944956546657739037)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【お楽しみ...](https://x.com/pj_sekai/status/1944956546657739037)
+[「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
 
 ---
 
@@ -2873,13 +2879,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056710308569164)
+[【差し入れ...](https://x.com/pj_sekai/status/1942056712913162361)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【差し入れ...](https://x.com/pj_sekai/status/1942056712913162361)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056710308569164)
 
 ---
 
