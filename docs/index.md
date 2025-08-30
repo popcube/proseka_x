@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/08/30 12:52
+### 最終更新：2025/08/30 13:15
 
 
 ---
@@ -25,6 +25,14 @@
 **DATE**: 08/30（土） 12:03
 <br>
 <blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1961625911817887913"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/30（土） 12:03
+<br>
+<blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1961625909636817215"></a>
 </blockquote>
 
@@ -40,15 +48,19 @@
 
 **DATE**: 08/30（土） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1961625894432411769"></a>
-</blockquote>
+[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
 
 ---
 
 **DATE**: 08/30（土） 12:02
 <br>
 [バーチャル...](https://x.com/pj_sekai/status/1961625463929110599)
+
+---
+
+**DATE**: 08/30（土） 12:00
+<br>
+[📅プロセカ...](https://x.com/pj_sekai/status/1961624923555713202)
 
 ---
 
@@ -2372,13 +2384,13 @@
 
 **DATE**: 07/23（水） 12:06
 <br>
-[【Fant...](https://x.com/pj_sekai/status/1947855846031168013)
+[「Open...](https://x.com/pj_sekai/status/1947855843283947636)
 
 ---
 
 **DATE**: 07/23（水） 12:06
 <br>
-[「Open...](https://x.com/pj_sekai/status/1947855843283947636)
+[【Fant...](https://x.com/pj_sekai/status/1947855846031168013)
 
 ---
 
@@ -2456,13 +2468,13 @@
 
 ---
 
-**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
-
----
-
 **DATE**: 07/21（月） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
+
+---
+
+**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
 
 ---
 
