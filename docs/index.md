@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/08/31 13:15
+### 最終更新：2025/09/01 12:48
 
+
+---
+
+**DATE**: 09/01（月） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1962350449450995974"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/01（月） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1962350197616382295"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/01（月） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1962349946474213658"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +48,25 @@
 
 **DATE**: 08/31（日） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1961806365254422687"></a>
-</blockquote>
+[🎤初音ミク...](https://x.com/pj_sekai/status/1961806365254422687)
+<br>
+#初音ミク #初音ミク18th
 
 ---
 
 **DATE**: 08/31（日） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1961806117916364816"></a>
-</blockquote>
+[㊗️本日8...](https://x.com/pj_sekai/status/1961806117916364816)
+<br>
+#初音ミク #初音ミク18th
 
 ---
 
 **DATE**: 08/30（土） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1961760822717464652"></a>
-</blockquote>
+[9月12日...](https://x.com/pj_sekai/status/1961760822717464652)
+<br>
+#セカラジ
 
 ---
 
@@ -2454,25 +2478,25 @@
 
 **DATE**: 07/23（水） 12:06
 <br>
-[「Open...](https://x.com/pj_sekai/status/1947855876439871829)
-
----
-
-**DATE**: 07/23（水） 12:06
-<br>
 [【ホッとす...](https://x.com/pj_sekai/status/1947855879065505995)
 
 ---
 
 **DATE**: 07/23（水） 12:06
 <br>
-[「Open...](https://x.com/pj_sekai/status/1947855843283947636)
+[「Open...](https://x.com/pj_sekai/status/1947855876439871829)
 
 ---
 
 **DATE**: 07/23（水） 12:06
 <br>
 [【Fant...](https://x.com/pj_sekai/status/1947855846031168013)
+
+---
+
+**DATE**: 07/23（水） 12:06
+<br>
+[「Open...](https://x.com/pj_sekai/status/1947855843283947636)
 
 ---
 
@@ -2550,13 +2574,13 @@
 
 ---
 
-**DATE**: 07/21（月） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
+**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
 
 ---
 
-**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
+**DATE**: 07/21（月） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
 
 ---
 
@@ -4291,13 +4315,13 @@
 
 **DATE**: 06/09（月） 12:02
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
+[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
 
 ---
 
 **DATE**: 06/09（月） 12:02
 <br>
-[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
+[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
 
 ---
 
@@ -4363,13 +4387,13 @@
 
 ---
 
-**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
-
----
-
 **DATE**: 06/07（土） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1931320235090661505)
+
+---
+
+**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
 
 ---
 
@@ -4578,34 +4602,6 @@
 **DATE**: 05/30（金） 15:07
 <br>
 [明日、5月...](https://x.com/pj_sekai/status/1928332311973462276)
-
----
-
-**DATE**: 05/29（木） 22:35
-<br>
-[☘️MOR...](https://x.com/pj_sekai/status/1928082704882364755)
-
----
-
-**DATE**: 05/29（木） 22:09
-<br>
-[『イレヴン...](https://x.com/pj_sekai/status/1928076308182909185)
-<br>
-#モモジャン
-
----
-
-**DATE**: 05/29（木） 22:09
-<br>
-[☘️MOR...](https://x.com/pj_sekai/status/1928076109977112757)
-<br>
-#モモジャン
-
----
-
-**DATE**: 05/29（木） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1928058756006564030)
 
 <script>
 let nowDt = new Date();
