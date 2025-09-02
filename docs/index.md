@@ -1,8 +1,34 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/01 20:11
+### 最終更新：2025/09/02 17:44
 
+<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-0" style="display: none;">
+09/03（水） 08:00 ～ 11:30
+　<a href="https://x.com/pj_sekai/status/1962788653836706040">公式ポスト</a>
+</div>
+
+---
+
+**DATE**: 09/02（火） 17:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1962788653836706040"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/02（火） 17:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1962788599860207673"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +58,15 @@
 
 **DATE**: 09/01（月） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1962396098288574708"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/1962396098288574708)
 
 ---
 
 **DATE**: 09/01（月） 15:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1962395927597195600"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/1962395927597195600)
+<br>
+#モモジャン
 
 ---
 
@@ -759,6 +783,10 @@
 [🌈プロセカ...](https://x.com/pj_sekai/status/1960651121036550508)
 <br>
 #プロセカ放送局
+
+---
+
+**DATE**: 08/27（水） 19:30 「**プロセカ放送局 第23回**」 放送開始
 
 ---
 
@@ -2252,6 +2280,10 @@
 
 ---
 
+**DATE**: 07/28（月） 19:30 「**プロセカ放送局 第22回**」 放送開始
+
+---
+
 **DATE**: 07/28（月） 18:03
 <br>
 [このあと1...](https://x.com/pj_sekai/status/1949757632971207067)
@@ -3087,13 +3119,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
@@ -3903,6 +3935,10 @@
 
 ---
 
+**DATE**: 06/27（金） 19:30 「**プロセカ放送局 第21回**」 放送開始
+
+---
+
 **DATE**: 06/27（金） 18:00
 <br>
 [このあと1...](https://x.com/pj_sekai/status/1938522703264371029)
@@ -4357,13 +4393,13 @@
 
 **DATE**: 06/09（月） 12:02
 <br>
-[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
+[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
 
 ---
 
 **DATE**: 06/09（月） 12:02
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
+[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
 
 ---
 
@@ -4603,49 +4639,17 @@
 <br>
 [【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
 
----
-
-**DATE**: 05/30（金） 21:18
-<br>
-[💭プロセカ...](https://x.com/pj_sekai/status/1928425766158467186)
-
----
-
-**DATE**: 05/30（金） 20:00
-<br>
-[💭プロセカ...](https://x.com/pj_sekai/status/1928406033476575446)
-
----
-
-**DATE**: 05/30（金） 18:16
-<br>
-[👾セカイの...](https://x.com/pj_sekai/status/1928379965600645520)
-
----
-
-**DATE**: 05/30（金） 18:00
-<br>
-[👾セカイの...](https://x.com/pj_sekai/status/1928375843400589444)
-
----
-
-**DATE**: 05/30（金） 15:33
-<br>
-[「とても痛...](https://x.com/pj_sekai/status/1928339022654623908)
-
----
-
-**DATE**: 05/30（金） 15:33
-<br>
-[下記楽曲の...](https://x.com/pj_sekai/status/1928338987321540846)
-
----
-
-**DATE**: 05/30（金） 15:07
-<br>
-[明日、5月...](https://x.com/pj_sekai/status/1928332311973462276)
-
 <script>
 let nowDt = new Date();
+let startDt0 = new Date(2025, 8, 3, 8, 0);
+let endDt0 = new Date(2025, 8, 3, 11, 30);
+if ((startDt0 < nowDt) && (nowDt < endDt0)){
+  document.getElementById('maint-ongoing-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
+else if (nowDt < startDt0){
+  document.getElementById('maint-planned-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
