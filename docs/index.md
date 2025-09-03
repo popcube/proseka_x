@@ -1,18 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/02 17:44
+### 最終更新：2025/09/03 12:42
 
-<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
-【メンテナンス実施中】
-</div></div>
-<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-<div id="maint-0" style="display: none;">
-09/03（水） 08:00 ～ 11:30
-　<a href="https://x.com/pj_sekai/status/1962788653836706040">公式ポスト</a>
-</div>
+
+---
+
+**DATE**: 09/03（水） 11:34
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1963068169821827538"></a>
+</blockquote>
 
 ---
 
@@ -50,9 +48,9 @@
 
 **DATE**: 09/01（月） 17:14
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1962428812727357920"></a>
-</blockquote>
+[👗一緒につ...](https://x.com/pj_sekai/status/1962428812727357920)
+<br>
+#プロセカ衣装デザイン
 
 ---
 
@@ -2882,13 +2880,13 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【お楽しみ...](https://x.com/pj_sekai/status/1944956546657739037)
+[「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
+[【お楽しみ...](https://x.com/pj_sekai/status/1944956546657739037)
 
 ---
 
@@ -4393,13 +4391,13 @@
 
 **DATE**: 06/09（月） 12:02
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
+[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
 
 ---
 
 **DATE**: 06/09（月） 12:02
 <br>
-[【いつも、...](https://x.com/pj_sekai/status/1931909785106186332)
+[『Nigh...](https://x.com/pj_sekai/status/1931909783013249097)
 
 ---
 
@@ -4573,83 +4571,7 @@
 <br>
 #プロセカスケジュール
 
----
-
-**DATE**: 05/31（土） 18:01
-<br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1928738471272919144)
-
----
-
-**DATE**: 05/31（土） 18:00
-<br>
-[💭プロセカ...](https://x.com/pj_sekai/status/1928738232508055632)
-
----
-
-**DATE**: 05/31（土） 15:07
-<br>
-[💿Vivi...](https://x.com/pj_sekai/status/1928694916906889430)
-<br>
-#ビビバス
-
----
-
-**DATE**: 05/31（土） 15:07
-<br>
-[本日15:...](https://x.com/pj_sekai/status/1928694788838084846)
-
----
-
-**DATE**: 05/31（土） 15:00 イベント「**Aim higher and higher！**」 開始
-
----
-
-**DATE**: 05/31（土） 12:05
-<br>
-[【突然の危...](https://x.com/pj_sekai/status/1928648888610632005)
-
----
-
-**DATE**: 05/31（土） 12:05
-<br>
-[「光芒差す...](https://x.com/pj_sekai/status/1928648885787824252)
-
----
-
-**DATE**: 05/31（土） 12:04
-<br>
-[【美味しい...](https://x.com/pj_sekai/status/1928648816439234673)
-
----
-
-**DATE**: 05/31（土） 12:04
-<br>
-[「光芒差す...](https://x.com/pj_sekai/status/1928648813817774506)
-
----
-
-**DATE**: 05/31（土） 12:04
-<br>
-[「光芒差す...](https://x.com/pj_sekai/status/1928648695085433095)
-
----
-
-**DATE**: 05/31（土） 12:04
-<br>
-[【胸に残る...](https://x.com/pj_sekai/status/1928648697455456522)
-
 <script>
 let nowDt = new Date();
-let startDt0 = new Date(2025, 8, 3, 8, 0);
-let endDt0 = new Date(2025, 8, 3, 11, 30);
-if ((startDt0 < nowDt) && (nowDt < endDt0)){
-  document.getElementById('maint-ongoing-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
-else if (nowDt < startDt0){
-  document.getElementById('maint-planned-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
