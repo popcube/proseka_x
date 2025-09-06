@@ -1,8 +1,44 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/06 15:42
+### 最終更新：2025/09/06 20:34
 
+
+---
+
+**DATE**: 09/06（土） 20:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1964285032090255686"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/06（土） 20:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1964285014432251936"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/06（土） 20:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1964284964532371855"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/06（土） 20:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1964284907493933375"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/06（土） 20:00 イベント「**Link the Beats！**」 開始
 
 ---
 
@@ -16,33 +52,25 @@
 
 **DATE**: 09/06（土） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1964162990347108580"></a>
-</blockquote>
+[『Velv...](https://x.com/pj_sekai/status/1964162990347108580)
 
 ---
 
 **DATE**: 09/06（土） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1964162966691205220"></a>
-</blockquote>
+[【ご馳走い...](https://x.com/pj_sekai/status/1964162966691205220)
 
 ---
 
 **DATE**: 09/06（土） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1964162964451447154"></a>
-</blockquote>
+[『Velv...](https://x.com/pj_sekai/status/1964162964451447154)
 
 ---
 
 **DATE**: 09/06（土） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1964162930091397166"></a>
-</blockquote>
+[【大興奮の...](https://x.com/pj_sekai/status/1964162930091397166)
 
 ---
 
@@ -352,13 +380,13 @@
 
 **DATE**: 08/30（土） 12:03
 <br>
-[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
+[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
 
 ---
 
 **DATE**: 08/30（土） 12:03
 <br>
-[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
+[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
 
 ---
 
@@ -3020,13 +3048,13 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
+[【お楽しみ...](https://x.com/pj_sekai/status/1944956546657739037)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【お楽しみ...](https://x.com/pj_sekai/status/1944956546657739037)
+[「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
 
 ---
 
@@ -3257,13 +3285,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
