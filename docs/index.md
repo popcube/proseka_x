@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/11 16:37
+### 最終更新：2025/09/11 17:17
 
 
 ---
@@ -18,6 +18,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1965974285438398692"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/11（木） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1965792390188507607"></a>
 </blockquote>
 
 ---
@@ -40,9 +48,9 @@
 
 **DATE**: 09/10（水） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1965430002977272293"></a>
-</blockquote>
+[プロセカ5...](https://x.com/pj_sekai/status/1965430002977272293)
+<br>
+#プロセカ5周年イラスト
 
 ---
 
@@ -2026,13 +2034,13 @@
 
 ---
 
-**DATE**: 07/29（火） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1950164404064202958)
+**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
 
 ---
 
-**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
+**DATE**: 07/29（火） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1950164404064202958)
 
 ---
 
@@ -3160,13 +3168,13 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
+[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
+[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
 
 ---
 
@@ -3385,13 +3393,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
@@ -4683,13 +4691,13 @@
 
 **DATE**: 06/09（月） 12:01
 <br>
-[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
+[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
 
 ---
 
 **DATE**: 06/09（月） 12:01
 <br>
-[【休み時間...](https://x.com/pj_sekai/status/1931909592545738815)
+[『Nigh...](https://x.com/pj_sekai/status/1931909590196879682)
 
 ---
 
@@ -4702,6 +4710,166 @@
 **DATE**: 06/09（月） 11:38
 <br>
 [下記楽曲の...](https://x.com/pj_sekai/status/1931903731140120624)
+
+---
+
+**DATE**: 06/07（土） 21:00 イベント「**Aim higher and higher！**」 終了
+
+---
+
+**DATE**: 05/31（土） 15:00 イベント「**Aim higher and higher！**」 開始
+
+---
+
+**DATE**: 05/29（木） 21:00 イベント「**Cheer with my Heart!**」 終了
+
+---
+
+**DATE**: 05/28（水） 19:30 「**プロセカ放送局 第20回**」 放送開始
+
+---
+
+**DATE**: 05/23（金） 15:00 イベント「**Cheer with my Heart!**」 開始
+
+---
+
+**DATE**: 05/21（水） 20:00 イベント「**Dear my fellows**」 終了
+
+---
+
+**DATE**: 05/09（金） 20:00 イベント「**Dear my fellows**」 開始
+
+---
+
+**DATE**: 05/06（火） 21:00 イベント「**そして、針は動き出す**」 終了
+
+---
+
+**DATE**: 04/30（水） 15:00 イベント「**そして、針は動き出す**」 開始
+
+---
+
+**DATE**: 04/28（月） 21:00 イベント「**Choices for the future**」 終了
+
+---
+
+**DATE**: 04/25（金） 19:30 「**プロセカ放送局 第19回**」 放送開始
+
+---
+
+**DATE**: 04/22（火） 15:00 イベント「**Choices for the future**」 開始
+
+---
+
+**DATE**: 04/20（日） 20:00 イベント「**Turning Pain into Drive**」 終了
+
+---
+
+**DATE**: 04/08（火） 20:00 イベント「**Turning Pain into Drive**」 開始
+
+---
+
+**DATE**: 04/06（日） 21:00 イベント「**Find the dream view**」 終了
+
+---
+
+**DATE**: 03/30（日） 15:00 イベント「**Find the dream view**」 開始
+
+---
+
+**DATE**: 03/28（金） 21:00 イベント「**Unreliable Notes**」 終了
+
+---
+
+**DATE**: 03/28（金） 19:30 「**プロセカ放送局 4.5周年スペシャル**」 放送開始
+
+---
+
+**DATE**: 03/20（木） 15:00 イベント「**Unreliable Notes**」 開始
+
+---
+
+**DATE**: 03/18（火） 21:00 イベント「**You are my HERO!!**」 終了
+
+---
+
+**DATE**: 03/10（月） 15:00 イベント「**You are my HERO!!**」 開始
+
+---
+
+**DATE**: 03/08（土） 21:00 イベント「**Connect hearts message**」 終了
+
+---
+
+**DATE**: 02/28（金） 15:00 イベント「**Connect hearts message**」 開始
+
+---
+
+**DATE**: 02/26（水） 21:00 イベント「**昔日のRead-aloud**」 終了
+
+---
+
+**DATE**: 02/26（水） 19:30 「**プロセカ放送局 第17回**」 放送開始
+
+---
+
+**DATE**: 02/20（木） 15:00 イベント「**昔日のRead-aloud**」 開始
+
+---
+
+**DATE**: 02/18（火） 21:00 イベント「**Rise and Strive**」 終了
+
+---
+
+**DATE**: 02/10（月） 15:00 イベント「**Rise and Strive**」 開始
+
+---
+
+**DATE**: 02/08（土） 21:00 イベント「**このひと針に想いを込めて**」 終了
+
+---
+
+**DATE**: 01/31（金） 15:00 イベント「**このひと針に想いを込めて**」 開始
+
+---
+
+**DATE**: 01/29（水） 21:00 イベント「**Show your shine**」 終了
+
+---
+
+**DATE**: 01/21（火） 19:30 「**プロセカ放送局 第16回**」 放送開始
+
+---
+
+**DATE**: 01/21（火） 15:00 イベント「**Show your shine**」 開始
+
+---
+
+**DATE**: 01/19（日） 21:00 イベント「**Time to take off！**」 終了
+
+---
+
+**DATE**: 01/11（土） 15:00 イベント「**Time to take off！**」 開始
+
+---
+
+**DATE**: 01/09（木） 21:00 イベント「**Unfading wishing**」 終了
+
+---
+
+**DATE**: 12/31（火） 15:00 イベント「**Unfading wishing**」 開始
+
+---
+
+**DATE**: 12/29（日） 21:00 イベント「**Special present for YOU！**」 終了
+
+---
+
+**DATE**: 12/26（木） 20:41
+<br>
+[『劇場版プ...](https://x.com/pj_sekai/status/1872246365704827280)
+<br>
+#プロセカ年末大特番 #劇場版プロセカ
 
 <script>
 let nowDt = new Date();
