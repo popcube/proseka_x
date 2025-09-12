@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/12 16:48
+### 最終更新：2025/09/12 21:59
 
+
+---
+
+**DATE**: 09/12（金） 20:23
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1966462770196664407"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/12（金） 20:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1966458172543013157"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/12（金） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1966456765190447459"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +48,23 @@
 
 **DATE**: 09/12（金） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1966337459110945020"></a>
-</blockquote>
+[本日12時...](https://x.com/pj_sekai/status/1966337459110945020)
 
 ---
 
 **DATE**: 09/12（金） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1966154772764938692"></a>
-</blockquote>
+[プロセカ5...](https://x.com/pj_sekai/status/1966154772764938692)
+<br>
+#プロセカ5周年イラスト
 
 ---
 
 **DATE**: 09/11（木） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1966064171327647826"></a>
-</blockquote>
+[『酔いどれ...](https://x.com/pj_sekai/status/1966064171327647826)
+<br>
+#ビビバス
 
 ---
 
