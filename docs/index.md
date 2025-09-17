@@ -1,8 +1,40 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/17 00:32
+### 最終更新：2025/09/17 12:43
 
+
+---
+
+**DATE**: 09/17（水） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968149073539764600"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/17（水） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968148885492449462"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/17（水） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968148151820304520"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/17（水） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968147902049685583"></a>
+</blockquote>
 
 ---
 
@@ -16,33 +48,29 @@
 
 **DATE**: 09/16（火） 20:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1967908147789697199"></a>
-</blockquote>
+[ワールドリ...](https://x.com/pj_sekai/status/1967908147789697199)
 
 ---
 
 **DATE**: 09/16（火） 15:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1967831782604280277"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/1967831782604280277)
 
 ---
 
 **DATE**: 09/16（火） 15:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1967831533622112475"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/1967831533622112475)
+<br>
+#レオニ
 
 ---
 
 **DATE**: 09/16（火） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1967785514867556569"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/1967785514867556569)
+<br>
+#たまごっち #Tamagotchi
 
 ---
 
@@ -634,13 +662,13 @@
 
 **DATE**: 08/30（土） 12:03
 <br>
-[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
+[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
 
 ---
 
 **DATE**: 08/30（土） 12:03
 <br>
-[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
+[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
 
 ---
 
@@ -3539,13 +3567,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
