@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/18 20:10
+### 最終更新：2025/09/19 01:15
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -13,6 +13,14 @@
 09/19（金） 09:00 ～ 11:30
 　<a href="https://x.com/pj_sekai/status/1968631413466341520">公式ポスト</a>
 </div>
+
+---
+
+**DATE**: 09/19（金） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968691490286448786"></a>
+</blockquote>
 
 ---
 
@@ -54,9 +62,9 @@
 
 **DATE**: 09/18（木） 18:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1968601819363549694"></a>
-</blockquote>
+[『フロムト...](https://x.com/pj_sekai/status/1968601819363549694)
+<br>
+#レオニ
 
 ---
 
@@ -750,13 +758,13 @@
 
 **DATE**: 08/30（土） 12:03
 <br>
-[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
+[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
 
 ---
 
 **DATE**: 08/30（土） 12:03
 <br>
-[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
+[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
 
 ---
 
@@ -4794,24 +4802,6 @@
 **DATE**: 06/17（火） 12:04
 <br>
 [🎥劇場版メ...](https://x.com/pj_sekai/status/1934809257184251917)
-
----
-
-**DATE**: 06/16（月） 15:01
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1934491571065680264)
-
----
-
-**DATE**: 06/16（月） 15:00
-<br>
-[本日15時...](https://x.com/pj_sekai/status/1934491328827793841)
-
----
-
-**DATE**: 06/16（月） 12:02
-<br>
-[Leo/n...](https://x.com/pj_sekai/status/1934446405130784778)
 
 <script>
 let nowDt = new Date();
