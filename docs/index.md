@@ -1,8 +1,46 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/18 19:48
+### 最終更新：2025/09/18 20:10
 
+<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-0" style="display: none;">
+09/19（金） 09:00 ～ 11:30
+　<a href="https://x.com/pj_sekai/status/1968631413466341520">公式ポスト</a>
+</div>
+
+---
+
+**DATE**: 09/18（木） 20:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968631413466341520"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/18（木） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968631088504553774"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/18（木） 20:00 イベント「**Link the Beats！**」 終了
+
+---
+
+**DATE**: 09/18（木） 19:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968617403748593926"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +62,23 @@
 
 **DATE**: 09/18（木） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1968510296902758641"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/1968510296902758641)
+<br>
+#たまごっち #Tamagotchi
 
 ---
 
 **DATE**: 09/18（木） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1968329109072945168"></a>
-</blockquote>
+[プロセカ5...](https://x.com/pj_sekai/status/1968329109072945168)
+<br>
+#プロセカ5周年イラスト
 
 ---
 
 **DATE**: 09/17（水） 18:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1968238749399101796"></a>
-</blockquote>
+[✉プロセカ...](https://x.com/pj_sekai/status/1968238749399101796)
 
 ---
 
@@ -1462,13 +1498,13 @@
 
 **DATE**: 08/22（金） 12:08
 <br>
-[「キミに咲...](https://x.com/pj_sekai/status/1958728063375782337)
+[【ボクのま...](https://x.com/pj_sekai/status/1958728065829474747)
 
 ---
 
 **DATE**: 08/22（金） 12:08
 <br>
-[【ボクのま...](https://x.com/pj_sekai/status/1958728065829474747)
+[「キミに咲...](https://x.com/pj_sekai/status/1958728063375782337)
 
 ---
 
@@ -3619,13 +3655,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
@@ -4779,5 +4815,15 @@
 
 <script>
 let nowDt = new Date();
+let startDt0 = new Date(2025, 8, 19, 9, 0);
+let endDt0 = new Date(2025, 8, 19, 11, 30);
+if ((startDt0 < nowDt) && (nowDt < endDt0)){
+  document.getElementById('maint-ongoing-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
+else if (nowDt < startDt0){
+  document.getElementById('maint-planned-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
