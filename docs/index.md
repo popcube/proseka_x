@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/19 12:48
+### 最終更新：2025/09/19 13:15
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1968879588160778469"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/19（金） 12:26
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968879369767526669"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/19（金） 12:25
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968879173742522502"></a>
 </blockquote>
 
 ---
@@ -30,19 +46,43 @@
 
 ---
 
+**DATE**: 09/19（金） 12:24
+<br>
+[「みんなた...](https://x.com/pj_sekai/status/1968878921258000723)
+<br>
+#たまごっち #Tamagotchi
+
+---
+
 **DATE**: 09/19（金） 12:23
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1968878699203133849"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/1968878699203133849)
+<br>
+#たまごっち #Tamagotchi
+
+---
+
+**DATE**: 09/19（金） 12:23
+<br>
+[プロジェク...](https://x.com/pj_sekai/status/1968878487382434166)
+<br>
+#たまごっち #Tamagotchi
+
+---
+
+**DATE**: 09/19（金） 12:22
+<br>
+[プロジェク...](https://x.com/pj_sekai/status/1968878238140178695)
+<br>
+#たまごっち #Tamagotchi
 
 ---
 
 **DATE**: 09/19（金） 12:21
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1968878065410523368"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/1968878065410523368)
+<br>
+#たまごっち
 
 ---
 
@@ -81,6 +121,12 @@
 **DATE**: 09/19（金） 11:45
 <br>
 [【メンテナ...](https://x.com/pj_sekai/status/1968869068301021673)
+
+---
+
+**DATE**: 09/19（金） 11:45
+<br>
+[【メンテナ...](https://x.com/pj_sekai/status/1968868993357218221)
 
 ---
 
