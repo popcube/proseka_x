@@ -1,40 +1,106 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/19 12:27
+### 最終更新：2025/09/19 12:48
 
+
+---
+
+**DATE**: 09/19（金） 12:27
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968879588160778469"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/19（金） 12:25
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968879170781417809"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/19（金） 12:24
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968878924584133076"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/19（金） 12:23
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968878699203133849"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/19（金） 12:21
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968878065410523368"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/19（金） 12:20
+<br>
+[プロジェク...](https://x.com/pj_sekai/status/1968877813559164948)
+<br>
+#たまごっち #Tamagotchi
+
+---
+
+**DATE**: 09/19（金） 12:19
+<br>
+[本日12時...](https://x.com/pj_sekai/status/1968877617014038623)
+
+---
+
+**DATE**: 09/19（金） 11:47
+<br>
+[マイセカイ...](https://x.com/pj_sekai/status/1968869466529284384)
 
 ---
 
 **DATE**: 09/19（金） 11:46
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1968869250233200697"></a>
-</blockquote>
+[「夜明けと...](https://x.com/pj_sekai/status/1968869380852183189)
+
+---
+
+**DATE**: 09/19（金） 11:46
+<br>
+[下記楽曲の...](https://x.com/pj_sekai/status/1968869250233200697)
+
+---
+
+**DATE**: 09/19（金） 11:45
+<br>
+[【メンテナ...](https://x.com/pj_sekai/status/1968869068301021673)
 
 ---
 
 **DATE**: 09/19（金） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1968691490286448786"></a>
-</blockquote>
+[プロセカ5...](https://x.com/pj_sekai/status/1968691490286448786)
+<br>
+#プロセカ5周年イラスト
 
 ---
 
 **DATE**: 09/18（木） 20:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1968631413466341520"></a>
-</blockquote>
+[【メンテナ...](https://x.com/pj_sekai/status/1968631413466341520)
 
 ---
 
 **DATE**: 09/18（木） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1968631088504553774"></a>
-</blockquote>
+[本日21時...](https://x.com/pj_sekai/status/1968631088504553774)
 
 ---
 
@@ -44,9 +110,7 @@
 
 **DATE**: 09/18（木） 19:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1968617403748593926"></a>
-</blockquote>
+[【v5.6...](https://x.com/pj_sekai/status/1968617403748593926)
 
 ---
 
@@ -754,13 +818,13 @@
 
 **DATE**: 08/30（土） 12:03
 <br>
-[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
+[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
 
 ---
 
 **DATE**: 08/30（土） 12:03
 <br>
-[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
+[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
 
 ---
 
@@ -2300,13 +2364,13 @@
 
 ---
 
-**DATE**: 07/29（火） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1950164404064202958)
+**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
 
 ---
 
-**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
+**DATE**: 07/29（火） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1950164404064202958)
 
 ---
 
