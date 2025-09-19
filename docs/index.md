@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/19 20:25
+### 最終更新：2025/09/19 22:35
 
+
+---
+
+**DATE**: 09/19（金） 21:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1969010934216573035"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 09/19（金） 12:26
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1968879369767526669"></a>
-</blockquote>
+[【あま～い...](https://x.com/pj_sekai/status/1968879369767526669)
+<br>
+#たまごっち #Tamagotchi
 
 ---
 
@@ -2442,13 +2450,13 @@
 
 ---
 
-**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
-
----
-
 **DATE**: 07/29（火） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1950164404064202958)
+
+---
+
+**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
 
 ---
 
@@ -4934,12 +4942,6 @@
 **DATE**: 06/18（水） 20:05
 <br>
 [ワールドリ...](https://x.com/pj_sekai/status/1935292720870047747)
-
----
-
-**DATE**: 06/17（火） 12:04
-<br>
-[🎥劇場版メ...](https://x.com/pj_sekai/status/1934809257184251917)
 
 <script>
 let nowDt = new Date();
