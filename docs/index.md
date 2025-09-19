@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/19 13:40
+### 最終更新：2025/09/19 18:14
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1968879588160778469"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/19（金） 12:27
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1968879585287635021"></a>
 </blockquote>
 
 ---
@@ -40,9 +48,9 @@
 
 **DATE**: 09/19（金） 12:25
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1968879170781417809"></a>
-</blockquote>
+[「みんなた...](https://x.com/pj_sekai/status/1968879170781417809)
+<br>
+#たまごっち #Tamagotchi
 
 ---
 
