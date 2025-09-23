@@ -1,8 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/23 01:16
+### 最終更新：2025/09/23 12:45
 
+
+---
+
+**DATE**: 09/23（火） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1970323584985026685"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/23（火） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1970323554391728403"></a>
+</blockquote>
 
 ---
 
@@ -32,17 +48,15 @@
 
 **DATE**: 09/22（月） 12:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1969962511425540567"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/1969962511425540567)
+<br>
+#たまごっち #Tamagotchi
 
 ---
 
 **DATE**: 09/22（月） 12:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1969961649642893444"></a>
-</blockquote>
+[本日12時...](https://x.com/pj_sekai/status/1969961649642893444)
 
 ---
 
@@ -3885,13 +3899,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056710308569164)
+[【差し入れ...](https://x.com/pj_sekai/status/1942056712913162361)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【差し入れ...](https://x.com/pj_sekai/status/1942056712913162361)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056710308569164)
 
 ---
 
@@ -3909,13 +3923,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
@@ -4976,38 +4990,6 @@
 **DATE**: 06/21（土） 20:00
 <br>
 [本日21時...](https://x.com/pj_sekai/status/1936378568356847648)
-
----
-
-**DATE**: 06/21（土） 20:00 イベント「**泡沫に抱かれて**」 終了
-
----
-
-**DATE**: 06/20（金） 21:00
-<br>
-[7月4日（...](https://x.com/pj_sekai/status/1936031287317258644)
-<br>
-#セカラジ
-
----
-
-**DATE**: 06/20（金） 20:00
-<br>
-[📺WEBラ...](https://x.com/pj_sekai/status/1936016177337123161)
-<br>
-#セカラジ
-
----
-
-**DATE**: 06/20（金） 19:03
-<br>
-[【メンテナ...](https://x.com/pj_sekai/status/1936001884743254081)
-
----
-
-**DATE**: 06/20（金） 19:02
-<br>
-[【アップデ...](https://x.com/pj_sekai/status/1936001796407021955)
 
 <script>
 let nowDt = new Date();
