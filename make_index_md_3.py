@@ -54,29 +54,31 @@ def extract_two_datetimes(in_text):
   if in_line_list[0] != "【メンテナンス実施のお知らせ】":
     return False
   
+  match_list = []
   for in_line in in_line_list[1:]:
-    try:
-      dt_match = maint_datetime_match.search(re.sub(r'\s+', '', in_line))
-      if dt_match:
-        break
-    except:
-      continue
-  else:
+    dt_match = maint_datetime_match.search(re.sub(r'\s+', '', in_line))
+    if dt_match:
+      match_list.append(dt_match)
     
     # print(in_line_list)
+  if len(match_list) == 0:
     return False
   
-  month, day, start_time, end_time = dt_match.groups()
+  out_dt_list = []
+  for dt_match in match_list:
+    month, day, start_time, end_time = dt_match.groups()
+    
+    if datetime.now().month >= 11 and month <= 2:
+      year = datetime.now().year + 1
+    else:
+      year = datetime.now().year
+    
+    start_datetime = datetime.strptime(f"{year}-{month}-{day} {start_time}", "%Y-%m-%d %H:%M")
+    end_datetime = datetime.strptime(f"{year}-{month}-{day} {end_time}", "%Y-%m-%d %H:%M")
+    
+    out_dt_list.append([start_datetime.replace(tzinfo=timezone_jst), end_datetime.replace(tzinfo=timezone_jst)])
   
-  if datetime.now().month >= 11 and month <= 2:
-    year = datetime.now().year + 1
-  else:
-    year = datetime.now().year
-  
-  start_datetime = datetime.strptime(f"{year}-{month}-{day} {start_time}", "%Y-%m-%d %H:%M")
-  end_datetime = datetime.strptime(f"{year}-{month}-{day} {end_time}", "%Y-%m-%d %H:%M")
-  
-  return start_datetime.replace(tzinfo=timezone_jst), end_datetime.replace(tzinfo=timezone_jst)
+  return out_dt_list
 
 def main():
 
@@ -100,9 +102,15 @@ def main():
                    parse_dates=["POST DATE"],
                    date_format="ISO8601")
 
-  raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
-  datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
-  datetime_df.columns = ['START', 'END']
+  datetime_df = pd.DataFrame(columns=['START', 'END'])
+  for raw_post in raw_post_table["BODY TEXT"]:
+    raw_datetime_list = extract_two_datetimes(raw_post)
+    if bool(raw_datetime_list):
+      for raw_datetime in raw_datetime_list:
+        datetime_df.loc[len(datetime_df)] = raw_datetime
+  # raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
+  # datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
+  # datetime_df.columns = ['START', 'END']
   notice_df = datetime_df[datetime_df["END"].ge(now_dt)].sort_values("START")
   # notice_df = datetime_df.sort_values("START") # Switch this for testing 
   for id_num, row in enumerate(notice_df.itertuples()):
