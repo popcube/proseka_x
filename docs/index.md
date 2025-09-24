@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/24 21:27
+### 最終更新：2025/09/24 22:03
 
 
 ---
@@ -22,6 +22,14 @@
 
 ---
 
+**DATE**: 09/24（水） 20:33
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1970813953925398769"></a>
+</blockquote>
+
+---
+
 **DATE**: 09/24（水） 20:27
 <br>
 <blockquote class="twitter-tweet">
@@ -30,19 +38,27 @@
 
 ---
 
-**DATE**: 09/24（水） 20:25
+**DATE**: 09/24（水） 20:26
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1970811851341758636"></a>
+<a href="https://twitter.com/pj_sekai/status/1970812020296691963"></a>
 </blockquote>
+
+---
+
+**DATE**: 09/24（水） 20:25
+<br>
+[5周年記念...](https://x.com/pj_sekai/status/1970811851341758636)
+<br>
+#プロセカ5周年直前生放送
 
 ---
 
 **DATE**: 09/24（水） 20:22
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1970811032261300509"></a>
-</blockquote>
+[5周年記念...](https://x.com/pj_sekai/status/1970811032261300509)
+<br>
+#プロセカ5周年直前生放送
 
 ---
 
@@ -57,6 +73,14 @@
 **DATE**: 09/24（水） 20:18
 <br>
 [㊗5周年記...](https://x.com/pj_sekai/status/1970810002614124559)
+<br>
+#プロセカ5周年直前生放送
+
+---
+
+**DATE**: 09/24（水） 20:16
+<br>
+[㊗️5周年...](https://x.com/pj_sekai/status/1970809482864464207)
 <br>
 #プロセカ5周年直前生放送
 
@@ -79,6 +103,14 @@
 **DATE**: 09/24（水） 20:09
 <br>
 [5周年記念...](https://x.com/pj_sekai/status/1970807746263122400)
+<br>
+#プロセカ5周年直前生放送
+
+---
+
+**DATE**: 09/24（水） 20:07
+<br>
+[5周年記念...](https://x.com/pj_sekai/status/1970807388753285165)
 <br>
 #プロセカ5周年直前生放送
 
@@ -4139,13 +4171,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
