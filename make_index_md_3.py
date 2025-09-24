@@ -112,7 +112,7 @@ def main():
   # datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
   # datetime_df.columns = ['START', 'END']
   notice_df = datetime_df[datetime_df["END"].ge(now_dt)].sort_values("START")
-  # notice_df = datetime_df.sort_values("START") # Switch this for testing 
+  #　notice_df = datetime_df.sort_values("START") # Switch this for testing 
   for id_num, row in enumerate(notice_df.itertuples()):
     res.append(f'<div class="highlight" id="maint-ongoing-{id_num}" style="display: none;"><div class="gd">')
     res.append("【メンテナンス実施中】")
@@ -137,7 +137,7 @@ def main():
                 + row.END.strftime("%H:%M"))
     source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'
     res.append(f'　<a href="{source_url}">公式ポスト</a>')
-    res.append("　＊これはテストです") #delete this
+    # res.append("　＊これはテストです") #delete this
     res.append("</div>")
     
     # print(row, flush=True)
@@ -212,7 +212,7 @@ def main():
   #   document.getElementById('maint').style.display = 'block';
   # }
   res.append('<script>')
-  # res.append("let nowDt = new Date(2025, 6-1, 23, 9);") # Switch for testing
+  # res.append("let nowDt = new Date(2025, 6-1, 23, 8);") # Switch for testing
   res.append("let nowDt = new Date();") 
 
   for id_num, row in enumerate(notice_df.itertuples()):
