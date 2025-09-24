@@ -1,48 +1,126 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/24 20:11
+### 最終更新：2025/09/24 20:35
 
+
+---
+
+**DATE**: 09/24（水） 20:27
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1970812217001234764"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/24（水） 20:25
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1970811851341758636"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/24（水） 20:14
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1970808966147199165"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/24（水） 20:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1970808301861626353"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/24（水） 20:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1970807746263122400"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/24（水） 19:59
+<br>
+[アップデー...](https://x.com/pj_sekai/status/1970805359335055598)
+<br>
+#プロセカ5周年直前生放送
+
+---
+
+**DATE**: 09/24（水） 19:57
+<br>
+[アップデー...](https://x.com/pj_sekai/status/1970804833188991120)
+<br>
+#プロセカ生放送
 
 ---
 
 **DATE**: 09/24（水） 19:56
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1970804649264599472"></a>
-</blockquote>
+[アップデー...](https://x.com/pj_sekai/status/1970804649264599472)
+<br>
+#プロセカ5周年直前生放送
+
+---
+
+**DATE**: 09/24（水） 19:55
+<br>
+[アップデー...](https://x.com/pj_sekai/status/1970804368829280363)
+<br>
+#プロセカ5周年直前生放送
+
+---
+
+**DATE**: 09/24（水） 19:55
+<br>
+[プロジェク...](https://x.com/pj_sekai/status/1970804318539509863)
+<br>
+#プロセカ5周年直前生放送
+
+---
+
+**DATE**: 09/24（水） 19:50
+<br>
+[アップデー...](https://x.com/pj_sekai/status/1970803132235120669)
+<br>
+#プロセカ5周年直前生放送
 
 ---
 
 **DATE**: 09/24（水） 19:39
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1970800211510579215"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/1970800211510579215)
+<br>
+#ボカセカ
 
 ---
 
 **DATE**: 09/24（水） 19:37
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1970799743451398176"></a>
-</blockquote>
+[🎊ボカコレ...](https://x.com/pj_sekai/status/1970799743451398176)
+<br>
+#ボカセカ #プロセカ5周年直前生放送
 
 ---
 
 **DATE**: 09/24（水） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1970798070817505694"></a>
-</blockquote>
+[🌈プロセカ...](https://x.com/pj_sekai/status/1970798070817505694)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 09/24（水） 18:12
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1970778322906026127"></a>
-</blockquote>
+[このあと1...](https://x.com/pj_sekai/status/1970778322906026127)
 
 ---
 
@@ -4007,13 +4085,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
