@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/25 21:28
+### 最終更新：2025/09/26 01:16
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -11,7 +11,7 @@
 </div></div>
 <div id="maint-0" style="display: none;">
 09/28（日） 21:00 ～ 21:30
-　<a href="https://x.com/pj_sekai/status/1971160248401658050">公式ポスト</a>
+　<a href="https://x.com/pj_sekai/status/1971169807027535975">公式ポスト</a>
 </div>
 <div class="highlight" id="maint-ongoing-1" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -21,8 +21,16 @@
 </div></div>
 <div id="maint-1" style="display: none;">
 09/28（日） 21:00 ～ 21:30
-　<a href="https://x.com/pj_sekai/status/1971049488396783846">公式ポスト</a>
+　<a href="https://x.com/pj_sekai/status/1971097544500630003">公式ポスト</a>
 </div>
+
+---
+
+**DATE**: 09/26（金） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1971228207065231823"></a>
+</blockquote>
 
 ---
 
@@ -64,9 +72,7 @@
 
 **DATE**: 09/25（木） 12:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1971049225518711234"></a>
-</blockquote>
+[【重要なお...](https://x.com/pj_sekai/status/1971049225518711234)
 
 ---
 
@@ -1894,13 +1900,13 @@
 
 **DATE**: 08/30（土） 12:03
 <br>
-[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
+[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
 
 ---
 
 **DATE**: 08/30（土） 12:03
 <br>
-[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
+[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
 
 ---
 
@@ -3440,13 +3446,13 @@
 
 ---
 
-**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
-
----
-
 **DATE**: 07/29（火） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1950164404064202958)
+
+---
+
+**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
 
 ---
 
@@ -4328,13 +4334,13 @@
 
 ---
 
-**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
-
----
-
 **DATE**: 07/21（月） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
+
+---
+
+**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
 
 ---
 
@@ -4574,13 +4580,13 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
+[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
+[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
 
 ---
 
@@ -4775,13 +4781,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056710308569164)
+[【差し入れ...](https://x.com/pj_sekai/status/1942056712913162361)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【差し入れ...](https://x.com/pj_sekai/status/1942056712913162361)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056710308569164)
 
 ---
 
@@ -5716,22 +5722,6 @@
 **DATE**: 06/23（月） 20:03
 <br>
 [本日20:...](https://x.com/pj_sekai/status/1937104172941541544)
-
----
-
-**DATE**: 06/23（月） 20:00 イベント「**ordinary,yet special us**」 開始
-
----
-
-**DATE**: 06/23（月） 15:03
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1937028635921432965)
-
----
-
-**DATE**: 06/23（月） 15:02
-<br>
-[本日15時...](https://x.com/pj_sekai/status/1937028488420282418)
 
 <script>
 let nowDt = new Date();
