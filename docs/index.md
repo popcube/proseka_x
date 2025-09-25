@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/25 13:15
+### 最終更新：2025/09/25 13:40
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -11,7 +11,7 @@
 </div></div>
 <div id="maint-0" style="display: none;">
 09/28（日） 21:00 ～ 21:30
-　<a href="https://x.com/pj_sekai/status/1970859105373044777">公式ポスト</a>
+　<a href="https://x.com/pj_sekai/status/1971043298971406629">公式ポスト</a>
 </div>
 
 ---
@@ -20,6 +20,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1971043679805849796"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/25（木） 11:45
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1971043298971406629"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/25（木） 11:45
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1971043272828297608"></a>
 </blockquote>
 
 ---
@@ -42,17 +58,13 @@
 
 **DATE**: 09/24（水） 21:48
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1970832692687389061"></a>
-</blockquote>
+[🌟5周年記...](https://x.com/pj_sekai/status/1970832692687389061)
 
 ---
 
 **DATE**: 09/24（水） 21:29
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1970827824497099082"></a>
-</blockquote>
+[🌟プロジェ...](https://x.com/pj_sekai/status/1970827824497099082)
 
 ---
 
@@ -735,6 +747,10 @@
 [🌈プロセカ...](https://x.com/pj_sekai/status/1970798070817505694)
 <br>
 #プロセカ放送局
+
+---
+
+**DATE**: 09/24（水） 19:30 「**プロセカ放送局 5周年スペシャル**」 放送開始
 
 ---
 
@@ -1800,13 +1816,13 @@
 
 **DATE**: 08/30（土） 12:03
 <br>
-[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
+[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
 
 ---
 
 **DATE**: 08/30（土） 12:03
 <br>
-[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
+[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
 
 ---
 
@@ -2548,13 +2564,13 @@
 
 **DATE**: 08/22（金） 12:08
 <br>
-[「キミに咲...](https://x.com/pj_sekai/status/1958728063375782337)
+[【ボクのま...](https://x.com/pj_sekai/status/1958728065829474747)
 
 ---
 
 **DATE**: 08/22（金） 12:08
 <br>
-[【ボクのま...](https://x.com/pj_sekai/status/1958728065829474747)
+[「キミに咲...](https://x.com/pj_sekai/status/1958728063375782337)
 
 ---
 
@@ -3346,13 +3362,13 @@
 
 ---
 
-**DATE**: 07/29（火） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1950164404064202958)
+**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
 
 ---
 
-**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
+**DATE**: 07/29（火） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1950164404064202958)
 
 ---
 
@@ -4234,13 +4250,13 @@
 
 ---
 
-**DATE**: 07/21（月） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
+**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
 
 ---
 
-**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
+**DATE**: 07/21（月） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
 
 ---
 
@@ -4681,13 +4697,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056710308569164)
+[【差し入れ...](https://x.com/pj_sekai/status/1942056712913162361)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【差し入れ...](https://x.com/pj_sekai/status/1942056712913162361)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056710308569164)
 
 ---
 
@@ -4705,13 +4721,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
