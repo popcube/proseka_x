@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/25 04:20
+### 最終更新：2025/09/25 13:15
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -10,19 +10,17 @@
 【メンテナンス予定あり】
 </div></div>
 <div id="maint-0" style="display: none;">
-09/25（木） 10:00 ～ 11:30
+09/28（日） 21:00 ～ 21:30
 　<a href="https://x.com/pj_sekai/status/1970859105373044777">公式ポスト</a>
 </div>
-<div class="highlight" id="maint-ongoing-1" style="display: none;"><div class="gd">
-【メンテナンス実施中】
-</div></div>
-<div class="highlight" id="maint-planned-1" style="display: none;"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-<div id="maint-1" style="display: none;">
-09/28（日） 21:00 ～ 21:30
-　<a href="https://x.com/pj_sekai/status/1970832812212462036">公式ポスト</a>
-</div>
+
+---
+
+**DATE**: 09/25（木） 11:46
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1971043679805849796"></a>
+</blockquote>
 
 ---
 
@@ -60,9 +58,9 @@
 
 **DATE**: 09/24（水） 21:26
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1970827107929583945"></a>
-</blockquote>
+[🎊プロセカ...](https://x.com/pj_sekai/status/1970827107929583945)
+<br>
+#プロセカ5周年直前生放送
 
 ---
 
@@ -5729,8 +5727,8 @@
 
 <script>
 let nowDt = new Date();
-let startDt0 = new Date(2025, 8, 25, 10, 0);
-let endDt0 = new Date(2025, 8, 25, 11, 30);
+let startDt0 = new Date(2025, 8, 28, 21, 0);
+let endDt0 = new Date(2025, 8, 28, 21, 30);
 if ((startDt0 < nowDt) && (nowDt < endDt0)){
   document.getElementById('maint-ongoing-0').style.display = 'block';
   document.getElementById('maint-0').style.display = 'block';
@@ -5738,16 +5736,6 @@ if ((startDt0 < nowDt) && (nowDt < endDt0)){
 else if (nowDt < startDt0){
   document.getElementById('maint-planned-0').style.display = 'block';
   document.getElementById('maint-0').style.display = 'block';
-}
-let startDt1 = new Date(2025, 8, 28, 21, 0);
-let endDt1 = new Date(2025, 8, 28, 21, 30);
-if ((startDt1 < nowDt) && (nowDt < endDt1)){
-  document.getElementById('maint-ongoing-1').style.display = 'block';
-  document.getElementById('maint-1').style.display = 'block';
-}
-else if (nowDt < startDt1){
-  document.getElementById('maint-planned-1').style.display = 'block';
-  document.getElementById('maint-1').style.display = 'block';
 }
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
