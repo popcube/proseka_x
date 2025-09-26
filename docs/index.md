@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/26 04:19
+### 最終更新：2025/09/26 15:46
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -11,7 +11,7 @@
 </div></div>
 <div id="maint-0" style="display: none;">
 09/28（日） 21:00 ～ 21:30
-　<a href="https://x.com/pj_sekai/status/1971169807027535975">公式ポスト</a>
+　<a href="https://x.com/pj_sekai/status/1971228207065231823">公式ポスト</a>
 </div>
 <div class="highlight" id="maint-ongoing-1" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -21,8 +21,16 @@
 </div></div>
 <div id="maint-1" style="display: none;">
 09/28（日） 21:00 ～ 21:30
-　<a href="https://x.com/pj_sekai/status/1971097544500630003">公式ポスト</a>
+　<a href="https://x.com/pj_sekai/status/1971160248401658050">公式ポスト</a>
 </div>
+
+---
+
+**DATE**: 09/26（金） 15:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1971457517126635917"></a>
+</blockquote>
 
 ---
 
@@ -64,9 +72,7 @@
 
 **DATE**: 09/25（木） 12:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1971049488396783846"></a>
-</blockquote>
+[✨プロジェ...](https://x.com/pj_sekai/status/1971049488396783846)
 
 ---
 
@@ -2018,13 +2024,13 @@
 
 **DATE**: 08/30（土） 12:03
 <br>
-[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
+[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
 
 ---
 
 **DATE**: 08/30（土） 12:03
 <br>
-[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
+[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
 
 ---
 
@@ -4923,13 +4929,13 @@
 
 **DATE**: 07/07（月） 12:02
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
+[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
 
 ---
 
 **DATE**: 07/07（月） 12:02
 <br>
-[【憧れまで...](https://x.com/pj_sekai/status/1942056616725282949)
+[「ブルーム...](https://x.com/pj_sekai/status/1942056614065996060)
 
 ---
 
@@ -5800,46 +5806,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/1937344938527600717)
 <br>
 #セカイの4コマ #神代類誕生祭2025
-
----
-
-**DATE**: 06/24（火） 00:01
-<br>
-[👑神代類 ...](https://x.com/pj_sekai/status/1937163990154830150)
-<br>
-#神代類誕生祭2025
-
----
-
-**DATE**: 06/24（火） 00:00
-<br>
-[㊗️本日6...](https://x.com/pj_sekai/status/1937163746767765549)
-<br>
-#神代類誕生祭2025
-
----
-
-**DATE**: 06/23（月） 20:04
-<br>
-[✉アフター...](https://x.com/pj_sekai/status/1937104379263480042)
-
----
-
-**DATE**: 06/23（月） 20:03
-<br>
-[💭プロセカ...](https://x.com/pj_sekai/status/1937104288704241939)
-
----
-
-**DATE**: 06/23（月） 20:03
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/1937104206273605780)
-
----
-
-**DATE**: 06/23（月） 20:03
-<br>
-[本日20:...](https://x.com/pj_sekai/status/1937104172941541544)
 
 <script>
 let nowDt = new Date();
