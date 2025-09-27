@@ -67,14 +67,24 @@ def extract_two_datetimes(in_text):
   out_dt_list = []
   for dt_match in match_list:
     month, day, start_time, end_time = dt_match.groups()
+    year = datetime.now().year
+    year2 = year
+    month2 = month
+    day2 = day
+    
+    if int(start_time[:2] >= 24):
+      start_time[:2] = f"{int(start_time[:2]-24):02d}"
+      next_datetime = datetime(year, month, day) + timedelta(days=1)
+      year2 = next_datetime.year
+      month2 = next_datetime.month
+      day2 = next_datetime.day
     
     if datetime.now().month >= 11 and month <= 2:
-      year = datetime.now().year + 1
-    else:
-      year = datetime.now().year
+      year += 1
+      year2 += 1
     
     start_datetime = datetime.strptime(f"{year}-{month}-{day} {start_time}", "%Y-%m-%d %H:%M")
-    end_datetime = datetime.strptime(f"{year}-{month}-{day} {end_time}", "%Y-%m-%d %H:%M")
+    end_datetime = datetime.strptime(f"{year2}-{month2}-{day2} {end_time}", "%Y-%m-%d %H:%M")
     
     out_dt_list.append([start_datetime.replace(tzinfo=timezone_jst), end_datetime.replace(tzinfo=timezone_jst)])
   
@@ -102,15 +112,16 @@ def main():
                    parse_dates=["POST DATE"],
                    date_format="ISO8601")
 
-  datetime_df = pd.DataFrame(columns=['START', 'END'])
-  for raw_post in raw_post_table["BODY TEXT"]:
-    raw_datetime_list = extract_two_datetimes(raw_post)
+  datetime_df = pd.DataFrame(columns=['START', 'END', 'POST ID'])
+  for raw_post in raw_post_table.itertuples():
+    raw_datetime_list = extract_two_datetimes(raw_post["BODY TEXT"])
     if bool(raw_datetime_list):
       for raw_datetime in raw_datetime_list:
-        datetime_df.loc[len(datetime_df)] = raw_datetime
+        datetime_df.loc[len(datetime_df)] = raw_datetime + [raw_post['POST ID']]
   # raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
   # datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
   # datetime_df.columns = ['START', 'END']
+  datetime_df.drop_duplicates(subset=["START", "END"], inplace=True)
   notice_df = datetime_df[datetime_df["END"].ge(now_dt)].sort_values("START")
   #　notice_df = datetime_df.sort_values("START") # Switch this for testing 
   for id_num, row in enumerate(notice_df.itertuples()):
@@ -135,7 +146,7 @@ def main():
                 + row.START.strftime("） %H:%M") 
                 + " ～ "
                 + row.END.strftime("%H:%M"))
-    source_url = f'https://x.com/pj_sekai/status/{raw_post_table.loc[row.Index, "POST ID"]}'
+    source_url = f'https://x.com/pj_sekai/status/{row["POST ID"]}'
     res.append(f'　<a href="{source_url}">公式ポスト</a>')
     # res.append("　＊これはテストです") #delete this
     res.append("</div>")
