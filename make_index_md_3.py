@@ -112,12 +112,12 @@ def main():
                    parse_dates=["POST DATE"],
                    date_format="ISO8601")
 
-  datetime_df = pd.DataFrame(columns=['START', 'END', 'POST ID'])
+  datetime_df = pd.DataFrame(columns=['START', 'END', 'POST_ID'])
   for raw_post in raw_post_table.itertuples():
     raw_datetime_list = extract_two_datetimes(raw_post["BODY TEXT"])
     if bool(raw_datetime_list):
       for raw_datetime in raw_datetime_list:
-        datetime_df.loc[len(datetime_df)] = raw_datetime + [raw_post['POST ID']]
+        datetime_df.loc[len(datetime_df)] = raw_datetime + [raw_post.POST_ID]
   # raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
   # datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
   # datetime_df.columns = ['START', 'END']
@@ -146,7 +146,7 @@ def main():
                 + row.START.strftime("） %H:%M") 
                 + " ～ "
                 + row.END.strftime("%H:%M"))
-    source_url = f'https://x.com/pj_sekai/status/{row["POST ID"]}'
+    source_url = f'https://x.com/pj_sekai/status/{row.POST_ID}'
     res.append(f'　<a href="{source_url}">公式ポスト</a>')
     # res.append("　＊これはテストです") #delete this
     res.append("</div>")
