@@ -114,7 +114,7 @@ def main():
 
   datetime_df = pd.DataFrame(columns=['START', 'END', 'POST_ID'])
   for raw_post in raw_post_table.itertuples():
-    raw_datetime_list = extract_two_datetimes(raw_post["BODY TEXT"])
+    raw_datetime_list = extract_two_datetimes(raw_post[3]) # BODY TEXT key info is lost in itertuples() 
     if bool(raw_datetime_list):
       for raw_datetime in raw_datetime_list:
         datetime_df.loc[len(datetime_df)] = raw_datetime + [raw_post.POST_ID]
