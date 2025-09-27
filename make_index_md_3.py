@@ -71,14 +71,19 @@ def extract_two_datetimes(in_text):
     year2 = year
     month2 = month
     day2 = day
+    next_datetime = datetime(year, month, day) + timedelta(days=1)
     
     if int(start_time[:2]) >= 24:
       start_time[:2] = f"{int(start_time[:2]-24):02d}"
-      next_datetime = datetime(year, month, day) + timedelta(days=1)
+      year2 = year = next_datetime.year
+      month2 = month = next_datetime.month
+      day2 = day = next_datetime.day
+    elif int(end_time[:2]) >= 24:
+      end_time[:2] = f"{int(end_time[:2]-24):02d}"
       year2 = next_datetime.year
       month2 = next_datetime.month
       day2 = next_datetime.day
-    
+          
     if datetime.now().month >= 11 and month <= 2:
       year += 1
       year2 += 1
