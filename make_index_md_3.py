@@ -111,10 +111,11 @@ def main():
   raw_post_table = pd.read_csv("./docs/sorted_data.csv",
                    parse_dates=["POST DATE"],
                    date_format="ISO8601")
+  raw_post_table.columns = ["POST_DATE", "POST_ID", "BODY_TEXT", "DETECTED_DATE"]
 
   datetime_df = pd.DataFrame(columns=['START', 'END', 'POST_ID'])
   for raw_post in raw_post_table.itertuples():
-    raw_datetime_list = extract_two_datetimes(raw_post[3]) # BODY TEXT key info is lost in itertuples() 
+    raw_datetime_list = extract_two_datetimes(raw_post.BODY_TEXT)
     if bool(raw_datetime_list):
       for raw_datetime in raw_datetime_list:
         datetime_df.loc[len(datetime_df)] = raw_datetime + [raw_post.POST_ID]
