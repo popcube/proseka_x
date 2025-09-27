@@ -118,14 +118,14 @@ def main():
   raw_post_table = pd.read_csv("./docs/sorted_data.csv",
                    parse_dates=["POST DATE"],
                    date_format="ISO8601")
-  raw_post_table.columns = ["POST_DATE", "POST_ID", "BODY_TEXT", "DETECTED_DATE"]
+  # raw_post_table.columns = ["POST_DATE", "POST_ID", "BODY_TEXT", "DETECTED_DATE"]
 
-  datetime_df = pd.DataFrame(columns=['START', 'END', 'POST_ID'])
+  datetime_df = pd.DataFrame(columns=['START', 'END', 'POST ID'])
   for raw_post in raw_post_table.itertuples():
-    raw_datetime_list = extract_two_datetimes(raw_post.BODY_TEXT)
+    raw_datetime_list = extract_two_datetimes(raw_post[3]) # BODY TEXT
     if bool(raw_datetime_list):
       for raw_datetime in raw_datetime_list:
-        datetime_df.loc[len(datetime_df)] = raw_datetime + [raw_post.POST_ID]
+        datetime_df.loc[len(datetime_df)] = raw_datetime + [raw_post[2]] # POST ID
   # raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
   # datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
   # datetime_df.columns = ['START', 'END']
@@ -154,7 +154,7 @@ def main():
                 + row.START.strftime("） %H:%M") 
                 + " ～ "
                 + row.END.strftime("%H:%M"))
-    source_url = f'https://x.com/pj_sekai/status/{row.POST_ID}'
+    source_url = f'https://x.com/pj_sekai/status/{row[3]}' # POST iD
     res.append(f'　<a href="{source_url}">公式ポスト</a>')
     # res.append("　＊これはテストです") #delete this
     res.append("</div>")
