@@ -154,10 +154,11 @@ def main():
                 + row.START.strftime("） %H:%M") 
                 + " ～ "
                 + row.END.strftime("%H:%M"))
-    source_url = f'https://x.com/pj_sekai/status/{row[3]}' # POST iD
+    source_url = f'https://x.com/pj_sekai/status/{row[3]}' # POST ID
     res.append(f'　<a href="{source_url}">公式ポスト</a>')
     # res.append("　＊これはテストです") #delete this
     res.append("</div>")
+    res.append("")
     
     # print(row, flush=True)
 
