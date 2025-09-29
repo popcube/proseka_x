@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/29 12:54
+### 最終更新：2025/09/29 13:16
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -17,10 +17,26 @@
 
 ---
 
+**DATE**: 09/29（月） 12:14
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1972500224649351572"></a>
+</blockquote>
+
+---
+
 **DATE**: 09/29（月） 12:10
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1972499281719460281"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/29（月） 12:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1972499261339435241"></a>
 </blockquote>
 
 ---
@@ -43,17 +59,13 @@
 
 **DATE**: 09/28（日） 21:32
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1972278258835316854"></a>
-</blockquote>
+[【メンテナ...](https://x.com/pj_sekai/status/1972278258835316854)
 
 ---
 
 **DATE**: 09/28（日） 20:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1972256098704040055"></a>
-</blockquote>
+[本日20:...](https://x.com/pj_sekai/status/1972256098704040055)
 
 ---
 
@@ -4549,13 +4561,13 @@
 
 ---
 
-**DATE**: 07/21（月） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
+**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
 
 ---
 
-**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
+**DATE**: 07/21（月） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
 
 ---
 
@@ -4783,25 +4795,25 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
-
----
-
-**DATE**: 07/15（火） 12:05
-<br>
 [【お楽しみ...](https://x.com/pj_sekai/status/1944956546657739037)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
+[「Seek...](https://x.com/pj_sekai/status/1944956543985967428)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
 [【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
+
+---
+
+**DATE**: 07/15（火） 12:05
+<br>
+[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
 
 ---
 
