@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/29 00:34
+### 最終更新：2025/09/29 12:54
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -14,6 +14,22 @@
 　<a href="https://x.com/pj_sekai/status/1972179616157913579">公式ポスト</a>
 </div>
 
+
+---
+
+**DATE**: 09/29（月） 12:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1972499281719460281"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/29（月） 12:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1972499176278962394"></a>
+</blockquote>
 
 ---
 
@@ -47,17 +63,15 @@
 
 **DATE**: 09/28（日） 15:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1972179616157913579"></a>
-</blockquote>
+[【メンテナ...](https://x.com/pj_sekai/status/1972179616157913579)
 
 ---
 
 **DATE**: 09/28（日） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1971952973623579067"></a>
-</blockquote>
+[プロセカ5...](https://x.com/pj_sekai/status/1971952973623579067)
+<br>
+#プロセカ5周年イラスト
 
 ---
 
@@ -4535,13 +4549,13 @@
 
 ---
 
-**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
-
----
-
 **DATE**: 07/21（月） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
+
+---
+
+**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
 
 ---
 
@@ -5835,20 +5849,6 @@
 **DATE**: 06/27（金） 12:00
 <br>
 [本日19:...](https://x.com/pj_sekai/status/1938432100044095737)
-
----
-
-**DATE**: 06/26（木） 20:07
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/1938192462532776098)
-
----
-
-**DATE**: 06/26（木） 18:00
-<br>
-[『さよなら...](https://x.com/pj_sekai/status/1938160316292141368)
-<br>
-#モモジャン
 
 <script>
 let nowDt = new Date();
