@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/09/30 13:40
+### 最終更新：2025/09/30 13:49
 
 
 ---
@@ -14,10 +14,26 @@
 
 ---
 
+**DATE**: 09/30（火） 12:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1972861797939204289"></a>
+</blockquote>
+
+---
+
 **DATE**: 09/30（火） 12:10
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1972861698756469147"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/30（火） 12:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1972861165069082706"></a>
 </blockquote>
 
 ---
@@ -32,17 +48,19 @@
 
 **DATE**: 09/30（火） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1972860550645465160"></a>
-</blockquote>
+[【キラキラ...](https://x.com/pj_sekai/status/1972860552662876355)
+
+---
+
+**DATE**: 09/30（火） 12:06
+<br>
+[『[5周年...](https://x.com/pj_sekai/status/1972860550645465160)
 
 ---
 
 **DATE**: 09/30（火） 11:38
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1972853516520902980"></a>
-</blockquote>
+[下記楽曲の...](https://x.com/pj_sekai/status/1972853516520902980)
 
 ---
 
@@ -3146,13 +3164,13 @@
 
 **DATE**: 08/22（金） 12:08
 <br>
-[【ボクのま...](https://x.com/pj_sekai/status/1958728065829474747)
+[「キミに咲...](https://x.com/pj_sekai/status/1958728063375782337)
 
 ---
 
 **DATE**: 08/22（金） 12:08
 <br>
-[「キミに咲...](https://x.com/pj_sekai/status/1958728063375782337)
+[【ボクのま...](https://x.com/pj_sekai/status/1958728065829474747)
 
 ---
 
