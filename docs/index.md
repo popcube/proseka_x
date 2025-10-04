@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/10/04 18:11
+### 最終更新：2025/10/04 19:11
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -14,6 +14,14 @@
 　<a href="https://x.com/pj_sekai/status/1974054056307118109">公式ポスト</a>
 </div>
 
+
+---
+
+**DATE**: 10/04（土） 18:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1974399090562847121"></a>
+</blockquote>
 
 ---
 
@@ -51,9 +59,7 @@
 
 **DATE**: 10/04（土） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1974308507709997481"></a>
-</blockquote>
+[🌟プロセカ...](https://x.com/pj_sekai/status/1974308507709997481)
 
 ---
 
@@ -4647,13 +4653,13 @@
 
 ---
 
-**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
-
----
-
 **DATE**: 07/29（火） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1950164404064202958)
+
+---
+
+**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
 
 ---
 
