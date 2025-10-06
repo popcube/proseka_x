@@ -1,19 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/10/06 01:13
+### 最終更新：2025/10/06 12:29
 
-<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
-【メンテナンス実施中】
-</div></div>
-<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-<div id="maint-0" style="display: none;">
-10/06（月） 11:00 ～ 11:30
-　<a href="https://x.com/pj_sekai/status/1974054056307118109">公式ポスト</a>
-</div>
 
+---
+
+**DATE**: 10/06（月） 11:35
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1975027024478740511"></a>
+</blockquote>
 
 ---
 
@@ -51,9 +48,7 @@
 
 **DATE**: 10/05（日） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1974717476383637560"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/1974717476383637560)
 
 ---
 
@@ -451,13 +446,13 @@
 
 **DATE**: 09/30（火） 12:11
 <br>
-[【とびきり...](https://x.com/pj_sekai/status/1972861799944143059)
+[『[5周年...](https://x.com/pj_sekai/status/1972861797939204289)
 
 ---
 
 **DATE**: 09/30（火） 12:11
 <br>
-[『[5周年...](https://x.com/pj_sekai/status/1972861797939204289)
+[【とびきり...](https://x.com/pj_sekai/status/1972861799944143059)
 
 ---
 
@@ -3191,13 +3186,13 @@
 
 **DATE**: 08/30（土） 12:03
 <br>
-[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
+[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
 
 ---
 
 **DATE**: 08/30（土） 12:03
 <br>
-[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
+[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
 
 ---
 
@@ -6218,15 +6213,5 @@
 
 <script>
 let nowDt = new Date();
-let startDt0 = new Date(2025, 9, 6, 11, 0);
-let endDt0 = new Date(2025, 9, 6, 11, 30);
-if ((startDt0 < nowDt) && (nowDt < endDt0)){
-  document.getElementById('maint-ongoing-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
-else if (nowDt < startDt0){
-  document.getElementById('maint-planned-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
