@@ -1,8 +1,32 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/10/13 19:42
+### 最終更新：2025/10/14 15:47
 
+
+---
+
+**DATE**: 10/14（火） 15:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1977978859078467709"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/14（火） 15:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1977978709035622603"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/14（火） 15:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1977978561148629271"></a>
+</blockquote>
 
 ---
 
@@ -24,25 +48,19 @@
 
 **DATE**: 10/12（日） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1977208640273830257"></a>
-</blockquote>
+[✉プロセカ...](https://x.com/pj_sekai/status/1977208640273830257)
 
 ---
 
 **DATE**: 10/12（日） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1977208629154783452"></a>
-</blockquote>
+[✉プロセカ...](https://x.com/pj_sekai/status/1977208629154783452)
 
 ---
 
 **DATE**: 10/12（日） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1977208606237106668"></a>
-</blockquote>
+[本日12時...](https://x.com/pj_sekai/status/1977208606237106668)
 
 ---
 
@@ -1182,17 +1200,17 @@
 
 **DATE**: 09/29（月） 23:48
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972674798086975930)
+[#プロセカ...](https://x.com/pj_sekai/status/1972674801182658570)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
 **DATE**: 09/29（月） 23:48
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972674801182658570)
+[#プロセカ...](https://x.com/pj_sekai/status/1972674798086975930)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
@@ -5942,13 +5960,13 @@
 
 ---
 
-**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
-
----
-
 **DATE**: 07/21（月） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
+
+---
+
+**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
 
 ---
 
@@ -6188,13 +6206,13 @@
 
 **DATE**: 07/15（火） 12:05
 <br>
-[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
+[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
 
 ---
 
 **DATE**: 07/15（火） 12:05
 <br>
-[「Seek...](https://x.com/pj_sekai/status/1944956522704068968)
+[【ビー・ウ...](https://x.com/pj_sekai/status/1944956525585555781)
 
 ---
 
@@ -6271,18 +6289,6 @@
 **DATE**: 07/13（日） 12:01
 <br>
 [本日12時...](https://x.com/pj_sekai/status/1944230740931358735)
-
----
-
-**DATE**: 07/11（金） 21:30
-<br>
-[【お知らせ...](https://x.com/pj_sekai/status/1943649166322008126)
-
----
-
-**DATE**: 07/11（金） 12:01
-<br>
-[『Stra...](https://x.com/pj_sekai/status/1943505822786687321)
 
 <script>
 let nowDt = new Date();
