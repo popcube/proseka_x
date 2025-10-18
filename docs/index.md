@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/10/18 17:50
+### 最終更新：2025/10/18 18:12
 
+
+---
+
+**DATE**: 10/18（土） 17:38
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1979467061832356074"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 10/18（土） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1979382972370554996"></a>
-</blockquote>
+[本日12時...](https://x.com/pj_sekai/status/1979382972370554996)
 
 ---
 
@@ -925,13 +931,13 @@
 
 **DATE**: 09/30（火） 12:07
 <br>
-[【止まらな...](https://x.com/pj_sekai/status/1972860819319996447)
+[『[5周年...](https://x.com/pj_sekai/status/1972860817436791112)
 
 ---
 
 **DATE**: 09/30（火） 12:07
 <br>
-[『[5周年...](https://x.com/pj_sekai/status/1972860817436791112)
+[【止まらな...](https://x.com/pj_sekai/status/1972860819319996447)
 
 ---
 
@@ -1115,17 +1121,17 @@
 
 **DATE**: 09/29（月） 23:57
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972677067490853329)
+[#プロセカ...](https://x.com/pj_sekai/status/1972677070036808106)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
 **DATE**: 09/29（月） 23:57
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972677070036808106)
+[#プロセカ...](https://x.com/pj_sekai/status/1972677067490853329)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
@@ -3617,13 +3623,13 @@
 
 **DATE**: 08/30（土） 12:03
 <br>
-[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
+[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
 
 ---
 
 **DATE**: 08/30（土） 12:03
 <br>
-[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
+[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
 
 ---
 
@@ -5163,13 +5169,13 @@
 
 ---
 
-**DATE**: 07/29（火） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1950164404064202958)
+**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
 
 ---
 
-**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
+**DATE**: 07/29（火） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1950164404064202958)
 
 ---
 
