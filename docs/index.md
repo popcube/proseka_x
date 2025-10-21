@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/10/21 19:14
+### 最終更新：2025/10/21 20:35
 
+
+---
+
+**DATE**: 10/21（火） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1980589885330538839"></a>
+</blockquote>
 
 ---
 
@@ -44,9 +52,7 @@
 
 **DATE**: 10/21（火） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1980470412791411090"></a>
-</blockquote>
+[【スペシャ...](https://x.com/pj_sekai/status/1980470412791411090)
 
 ---
 
@@ -511,13 +517,13 @@
 
 **DATE**: 10/11（土） 12:01
 <br>
-[「Foll...](https://x.com/pj_sekai/status/1976845606984569209)
+[【日々のル...](https://x.com/pj_sekai/status/1976845609320759448)
 
 ---
 
 **DATE**: 10/11（土） 12:01
 <br>
-[【日々のル...](https://x.com/pj_sekai/status/1976845609320759448)
+[「Foll...](https://x.com/pj_sekai/status/1976845606984569209)
 
 ---
 
@@ -535,13 +541,13 @@
 
 **DATE**: 10/11（土） 12:01
 <br>
-[「Foll...](https://x.com/pj_sekai/status/1976845565318381893)
+[【衝撃の朝...](https://x.com/pj_sekai/status/1976845567486837142)
 
 ---
 
 **DATE**: 10/11（土） 12:01
 <br>
-[【衝撃の朝...](https://x.com/pj_sekai/status/1976845567486837142)
+[「Foll...](https://x.com/pj_sekai/status/1976845565318381893)
 
 ---
 
@@ -1177,13 +1183,13 @@
 
 **DATE**: 09/30（火） 12:11
 <br>
-[【とびきり...](https://x.com/pj_sekai/status/1972861799944143059)
+[『[5周年...](https://x.com/pj_sekai/status/1972861797939204289)
 
 ---
 
 **DATE**: 09/30（火） 12:11
 <br>
-[『[5周年...](https://x.com/pj_sekai/status/1972861797939204289)
+[【とびきり...](https://x.com/pj_sekai/status/1972861799944143059)
 
 ---
 
