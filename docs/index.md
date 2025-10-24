@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/10/24 04:20
+### 最終更新：2025/10/24 18:48
 
+
+---
+
+**DATE**: 10/24（金） 18:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1981648963901288581"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,9 @@
 
 **DATE**: 10/23（木） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1981193869346943416"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/1981193869346943416)
+<br>
+#セカイの4コマ
 
 ---
 
@@ -498,13 +506,13 @@
 
 **DATE**: 10/21（火） 12:04
 <br>
-[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
+[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
 
 ---
 
 **DATE**: 10/21（火） 12:04
 <br>
-[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
+[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
 
 ---
 
@@ -975,13 +983,13 @@
 
 **DATE**: 10/11（土） 12:01
 <br>
-[【衝撃の朝...](https://x.com/pj_sekai/status/1976845567486837142)
+[「Foll...](https://x.com/pj_sekai/status/1976845565318381893)
 
 ---
 
 **DATE**: 10/11（土） 12:01
 <br>
-[「Foll...](https://x.com/pj_sekai/status/1976845565318381893)
+[【衝撃の朝...](https://x.com/pj_sekai/status/1976845567486837142)
 
 ---
 
@@ -5903,13 +5911,13 @@
 
 ---
 
-**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
-
----
-
 **DATE**: 07/29（火） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1950164404064202958)
+
+---
+
+**DATE**: 07/29（火） 21:00 イベント「**start rolling! stars’ crossing**」 終了
 
 ---
 
@@ -6707,13 +6715,13 @@
 
 **DATE**: 07/23（水） 12:06
 <br>
-[「Open...](https://x.com/pj_sekai/status/1947855843283947636)
+[【Fant...](https://x.com/pj_sekai/status/1947855846031168013)
 
 ---
 
 **DATE**: 07/23（水） 12:06
 <br>
-[【Fant...](https://x.com/pj_sekai/status/1947855846031168013)
+[「Open...](https://x.com/pj_sekai/status/1947855843283947636)
 
 ---
 
@@ -6780,24 +6788,6 @@
 **DATE**: 07/22（火） 12:04
 <br>
 [【機能メン...](https://x.com/pj_sekai/status/1947492894371422375)
-
----
-
-**DATE**: 07/21（月） 21:00
-<br>
-[『透明なパ...](https://x.com/pj_sekai/status/1947265484614688811)
-<br>
-#レオニ
-
----
-
-**DATE**: 07/21（月） 21:00 イベント「**Unsteady, still steady step**」 終了
-
----
-
-**DATE**: 07/21（月） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1947265299264524673)
 
 <script>
 let nowDt = new Date();
