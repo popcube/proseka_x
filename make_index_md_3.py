@@ -59,6 +59,7 @@ def extract_two_datetimes(in_text):
     dt_match = maint_datetime_match.search(re.sub(r'\s+', '', in_line))
     if dt_match:
       match_list.append(dt_match)
+      print("#dt_match " + in_line)
     
     # print(in_line_list)
   if len(match_list) == 0:
@@ -125,9 +126,9 @@ def main():
     raw_datetime_list = extract_two_datetimes(raw_post[3]) # BODY TEXT
     if bool(raw_datetime_list):
       for raw_datetime in raw_datetime_list:
+        print("##### maint list #####")
+        print(raw_datetime)
         datetime_df.loc[len(datetime_df)] = raw_datetime + [raw_post[2]] # POST ID
-  print("##### maint list #####")
-  print(raw_datetime)
   # raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
   # datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
   # datetime_df.columns = ['START', 'END']
