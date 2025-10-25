@@ -167,7 +167,7 @@ if __name__ == '__main__':
   added_ids = [id for id in new_ids if id not in cur_ids]
   
   ## DEBUG CODE
-  adde_ids = ["1981375057005072654"]
+  added_ids = ["1981375057005072654"]
   ## DEBUG CODE
   
   # when new post is detected
