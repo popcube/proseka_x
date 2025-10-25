@@ -9,8 +9,9 @@ on:
         default: 'no'
         type: choice
         options:
-          - yes
-          - no
+        - yes
+        - no
+
   schedule:
   # every 1 hour from 4am to 12am JST with a wrap up at 4am
     - cron: '0 19 * * *'
