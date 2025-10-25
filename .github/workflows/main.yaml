@@ -67,6 +67,7 @@ jobs:
         run: pip install -r ./private_script_storage/requirements.txt
           
       - name: main
+        continue-on-error: true
         id: main
         run: |
           mv ./private_script_storage/receiver.py ./
@@ -88,7 +89,7 @@ jobs:
           name: out.json
           
       - name: upload raw data
-        if: ${{ steps.main.outputs.CHANGE == 'YES' }}
+        # if: ${{ steps.main.outputs.CHANGE == 'YES' }}
         uses: actions/upload-artifact@v4
         with:
           path: ./sorted_data_viewer.csv
