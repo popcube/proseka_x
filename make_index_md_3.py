@@ -129,7 +129,7 @@ def main():
         print("##### maint list #####")
         print(raw_datetime)
         datetime_list.append({'START': raw_datetime[0], 'END': raw_datetime[1], 'POST ID': raw_post[2]}) # POST ID
-        datetime_df = pd.DataFrame(columns=['START', 'END', 'POST ID'])
+  datetime_df = pd.DataFrame(datetime_list)
   # raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
   # datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
   # datetime_df.columns = ['START', 'END']
