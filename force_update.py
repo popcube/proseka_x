@@ -38,6 +38,14 @@ def main(ids):
     gt = event_dict["inputs"]["gt"]
     ids_raw = event_dict["inputs"]["ids"].split()
     ids = []
+    
+    ## parse url to id when necessary
+    url_pattern = r"^https://(x|twitter)\.com/pj_sekai/status/([0-9]+)($|\?.+)"
+    for id in ids_raw:
+      if re.fullmatch(r"^[0-9]+$", id):
+        ids.append(id)
+      elif re.fullmatch(url_pattern, id):
+        ids.append(re.match(url_pattern, id).group(2))
   else:
     with open("./gt.txt", "r") as f:
       gt = f.read().rstrip("\n")
@@ -50,14 +58,6 @@ def main(ids):
   ## cut the old data using date criteria
   cur_posts = [post for post in cur_posts
                if datetime.fromisoformat(post[0]) > cutoff_date]
-  
-  ## parse url to id when necessary
-  url_pattern = r"^https://(x|twitter)\.com/pj_sekai/status/([0-9]+)($|\?.+)"
-  for id in ids_raw:
-    if re.fullmatch(r"^[0-9]+$", id):
-      ids.append(id)
-    elif re.fullmatch(url_pattern, id):
-      ids.append(re.match(url_pattern, id).group(2))
       
   new_posts = populate_from_ids(gt, ids)
   
