@@ -9,7 +9,8 @@ from googleapiclient.discovery import build
 
 from make_index_md_3 import main as make_index_md
 from send_to_discord import main as send_to_discord
-from receiver import main as receiver
+from force_update import main as force_update
+from generator import main as generator
 
 from contextlib import redirect_stdout
 
@@ -179,59 +180,49 @@ if __name__ == '__main__':
     for post in new_posts:
       ## get only added posts AND unique ids
       if post[1] in added_ids and post[1] not in [post_pre[1] for post_pre in added_posts]:
-        added_posts.append(post)
+        # added_posts.append(post)
+        added_posts.append(post[1])
         print(post[:2])
     print()
     
-    with open("x_ids.text", "w") as f:
-      f.writelines([added_post[1] + "\n" for added_post in added_posts])
+    # with open("x_ids.text", "w") as f:
+    #   f.writelines([added_post[1] + "\n" for added_post in added_posts])
       
     with redirect_stdout(open(os.devnull, 'w')):
-      receiver()
+      generator()
     
-    with open("x_texts.txt", "r") as f:
-      reader = csv.reader(f)
-      for row in reader:
-        for idx, added_post in enumerate(added_posts):
-          if added_post[1] == row[0]:
-            added_posts[idx][2] = row[1]
+    force_update(added_posts)
     
-    print()
-    print("###### populate text ######")
-    for added_posts in added_posts:
-      print(added_post[:2])
+  #   posts = cur_posts + added_posts
+  #   posts.sort(key=lambda x: x[1], reverse=True)
     
+  #   # add header for output
+  #   posts.insert(0, ["POST DATE", "POST ID", "BODY TEXT", "DETECTED DATE"])
+  #   # post_strs = [",".join(post.values()) + "\n" for post in posts]
+  #   with open(
+  #     "./docs/sorted_data.csv", "w",
+  #     encoding='utf-8',
+  #     errors='ignore'
+  #   ) as f:
+  #     writer = csv.writer(f)
+  #     writer.writerows(posts)
     
-    posts = cur_posts + added_posts
-    posts.sort(key=lambda x: x[1], reverse=True)
+  #   make_index_md()
     
-    # add header for output
-    posts.insert(0, ["POST DATE", "POST ID", "BODY TEXT", "DETECTED DATE"])
-    # post_strs = [",".join(post.values()) + "\n" for post in posts]
-    with open(
-      "./docs/sorted_data.csv", "w",
-      encoding='utf-8',
-      errors='ignore'
-    ) as f:
-      writer = csv.writer(f)
-      writer.writerows(posts)
+  #   with open(
+  #     "./sorted_data_viewer.csv", "w",
+  #     encoding='utf-8',
+  #     errors='ignore'
+  #   ) as f:
+  #     writer = csv.writer(f)
+  #     writer.writerows([item.replace("\n", " ") for item in post] for post in posts)
     
-    make_index_md()
-    
-    with open(
-      "./sorted_data_viewer.csv", "w",
-      encoding='utf-8',
-      errors='ignore'
-    ) as f:
-      writer = csv.writer(f)
-      writer.writerows([item.replace("\n", " ") for item in post] for post in posts)
-    
-    if len(GITHUB_OUTPUT) > 0:
-      with open(GITHUB_OUTPUT, "a") as f:
-        f.write("CHANGE=YES\n")
+  #   if len(GITHUB_OUTPUT) > 0:
+  #     with open(GITHUB_OUTPUT, "a") as f:
+  #       f.write("CHANGE=YES\n")
   
-  else:
-    print("No new post detected")
+  # else:
+  #   print("No new post detected")
     
     
   

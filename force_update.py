@@ -26,12 +26,21 @@ def datetime_str(dt_str):
   dt = datetime.fromisoformat(dt_str.rstrip("Z")) + timedelta(hours=+9)
   return dt.isoformat()
 
-if __name__ == '__main__':
-  event_dict = dict()
-  with open(GITHUB_EVENT_PATH, "r") as f:
-    event_dict = json.loads(f.read())
-  retention_days = 94
+def main(ids):
   
+  if ids==[] and gt=="":
+    event_dict = dict()
+    with open(GITHUB_EVENT_PATH, "r") as f:
+      event_dict = json.loads(f.read())
+    retention_days = 94  
+    
+    gt = event_dict["inputs"]["gt"]
+    ids_raw = event_dict["inputs"]["ids"].split()
+    ids = []
+  else:
+    with open("./gt.txt", "r") as f:
+      gt = f.read().rstrip("\n")
+    
   cur_posts = get_current_data()
   # print(cur_posts)
   
@@ -40,10 +49,6 @@ if __name__ == '__main__':
   ## cut the old data using date criteria
   cur_posts = [post for post in cur_posts
                if datetime.fromisoformat(post[0]) > cutoff_date]
-  
-  gt = event_dict["inputs"]["gt"]
-  ids_raw = event_dict["inputs"]["ids"].split()
-  ids = []
   
   ## parse url to id when necessary
   url_pattern = r"^https://(x|twitter)\.com/pj_sekai/status/([0-9]+)($|\?.+)"
@@ -75,18 +80,14 @@ if __name__ == '__main__':
     print()
     print("########## New posts ##########")
     for post in new_posts:
-      print("test0")
       ## get only added posts AND unique ids
       if post[1] in added_ids and post[1] not in [post_pre[1] for post_pre in added_posts]:
         added_posts.append(post)
         print(post[:2])
-    print()
-    print("test")
     
     posts = cur_posts + added_posts
     posts.sort(key=lambda x: x[1], reverse=True)
     
-    print("test2")
     
     # add header for output
     posts.insert(0, ["POST DATE", "POST ID", "BODY TEXT", "DETECTED DATE"])
@@ -99,7 +100,6 @@ if __name__ == '__main__':
       writer = csv.writer(f)
       writer.writerows(posts)
       
-    print("test3")
     
     make_index_md()
     
@@ -118,5 +118,6 @@ if __name__ == '__main__':
   else:
     print("No new post detected")
     
-    
-  
+
+if __name__ == '__main__':
+  main(ids=[])

@@ -8,6 +8,14 @@ on:
       gt:
         required: true
         type: string
+  workflow_call:
+    inputs:
+      ids:
+        required: true
+        type: string
+      gt:
+        required: true
+        type: string
 
 jobs:
   main:

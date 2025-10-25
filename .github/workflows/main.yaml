@@ -52,8 +52,8 @@ jobs:
       - if: ${{ github.event_name == 'schedule' && github.event.schedule == '0 19 * * *' }}
         run: echo "MAX_PAGES=10" >> "$GITHUB_ENV"
 
-      - if: ${{ github.event_name == 'workflow_dipatch'}}
-        run: echo "MAX_PAGES=10" >> "$GITHUB_ENV"
+      # - if: ${{ github.event_name == 'workflow_dipatch'}}
+      #   run: echo "MAX_PAGES=10" >> "$GITHUB_ENV"
 
       - name: sub script checkout
         uses: actions/checkout@v4
@@ -70,7 +70,7 @@ jobs:
         continue-on-error: true
         id: main
         run: |
-          mv ./private_script_storage/receiver.py ./
+          mv ./private_script_storage/generator.py ./
           python main.py
         env:
           GOOGE_API_DEBUG: ${{ inputs.out_json }}
