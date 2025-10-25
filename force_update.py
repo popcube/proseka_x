@@ -27,8 +27,9 @@ def datetime_str(dt_str):
   return dt.isoformat()
 
 def main(ids):
+  gt = ""
   
-  if ids==[] and gt=="":
+  if ids==[]:
     event_dict = dict()
     with open(GITHUB_EVENT_PATH, "r") as f:
       event_dict = json.loads(f.read())
