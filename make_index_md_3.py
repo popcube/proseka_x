@@ -121,14 +121,15 @@ def main():
                    date_format="ISO8601")
   # raw_post_table.columns = ["POST_DATE", "POST_ID", "BODY_TEXT", "DETECTED_DATE"]
 
-  datetime_df = pd.DataFrame(columns=['START', 'END', 'POST ID'])
+  datetime_list = []
   for raw_post in raw_post_table.itertuples():
     raw_datetime_list = extract_two_datetimes(raw_post[3]) # BODY TEXT
     if bool(raw_datetime_list):
       for raw_datetime in raw_datetime_list:
         print("##### maint list #####")
         print(raw_datetime)
-        datetime_df.loc[len(datetime_df)] = raw_datetime + [raw_post[2]] # POST ID
+        datetime_list.append({'START': raw_datetime[0], 'END': raw_datetime[1], 'POST ID': raw_post[2]}) # POST ID
+        datetime_df = pd.DataFrame(columns=['START', 'END', 'POST ID'])
   # raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
   # datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
   # datetime_df.columns = ['START', 'END']
