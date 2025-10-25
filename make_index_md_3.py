@@ -59,7 +59,7 @@ def extract_two_datetimes(in_text):
     dt_match = maint_datetime_match.search(re.sub(r'\s+', '', in_line))
     if dt_match:
       match_list.append(dt_match)
-      print("#dt_match " + in_line)
+      # print("#dt_match " + in_line)
     
     # print(in_line_list)
   if len(match_list) == 0:
@@ -135,15 +135,15 @@ def main():
   # datetime_df.columns = ['START', 'END']
   datetime_df.drop_duplicates(subset=["START", "END"], inplace=True)
   
-  print()
-  print("##### datetime_df #####")
-  print(datetime_df)
+  # print()
+  # print("##### datetime_df #####")
+  # print(datetime_df)
   
   notice_df = datetime_df[datetime_df["END"].ge(now_dt)].sort_values("START")
   
   print()
-  print("##### notice_df #####")
-  print(notice_df)
+  print("##### maintenance notie #####")
+  print(notice_df.head())
   
   #　notice_df = datetime_df.sort_values("START") # Switch this for testing 
   for id_num, row in enumerate(notice_df.itertuples()):
