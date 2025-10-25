@@ -134,9 +134,13 @@ def main():
   # datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
   # datetime_df.columns = ['START', 'END']
   datetime_df.drop_duplicates(subset=["START", "END"], inplace=True)
+  
+  print("##### datetime_df #####")
+  print(datetime_df)
+  
   notice_df = datetime_df[datetime_df["END"].ge(now_dt)].sort_values("START")
-  print("##### maint list #####")
-  print(raw_datetime)
+  print("##### notice_df #####")
+  print(notice_df)
   #　notice_df = datetime_df.sort_values("START") # Switch this for testing 
   for id_num, row in enumerate(notice_df.itertuples()):
     res.append(f'<div class="highlight" id="maint-ongoing-{id_num}" style="display: none;"><div class="gd">')
