@@ -189,7 +189,7 @@ if __name__ == '__main__':
     with redirect_stdout(open(os.devnull, 'w')):
       receiver()
     
-    with open("x_texts.x", "r") as f:
+    with open("x_texts.txt", "r") as f:
       reader = csv.reader(f)
       for row in reader:
         for idx, added_post in enumerate(added_posts):
