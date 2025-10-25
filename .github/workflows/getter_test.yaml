@@ -1,0 +1,17 @@
+name: getter test
+on:
+  workflow_dispatch
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+    - id: getter
+      uses: popcube/private_script_storage/.github/workflows/main_without_AWS.yml@main
+      with:
+        token: ${{ secrets.FULL_REPO_TOKEN}}
+
+    - run: |
+        echo ${{ steps.getter.output.gt}} > ./gt.txt
+
+    - run: cat gt.txt
