@@ -9,6 +9,9 @@ from googleapiclient.discovery import build
 
 from make_index_md_3 import main as make_index_md
 from send_to_discord import main as send_to_discord
+from receiver import main as receiver
+
+from contextlib import redirect_stdout
 
 GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
 SEARCH_ENGINE_ID = os.environ.get("SEARCH_ENGINE_ID")
@@ -179,6 +182,25 @@ if __name__ == '__main__':
         added_posts.append(post)
         print(post[:2])
     print()
+    
+    with open("x_ids.text", "w") as f:
+      f.writelines([added_post[1] + "\n" for added_post in added_posts])
+      
+    with redirect_stdout(open(os.devnull, 'w')):
+      receiver()
+    
+    with open("x_texts.x", "r") as f:
+      reader = csv.reader(f)
+      for row in reader:
+        for idx, added_post in enumerate(added_posts):
+          if added_post[1] == row[0]:
+            added_posts[idx][2] = row[1]
+    
+    print()
+    print("###### populate text ######")
+    for added_posts in added_posts:
+      print(added_post[:2])
+    
     
     posts = cur_posts + added_posts
     posts.sort(key=lambda x: x[1], reverse=True)
