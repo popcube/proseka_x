@@ -126,8 +126,6 @@ def main():
     raw_datetime_list = extract_two_datetimes(raw_post[3]) # BODY TEXT
     if bool(raw_datetime_list):
       for raw_datetime in raw_datetime_list:
-        print("##### maint list #####")
-        print(raw_datetime)
         datetime_list.append({'START': raw_datetime[0], 'END': raw_datetime[1], 'POST ID': raw_post[2]}) # POST ID
   datetime_df = pd.DataFrame(datetime_list)
   # raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
@@ -135,6 +133,8 @@ def main():
   # datetime_df.columns = ['START', 'END']
   datetime_df.drop_duplicates(subset=["START", "END"], inplace=True)
   notice_df = datetime_df[datetime_df["END"].ge(now_dt)].sort_values("START")
+  print("##### maint list #####")
+  print(raw_datetime)
   #　notice_df = datetime_df.sort_values("START") # Switch this for testing 
   for id_num, row in enumerate(notice_df.itertuples()):
     res.append(f'<div class="highlight" id="maint-ongoing-{id_num}" style="display: none;"><div class="gd">')
