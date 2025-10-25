@@ -126,6 +126,7 @@ def main():
                    header=None)
   raw_post_table["length"] = raw_post_table.apply(lambda row: len(row), axis=1)
   print(raw_post_table[raw_post_table["length"] != 4])
+  sys.exit(1)
   # raw_post_table.columns = ["POST_DATE", "POST_ID", "BODY_TEXT", "DETECTED_DATE"]
 
   datetime_list = []
