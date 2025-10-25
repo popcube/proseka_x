@@ -4,7 +4,7 @@ on:
 
 jobs:
   getter:
-    uses: popcube/private_script_storage/.github/workflows/main_without_AWS.yml@main
+    uses: popcube/update_to_lambda/.github/workflows/main_without_AWS.yml@main
     # with:
     #   token: ${{ secrets.FULL_REPO_TOKEN }}
 
@@ -14,6 +14,6 @@ jobs:
     needs: getter
     steps:
     - run: |
-        echo ${{ needs.getter.outputs.GT}} > ./gt.txt
+        echo ${{ needs.getter.outputs.GT }} > ./gt.txt
 
     - run: cat gt.txt
