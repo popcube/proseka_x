@@ -55,7 +55,7 @@ jobs:
       - name: sub script checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ env.FULL_REPO_TOKEN }}
+          token: ${{ secrets.FULL_REPO_TOKEN }}
           repository: "popcube/private_script_storage"
           path: ./private_script_storage
       
