@@ -92,7 +92,7 @@ jobs:
         # if: ${{ steps.main.outputs.CHANGE == 'YES' }}
         uses: actions/upload-artifact@v4
         with:
-          path: ./sorted_data_viewer.csv
+          path: ./docs/sorted_data_viewer.csv
           name: sorted_data.csv
 
       - name: data encrypt

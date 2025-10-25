@@ -75,14 +75,18 @@ if __name__ == '__main__':
     print()
     print("########## New posts ##########")
     for post in new_posts:
+      print("test0")
       ## get only added posts AND unique ids
       if post[1] in added_ids and post[1] not in [post_pre[1] for post_pre in added_posts]:
         added_posts.append(post)
         print(post[:2])
     print()
+    print("test")
     
     posts = cur_posts + added_posts
     posts.sort(key=lambda x: x[1], reverse=True)
+    
+    print("test2")
     
     # add header for output
     posts.insert(0, ["POST DATE", "POST ID", "BODY TEXT", "DETECTED DATE"])
@@ -94,6 +98,8 @@ if __name__ == '__main__':
     ) as f:
       writer = csv.writer(f)
       writer.writerows(posts)
+      
+    print("test3")
     
     make_index_md()
     
