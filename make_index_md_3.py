@@ -115,10 +115,17 @@ def main():
   ## TEST BLOCK ENDS
   
   # header
-  # POST DATE,POST ID,BODY TEXT,DETECTED DATE
+  # # POST DATE,POST ID,BODY TEXT,DETECTED DATE
+  # raw_post_table = pd.read_csv("./docs/sorted_data.csv",
+  #                  parse_dates=["POST DATE"],
+  #                  date_format="ISO8601")
+  
   raw_post_table = pd.read_csv("./docs/sorted_data.csv",
                    parse_dates=["POST DATE"],
-                   date_format="ISO8601")
+                   date_format="ISO8601",
+                   header=None)
+  raw_post_table["length"] = raw_post_table.apply(lambda row: len(row), axis=1)
+  print(raw_post_table[raw_post_table["length"] != 4])
   # raw_post_table.columns = ["POST_DATE", "POST_ID", "BODY_TEXT", "DETECTED_DATE"]
 
   datetime_list = []
