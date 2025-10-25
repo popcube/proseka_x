@@ -126,18 +126,18 @@ def main():
     raw_datetime_list = extract_two_datetimes(raw_post[3]) # BODY TEXT
     if bool(raw_datetime_list):
       for raw_datetime in raw_datetime_list:
-        # print(raw_datetime)
+        print(raw_datetime)
         datetime_list.append({'START': raw_datetime[0], 'END': raw_datetime[1], 'POST ID': raw_post[2]}) # POST ID
-  # print(datetime_list)
+  print(datetime_list)
   datetime_df = pd.DataFrame(datetime_list)
   # raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
   # datetime_df = raw_datetime_ds[raw_datetime_ds.apply(bool)].apply(pd.Series)
   # datetime_df.columns = ['START', 'END']
   datetime_df.drop_duplicates(subset=["START", "END"], inplace=True)
   
-  # print()
-  # print("##### datetime_df #####")
-  # print(datetime_df)
+  print()
+  print("##### datetime_df #####")
+  print(datetime_df)
   
   notice_df = datetime_df[datetime_df["END"].ge(now_dt)].sort_values("START")
   
