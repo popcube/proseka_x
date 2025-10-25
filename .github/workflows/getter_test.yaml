@@ -4,7 +4,7 @@ on:
 
 jobs:
   getter:
-    uses: popcube/update_to_lambda/.github/workflows/main_without_AWS.yml@main
+    uses: popcube/update_to_lambda/.github/workflows/main_2_without_AWS.yml@main
     # with:
     #   token: ${{ secrets.FULL_REPO_TOKEN }}
 
