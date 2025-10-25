@@ -52,6 +52,9 @@ jobs:
       - if: ${{ github.event_name == 'schedule' && github.event.schedule == '0 19 * * *' }}
         run: echo "MAX_PAGES=10" >> "$GITHUB_ENV"
 
+      - if: ${{ github.event_name == 'workflow_dipatch'}}
+        run: echo "MAX_PAGES=10" >> "$GITHUB_ENV"
+
       - name: sub script checkout
         uses: actions/checkout@v4
         with:
