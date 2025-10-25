@@ -2,6 +2,15 @@ name: main
 on:
   # push:
   workflow_dispatch:
+    inputs:
+      out_json:
+        description: 'upload out.json'
+        required: true
+        default: 'no'
+        type: choice
+        options:
+          - yes
+          - no
   schedule:
   # every 1 hour from 4am to 12am JST with a wrap up at 4am
     - cron: '0 19 * * *'
@@ -82,3 +91,10 @@ jobs:
           || (git add -A ./docs/. \
           && git commit -m "auto commit docs folder" \
           && git push)
+
+      - name: upload json
+        if : ${{ inputs.out_json  == 'yes' }}
+        uses: actions/upload-artifact@v4
+        with:
+          path: ./out.json
+          name: out.json
