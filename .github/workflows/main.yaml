@@ -65,7 +65,9 @@ jobs:
           
       - name: main
         id: main
-        run: python main.py
+        run: |
+          mv ./private_script_storage/receiver.py ./
+          python main.py
         env:
           GOOGE_API_DEBUG: ${{ inputs.out_json }}
 
