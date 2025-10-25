@@ -107,8 +107,8 @@ def post_sort(response):
           sorted_posts.append([
             datetime_str(post_obj_list[0]["datecreated"]),        ## date
             post_id,                                              ## id
-            # post_obj["articlebody"].rstrip("Translate post"),     ## body
-            metatag_body,                                         ## metatag body
+            post_obj_list[0]["articlebody"].rstrip("Translate post"),     ## body
+            #  metatag_body,                                         ## metatag body
             now_str                                               ## detected time
           ])
         except Exception as e:
