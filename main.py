@@ -13,6 +13,7 @@ from send_to_discord import main as send_to_discord
 GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
 SEARCH_ENGINE_ID = os.environ.get("SEARCH_ENGINE_ID")
 GITHUB_OUTPUT = os.environ.get("GITHUB_OUTPUT")
+GOOGE_API_DEBUG = os.environ.get("GOOGE_API_DEBUG")
 
 def get_current_data():
   with open(
@@ -26,6 +27,8 @@ def get_current_data():
     return [r for r in reader][1:]
 
 def get_search_response(days, keyword, max_page, ex_urls):
+  if GOOGE_API_DEBUG == 'yes':
+    ex_urls = []
   service = build("customsearch", "v1", developerKey=GOOGLE_API_KEY)
 
   start_index = 1

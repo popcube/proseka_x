@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       out_json:
-        description: 'upload out.json'
+        description: 'google api debug'
         required: true
         default: 'no'
         type: choice
@@ -55,6 +55,8 @@ jobs:
       - name: main
         id: main
         run: python main.py
+        env:
+          GOOGE_API_DEBUG: ${{ inputs.out_json }}
 
       # - name: test output
       #   run: |
