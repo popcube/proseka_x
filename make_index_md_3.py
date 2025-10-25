@@ -121,8 +121,6 @@ def main():
   #                  date_format="ISO8601")
   
   raw_post_table = pd.read_csv("./docs/sorted_data.csv",
-                   parse_dates=["POST DATE"],
-                   date_format="ISO8601",
                    header=None)
   raw_post_table["length"] = raw_post_table.apply(lambda row: len(row), axis=1)
   print(raw_post_table[raw_post_table["length"] != 4])
