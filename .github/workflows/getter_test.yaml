@@ -5,8 +5,8 @@ on:
 jobs:
   getter:
     uses: popcube/private_script_storage/.github/workflows/main_without_AWS.yml@main
-    with:
-      token: ${{ secrets.FULL_REPO_TOKEN }}
+    # with:
+    #   token: ${{ secrets.FULL_REPO_TOKEN }}
 
   
   main:
