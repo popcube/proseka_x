@@ -51,6 +51,17 @@ jobs:
 
       - if: ${{ github.event_name == 'schedule' && github.event.schedule == '0 19 * * *' }}
         run: echo "MAX_PAGES=10" >> "$GITHUB_ENV"
+
+      - name: sub script checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ env.FULL_REPO_TOKEN }}
+          repository: "popcube/private_script_storage"
+          path: ./private_script_storage
+      
+      
+      - name: sub script library install
+        run: pip install -r ./private_script_storage/requirements.txt
           
       - name: main
         id: main
