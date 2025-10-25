@@ -28,12 +28,12 @@ def datetime_str(dt_str):
 
 def main(ids):
   gt = ""
+  retention_days = 94  
   
   if ids==[]:
     event_dict = dict()
     with open(GITHUB_EVENT_PATH, "r") as f:
       event_dict = json.loads(f.read())
-    retention_days = 94  
     
     gt = event_dict["inputs"]["gt"]
     ids_raw = event_dict["inputs"]["ids"].split()
