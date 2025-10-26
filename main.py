@@ -167,8 +167,8 @@ if __name__ == '__main__':
   added_ids = [id for id in new_ids if id not in cur_ids]
   
   # when new post is detected
-  # if len(added_ids) > 0:
-  if True:
+  if len(added_ids) > 0:
+  # if True:
     
     added_ids.sort(reverse=True)
     send_to_discord(added_ids)
@@ -191,7 +191,7 @@ if __name__ == '__main__':
       generator()
     
     ## FOR DEBUG
-    added_posts = [["", "1981375057005072654"]]
+    ## added_posts = [["", "1981375057005072654"]]
     force_update(added_post[1] for added_post in added_posts)
     
   #   posts = cur_posts + added_posts
