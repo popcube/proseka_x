@@ -1,19 +1,24 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/10/27 15:52
+### 最終更新：2025/10/29 07:10
 
-<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
-【メンテナンス実施中】
-</div></div>
-<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-<div id="maint-0" style="display: none;">
-10/28（火） 08:30 ～ 11:30
-　<a href="https://x.com/pj_sekai/status/1981648963901288581">公式ポスト</a>
-</div>
 
+---
+
+**DATE**: 10/29（水） 01:40
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1983212175364895177"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/28（火） 15:18
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1983055670204346858"></a>
+</blockquote>
 
 ---
 
@@ -43,17 +48,15 @@
 
 **DATE**: 10/27（月） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1982644394781200830"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/1982644394781200830)
+<br>
+#セカイの4コマ #望月穂波誕生祭2025
 
 ---
 
 **DATE**: 10/27（月） 00:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1982463570152661273"></a>
-</blockquote>
+[💫望月穂波...](https://x.com/pj_sekai/status/1982463570152661273)
 
 ---
 
@@ -493,6 +496,10 @@
 
 ---
 
+**DATE**: 10/22（水） 19:30 「**プロセカ放送局 第25回**」 放送開始
+
+---
+
 **DATE**: 10/22（水） 18:03
 <br>
 [このあと1...](https://x.com/pj_sekai/status/1980922936493253026)
@@ -581,13 +588,13 @@
 
 **DATE**: 10/21（火） 12:04
 <br>
-[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
+[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
 
 ---
 
 **DATE**: 10/21（火） 12:04
 <br>
-[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
+[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
 
 ---
 
@@ -1034,13 +1041,13 @@
 
 **DATE**: 10/11（土） 12:01
 <br>
-[【日々のル...](https://x.com/pj_sekai/status/1976845609320759448)
+[「Foll...](https://x.com/pj_sekai/status/1976845606984569209)
 
 ---
 
 **DATE**: 10/11（土） 12:01
 <br>
-[「Foll...](https://x.com/pj_sekai/status/1976845606984569209)
+[【日々のル...](https://x.com/pj_sekai/status/1976845609320759448)
 
 ---
 
@@ -1126,13 +1133,13 @@
 
 ---
 
-**DATE**: 10/09（木） 21:00 イベント「**Our Golden Days**」 終了
-
----
-
 **DATE**: 10/09（木） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1976256329959473643)
+
+---
+
+**DATE**: 10/09（木） 21:00 イベント「**Our Golden Days**」 終了
 
 ---
 
@@ -1700,13 +1707,13 @@
 
 **DATE**: 09/30（火） 12:11
 <br>
-[【とびきり...](https://x.com/pj_sekai/status/1972861799944143059)
+[『[5周年...](https://x.com/pj_sekai/status/1972861797939204289)
 
 ---
 
 **DATE**: 09/30（火） 12:11
 <br>
-[『[5周年...](https://x.com/pj_sekai/status/1972861797939204289)
+[【とびきり...](https://x.com/pj_sekai/status/1972861799944143059)
 
 ---
 
@@ -1748,13 +1755,13 @@
 
 **DATE**: 09/30（火） 12:07
 <br>
-[【止まらな...](https://x.com/pj_sekai/status/1972860819319996447)
+[『[5周年...](https://x.com/pj_sekai/status/1972860817436791112)
 
 ---
 
 **DATE**: 09/30（火） 12:07
 <br>
-[『[5周年...](https://x.com/pj_sekai/status/1972860817436791112)
+[【止まらな...](https://x.com/pj_sekai/status/1972860819319996447)
 
 ---
 
@@ -2098,23 +2105,15 @@
 
 **DATE**: 09/29（月） 23:49
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972675066887585971)
-<br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
-
----
-
-**DATE**: 09/29（月） 23:49
-<br>
 [#プロセカ...](https://x.com/pj_sekai/status/1972675069626499339)
 <br>
 #プロセカ推しイラスト総選挙
 
 ---
 
-**DATE**: 09/29（月） 23:48
+**DATE**: 09/29（月） 23:49
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972674798086975930)
+[#プロセカ...](https://x.com/pj_sekai/status/1972675066887585971)
 <br>
 #プロセカ推しイラスト総選挙 #プロセカ5周年
 
@@ -2125,6 +2124,14 @@
 [#プロセカ...](https://x.com/pj_sekai/status/1972674801182658570)
 <br>
 #プロセカ推しイラスト総選挙
+
+---
+
+**DATE**: 09/29（月） 23:48
+<br>
+[#プロセカ...](https://x.com/pj_sekai/status/1972674798086975930)
+<br>
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
@@ -6634,115 +6641,7 @@
 <br>
 #コネクトライブ
 
----
-
-**DATE**: 07/26（土） 18:03
-<br>
-[#コネクト...](https://x.com/pj_sekai/status/1949032695561908495)
-<br>
-#コネクトライブ
-
----
-
-**DATE**: 07/26（土） 18:02
-<br>
-[#コネクト...](https://x.com/pj_sekai/status/1949032443995963828)
-<br>
-#コネクトライブ
-
----
-
-**DATE**: 07/26（土） 18:01
-<br>
-[【#コネク...](https://x.com/pj_sekai/status/1949032192010527153)
-<br>
-#コネクトライブ
-
----
-
-**DATE**: 07/26（土） 18:00
-<br>
-[#コネクト...](https://x.com/pj_sekai/status/1949031951534535120)
-<br>
-#コネクトライブ
-
----
-
-**DATE**: 07/26（土） 12:03
-<br>
-[🎮プロジェ...](https://x.com/pj_sekai/status/1948942259308953735)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 07/26（土） 12:03
-<br>
-[#コネクト...](https://x.com/pj_sekai/status/1948942241386635486)
-<br>
-#コネクトライブ
-
----
-
-**DATE**: 07/26（土） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/1948941356795089238)
-<br>
-#セカイの4コマ #白石杏誕生祭2025
-
----
-
-**DATE**: 07/26（土） 00:01
-<br>
-[💿白石杏 ...](https://x.com/pj_sekai/status/1948760401799237708)
-<br>
-#白石杏誕生祭2025
-
----
-
-**DATE**: 07/26（土） 00:00
-<br>
-[㊗️本日7...](https://x.com/pj_sekai/status/1948760158521491507)
-<br>
-#白石杏誕生祭2025
-
----
-
-**DATE**: 07/25（金） 17:06
-<br>
-[マイセカイ...](https://x.com/pj_sekai/status/1948656187609899238)
-
----
-
-**DATE**: 07/25（金） 12:07
-<br>
-[🎧🎤コネク...](https://x.com/pj_sekai/status/1948580794479641039)
-
----
-
-**DATE**: 07/25（金） 12:04
-<br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1948580001793933429)
-
----
-
-**DATE**: 07/25（金） 12:02
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/1948579504664056256)
-<br>
-#セカイの4コマ
-
 <script>
 let nowDt = new Date();
-let startDt0 = new Date(2025, 9, 28, 8, 30);
-let endDt0 = new Date(2025, 9, 28, 11, 30);
-if ((startDt0 < nowDt) && (nowDt < endDt0)){
-  document.getElementById('maint-ongoing-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
-else if (nowDt < startDt0){
-  document.getElementById('maint-planned-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
