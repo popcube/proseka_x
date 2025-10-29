@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/10/29 20:12
+### 最終更新：2025/10/29 21:29
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -14,6 +14,18 @@
 　<a href="https://x.com/pj_sekai/status/1983461616944603359">公式ポスト</a>
 </div>
 
+
+---
+
+**DATE**: 10/29（水） 21:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1983505273441370468"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/29（水） 21:00 イベント「**交わる色はあの日のままに**」 終了
 
 ---
 
@@ -51,9 +63,9 @@
 
 **DATE**: 10/28（火） 15:18
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1983055670204346858"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/1983055670204346858)
+<br>
+#コネクトライブ
 
 ---
 
@@ -1184,13 +1196,13 @@
 
 ---
 
-**DATE**: 10/09（木） 21:00 イベント「**Our Golden Days**」 終了
-
----
-
 **DATE**: 10/09（木） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1976256329959473643)
+
+---
+
+**DATE**: 10/09（木） 21:00 イベント「**Our Golden Days**」 終了
 
 ---
 
@@ -2316,17 +2328,17 @@
 
 **DATE**: 09/29（月） 23:41
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972673144235409487)
+[#プロセカ...](https://x.com/pj_sekai/status/1972673141399855340)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
 **DATE**: 09/29（月） 23:41
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972673141399855340)
+[#プロセカ...](https://x.com/pj_sekai/status/1972673144235409487)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
@@ -6669,26 +6681,6 @@
 **DATE**: 07/27（日） 13:32
 <br>
 [#コネクト...](https://x.com/pj_sekai/status/1949327000818352135)
-<br>
-#コネクトライブ
-
----
-
-**DATE**: 07/27（日） 12:05
-<br>
-[本日12時...](https://x.com/pj_sekai/status/1949304990654497169)
-
----
-
-**DATE**: 07/27（日） 12:04
-<br>
-[本日12時...](https://x.com/pj_sekai/status/1949304981125001691)
-
----
-
-**DATE**: 07/27（日） 12:01
-<br>
-[#コネクト...](https://x.com/pj_sekai/status/1949304006503022873)
 <br>
 #コネクトライブ
 
