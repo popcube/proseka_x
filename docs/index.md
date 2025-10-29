@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/10/29 22:08
+### 最終更新：2025/10/29 22:43
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -33,6 +33,14 @@
 
 ---
 
+**DATE**: 10/29（水） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1983504095462769076"></a>
+</blockquote>
+
+---
+
 **DATE**: 10/29（水） 21:00 イベント「**交わる色はあの日のままに**」 終了
 
 ---
@@ -55,9 +63,7 @@
 
 **DATE**: 10/29（水） 01:40
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1983212175364895177"></a>
-</blockquote>
+[【不具合の...](https://x.com/pj_sekai/status/1983212175364895177)
 
 ---
 
@@ -5266,13 +5272,13 @@
 
 **DATE**: 08/22（金） 12:08
 <br>
-[【ボクのま...](https://x.com/pj_sekai/status/1958728065829474747)
+[「キミに咲...](https://x.com/pj_sekai/status/1958728063375782337)
 
 ---
 
 **DATE**: 08/22（金） 12:08
 <br>
-[「キミに咲...](https://x.com/pj_sekai/status/1958728063375782337)
+[【ボクのま...](https://x.com/pj_sekai/status/1958728065829474747)
 
 ---
 
@@ -6683,14 +6689,6 @@
 [#コネクト...](https://x.com/pj_sekai/status/1949333472587243937)
 <br>
 #コネクトライブ #コネクトライブ
-
----
-
-**DATE**: 07/27（日） 13:32
-<br>
-[#コネクト...](https://x.com/pj_sekai/status/1949327000818352135)
-<br>
-#コネクトライブ
 
 <script>
 let nowDt = new Date();
