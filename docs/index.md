@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/10/31 13:44
+### 最終更新：2025/10/31 14:14
 
 
 ---
@@ -22,6 +22,22 @@
 
 ---
 
+**DATE**: 10/31（金） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1984094559991890230"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/31（金） 11:54
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1984091672654037452"></a>
+</blockquote>
+
+---
+
 **DATE**: 10/31（金） 11:37
 <br>
 <blockquote class="twitter-tweet">
@@ -32,17 +48,13 @@
 
 **DATE**: 10/31（金） 11:37
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1984087366425047444"></a>
-</blockquote>
+[下記楽曲の...](https://x.com/pj_sekai/status/1984087366425047444)
 
 ---
 
 **DATE**: 10/30（木） 22:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1983882492018094265"></a>
-</blockquote>
+[【v6.1...](https://x.com/pj_sekai/status/1983882492018094265)
 
 ---
 
@@ -710,13 +722,13 @@
 
 **DATE**: 10/21（火） 12:04
 <br>
-[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
+[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
 
 ---
 
 **DATE**: 10/21（火） 12:04
 <br>
-[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
+[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
 
 ---
 
@@ -1829,13 +1841,13 @@
 
 **DATE**: 09/30（火） 12:11
 <br>
-[『[5周年...](https://x.com/pj_sekai/status/1972861797939204289)
+[【とびきり...](https://x.com/pj_sekai/status/1972861799944143059)
 
 ---
 
 **DATE**: 09/30（火） 12:11
 <br>
-[【とびきり...](https://x.com/pj_sekai/status/1972861799944143059)
+[『[5周年...](https://x.com/pj_sekai/status/1972861797939204289)
 
 ---
 
@@ -2163,17 +2175,17 @@
 
 **DATE**: 09/29（月） 23:53
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972676160086778012)
+[#プロセカ...](https://x.com/pj_sekai/status/1972676157339517249)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
 **DATE**: 09/29（月） 23:53
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972676157339517249)
+[#プロセカ...](https://x.com/pj_sekai/status/1972676160086778012)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
