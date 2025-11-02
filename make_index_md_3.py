@@ -87,7 +87,7 @@ def extract_two_datetimes(in_text):
       month2 = next_datetime.month
       day2 = next_datetime.day
           
-    if datetime.now().month >= 11 and month <= 2:
+    if datetime.now().month >= 11 and int(month) <= 2:
       year += 1
       year2 += 1
     
