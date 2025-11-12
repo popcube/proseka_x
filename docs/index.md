@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/11/12 20:38
+### 最終更新：2025/11/12 21:28
 
+
+---
+
+**DATE**: 11/12（水） 18:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1988533719863562283"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 11/12（水） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1988442372276187612"></a>
-</blockquote>
+[本日12時...](https://x.com/pj_sekai/status/1988442372276187612)
 
 ---
 
@@ -6158,12 +6164,6 @@
 [㊗️本日8...](https://x.com/pj_sekai/status/1954558356875624780)
 <br>
 #星乃一歌誕生祭2025
-
----
-
-**DATE**: 08/10（日） 12:01
-<br>
-[📅プロセカ...](https://x.com/pj_sekai/status/1954377413019721817)
 
 <script>
 let nowDt = new Date();
