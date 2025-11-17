@@ -1,8 +1,27 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/11/17 13:52
+### 最終更新：2025/11/17 14:35
 
+<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-0" style="display: none;">
+11/19（水） 21:05 ～ 21:50
+　<a href="https://x.com/pj_sekai/status/1990254817500094515">公式ポスト</a>
+</div>
+
+
+---
+
+**DATE**: 11/17（月） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1990254817500094515"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +59,9 @@
 
 **DATE**: 11/12（水） 18:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1988532636739137717"></a>
-</blockquote>
+[『抜錨』F...](https://x.com/pj_sekai/status/1988532636739137717)
+<br>
+#レオニ
 
 ---
 
@@ -2693,17 +2712,17 @@
 
 **DATE**: 09/29（月） 23:55
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972676657275429155)
+[#プロセカ...](https://x.com/pj_sekai/status/1972676659762561148)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
 **DATE**: 09/29（月） 23:55
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972676659762561148)
+[#プロセカ...](https://x.com/pj_sekai/status/1972676657275429155)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
@@ -2741,17 +2760,17 @@
 
 **DATE**: 09/29（月） 23:53
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972676160086778012)
+[#プロセカ...](https://x.com/pj_sekai/status/1972676157339517249)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
 **DATE**: 09/29（月） 23:53
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972676157339517249)
+[#プロセカ...](https://x.com/pj_sekai/status/1972676160086778012)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
@@ -2789,17 +2808,17 @@
 
 **DATE**: 09/29（月） 23:50
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972675276493783532)
+[#プロセカ...](https://x.com/pj_sekai/status/1972675278876078208)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
 **DATE**: 09/29（月） 23:50
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972675278876078208)
+[#プロセカ...](https://x.com/pj_sekai/status/1972675276493783532)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
@@ -2821,17 +2840,17 @@
 
 **DATE**: 09/29（月） 23:48
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972674801182658570)
+[#プロセカ...](https://x.com/pj_sekai/status/1972674798086975930)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
 **DATE**: 09/29（月） 23:48
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972674798086975930)
+[#プロセカ...](https://x.com/pj_sekai/status/1972674801182658570)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
@@ -6091,5 +6110,15 @@
 
 <script>
 let nowDt = new Date();
+let startDt0 = new Date(2025, 10, 19, 21, 5);
+let endDt0 = new Date(2025, 10, 19, 21, 50);
+if ((startDt0 < nowDt) && (nowDt < endDt0)){
+  document.getElementById('maint-ongoing-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
+else if (nowDt < startDt0){
+  document.getElementById('maint-planned-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
