@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/11/19 21:28
+### 最終更新：2025/11/19 22:08
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -10,17 +10,6 @@
 【メンテナンス予定あり】
 </div></div>
 <div id="maint-0" style="display: none;">
-11/19（水） 21:05 ～ 21:50
-　<a href="https://x.com/pj_sekai/status/1990254817500094515">公式ポスト</a>
-</div>
-
-<div class="highlight" id="maint-ongoing-1" style="display: none;"><div class="gd">
-【メンテナンス実施中】
-</div></div>
-<div class="highlight" id="maint-planned-1" style="display: none;"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-<div id="maint-1" style="display: none;">
 11/21（金） 09:30 ～ 11:30
 　<a href="https://x.com/pj_sekai/status/1990979165068394938">公式ポスト</a>
 </div>
@@ -28,10 +17,26 @@
 
 ---
 
+**DATE**: 11/19（水） 21:23
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1991120065853579682"></a>
+</blockquote>
+
+---
+
 **DATE**: 11/19（水） 20:00
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1991099143197204582"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/19（水） 19:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1991085388941635735"></a>
 </blockquote>
 
 ---
@@ -54,17 +59,13 @@
 
 **DATE**: 11/19（水） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1990978935220588573"></a>
-</blockquote>
+[【v6.1...](https://x.com/pj_sekai/status/1990978935220588573)
 
 ---
 
 **DATE**: 11/19（水） 00:38
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1990806904059408727"></a>
-</blockquote>
+[【お知らせ...](https://x.com/pj_sekai/status/1990806904059408727)
 
 ---
 
@@ -674,13 +675,13 @@
 
 **DATE**: 10/31（金） 12:06
 <br>
-[「Hues...](https://x.com/pj_sekai/status/1984094559991890230)
+[【独自の視...](https://x.com/pj_sekai/status/1984094562072330554)
 
 ---
 
 **DATE**: 10/31（金） 12:06
 <br>
-[【独自の視...](https://x.com/pj_sekai/status/1984094562072330554)
+[「Hues...](https://x.com/pj_sekai/status/1984094559991890230)
 
 ---
 
@@ -1879,13 +1880,13 @@
 
 **DATE**: 10/11（土） 12:01
 <br>
-[【衝撃の朝...](https://x.com/pj_sekai/status/1976845567486837142)
+[「Foll...](https://x.com/pj_sekai/status/1976845565318381893)
 
 ---
 
 **DATE**: 10/11（土） 12:01
 <br>
-[「Foll...](https://x.com/pj_sekai/status/1976845565318381893)
+[【衝撃の朝...](https://x.com/pj_sekai/status/1976845567486837142)
 
 ---
 
@@ -2759,17 +2760,17 @@
 
 **DATE**: 09/29（月） 23:57
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972677070036808106)
+[#プロセカ...](https://x.com/pj_sekai/status/1972677067490853329)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
 **DATE**: 09/29（月） 23:57
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972677067490853329)
+[#プロセカ...](https://x.com/pj_sekai/status/1972677070036808106)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
@@ -2807,17 +2808,17 @@
 
 **DATE**: 09/29（月） 23:55
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972676657275429155)
+[#プロセカ...](https://x.com/pj_sekai/status/1972676659762561148)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
 **DATE**: 09/29（月） 23:55
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972676659762561148)
+[#プロセカ...](https://x.com/pj_sekai/status/1972676657275429155)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
@@ -6169,8 +6170,8 @@
 
 <script>
 let nowDt = new Date();
-let startDt0 = new Date(2025, 10, 19, 21, 5);
-let endDt0 = new Date(2025, 10, 19, 21, 50);
+let startDt0 = new Date(2025, 10, 21, 9, 30);
+let endDt0 = new Date(2025, 10, 21, 11, 30);
 if ((startDt0 < nowDt) && (nowDt < endDt0)){
   document.getElementById('maint-ongoing-0').style.display = 'block';
   document.getElementById('maint-0').style.display = 'block';
@@ -6178,16 +6179,6 @@ if ((startDt0 < nowDt) && (nowDt < endDt0)){
 else if (nowDt < startDt0){
   document.getElementById('maint-planned-0').style.display = 'block';
   document.getElementById('maint-0').style.display = 'block';
-}
-let startDt1 = new Date(2025, 10, 21, 9, 30);
-let endDt1 = new Date(2025, 10, 21, 11, 30);
-if ((startDt1 < nowDt) && (nowDt < endDt1)){
-  document.getElementById('maint-ongoing-1').style.display = 'block';
-  document.getElementById('maint-1').style.display = 'block';
-}
-else if (nowDt < startDt1){
-  document.getElementById('maint-planned-1').style.display = 'block';
-  document.getElementById('maint-1').style.display = 'block';
 }
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
