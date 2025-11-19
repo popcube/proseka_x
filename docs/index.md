@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/11/18 17:06
+### 最終更新：2025/11/19 11:28
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -14,6 +14,22 @@
 　<a href="https://x.com/pj_sekai/status/1990254817500094515">公式ポスト</a>
 </div>
 
+
+---
+
+**DATE**: 11/19（水） 00:38
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1990806904059408727"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/18（火） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1990751845665640480"></a>
+</blockquote>
 
 ---
 
@@ -43,17 +59,17 @@
 
 **DATE**: 11/17（月） 22:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1990407509643870595"></a>
-</blockquote>
+[『征け』F...](https://x.com/pj_sekai/status/1990407509643870595)
+<br>
+#ワンダショ
 
 ---
 
 **DATE**: 11/17（月） 22:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1990407248456327176"></a>
-</blockquote>
+[👑ワンダー...](https://x.com/pj_sekai/status/1990407248456327176)
+<br>
+#ワンダショ
 
 ---
 
@@ -2884,17 +2900,17 @@
 
 **DATE**: 09/29（月） 23:48
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972674801182658570)
+[#プロセカ...](https://x.com/pj_sekai/status/1972674798086975930)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
 **DATE**: 09/29（月） 23:48
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972674798086975930)
+[#プロセカ...](https://x.com/pj_sekai/status/1972674801182658570)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
