@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/11/20 15:49
+### 最終更新：2025/11/20 17:19
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -25,6 +25,14 @@
 
 ---
 
+**DATE**: 11/20（木） 15:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1991387002185609241"></a>
+</blockquote>
+
+---
+
 **DATE**: 11/20（木） 15:00 イベント「**Overcome one's limits**」 開始
 
 ---
@@ -40,14 +48,6 @@
 **DATE**: 11/20（木） 12:07
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1991342693453332502"></a>
-</blockquote>
-
----
-
-**DATE**: 11/20（木） 12:07
-<br>
-<blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1991342695399452731"></a>
 </blockquote>
 
@@ -56,8 +56,14 @@
 **DATE**: 11/20（木） 12:07
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1991342542810673668"></a>
+<a href="https://twitter.com/pj_sekai/status/1991342693453332502"></a>
 </blockquote>
+
+---
+
+**DATE**: 11/20（木） 12:07
+<br>
+[【事前準備...](https://x.com/pj_sekai/status/1991342542810673668)
 
 ---
 
