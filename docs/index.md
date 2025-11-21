@@ -1,8 +1,16 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/11/21 23:33
+### 最終更新：2025/11/22 00:48
 
+
+---
+
+**DATE**: 11/21（金） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1991839010206216502"></a>
+</blockquote>
 
 ---
 
@@ -40,9 +48,7 @@
 
 **DATE**: 11/21（金） 12:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1991705902949523677"></a>
-</blockquote>
+[🌹プロセカ...](https://x.com/pj_sekai/status/1991705902949523677)
 
 ---
 
@@ -96,13 +102,13 @@
 
 **DATE**: 11/20（木） 12:07
 <br>
-[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
+[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
 
 ---
 
 **DATE**: 11/20（木） 12:07
 <br>
-[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
+[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
 
 ---
 
@@ -828,13 +834,13 @@
 
 **DATE**: 10/31（金） 12:05
 <br>
-[「Hues...](https://x.com/pj_sekai/status/1984094328055353430)
+[【己の境界...](https://x.com/pj_sekai/status/1984094329867321639)
 
 ---
 
 **DATE**: 10/31（金） 12:05
 <br>
-[【己の境界...](https://x.com/pj_sekai/status/1984094329867321639)
+[「Hues...](https://x.com/pj_sekai/status/1984094328055353430)
 
 ---
 
