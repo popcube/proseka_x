@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/11/25 20:48
+### 最終更新：2025/11/25 21:29
 
 
 ---
@@ -14,39 +14,63 @@
 
 ---
 
+**DATE**: 11/25（火） 20:22
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1993279064963269072"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/25（火） 20:18
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1993278174952849764"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/25（火） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1993273566243271002"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/25（火） 19:31
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1993266377394671920"></a>
+</blockquote>
+
+---
+
 **DATE**: 11/25（火） 19:30 「**プロセカ放送局 第26回**」 放送開始
 
 ---
 
 **DATE**: 11/25（火） 18:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1993243784893939727"></a>
-</blockquote>
+[このあと1...](https://x.com/pj_sekai/status/1993243784893939727)
 
 ---
 
 **DATE**: 11/25（火） 13:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1993167763037470854"></a>
-</blockquote>
+[本日19:...](https://x.com/pj_sekai/status/1993167763037470854)
 
 ---
 
 **DATE**: 11/24（月） 15:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1992836446286410021"></a>
-</blockquote>
+[『0.00...](https://x.com/pj_sekai/status/1992836446286410021)
 
 ---
 
 **DATE**: 11/24（月） 15:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1992836052894314834"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/1992836052894314834)
 
 ---
 
@@ -914,13 +938,13 @@
 
 **DATE**: 10/31（金） 12:07
 <br>
-[「Hues...](https://x.com/pj_sekai/status/1984094818973446610)
+[【迷いなき...](https://x.com/pj_sekai/status/1984094821393559620)
 
 ---
 
 **DATE**: 10/31（金） 12:07
 <br>
-[【迷いなき...](https://x.com/pj_sekai/status/1984094821393559620)
+[「Hues...](https://x.com/pj_sekai/status/1984094818973446610)
 
 ---
 
@@ -938,13 +962,13 @@
 
 **DATE**: 10/31（金） 12:05
 <br>
-[「Hues...](https://x.com/pj_sekai/status/1984094328055353430)
+[【己の境界...](https://x.com/pj_sekai/status/1984094329867321639)
 
 ---
 
 **DATE**: 10/31（金） 12:05
 <br>
-[【己の境界...](https://x.com/pj_sekai/status/1984094329867321639)
+[「Hues...](https://x.com/pj_sekai/status/1984094328055353430)
 
 ---
 
@@ -3171,17 +3195,17 @@
 
 **DATE**: 09/29（月） 23:49
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972675069626499339)
+[#プロセカ...](https://x.com/pj_sekai/status/1972675066887585971)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
 **DATE**: 09/29（月） 23:49
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972675066887585971)
+[#プロセカ...](https://x.com/pj_sekai/status/1972675069626499339)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
@@ -5513,13 +5537,13 @@
 
 **DATE**: 08/30（土） 12:03
 <br>
-[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
+[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
 
 ---
 
 **DATE**: 08/30（土） 12:03
 <br>
-[【絶望に潜...](https://x.com/pj_sekai/status/1961625897645257100)
+[「絶望の雨...](https://x.com/pj_sekai/status/1961625894432411769)
 
 ---
 
@@ -6186,12 +6210,6 @@
 **DATE**: 08/23（土） 12:55
 <br>
 [💬プロジェ...](https://x.com/pj_sekai/status/1959102044175802872)
-
----
-
-**DATE**: 08/23（土） 12:00
-<br>
-[📅プロセカ...](https://x.com/pj_sekai/status/1959088203970773334)
 
 <script>
 let nowDt = new Date();
