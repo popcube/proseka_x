@@ -10,7 +10,7 @@ from googleapiclient.discovery import build
 from make_index_md_3 import main as make_index_md
 from send_to_discord import main as send_to_discord
 from force_update import main as force_update
-from generator import main as generator
+from private_script_storage.generator import main as generator
 
 from contextlib import redirect_stdout
 
@@ -165,8 +165,6 @@ if __name__ == '__main__':
   new_ids = list(set([r[1] for r in new_posts]))
   # new post ids that are not in the current list
   added_ids = [id for id in new_ids if id not in cur_ids]
-
-  print('test')
   
   # when new post is detected
   if len(added_ids) > 0:

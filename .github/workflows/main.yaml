@@ -70,7 +70,6 @@ jobs:
         continue-on-error: true
         id: main
         run: |
-          mv ./private_script_storage/generator.py ./
           python main.py
         env:
           GOOGE_API_DEBUG: ${{ inputs.out_json }}
