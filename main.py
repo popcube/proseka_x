@@ -105,7 +105,7 @@ def post_sort(response):
           person_obj_list = item["pagemap"]["person"]
           post_id = post_obj_list[0]["identifier"]
           if detect_rt(post_obj_list, person_obj_list, metatag_body):
-            print(f"{post_id} is evaluated as Repost, skipping...")
+            print(f"{post_id} is deemed as Repost, skipping...")
             continue
           
           sorted_posts.append([
@@ -165,6 +165,8 @@ if __name__ == '__main__':
   new_ids = list(set([r[1] for r in new_posts]))
   # new post ids that are not in the current list
   added_ids = [id for id in new_ids if id not in cur_ids]
+
+  print('test')
   
   # when new post is detected
   if len(added_ids) > 0:
