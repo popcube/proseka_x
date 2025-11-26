@@ -137,6 +137,7 @@ def main():
         datetime_list.append({'START': raw_datetime[0], 'END': raw_datetime[1], 'POST ID': raw_post[2]}) # POST ID
     # スケジュールポスト抽出
     raw_tag = re.findall(r"\B#\w\w+\b", raw_post[3])
+    print(raw_tag)
     if raw_tag == '#プロセカスケジュール':
       schedule_list.append(raw_post)
   
