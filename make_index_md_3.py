@@ -128,12 +128,23 @@ def main():
   # raw_post_table.columns = ["POST_DATE", "POST_ID", "BODY_TEXT", "DETECTED_DATE"]
 
   datetime_list = []
+  schedule_list = []
   for raw_post in raw_post_table.itertuples():
     raw_datetime_list = extract_two_datetimes(raw_post[3]) # BODY TEXT
     if bool(raw_datetime_list):
       for raw_datetime in raw_datetime_list:
         # print(raw_datetime)
         datetime_list.append({'START': raw_datetime[0], 'END': raw_datetime[1], 'POST ID': raw_post[2]}) # POST ID
+    # スケジュールポスト抽出
+    raw_tag = re.findall(r"\B#\w\w+\b", raw_post[3])
+    if raw_tag == '#プロセカスケジュール':
+      schedule_list.append(raw_post)
+  
+  schedule_table = pd.DataFrame(schedule_list, columns=raw_post_table.columns)
+  schedule_table.sort_values(by='POST DATE', ascending=False, inplace=True, ignore_index=True)
+  print(schedule_table)
+  sys.exit(1)
+      
   # print(datetime_list)
   datetime_df = pd.DataFrame(datetime_list)
   # raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
