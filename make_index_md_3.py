@@ -50,8 +50,7 @@ def decorate_supplement(row):
   return entry_format(row.iat[0], row.iat[1])
 
 def decorate_schedule_widget(row):
-  
-  row_0_url = f'https://x.com/pj_sekai/status/{row["POST ID"]}'
+  row_0_url = f'https://x.com/pj_sekai/status/{row.at[0, "POST ID"]}'
   row_2 = f'<blockquote class="twitter-tweet">\n<a href="{row_0_url}"></a>\n</blockquote>'
   
   return f"\n---\n\n**最新のプロセカスケジュール**: \n<br>\n{row_2}"
