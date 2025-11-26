@@ -139,7 +139,7 @@ def main():
     raw_tag = re.findall(r"\B#\w\w+\b", raw_post[3])
     print(raw_tag)
     if '#プロセカスケジュール' in raw_tag:
-      schedule_list.append(raw_post)
+      schedule_list.append(raw_post[1:]) # exclude index
   
   schedule_table = pd.DataFrame(schedule_list, columns=raw_post_table.columns)
   schedule_table.sort_values(by='POST DATE', ascending=False, inplace=True, ignore_index=True)
