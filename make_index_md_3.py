@@ -49,6 +49,13 @@ def decorate_row_widget(row):
 def decorate_supplement(row):
   return entry_format(row.iat[0], row.iat[1])
 
+def decorate_schedule_widget(row):
+  
+  row_0_url = f'https://x.com/pj_sekai/status/{row["POST ID"]}'
+  row_2 = f'<blockquote class="twitter-tweet">\n<a href="{row_0_url}"></a>\n</blockquote>'
+  
+  return f"\n---\n\n**最新のプロセカスケジュール**: \n<br>\n{row_2}"
+
 def extract_two_datetimes(in_text):
   in_line_list = in_text.split("\n")
   if in_line_list[0] != "【メンテナンス実施のお知らせ】":
@@ -143,9 +150,7 @@ def main():
   
   schedule_table = pd.DataFrame(schedule_list, columns=raw_post_table.columns)
   schedule_table.sort_values(by='POST DATE', ascending=False, inplace=True, ignore_index=True)
-  print(schedule_table)
-  sys.exit(1)
-      
+
   # print(datetime_list)
   datetime_df = pd.DataFrame(datetime_list)
   # raw_datetime_ds = raw_post_table["BODY TEXT"].apply(extract_two_datetimes)
@@ -191,6 +196,9 @@ def main():
     # res.append("　＊これはテストです") #delete this
     res.append("</div>")
     res.append("")
+
+  if len(schedule_table) > 0:
+    res.append(decorate_schedule_widget(schedule_table.head(1)))
     
     # print(row, flush=True)
 
