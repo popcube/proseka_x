@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/11/30 13:53
+### 最終更新：2025/11/30 14:34
 
 
 ---
@@ -41,6 +41,14 @@
 **DATE**: 11/30（日） 12:01
 <br>
 <blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1994964874729066600"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/30（日） 12:01
+<br>
+<blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1994964871826616520"></a>
 </blockquote>
 
@@ -48,9 +56,7 @@
 
 **DATE**: 11/29（土） 21:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1994739782589780071"></a>
-</blockquote>
+[💿Vivi...](https://x.com/pj_sekai/status/1994739782589780071)
 
 ---
 
@@ -3557,17 +3563,17 @@
 
 **DATE**: 09/29（月） 23:53
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972676157339517249)
+[#プロセカ...](https://x.com/pj_sekai/status/1972676160086778012)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
 **DATE**: 09/29（月） 23:53
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972676160086778012)
+[#プロセカ...](https://x.com/pj_sekai/status/1972676157339517249)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
@@ -3621,17 +3627,17 @@
 
 **DATE**: 09/29（月） 23:49
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972675069626499339)
+[#プロセカ...](https://x.com/pj_sekai/status/1972675066887585971)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
 **DATE**: 09/29（月） 23:49
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972675066887585971)
+[#プロセカ...](https://x.com/pj_sekai/status/1972675069626499339)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
@@ -3781,17 +3787,17 @@
 
 **DATE**: 09/29（月） 23:41
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972673141399855340)
+[#プロセカ...](https://x.com/pj_sekai/status/1972673144235409487)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
 **DATE**: 09/29（月） 23:41
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972673144235409487)
+[#プロセカ...](https://x.com/pj_sekai/status/1972673141399855340)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
