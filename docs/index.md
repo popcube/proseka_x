@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/11/30 13:29
+### 最終更新：2025/11/30 13:53
 
 
 ---
@@ -22,6 +22,30 @@
 
 ---
 
+**DATE**: 11/30（日） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1994965175255142877"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/30（日） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1994965172340072888"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/30（日） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1994964871826616520"></a>
+</blockquote>
+
+---
+
 **DATE**: 11/29（土） 21:06
 <br>
 <blockquote class="twitter-tweet">
@@ -32,25 +56,21 @@
 
 **DATE**: 11/29（土） 15:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1994647810168533201"></a>
-</blockquote>
+[明日、11...](https://x.com/pj_sekai/status/1994647810168533201)
 
 ---
 
 **DATE**: 11/28（金） 21:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1994376144683246022"></a>
-</blockquote>
+[『ファイタ...](https://x.com/pj_sekai/status/1994376144683246022)
+<br>
+#ビビバス
 
 ---
 
 **DATE**: 11/28（金） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1994375856605872183"></a>
-</blockquote>
+[本日22時...](https://x.com/pj_sekai/status/1994375856605872183)
 
 ---
 
