@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/12/01 14:26
+### 最終更新：2025/12/01 15:23
 
 
 ---
@@ -9,7 +9,15 @@
 **最新のプロセカスケジュール**: 
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1984456284566110708"></a>
+<a href="https://twitter.com/pj_sekai/status/1995340217277100236"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/01（月） 12:52
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1995340322533265859"></a>
 </blockquote>
 
 ---
@@ -18,6 +26,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1995340245118980192"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/01（月） 12:52
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1995340217277100236"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 11/30（日） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1995011424146673685"></a>
-</blockquote>
+[💫Leo/...](https://x.com/pj_sekai/status/1995011424146673685)
+<br>
+#レオニ
 
 ---
 
 **DATE**: 11/30（日） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1995011388960641059"></a>
-</blockquote>
+[本日15:...](https://x.com/pj_sekai/status/1995011388960641059)
 
 ---
 
