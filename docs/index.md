@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/12/12 12:53
+### 最終更新：2025/12/12 13:28
 
 
 ---
@@ -10,6 +10,30 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1995340217277100236"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/12（金） 12:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1999315827276087499"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/12（金） 12:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1999315441890787388"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/12（金） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/1999313259736748430"></a>
 </blockquote>
 
 ---
@@ -32,25 +56,21 @@
 
 **DATE**: 12/10（水） 18:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1998681960492007900"></a>
-</blockquote>
+[「プロセカ...](https://x.com/pj_sekai/status/1998681960492007900)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 12/10（水） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1998635291884794241"></a>
-</blockquote>
+[本日15:...](https://x.com/pj_sekai/status/1998635291884794241)
 
 ---
 
 **DATE**: 12/10（水） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1998635272775544966"></a>
-</blockquote>
+[ソニックレ...](https://x.com/pj_sekai/status/1998635272775544966)
 
 ---
 
@@ -3945,17 +3965,17 @@
 
 **DATE**: 09/29（月） 23:50
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972675278876078208)
+[#プロセカ...](https://x.com/pj_sekai/status/1972675276493783532)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
 **DATE**: 09/29（月） 23:50
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972675276493783532)
+[#プロセカ...](https://x.com/pj_sekai/status/1972675278876078208)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
