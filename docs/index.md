@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/12/19 14:17
+### 最終更新：2025/12/19 14:43
 
 
 ---
@@ -38,19 +38,31 @@
 
 ---
 
-**DATE**: 12/19（金） 12:42
+**DATE**: 12/19（金） 12:46
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2001860776001442120"></a>
+<a href="https://twitter.com/pj_sekai/status/2001861667664334954"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/19（金） 12:43
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2001861000409370653"></a>
 </blockquote>
 
 ---
 
 **DATE**: 12/19（金） 12:42
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2001860579036954631"></a>
-</blockquote>
+[【v6.2...](https://x.com/pj_sekai/status/2001860776001442120)
+
+---
+
+**DATE**: 12/19（金） 12:42
+<br>
+[【メンテナ...](https://x.com/pj_sekai/status/2001860579036954631)
 
 ---
 
@@ -2580,13 +2592,13 @@
 
 **DATE**: 10/21（火） 12:04
 <br>
-[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
+[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
 
 ---
 
 **DATE**: 10/21（火） 12:04
 <br>
-[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
+[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
 
 ---
 
