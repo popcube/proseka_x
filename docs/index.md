@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/12/19 19:16
+### 最終更新：2025/12/19 22:09
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1995340217277100236"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/19（金） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2001970768075169897"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 12/19（金） 12:48
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2001862141318726022"></a>
-</blockquote>
+[下記楽曲の...](https://x.com/pj_sekai/status/2001862141318726022)
 
 ---
 
@@ -262,13 +268,13 @@
 
 **DATE**: 12/10（水） 12:05
 <br>
-[【スリリン...](https://x.com/pj_sekai/status/1998589895389139276)
+[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
 
 ---
 
 **DATE**: 12/10（水） 12:05
 <br>
-[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
+[【スリリン...](https://x.com/pj_sekai/status/1998589895389139276)
 
 ---
 
@@ -1888,13 +1894,13 @@
 
 **DATE**: 10/31（金） 12:07
 <br>
-[【迷いなき...](https://x.com/pj_sekai/status/1984094821393559620)
+[「Hues...](https://x.com/pj_sekai/status/1984094818973446610)
 
 ---
 
 **DATE**: 10/31（金） 12:07
 <br>
-[「Hues...](https://x.com/pj_sekai/status/1984094818973446610)
+[【迷いなき...](https://x.com/pj_sekai/status/1984094821393559620)
 
 ---
 
@@ -1912,13 +1918,13 @@
 
 **DATE**: 10/31（金） 12:05
 <br>
-[【己の境界...](https://x.com/pj_sekai/status/1984094329867321639)
+[「Hues...](https://x.com/pj_sekai/status/1984094328055353430)
 
 ---
 
 **DATE**: 10/31（金） 12:05
 <br>
-[「Hues...](https://x.com/pj_sekai/status/1984094328055353430)
+[【己の境界...](https://x.com/pj_sekai/status/1984094329867321639)
 
 ---
 
@@ -3173,13 +3179,13 @@
 
 ---
 
-**DATE**: 10/09（木） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1976256329959473643)
+**DATE**: 10/09（木） 21:00 イベント「**Our Golden Days**」 終了
 
 ---
 
-**DATE**: 10/09（木） 21:00 イベント「**Our Golden Days**」 終了
+**DATE**: 10/09（木） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/1976256329959473643)
 
 ---
 
@@ -4161,17 +4167,17 @@
 
 **DATE**: 09/29（月） 23:48
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972674798086975930)
+[#プロセカ...](https://x.com/pj_sekai/status/1972674801182658570)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
 **DATE**: 09/29（月） 23:48
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972674801182658570)
+[#プロセカ...](https://x.com/pj_sekai/status/1972674798086975930)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
@@ -4305,17 +4311,17 @@
 
 **DATE**: 09/29（月） 23:41
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972673144235409487)
+[#プロセカ...](https://x.com/pj_sekai/status/1972673141399855340)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
 **DATE**: 09/29（月） 23:41
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972673141399855340)
+[#プロセカ...](https://x.com/pj_sekai/status/1972673144235409487)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
@@ -5888,14 +5894,6 @@
 [本日15時...](https://x.com/pj_sekai/status/1967831533622112475)
 <br>
 #レオニ
-
----
-
-**DATE**: 09/16（火） 12:00
-<br>
-[プロジェク...](https://x.com/pj_sekai/status/1967785514867556569)
-<br>
-#たまごっち #Tamagotchi
 
 <script>
 let nowDt = new Date();
