@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2025/12/30 20:49
+### 最終更新：2025/12/31 12:58
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/1995340217277100236"></a>
+</blockquote>
+
+---
+
+**DATE**: 12/31（水） 12:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2006201182415659123"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 12/30（火） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2005837573722345622"></a>
-</blockquote>
+[明日12時...](https://x.com/pj_sekai/status/2005837573722345622)
 
 ---
 
@@ -2063,13 +2069,13 @@
 
 **DATE**: 11/20（木） 12:07
 <br>
-[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
+[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
 
 ---
 
 **DATE**: 11/20（木） 12:07
 <br>
-[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
+[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
 
 ---
 
@@ -3511,13 +3517,13 @@
 
 **DATE**: 10/21（火） 12:04
 <br>
-[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
+[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
 
 ---
 
 **DATE**: 10/21（火） 12:04
 <br>
-[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
+[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
 
 ---
 
@@ -5028,25 +5034,17 @@
 
 **DATE**: 09/29（月） 23:49
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972675069626499339)
-<br>
-#プロセカ推しイラスト総選挙
-
----
-
-**DATE**: 09/29（月） 23:49
-<br>
 [#プロセカ...](https://x.com/pj_sekai/status/1972675066887585971)
 <br>
 #プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
-**DATE**: 09/29（月） 23:48
+**DATE**: 09/29（月） 23:49
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972674798086975930)
+[#プロセカ...](https://x.com/pj_sekai/status/1972675069626499339)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
@@ -5055,6 +5053,14 @@
 [#プロセカ...](https://x.com/pj_sekai/status/1972674801182658570)
 <br>
 #プロセカ推しイラスト総選挙
+
+---
+
+**DATE**: 09/29（月） 23:48
+<br>
+[#プロセカ...](https://x.com/pj_sekai/status/1972674798086975930)
+<br>
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
@@ -5188,17 +5194,17 @@
 
 **DATE**: 09/29（月） 23:41
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972673144235409487)
+[#プロセカ...](https://x.com/pj_sekai/status/1972673141399855340)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
 **DATE**: 09/29（月） 23:41
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972673141399855340)
+[#プロセカ...](https://x.com/pj_sekai/status/1972673144235409487)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
@@ -5319,32 +5325,6 @@
 **DATE**: 09/28（日） 15:00
 <br>
 [【メンテナ...](https://x.com/pj_sekai/status/1972179616157913579)
-
----
-
-**DATE**: 09/28（日） 00:00
-<br>
-[プロセカ5...](https://x.com/pj_sekai/status/1971952973623579067)
-<br>
-#プロセカ5周年イラスト
-
----
-
-**DATE**: 09/27（土） 12:14
-<br>
-[本日12時...](https://x.com/pj_sekai/status/1971775527137824816)
-
----
-
-**DATE**: 09/27（土） 12:14
-<br>
-[もうすぐ5...](https://x.com/pj_sekai/status/1971775471194198513)
-
----
-
-**DATE**: 09/27（土） 12:00
-<br>
-[【メンテナ...](https://x.com/pj_sekai/status/1971771787076903175)
 
 <script>
 let nowDt = new Date();
