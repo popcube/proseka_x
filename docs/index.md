@@ -1,7 +1,73 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/01 01:18
+### 最終更新：2026/01/01 12:43
+
+<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-0" style="display: none;">
+10/06（火） 11:00 ～ 11:30
+　<a href="https://x.com/pj_sekai/status/1974054056307118109">公式ポスト</a>
+</div>
+
+<div class="highlight" id="maint-ongoing-1" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-1" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-1" style="display: none;">
+10/28（水） 08:30 ～ 11:30
+　<a href="https://x.com/pj_sekai/status/1981648963901288581">公式ポスト</a>
+</div>
+
+<div class="highlight" id="maint-ongoing-2" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-2" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-2" style="display: none;">
+10/31（土） 10:45 ～ 11:30
+　<a href="https://x.com/pj_sekai/status/1983461616944603359">公式ポスト</a>
+</div>
+
+<div class="highlight" id="maint-ongoing-3" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-3" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-3" style="display: none;">
+11/19（木） 21:05 ～ 21:50
+　<a href="https://x.com/pj_sekai/status/1990254817500094515">公式ポスト</a>
+</div>
+
+<div class="highlight" id="maint-ongoing-4" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-4" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-4" style="display: none;">
+11/21（土） 09:30 ～ 11:30
+　<a href="https://x.com/pj_sekai/status/1990979165068394938">公式ポスト</a>
+</div>
+
+<div class="highlight" id="maint-ongoing-5" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-5" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-5" style="display: none;">
+12/19（土） 08:30 ～ 11:30
+　<a href="https://x.com/pj_sekai/status/2001226148655604168">公式ポスト</a>
+</div>
 
 
 ---
@@ -9,48 +75,80 @@
 **最新のプロセカスケジュール**: 
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/1995340217277100236"></a>
+<a href="https://twitter.com/pj_sekai/status/2006561028084203649"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/01（木） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2006562271749877874"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/01（木） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2006561768668279090"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/01（木） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2006561516846272951"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/01（木） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2006561265812975884"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/01（木） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2006561028084203649"></a>
 </blockquote>
 
 ---
 
 **DATE**: 01/01（木） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2006380081984233494"></a>
-</blockquote>
+[🙏新春！プ...](https://x.com/pj_sekai/status/2006380081984233494)
 
 ---
 
 **DATE**: 01/01（木） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2006379906926813664"></a>
-</blockquote>
+[🎍あけまし...](https://x.com/pj_sekai/status/2006379906926813664)
+<br>
+#謹賀新年
 
 ---
 
 **DATE**: 12/31（水） 23:45
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2006376044572639499"></a>
-</blockquote>
+[ハッピーニ...](https://x.com/pj_sekai/status/2006376044572639499)
 
 ---
 
 **DATE**: 12/31（水） 15:16
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2006248066849071300"></a>
-</blockquote>
+[🙏新春！プ...](https://x.com/pj_sekai/status/2006248066849071300)
 
 ---
 
 **DATE**: 12/31（水） 15:16
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2006248056195539456"></a>
-</blockquote>
+[待合エリア...](https://x.com/pj_sekai/status/2006248056195539456)
 
 ---
 
@@ -71,6 +169,12 @@
 **DATE**: 12/31（水） 15:07
 <br>
 [追加楽曲紹...](https://x.com/pj_sekai/status/2006245841997382064)
+
+---
+
+**DATE**: 12/31（水） 15:07
+<br>
+[本日15:...](https://x.com/pj_sekai/status/2006245704751296669)
 
 ---
 
@@ -1285,13 +1389,13 @@
 
 **DATE**: 12/10（水） 12:05
 <br>
-[【スリリン...](https://x.com/pj_sekai/status/1998589895389139276)
+[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
 
 ---
 
 **DATE**: 12/10（水） 12:05
 <br>
-[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
+[【スリリン...](https://x.com/pj_sekai/status/1998589895389139276)
 
 ---
 
@@ -2203,13 +2307,13 @@
 
 **DATE**: 11/20（木） 12:07
 <br>
-[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
+[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
 
 ---
 
 **DATE**: 11/20（木） 12:07
 <br>
-[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
+[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
 
 ---
 
@@ -3651,25 +3755,25 @@
 
 **DATE**: 10/21（火） 12:04
 <br>
-[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
+[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
 
 ---
 
 **DATE**: 10/21（火） 12:04
 <br>
-[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
-
----
-
-**DATE**: 10/21（火） 12:03
-<br>
-[【いつかと...](https://x.com/pj_sekai/status/1980469970414063950)
+[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
 
 ---
 
 **DATE**: 10/21（火） 12:03
 <br>
 [「瞳に映る...](https://x.com/pj_sekai/status/1980469967620567511)
+
+---
+
+**DATE**: 10/21（火） 12:03
+<br>
+[【いつかと...](https://x.com/pj_sekai/status/1980469970414063950)
 
 ---
 
@@ -5056,17 +5160,17 @@
 
 **DATE**: 09/29（月） 23:55
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972676659762561148)
+[#プロセカ...](https://x.com/pj_sekai/status/1972676657275429155)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
 **DATE**: 09/29（月） 23:55
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972676657275429155)
+[#プロセカ...](https://x.com/pj_sekai/status/1972676659762561148)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
@@ -5104,17 +5208,17 @@
 
 **DATE**: 09/29（月） 23:53
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972676157339517249)
+[#プロセカ...](https://x.com/pj_sekai/status/1972676160086778012)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
 **DATE**: 09/29（月） 23:53
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972676160086778012)
+[#プロセカ...](https://x.com/pj_sekai/status/1972676157339517249)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
@@ -5168,25 +5272,17 @@
 
 **DATE**: 09/29（月） 23:49
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972675066887585971)
-<br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
-
----
-
-**DATE**: 09/29（月） 23:49
-<br>
 [#プロセカ...](https://x.com/pj_sekai/status/1972675069626499339)
 <br>
 #プロセカ推しイラスト総選挙
 
 ---
 
-**DATE**: 09/29（月） 23:48
+**DATE**: 09/29（月） 23:49
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972674801182658570)
+[#プロセカ...](https://x.com/pj_sekai/status/1972675066887585971)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
@@ -5195,6 +5291,14 @@
 [#プロセカ...](https://x.com/pj_sekai/status/1972674798086975930)
 <br>
 #プロセカ推しイラスト総選挙 #プロセカ5周年
+
+---
+
+**DATE**: 09/29（月） 23:48
+<br>
+[#プロセカ...](https://x.com/pj_sekai/status/1972674801182658570)
+<br>
+#プロセカ推しイラスト総選挙
 
 ---
 
@@ -5328,17 +5432,17 @@
 
 **DATE**: 09/29（月） 23:41
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972673144235409487)
+[#プロセカ...](https://x.com/pj_sekai/status/1972673141399855340)
 <br>
-#プロセカ推しイラスト総選挙
+#プロセカ推しイラスト総選挙 #プロセカ5周年
 
 ---
 
 **DATE**: 09/29（月） 23:41
 <br>
-[#プロセカ...](https://x.com/pj_sekai/status/1972673141399855340)
+[#プロセカ...](https://x.com/pj_sekai/status/1972673144235409487)
 <br>
-#プロセカ推しイラスト総選挙 #プロセカ5周年
+#プロセカ推しイラスト総選挙
 
 ---
 
@@ -5430,27 +5534,67 @@
 <br>
 [本日12時...](https://x.com/pj_sekai/status/1972498943398563990)
 
----
-
-**DATE**: 09/29（月） 00:00
-<br>
-[プロセカ5...](https://x.com/pj_sekai/status/1972315364018311403)
-<br>
-#プロセカ5周年イラスト
-
----
-
-**DATE**: 09/28（日） 21:32
-<br>
-[【メンテナ...](https://x.com/pj_sekai/status/1972278258835316854)
-
----
-
-**DATE**: 09/28（日） 20:04
-<br>
-[本日20:...](https://x.com/pj_sekai/status/1972256098704040055)
-
 <script>
 let nowDt = new Date();
+let startDt0 = new Date(2026, 9, 6, 11, 0);
+let endDt0 = new Date(2026, 9, 6, 11, 30);
+if ((startDt0 < nowDt) && (nowDt < endDt0)){
+  document.getElementById('maint-ongoing-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
+else if (nowDt < startDt0){
+  document.getElementById('maint-planned-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
+let startDt1 = new Date(2026, 9, 28, 8, 30);
+let endDt1 = new Date(2026, 9, 28, 11, 30);
+if ((startDt1 < nowDt) && (nowDt < endDt1)){
+  document.getElementById('maint-ongoing-1').style.display = 'block';
+  document.getElementById('maint-1').style.display = 'block';
+}
+else if (nowDt < startDt1){
+  document.getElementById('maint-planned-1').style.display = 'block';
+  document.getElementById('maint-1').style.display = 'block';
+}
+let startDt2 = new Date(2026, 9, 31, 10, 45);
+let endDt2 = new Date(2026, 9, 31, 11, 30);
+if ((startDt2 < nowDt) && (nowDt < endDt2)){
+  document.getElementById('maint-ongoing-2').style.display = 'block';
+  document.getElementById('maint-2').style.display = 'block';
+}
+else if (nowDt < startDt2){
+  document.getElementById('maint-planned-2').style.display = 'block';
+  document.getElementById('maint-2').style.display = 'block';
+}
+let startDt3 = new Date(2026, 10, 19, 21, 5);
+let endDt3 = new Date(2026, 10, 19, 21, 50);
+if ((startDt3 < nowDt) && (nowDt < endDt3)){
+  document.getElementById('maint-ongoing-3').style.display = 'block';
+  document.getElementById('maint-3').style.display = 'block';
+}
+else if (nowDt < startDt3){
+  document.getElementById('maint-planned-3').style.display = 'block';
+  document.getElementById('maint-3').style.display = 'block';
+}
+let startDt4 = new Date(2026, 10, 21, 9, 30);
+let endDt4 = new Date(2026, 10, 21, 11, 30);
+if ((startDt4 < nowDt) && (nowDt < endDt4)){
+  document.getElementById('maint-ongoing-4').style.display = 'block';
+  document.getElementById('maint-4').style.display = 'block';
+}
+else if (nowDt < startDt4){
+  document.getElementById('maint-planned-4').style.display = 'block';
+  document.getElementById('maint-4').style.display = 'block';
+}
+let startDt5 = new Date(2026, 11, 19, 8, 30);
+let endDt5 = new Date(2026, 11, 19, 11, 30);
+if ((startDt5 < nowDt) && (nowDt < endDt5)){
+  document.getElementById('maint-ongoing-5').style.display = 'block';
+  document.getElementById('maint-5').style.display = 'block';
+}
+else if (nowDt < startDt5){
+  document.getElementById('maint-planned-5').style.display = 'block';
+  document.getElementById('maint-5').style.display = 'block';
+}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
