@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/01 15:24
+### 最終更新：2026/01/01 16:41
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -80,6 +80,14 @@
 
 ---
 
+**DATE**: 01/01（木） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2006607821438149047"></a>
+</blockquote>
+
+---
+
 **DATE**: 01/01（木） 15:05
 <br>
 <blockquote class="twitter-tweet">
@@ -114,9 +122,7 @@
 
 **DATE**: 01/01（木） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2006561516846272951"></a>
-</blockquote>
+[1月1日0...](https://x.com/pj_sekai/status/2006561516846272951)
 
 ---
 
@@ -4246,13 +4252,13 @@
 
 **DATE**: 10/11（土） 12:01
 <br>
-[「Foll...](https://x.com/pj_sekai/status/1976845565318381893)
+[【衝撃の朝...](https://x.com/pj_sekai/status/1976845567486837142)
 
 ---
 
 **DATE**: 10/11（土） 12:01
 <br>
-[【衝撃の朝...](https://x.com/pj_sekai/status/1976845567486837142)
+[「Foll...](https://x.com/pj_sekai/status/1976845565318381893)
 
 ---
 
@@ -4314,13 +4320,13 @@
 
 ---
 
-**DATE**: 10/09（木） 21:00 イベント「**Our Golden Days**」 終了
-
----
-
 **DATE**: 10/09（木） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1976256329959473643)
+
+---
+
+**DATE**: 10/09（木） 21:00 イベント「**Our Golden Days**」 終了
 
 ---
 
