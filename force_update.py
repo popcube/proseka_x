@@ -79,7 +79,7 @@ def main(ids):
     added_posts = []    
     
     print()
-    print("########## New posts ##########")
+    print("########## Valid new posts ##########")
     for post in new_posts:
       ## get only added posts AND unique ids
       if post[1] in added_ids and post[1] not in [post_pre[1] for post_pre in added_posts]:

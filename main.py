@@ -10,7 +10,7 @@ from googleapiclient.discovery import build
 from make_index_md_3 import main as make_index_md
 from send_to_discord import main as send_to_discord
 from force_update import main as force_update
-from generator import main as generator
+from private_script_storage.generator import main as generator
 
 from contextlib import redirect_stdout
 
@@ -105,7 +105,7 @@ def post_sort(response):
           person_obj_list = item["pagemap"]["person"]
           post_id = post_obj_list[0]["identifier"]
           if detect_rt(post_obj_list, person_obj_list, metatag_body):
-            print(f"{post_id} is evaluated as Repost, skipping...")
+            print(f"{post_id} is deemed as Repost, skipping...")
             continue
           
           sorted_posts.append([
@@ -168,7 +168,6 @@ if __name__ == '__main__':
   
   # when new post is detected
   if len(added_ids) > 0:
-  # if True:
     
     added_ids.sort(reverse=True)
     send_to_discord(added_ids)
@@ -176,7 +175,7 @@ if __name__ == '__main__':
     added_posts = []    
     
     print()
-    print("########## New posts ##########")
+    print("########## All new posts ##########")
     for post in new_posts:
       ## get only added posts AND unique ids
       if post[1] in added_ids and post[1] not in [post_pre[1] for post_pre in added_posts]:
