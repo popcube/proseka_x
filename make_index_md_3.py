@@ -87,9 +87,12 @@ def extract_two_datetimes(in_text):
       month2 = next_datetime.month
       day2 = next_datetime.day
           
-    if datetime.now().month >= 11 and int(month) <= 2:
+    if datetime.now().month >= 10 and int(month) <= 3:
       year += 1
       year2 += 1
+    elif datetime.now().month <= 3 and int(month) >= 10:
+      year -= 1
+      year2 -= 1
     
     start_datetime = datetime.strptime(f"{year}-{month}-{day} {start_time}", "%Y-%m-%d %H:%M")
     end_datetime = datetime.strptime(f"{year2}-{month2}-{day2} {end_time}", "%Y-%m-%d %H:%M")
