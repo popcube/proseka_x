@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/08 01:21
+### 最終更新：2026/01/08 12:59
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2006561028084203649"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/08（木） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2009098074392809927"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/08（木） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2009097742530789842"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 01/06（火） 18:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2008464067619680595"></a>
-</blockquote>
+[『モザイク...](https://x.com/pj_sekai/status/2008464067619680595)
+<br>
+#レオニ
 
 ---
 
 **DATE**: 01/06（火） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2008419536073285973"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2008419536073285973)
 
 ---
 
@@ -4611,34 +4625,6 @@
 **DATE**: 10/06（月） 11:35
 <br>
 [【メンテナ...](https://x.com/pj_sekai/status/1975027024478740511)
-
----
-
-**DATE**: 10/06（月） 00:00
-<br>
-[🌟プロセカ...](https://x.com/pj_sekai/status/1974852079245038023)
-<br>
-#プロセカ5周年イラスト
-
----
-
-**DATE**: 10/05（日） 19:00
-<br>
-[🌟#セカラ...](https://x.com/pj_sekai/status/1974776582733512766)
-<br>
-#セカライ #セカライダイジェスト
-
----
-
-**DATE**: 10/05（日） 18:00
-<br>
-[5周年記念...](https://x.com/pj_sekai/status/1974761477866144164)
-
----
-
-**DATE**: 10/05（日） 17:00
-<br>
-[🏡マイセカ...](https://x.com/pj_sekai/status/1974746378405327341)
 
 <script>
 let nowDt = new Date();
