@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/08 12:59
+### 最終更新：2026/01/08 16:20
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2006561028084203649"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/08（木） 15:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2009143626623021297"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/08（木） 15:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2009143523069882846"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,17 @@
 
 **DATE**: 01/08（木） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2008916664549789933"></a>
-</blockquote>
+[㊗️本日1...](https://x.com/pj_sekai/status/2008916664549789933)
+<br>
+#日野森志歩誕生祭2026
 
 ---
 
 **DATE**: 01/07（水） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2008825946963427610"></a>
-</blockquote>
+[『モザイク...](https://x.com/pj_sekai/status/2008825946963427610)
+<br>
+#レオニ
 
 ---
 
@@ -2489,13 +2505,13 @@
 
 **DATE**: 11/20（木） 12:07
 <br>
-[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
+[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
 
 ---
 
 **DATE**: 11/20（木） 12:07
 <br>
-[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
+[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
 
 ---
 
