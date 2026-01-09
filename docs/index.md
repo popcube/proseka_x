@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/08 16:20
+### 最終更新：2026/01/09 12:23
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2006561028084203649"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/09（金） 11:47
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2009456893316714517"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/09（金） 11:47
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2009456873213448522"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 01/08（木） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2009097742530789842"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/2009097742530789842)
+<br>
+#セカイの4コマ #日野森志歩誕生祭2026
 
 ---
 
 **DATE**: 01/08（木） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2008916786193088898"></a>
-</blockquote>
+[💫日野森志...](https://x.com/pj_sekai/status/2008916786193088898)
 
 ---
 
@@ -1587,13 +1601,13 @@
 
 **DATE**: 12/10（水） 12:05
 <br>
-[【スリリン...](https://x.com/pj_sekai/status/1998589895389139276)
+[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
 
 ---
 
 **DATE**: 12/10（水） 12:05
 <br>
-[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
+[【スリリン...](https://x.com/pj_sekai/status/1998589895389139276)
 
 ---
 
@@ -3213,13 +3227,13 @@
 
 **DATE**: 10/31（金） 12:07
 <br>
-[「Hues...](https://x.com/pj_sekai/status/1984094818973446610)
+[【迷いなき...](https://x.com/pj_sekai/status/1984094821393559620)
 
 ---
 
 **DATE**: 10/31（金） 12:07
 <br>
-[【迷いなき...](https://x.com/pj_sekai/status/1984094821393559620)
+[「Hues...](https://x.com/pj_sekai/status/1984094818973446610)
 
 ---
 
@@ -4589,58 +4603,6 @@
 [本日15時...](https://x.com/pj_sekai/status/1975441555269026052)
 <br>
 #ワンダショ
-
----
-
-**DATE**: 10/06（月） 18:02
-<br>
-[『強風オー...](https://x.com/pj_sekai/status/1975124596040008079)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 10/06（月） 17:00
-<br>
-[先日公開し...](https://x.com/pj_sekai/status/1975108961818054698)
-
----
-
-**DATE**: 10/06（月） 15:03
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1975079432340795642)
-
----
-
-**DATE**: 10/06（月） 15:03
-<br>
-[本日15時...](https://x.com/pj_sekai/status/1975079355123699978)
-
----
-
-**DATE**: 10/06（月） 15:02
-<br>
-[本日15時...](https://x.com/pj_sekai/status/1975079271707312262)
-<br>
-#プロセカボスラッシュ
-
----
-
-**DATE**: 10/06（月） 11:44
-<br>
-[『5周年記...](https://x.com/pj_sekai/status/1975029344579039733)
-
----
-
-**DATE**: 10/06（月） 11:43
-<br>
-[【メンテナ...](https://x.com/pj_sekai/status/1975029215088324850)
-
----
-
-**DATE**: 10/06（月） 11:35
-<br>
-[【メンテナ...](https://x.com/pj_sekai/status/1975027024478740511)
 
 <script>
 let nowDt = new Date();
