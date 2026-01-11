@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/11 12:42
+### 最終更新：2026/01/11 13:07
 
 
 ---
@@ -10,6 +10,38 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2006561028084203649"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/11（日） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2010185714911318387"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/11（日） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2010185686671106460"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/11（日） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2010185684645212291"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/11（日） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2010185640491757776"></a>
 </blockquote>
 
 ---
@@ -24,33 +56,25 @@
 
 **DATE**: 01/10（土） 15:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2009867805793952142"></a>
-</blockquote>
+[明日、1月...](https://x.com/pj_sekai/status/2009867805793952142)
 
 ---
 
 **DATE**: 01/10（土） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2009822508254470330"></a>
-</blockquote>
+[⛩️202...](https://x.com/pj_sekai/status/2009822508254470330)
 
 ---
 
 **DATE**: 01/10（土） 10:34
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2009800942275932383"></a>
-</blockquote>
+[【v6.2...](https://x.com/pj_sekai/status/2009800942275932383)
 
 ---
 
 **DATE**: 01/09（金） 21:22
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2009601740027592900"></a>
-</blockquote>
+[【v6.2...](https://x.com/pj_sekai/status/2009601740027592900)
 
 ---
 
@@ -2585,13 +2609,13 @@
 
 **DATE**: 11/20（木） 12:07
 <br>
-[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
+[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
 
 ---
 
 **DATE**: 11/20（木） 12:07
 <br>
-[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
+[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
 
 ---
 
