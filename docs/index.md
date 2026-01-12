@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/11 16:16
+### 最終更新：2026/01/12 12:41
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2006561028084203649"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/12（月） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2010547854117687383"></a>
 </blockquote>
 
 ---
@@ -52,9 +60,7 @@
 
 **DATE**: 01/11（日） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2010185686671106460"></a>
-</blockquote>
+[【夕暮れの...](https://x.com/pj_sekai/status/2010185686671106460)
 
 ---
 
@@ -1725,13 +1731,13 @@
 
 **DATE**: 12/10（水） 12:05
 <br>
-[『Huma...](https://x.com/pj_sekai/status/1998589867580887049)
+[【思い出を...](https://x.com/pj_sekai/status/1998589869963227538)
 
 ---
 
 **DATE**: 12/10（水） 12:05
 <br>
-[【思い出を...](https://x.com/pj_sekai/status/1998589869963227538)
+[『Huma...](https://x.com/pj_sekai/status/1998589867580887049)
 
 ---
 
@@ -3363,13 +3369,13 @@
 
 **DATE**: 10/31（金） 12:05
 <br>
-[【己の境界...](https://x.com/pj_sekai/status/1984094329867321639)
+[「Hues...](https://x.com/pj_sekai/status/1984094328055353430)
 
 ---
 
 **DATE**: 10/31（金） 12:05
 <br>
-[「Hues...](https://x.com/pj_sekai/status/1984094328055353430)
+[【己の境界...](https://x.com/pj_sekai/status/1984094329867321639)
 
 ---
 
@@ -4079,25 +4085,25 @@
 
 **DATE**: 10/21（火） 12:04
 <br>
-[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
+[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
 
 ---
 
 **DATE**: 10/21（火） 12:04
 <br>
-[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
-
----
-
-**DATE**: 10/21（火） 12:03
-<br>
-[「瞳に映る...](https://x.com/pj_sekai/status/1980469967620567511)
+[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
 
 ---
 
 **DATE**: 10/21（火） 12:03
 <br>
 [【いつかと...](https://x.com/pj_sekai/status/1980469970414063950)
+
+---
+
+**DATE**: 10/21（火） 12:03
+<br>
+[「瞳に映る...](https://x.com/pj_sekai/status/1980469967620567511)
 
 ---
 
@@ -4556,13 +4562,13 @@
 
 **DATE**: 10/11（土） 12:01
 <br>
-[【衝撃の朝...](https://x.com/pj_sekai/status/1976845567486837142)
+[「Foll...](https://x.com/pj_sekai/status/1976845565318381893)
 
 ---
 
 **DATE**: 10/11（土） 12:01
 <br>
-[「Foll...](https://x.com/pj_sekai/status/1976845565318381893)
+[【衝撃の朝...](https://x.com/pj_sekai/status/1976845567486837142)
 
 ---
 
@@ -4621,44 +4627,6 @@
 **DATE**: 10/10（金） 15:07
 <br>
 [明日、10...](https://x.com/pj_sekai/status/1976529969812787281)
-
----
-
-**DATE**: 10/09（木） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1976256329959473643)
-
----
-
-**DATE**: 10/09（木） 21:00 イベント「**Our Golden Days**」 終了
-
----
-
-**DATE**: 10/09（木） 15:05
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1976167049102868821)
-
----
-
-**DATE**: 10/09（木） 15:03
-<br>
-[本日15時...](https://x.com/pj_sekai/status/1976166507840233746)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 10/09（木） 12:00
-<br>
-[10月10...](https://x.com/pj_sekai/status/1976120680111562771)
-<br>
-#セカラジ
-
----
-
-**DATE**: 10/09（木） 11:57
-<br>
-[【v6.0...](https://x.com/pj_sekai/status/1976119703845454192)
 
 <script>
 let nowDt = new Date();
