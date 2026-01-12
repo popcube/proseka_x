@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/12 15:33
+### 最終更新：2026/01/12 16:38
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2006561028084203649"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/12（月） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2010594088047829197"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/12（月） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2010593836720889960"></a>
 </blockquote>
 
 ---
@@ -40,9 +56,7 @@
 
 **DATE**: 01/11（日） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2010231607538659351"></a>
-</blockquote>
+[本日15:...](https://x.com/pj_sekai/status/2010231607538659351)
 
 ---
 
@@ -52,9 +66,9 @@
 
 **DATE**: 01/11（日） 15:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2010230191277138383"></a>
-</blockquote>
+[#プロセカ...](https://x.com/pj_sekai/status/2010230191277138383)
+<br>
+#プロセカZOZOコラボ
 
 ---
 
@@ -84,13 +98,13 @@
 
 **DATE**: 01/11（日） 12:02
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
+[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
 
 ---
 
 **DATE**: 01/11（日） 12:02
 <br>
-[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
 
 ---
 
