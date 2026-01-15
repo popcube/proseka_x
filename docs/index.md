@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/14 19:18
+### 最終更新：2026/01/15 16:21
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2006561028084203649"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/15（木） 15:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2011679745948152028"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 01/13（火） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2010909679828808044"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/2010909679828808044)
+<br>
+#セカイの4コマ
 
 ---
 
@@ -3415,13 +3423,13 @@
 
 **DATE**: 10/31（金） 12:06
 <br>
-[「Hues...](https://x.com/pj_sekai/status/1984094559991890230)
+[【独自の視...](https://x.com/pj_sekai/status/1984094562072330554)
 
 ---
 
 **DATE**: 10/31（金） 12:06
 <br>
-[【独自の視...](https://x.com/pj_sekai/status/1984094562072330554)
+[「Hues...](https://x.com/pj_sekai/status/1984094559991890230)
 
 ---
 
@@ -4143,13 +4151,13 @@
 
 **DATE**: 10/21（火） 12:04
 <br>
-[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
+[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
 
 ---
 
 **DATE**: 10/21（火） 12:04
 <br>
-[【ヒヤッと...](https://x.com/pj_sekai/status/1980470204418416921)
+[「瞳に映る...](https://x.com/pj_sekai/status/1980470201973108985)
 
 ---
 
@@ -4519,30 +4527,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/1977569994129932524)
 <br>
 #セカイの4コマ
-
----
-
-**DATE**: 10/12（日） 12:04
-<br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1977208640273830257)
-
----
-
-**DATE**: 10/12（日） 12:04
-<br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1977208629154783452)
-
----
-
-**DATE**: 10/12（日） 12:04
-<br>
-[本日12時...](https://x.com/pj_sekai/status/1977208606237106668)
-
----
-
-**DATE**: 10/12（日） 12:03
-<br>
-[本日12時...](https://x.com/pj_sekai/status/1977208584716140790)
 
 <script>
 let nowDt = new Date();
