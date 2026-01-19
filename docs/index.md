@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/16 14:02
+### 最終更新：2026/01/19 14:00
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2006561028084203649"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/19（月） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2013084530048225350"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/19（月） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2013084464822288646"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 01/15（木） 15:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2011679745948152028"></a>
-</blockquote>
+[#プロセカ...](https://x.com/pj_sekai/status/2011679745948152028)
+<br>
+#プロセカZOZOコラボ
 
 ---
 
 **DATE**: 01/14（水） 18:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2011365243721822360"></a>
-</blockquote>
+[昼休みの補...](https://x.com/pj_sekai/status/2011365243721822360)
 
 ---
 
@@ -4481,62 +4495,6 @@
 ...](https://x.com/pj_sekai/status/1979351727771124110)
 <br>
 #プロセカ感謝祭
-
----
-
-**DATE**: 10/16（木） 12:04
-<br>
-[【お知らせ...](https://x.com/pj_sekai/status/1978658377657192601)
-
----
-
-**DATE**: 10/15（水） 15:03
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1978340906869694650)
-
----
-
-**DATE**: 10/15（水） 15:02
-<br>
-[syudo...](https://x.com/pj_sekai/status/1978340758865182992)
-
----
-
-**DATE**: 10/15（水） 12:06
-<br>
-[📺番組冒頭...](https://x.com/pj_sekai/status/1978296337406759330)
-
----
-
-**DATE**: 10/15（水） 12:05
-<br>
-[10月22...](https://x.com/pj_sekai/status/1978296051346858469)
-
----
-
-**DATE**: 10/15（水） 12:03
-<br>
-[🎧25時、...](https://x.com/pj_sekai/status/1978295592255135892)
-
----
-
-**DATE**: 10/14（火） 15:04
-<br>
-[🎮プロジェ...](https://x.com/pj_sekai/status/1977978859078467709)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 10/14（火） 15:04
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1977978709035622603)
-
----
-
-**DATE**: 10/14（火） 15:03
-<br>
-[syudo...](https://x.com/pj_sekai/status/1977978561148629271)
 
 <script>
 let nowDt = new Date();
