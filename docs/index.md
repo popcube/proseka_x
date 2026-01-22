@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/22 15:25
+### 最終更新：2026/01/23 00:53
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2006561028084203649"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/23（金） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2014352356100468800"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 01/21（水） 15:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2013855830995804371"></a>
-</blockquote>
+[本日15:...](https://x.com/pj_sekai/status/2013855830995804371)
 
 ---
 
@@ -84,13 +90,13 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
+[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
+[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
 
 ---
 
@@ -1941,13 +1947,13 @@
 
 **DATE**: 12/10（水） 12:05
 <br>
-[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
+[【スリリン...](https://x.com/pj_sekai/status/1998589895389139276)
 
 ---
 
 **DATE**: 12/10（水） 12:05
 <br>
-[【スリリン...](https://x.com/pj_sekai/status/1998589895389139276)
+[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
 
 ---
 
@@ -2859,13 +2865,13 @@
 
 **DATE**: 11/20（木） 12:07
 <br>
-[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
+[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
 
 ---
 
 **DATE**: 11/20（木） 12:07
 <br>
-[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
+[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
 
 ---
 
@@ -3591,13 +3597,13 @@
 
 **DATE**: 10/31（金） 12:05
 <br>
-[【己の境界...](https://x.com/pj_sekai/status/1984094329867321639)
+[「Hues...](https://x.com/pj_sekai/status/1984094328055353430)
 
 ---
 
 **DATE**: 10/31（金） 12:05
 <br>
-[「Hues...](https://x.com/pj_sekai/status/1984094328055353430)
+[【己の境界...](https://x.com/pj_sekai/status/1984094329867321639)
 
 ---
 
@@ -4332,78 +4338,6 @@
 **DATE**: 10/20（月） 18:22
 <br>
 [【お知らせ...](https://x.com/pj_sekai/status/1980203026288894138)
-
----
-
-**DATE**: 10/20（月） 15:50
-<br>
-[「Cham...](https://x.com/pj_sekai/status/1980164782142747084)
-
----
-
-**DATE**: 10/20（月） 15:49
-<br>
-[「フォニイ...](https://x.com/pj_sekai/status/1980164539330224475)
-
----
-
-**DATE**: 10/20（月） 15:49
-<br>
-[「ミラクル...](https://x.com/pj_sekai/status/1980164384602362080)
-
----
-
-**DATE**: 10/20（月） 15:48
-<br>
-[「ECHO...](https://x.com/pj_sekai/status/1980164257825411543)
-
----
-
-**DATE**: 10/20（月） 15:48
-<br>
-[「どりーみ...](https://x.com/pj_sekai/status/1980164125574758441)
-
----
-
-**DATE**: 10/20（月） 15:46
-<br>
-[「ドラマツ...](https://x.com/pj_sekai/status/1980163768568168917)
-
----
-
-**DATE**: 10/20（月） 15:46
-<br>
-[「千本桜」...](https://x.com/pj_sekai/status/1980163625974395326)
-
----
-
-**DATE**: 10/20（月） 15:43
-<br>
-[下記楽曲に...](https://x.com/pj_sekai/status/1980162990805754108)
-
----
-
-**DATE**: 10/20（月） 15:42
-<br>
-[マイセカイ...](https://x.com/pj_sekai/status/1980162643412615612)
-
----
-
-**DATE**: 10/20（月） 15:42
-<br>
-[「ワーワー...](https://x.com/pj_sekai/status/1980162629344899209)
-
----
-
-**DATE**: 10/20（月） 15:38
-<br>
-[下記楽曲の...](https://x.com/pj_sekai/status/1980161621529166243)
-
----
-
-**DATE**: 10/20（月） 15:02
-<br>
-[明日、10...](https://x.com/pj_sekai/status/1980152625774662026)
 
 <script>
 let nowDt = new Date();
