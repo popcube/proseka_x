@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/23 00:53
+### 最終更新：2026/01/23 12:25
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2006561028084203649"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/23（金） 10:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2014503354827686236"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 01/21（水） 15:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2013855948327264270"></a>
-</blockquote>
+[💿Vivi...](https://x.com/pj_sekai/status/2013855948327264270)
+<br>
+#ビビバス
 
 ---
 
@@ -1959,13 +1967,13 @@
 
 **DATE**: 12/10（水） 12:05
 <br>
-[『Huma...](https://x.com/pj_sekai/status/1998589867580887049)
+[【思い出を...](https://x.com/pj_sekai/status/1998589869963227538)
 
 ---
 
 **DATE**: 12/10（水） 12:05
 <br>
-[【思い出を...](https://x.com/pj_sekai/status/1998589869963227538)
+[『Huma...](https://x.com/pj_sekai/status/1998589867580887049)
 
 ---
 
@@ -4325,19 +4333,13 @@
 
 **DATE**: 10/21（火） 12:03
 <br>
-[「瞳に映る...](https://x.com/pj_sekai/status/1980469967620567511)
+[【いつかと...](https://x.com/pj_sekai/status/1980469970414063950)
 
 ---
 
 **DATE**: 10/21（火） 12:03
 <br>
-[【いつかと...](https://x.com/pj_sekai/status/1980469970414063950)
-
----
-
-**DATE**: 10/20（月） 18:22
-<br>
-[【お知らせ...](https://x.com/pj_sekai/status/1980203026288894138)
+[「瞳に映る...](https://x.com/pj_sekai/status/1980469967620567511)
 
 <script>
 let nowDt = new Date();
