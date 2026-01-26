@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/26 01:47
+### 最終更新：2026/01/26 12:49
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2006561028084203649"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/26（月） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2015621057168994753"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/26（月） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2015620924759035970"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 01/24（土） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2014714752987955680"></a>
-</blockquote>
+[🎧朝比奈ま...](https://x.com/pj_sekai/status/2014714752987955680)
 
 ---
 
 **DATE**: 01/23（金） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2014669445827088565"></a>
-</blockquote>
+[2月6日（...](https://x.com/pj_sekai/status/2014669445827088565)
+<br>
+#セカラジ
 
 ---
 
@@ -816,13 +830,13 @@
 
 **DATE**: 12/31（水） 12:10
 <br>
-[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
+[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
 
 ---
 
 **DATE**: 12/31（水） 12:10
 <br>
-[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
+[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
 
 ---
 
@@ -2003,13 +2017,13 @@
 
 **DATE**: 12/10（水） 12:05
 <br>
-[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
+[【スリリン...](https://x.com/pj_sekai/status/1998589895389139276)
 
 ---
 
 **DATE**: 12/10（水） 12:05
 <br>
-[【スリリン...](https://x.com/pj_sekai/status/1998589895389139276)
+[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
 
 ---
 
@@ -3641,13 +3655,13 @@
 
 **DATE**: 10/31（金） 12:06
 <br>
-[「Hues...](https://x.com/pj_sekai/status/1984094559991890230)
+[【独自の視...](https://x.com/pj_sekai/status/1984094562072330554)
 
 ---
 
 **DATE**: 10/31（金） 12:06
 <br>
-[【独自の視...](https://x.com/pj_sekai/status/1984094562072330554)
+[「Hues...](https://x.com/pj_sekai/status/1984094559991890230)
 
 ---
 
@@ -3874,26 +3888,6 @@
 **DATE**: 10/24（金） 18:08
 <br>
 [【メンテナ...](https://x.com/pj_sekai/status/1981648963901288581)
-
----
-
-**DATE**: 10/24（金） 00:00
-<br>
-[💫望月穂波...](https://x.com/pj_sekai/status/1981375057005072654)
-
----
-
-**DATE**: 10/23（木） 18:30
-<br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1981292010410823909)
-
----
-
-**DATE**: 10/23（木） 18:00
-<br>
-[『コールボ...](https://x.com/pj_sekai/status/1981284472424452133)
-<br>
-#ビビバス
 
 <script>
 let nowDt = new Date();
