@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/27 04:32
+### 最終更新：2026/01/27 13:04
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2006561028084203649"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/27（火） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2015983097955877071"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 01/26（月） 21:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2015758800075301195"></a>
-</blockquote>
+[【#プロセ...](https://x.com/pj_sekai/status/2015758800075301195)
+<br>
+#プロセカ放送局 #プロセカ放送局
 
 ---
 
@@ -2523,13 +2531,13 @@
 
 **DATE**: 12/10（水） 12:05
 <br>
-[【浮き立つ...](https://x.com/pj_sekai/status/1998589916536779066)
+[『Huma...](https://x.com/pj_sekai/status/1998589914133524947)
 
 ---
 
 **DATE**: 12/10（水） 12:05
 <br>
-[『Huma...](https://x.com/pj_sekai/status/1998589914133524947)
+[【浮き立つ...](https://x.com/pj_sekai/status/1998589916536779066)
 
 ---
 
@@ -4378,22 +4386,6 @@
 [㊗️本日1...](https://x.com/pj_sekai/status/1982462225831878728)
 <br>
 #望月穂波誕生祭2025
-
----
-
-**DATE**: 10/24（金） 21:00
-<br>
-[11月7日...](https://x.com/pj_sekai/status/1981692161273074126)
-<br>
-#セカラジ
-
----
-
-**DATE**: 10/24（金） 20:00
-<br>
-[📺WEBラ...](https://x.com/pj_sekai/status/1981677055029723235)
-<br>
-#セカラジ
 
 <script>
 let nowDt = new Date();
