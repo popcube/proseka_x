@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/27 19:21
+### 最終更新：2026/01/28 13:03
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2006561028084203649"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/28（水） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2016346817739575308"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 01/27（火） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2015801908582142332"></a>
-</blockquote>
+[㊗️本日1...](https://x.com/pj_sekai/status/2015801908582142332)
+<br>
+#朝比奈まふゆ誕生祭2026
 
 ---
 
@@ -694,13 +702,13 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
+[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
+[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
 
 ---
 
@@ -880,13 +888,13 @@
 
 **DATE**: 01/11（日） 12:03
 <br>
-[【守るもの...](https://x.com/pj_sekai/status/2010185714911318387)
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
 
 ---
 
 **DATE**: 01/11（日） 12:03
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
+[【守るもの...](https://x.com/pj_sekai/status/2010185714911318387)
 
 ---
 
@@ -2551,13 +2559,13 @@
 
 **DATE**: 12/10（水） 12:05
 <br>
-[【スリリン...](https://x.com/pj_sekai/status/1998589895389139276)
+[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
 
 ---
 
 **DATE**: 12/10（水） 12:05
 <br>
-[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
+[【スリリン...](https://x.com/pj_sekai/status/1998589895389139276)
 
 ---
 
