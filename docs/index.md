@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/01/31 13:22
+### 最終更新：2026/01/31 14:53
 
 
 ---
@@ -41,6 +41,14 @@
 **DATE**: 01/31（土） 12:04
 <br>
 <blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2017433768810918142"></a>
+</blockquote>
+
+---
+
+**DATE**: 01/31（土） 12:04
+<br>
+<blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2017433686879437145"></a>
 </blockquote>
 
@@ -48,9 +56,7 @@
 
 **DATE**: 01/30（金） 15:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2017116255283794267"></a>
-</blockquote>
+[明日、1月...](https://x.com/pj_sekai/status/2017116255283794267)
 
 ---
 
@@ -1010,6 +1016,10 @@
 
 ---
 
+**DATE**: 01/11（日） 15:00 イベント「**覚めない幻想をノックして**」 開始
+
+---
+
 **DATE**: 01/11（日） 15:00
 <br>
 [#プロセカ...](https://x.com/pj_sekai/status/2010230191277138383)
@@ -1018,19 +1028,15 @@
 
 ---
 
-**DATE**: 01/11（日） 15:00 イベント「**覚めない幻想をノックして**」 開始
+**DATE**: 01/11（日） 12:03
+<br>
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
 
 ---
 
 **DATE**: 01/11（日） 12:03
 <br>
 [【守るもの...](https://x.com/pj_sekai/status/2010185714911318387)
-
----
-
-**DATE**: 01/11（日） 12:03
-<br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
 
 ---
 
