@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/01 14:56
+### 最終更新：2026/02/01 19:51
 
 
 ---
@@ -14,43 +14,77 @@
 
 ---
 
-**DATE**: 02/01（日） 12:02
+**DATE**: 02/01（日） 17:44
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2017795540616904819"></a>
+<a href="https://twitter.com/pj_sekai/status/2017881856038060306"></a>
 </blockquote>
+
+---
+
+**DATE**: 02/01（日） 17:38
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2017880342229917883"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/01（日） 17:17
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2017874899864543247"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/01（日） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2017841845007786042"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/01（日） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2017841593546416160"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/01（日） 12:02
+<br>
+[2月1日0...](https://x.com/pj_sekai/status/2017795540616904819)
 
 ---
 
 **DATE**: 02/01（日） 12:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2017795289198039086"></a>
-</blockquote>
+[2月1日0...](https://x.com/pj_sekai/status/2017795289198039086)
 
 ---
 
 **DATE**: 02/01（日） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2017795039037165638"></a>
-</blockquote>
+[今月の #...](https://x.com/pj_sekai/status/2017795039037165638)
+<br>
+#プロセカスケジュール
 
 ---
 
 **DATE**: 01/31（土） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2017523250033831943"></a>
-</blockquote>
+[#セカライ...](https://x.com/pj_sekai/status/2017523250033831943)
+<br>
+#セカライ5th
 
 ---
 
 **DATE**: 01/31（土） 15:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2017480287098441982"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2017480287098441982)
 
 ---
 
@@ -80,13 +114,13 @@
 
 **DATE**: 01/31（土） 12:04
 <br>
-[『A sw...](https://x.com/pj_sekai/status/2017433768810918142)
+[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
 
 ---
 
 **DATE**: 01/31（土） 12:04
 <br>
-[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
+[『A sw...](https://x.com/pj_sekai/status/2017433768810918142)
 
 ---
 
@@ -1562,13 +1596,13 @@
 
 **DATE**: 12/31（水） 12:10
 <br>
-[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
+[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
 
 ---
 
 **DATE**: 12/31（水） 12:10
 <br>
-[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
+[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
 
 ---
 
