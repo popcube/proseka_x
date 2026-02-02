@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/01 19:51
+### 最終更新：2026/02/02 13:14
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2017795039037165638"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/02（月） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2018157803001851999"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/02（月） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2018157433659544052"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,13 @@
 
 **DATE**: 02/01（日） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2017841845007786042"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2017841845007786042)
 
 ---
 
 **DATE**: 02/01（日） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2017841593546416160"></a>
-</blockquote>
+[SNOW ...](https://x.com/pj_sekai/status/2017841593546416160)
 
 ---
 
@@ -4409,13 +4421,13 @@
 
 **DATE**: 10/31（金） 12:07
 <br>
-[「Hues...](https://x.com/pj_sekai/status/1984094818973446610)
+[【迷いなき...](https://x.com/pj_sekai/status/1984094821393559620)
 
 ---
 
 **DATE**: 10/31（金） 12:07
 <br>
-[【迷いなき...](https://x.com/pj_sekai/status/1984094821393559620)
+[「Hues...](https://x.com/pj_sekai/status/1984094818973446610)
 
 ---
 
@@ -4433,13 +4445,13 @@
 
 **DATE**: 10/31（金） 12:05
 <br>
-[【己の境界...](https://x.com/pj_sekai/status/1984094329867321639)
+[「Hues...](https://x.com/pj_sekai/status/1984094328055353430)
 
 ---
 
 **DATE**: 10/31（金） 12:05
 <br>
-[「Hues...](https://x.com/pj_sekai/status/1984094328055353430)
+[【己の境界...](https://x.com/pj_sekai/status/1984094329867321639)
 
 ---
 
@@ -4476,24 +4488,6 @@
 **DATE**: 10/31（金） 11:35
 <br>
 [【メンテナ...](https://x.com/pj_sekai/status/1984086723559854524)
-
----
-
-**DATE**: 10/30（木） 22:03
-<br>
-[【v6.1...](https://x.com/pj_sekai/status/1983882492018094265)
-
----
-
-**DATE**: 10/30（木） 18:16
-<br>
-[【v6.1...](https://x.com/pj_sekai/status/1983825420027072552)
-
----
-
-**DATE**: 10/30（木） 15:02
-<br>
-[明日、10...](https://x.com/pj_sekai/status/1983776429411332557)
 
 <script>
 let nowDt = new Date();
