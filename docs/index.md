@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/08 15:54
+### 最終更新：2026/02/08 22:31
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2017795039037165638"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/08（日） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2020467651483697411"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 02/07（土） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2019788172373160128"></a>
-</blockquote>
+[🎧宵崎奏 ...](https://x.com/pj_sekai/status/2019788172373160128)
 
 ---
 
@@ -1110,25 +1116,25 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
-
----
-
-**DATE**: 01/21（水） 12:04
-<br>
 [「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
+[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
 [「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
+
+---
+
+**DATE**: 01/21（水） 12:04
+<br>
+[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
 
 ---
 
@@ -1792,13 +1798,13 @@
 
 **DATE**: 12/31（水） 12:10
 <br>
-[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
+[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
 
 ---
 
 **DATE**: 12/31（水） 12:10
 <br>
-[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
+[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
 
 ---
 
@@ -3897,13 +3903,13 @@
 
 **DATE**: 11/20（木） 12:07
 <br>
-[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
+[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
 
 ---
 
 **DATE**: 11/20（木） 12:07
 <br>
-[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
+[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
 
 ---
 
@@ -4316,14 +4322,6 @@
 [本日15時...](https://x.com/pj_sekai/status/1986675963581899163)
 <br>
 #レオニ
-
----
-
-**DATE**: 11/06（木） 12:03
-<br>
-[11月7日...](https://x.com/pj_sekai/status/1986268055396360282)
-<br>
-#セカラジ
 
 <script>
 let nowDt = new Date();
