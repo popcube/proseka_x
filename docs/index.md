@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/10 13:25
+### 最終更新：2026/02/10 13:58
 
 
 ---
@@ -33,6 +33,14 @@
 **DATE**: 02/10（火） 12:03
 <br>
 <blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2021057348308173032"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/10（火） 12:03
+<br>
+<blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2021057293182435709"></a>
 </blockquote>
 
@@ -48,9 +56,9 @@
 
 **DATE**: 02/10（火） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2021056527411343519"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/2021056527411343519)
+<br>
+#セカイの4コマ #宵崎奏誕生祭2026
 
 ---
 
