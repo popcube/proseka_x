@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/10 01:10
+### 最終更新：2026/02/10 13:25
 
 
 ---
@@ -14,43 +14,87 @@
 
 ---
 
-**DATE**: 02/10（火） 00:01
+**DATE**: 02/10（火） 12:03
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2020875585765921207"></a>
+<a href="https://twitter.com/pj_sekai/status/2021057413848428768"></a>
 </blockquote>
+
+---
+
+**DATE**: 02/10（火） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2021057350401130865"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/10（火） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2021057293182435709"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/10（火） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2021057290984698226"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/10（火） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2021056527411343519"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/10（火） 11:42
+<br>
+[「ビバハピ...](https://x.com/pj_sekai/status/2021052068849692821)
+
+---
+
+**DATE**: 02/10（火） 11:42
+<br>
+[下記楽曲の...](https://x.com/pj_sekai/status/2021052020925558839)
+
+---
+
+**DATE**: 02/10（火） 00:01
+<br>
+[🎧宵崎奏 ...](https://x.com/pj_sekai/status/2020875585765921207)
 
 ---
 
 **DATE**: 02/10（火） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2020875339530998208"></a>
-</blockquote>
+[㊗️本日2...](https://x.com/pj_sekai/status/2020875339530998208)
+<br>
+#宵崎奏誕生祭2026
 
 ---
 
 **DATE**: 02/09（月） 15:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2020739659345825987"></a>
-</blockquote>
+[明日、2月...](https://x.com/pj_sekai/status/2020739659345825987)
 
 ---
 
 **DATE**: 02/08（日） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2020467651483697411"></a>
-</blockquote>
+[本日22時...](https://x.com/pj_sekai/status/2020467651483697411)
 
 ---
 
 **DATE**: 02/08（日） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2020378560012382280"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2020378560012382280)
 
 ---
 
@@ -1134,25 +1178,25 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
-
----
-
-**DATE**: 01/21（水） 12:04
-<br>
 [【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
+[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
 [「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
+
+---
+
+**DATE**: 01/21（水） 12:04
+<br>
+[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
 
 ---
 
@@ -2991,13 +3035,13 @@
 
 **DATE**: 12/10（水） 12:05
 <br>
-[【浮き立つ...](https://x.com/pj_sekai/status/1998589916536779066)
+[『Huma...](https://x.com/pj_sekai/status/1998589914133524947)
 
 ---
 
 **DATE**: 12/10（水） 12:05
 <br>
-[『Huma...](https://x.com/pj_sekai/status/1998589914133524947)
+[【浮き立つ...](https://x.com/pj_sekai/status/1998589916536779066)
 
 ---
 
@@ -3921,13 +3965,13 @@
 
 **DATE**: 11/20（木） 12:07
 <br>
-[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
+[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
 
 ---
 
 **DATE**: 11/20（木） 12:07
 <br>
-[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
+[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
 
 ---
 
@@ -4294,32 +4338,6 @@
 **DATE**: 11/08（土） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/1987127974542647379)
-
----
-
-**DATE**: 11/08（土） 21:00 イベント「**Colors of Pure Sense**」 終了
-
----
-
-**DATE**: 11/08（土） 00:00
-<br>
-[💿東雲彰人...](https://x.com/pj_sekai/status/1986810876427473222)
-
----
-
-**DATE**: 11/07（金） 21:00
-<br>
-[11月21...](https://x.com/pj_sekai/status/1986765580335300724)
-<br>
-#セカラジ
-
----
-
-**DATE**: 11/07（金） 20:00
-<br>
-[📺WEBラ...](https://x.com/pj_sekai/status/1986750480647610572)
-<br>
-#セカラジ
 
 <script>
 let nowDt = new Date();
