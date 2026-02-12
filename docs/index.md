@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/10 20:11
+### 最終更新：2026/02/12 13:14
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2017795039037165638"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/12（木） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2021782114128253144"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/12（木） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2021781961661136981"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2021057411805741444"></a>
-</blockquote>
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2021057350401130865"></a>
-</blockquote>
+[【名プロデ...](https://x.com/pj_sekai/status/2021057350401130865)
 
 ---
 
@@ -62,13 +74,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
+[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
 
 ---
 
@@ -416,13 +428,13 @@
 
 **DATE**: 01/31（土） 12:04
 <br>
-[【炸裂！愛...](https://x.com/pj_sekai/status/2017433686879437145)
+[『A sw...](https://x.com/pj_sekai/status/2017433684186697874)
 
 ---
 
 **DATE**: 01/31（土） 12:04
 <br>
-[『A sw...](https://x.com/pj_sekai/status/2017433684186697874)
+[【炸裂！愛...](https://x.com/pj_sekai/status/2017433686879437145)
 
 ---
 
@@ -1204,13 +1216,13 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
+[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
+[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
 
 ---
 
@@ -1886,13 +1898,13 @@
 
 **DATE**: 12/31（水） 12:10
 <br>
-[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
+[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
 
 ---
 
 **DATE**: 12/31（水） 12:10
 <br>
-[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
+[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
 
 ---
 
@@ -4318,52 +4330,6 @@
 **DATE**: 11/10（月） 11:35
 <br>
 [下記楽曲の...](https://x.com/pj_sekai/status/1987710585056993336)
-
----
-
-**DATE**: 11/09（日） 15:02
-<br>
-[明日、11...](https://x.com/pj_sekai/status/1987400464544243787)
-
----
-
-**DATE**: 11/09（日） 00:00
-<br>
-[💿東雲彰人...](https://x.com/pj_sekai/status/1987173274455789688)
-
----
-
-**DATE**: 11/08（土） 22:25
-<br>
-[💭プロセカ...](https://x.com/pj_sekai/status/1987149481151021297)
-
----
-
-**DATE**: 11/08（土） 22:06
-<br>
-[『その絵の...](https://x.com/pj_sekai/status/1987144695240405100)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 11/08（土） 22:05
-<br>
-[🎧25時、...](https://x.com/pj_sekai/status/1987144530408399259)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 11/08（土） 21:01
-<br>
-[💭プロセカ...](https://x.com/pj_sekai/status/1987128216377553315)
-
----
-
-**DATE**: 11/08（土） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1987127974542647379)
 
 <script>
 let nowDt = new Date();
