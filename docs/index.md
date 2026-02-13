@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/13 02:15
+### 最終更新：2026/02/13 13:11
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2017795039037165638"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/13（金） 12:16
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2022147925015753192"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/13（金） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2022143731907145986"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 02/12（木） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2021781961661136981"></a>
-</blockquote>
+[本日12時...](https://x.com/pj_sekai/status/2021781961661136981)
 
 ---
 
 **DATE**: 02/10（火） 18:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2021148155778302138"></a>
-</blockquote>
+[「プロセカ...](https://x.com/pj_sekai/status/2021148155778302138)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -62,13 +76,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
+[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
 
 ---
 
@@ -4264,26 +4278,6 @@
 [㊗️本日1...](https://x.com/pj_sekai/status/1988260432545501525)
 <br>
 #東雲彰人誕生祭2025
-
----
-
-**DATE**: 11/10（月） 18:17
-<br>
-[「プロセカ...](https://x.com/pj_sekai/status/1987811968791855536)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 11/10（月） 18:04
-<br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1987808502371569703)
-
----
-
-**DATE**: 11/10（月） 18:02
-<br>
-[💭プロセカ...](https://x.com/pj_sekai/status/1987808069469020594)
 
 <script>
 let nowDt = new Date();
