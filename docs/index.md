@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/14 16:03
+### 最終更新：2026/02/14 17:55
 
 
 ---
@@ -18,6 +18,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2022552887520563229"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/14（土） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2022552636231209465"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 02/14（土） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2022325138037833954"></a>
-</blockquote>
+[🎤KAIT...](https://x.com/pj_sekai/status/2022325138037833954)
 
 ---
 
@@ -1540,13 +1546,13 @@
 
 **DATE**: 01/11（日） 12:02
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
+[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
 
 ---
 
 **DATE**: 01/11（日） 12:02
 <br>
-[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
 
 ---
 
@@ -4105,13 +4111,13 @@
 
 **DATE**: 11/20（木） 12:07
 <br>
-[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
+[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
 
 ---
 
 **DATE**: 11/20（木） 12:07
 <br>
-[【電話越し...](https://x.com/pj_sekai/status/1991342695399452731)
+[「Good...](https://x.com/pj_sekai/status/1991342693453332502)
 
 ---
 
