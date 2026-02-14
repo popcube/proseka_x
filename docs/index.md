@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/14 02:05
+### 最終更新：2026/02/14 13:01
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2017795039037165638"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/14（土） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2022506079939366932"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/14（土） 11:22
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2022496607187669499"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 02/13（金） 17:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2022220216558923997"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/2022220216558923997)
+<br>
+#サンリオ
 
 ---
 
 **DATE**: 02/13（金） 15:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2022191704082907181"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2022191704082907181)
 
 ---
 
@@ -146,13 +160,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
+[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
 
 ---
 
@@ -1288,13 +1302,13 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
+[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
+[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
 
 ---
 
@@ -1970,13 +1984,13 @@
 
 **DATE**: 12/31（水） 12:10
 <br>
-[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
+[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
 
 ---
 
 **DATE**: 12/31（水） 12:10
 <br>
-[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
+[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
 
 ---
 
@@ -4310,20 +4324,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/1988441928900526370)
 <br>
 #セカイの4コマ #東雲彰人誕生祭2025
-
----
-
-**DATE**: 11/12（水） 00:01
-<br>
-[💿東雲彰人...](https://x.com/pj_sekai/status/1988260677723869498)
-
----
-
-**DATE**: 11/12（水） 00:00
-<br>
-[㊗️本日1...](https://x.com/pj_sekai/status/1988260432545501525)
-<br>
-#東雲彰人誕生祭2025
 
 <script>
 let nowDt = new Date();
