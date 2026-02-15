@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/14 18:24
+### 最終更新：2026/02/15 15:42
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2017795039037165638"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/15（日） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2022915023816073685"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 02/14（土） 11:23
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2022496918971248834"></a>
-</blockquote>
+[投稿したポ...](https://x.com/pj_sekai/status/2022496918971248834)
 
 ---
 
@@ -542,13 +548,13 @@
 
 **DATE**: 01/31（土） 12:04
 <br>
-[【炸裂！愛...](https://x.com/pj_sekai/status/2017433686879437145)
+[『A sw...](https://x.com/pj_sekai/status/2017433684186697874)
 
 ---
 
 **DATE**: 01/31（土） 12:04
 <br>
-[『A sw...](https://x.com/pj_sekai/status/2017433684186697874)
+[【炸裂！愛...](https://x.com/pj_sekai/status/2017433686879437145)
 
 ---
 
@@ -1342,13 +1348,13 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
+[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
+[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
 
 ---
 
@@ -3211,13 +3217,13 @@
 
 **DATE**: 12/10（水） 12:05
 <br>
-[【思い出を...](https://x.com/pj_sekai/status/1998589869963227538)
+[『Huma...](https://x.com/pj_sekai/status/1998589867580887049)
 
 ---
 
 **DATE**: 12/10（水） 12:05
 <br>
-[『Huma...](https://x.com/pj_sekai/status/1998589867580887049)
+[【思い出を...](https://x.com/pj_sekai/status/1998589869963227538)
 
 ---
 
@@ -4306,52 +4312,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/1988804022707401164)
 <br>
 #セカイの4コマ
-
----
-
-**DATE**: 11/12（水） 18:05
-<br>
-[✉プロセカ...](https://x.com/pj_sekai/status/1988533719863562283)
-
----
-
-**DATE**: 11/12（水） 18:01
-<br>
-[『抜錨』F...](https://x.com/pj_sekai/status/1988532636739137717)
-<br>
-#レオニ
-
----
-
-**DATE**: 11/12（水） 15:04
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1988488055171498066)
-
----
-
-**DATE**: 11/12（水） 15:04
-<br>
-[本日15時...](https://x.com/pj_sekai/status/1988488037022728291)
-
----
-
-**DATE**: 11/12（水） 12:03
-<br>
-[本日12時...](https://x.com/pj_sekai/status/1988442541382135961)
-
----
-
-**DATE**: 11/12（水） 12:02
-<br>
-[本日12時...](https://x.com/pj_sekai/status/1988442372276187612)
-
----
-
-**DATE**: 11/12（水） 12:01
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/1988441928900526370)
-<br>
-#セカイの4コマ #東雲彰人誕生祭2025
 
 <script>
 let nowDt = new Date();
