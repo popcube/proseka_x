@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/15 15:42
+### 最終更新：2026/02/15 16:55
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2017795039037165638"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/15（日） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2022915275662705070"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 02/14（土） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2022506079939366932"></a>
-</blockquote>
+[🍫バレンタ...](https://x.com/pj_sekai/status/2022506079939366932)
+<br>
+#バレンタイン
 
 ---
 
@@ -536,25 +544,25 @@
 
 **DATE**: 01/31（土） 12:04
 <br>
-[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
-
----
-
-**DATE**: 01/31（土） 12:04
-<br>
 [『A sw...](https://x.com/pj_sekai/status/2017433768810918142)
 
 ---
 
 **DATE**: 01/31（土） 12:04
 <br>
-[『A sw...](https://x.com/pj_sekai/status/2017433684186697874)
+[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
 
 ---
 
 **DATE**: 01/31（土） 12:04
 <br>
 [【炸裂！愛...](https://x.com/pj_sekai/status/2017433686879437145)
+
+---
+
+**DATE**: 01/31（土） 12:04
+<br>
+[『A sw...](https://x.com/pj_sekai/status/2017433684186697874)
 
 ---
 
