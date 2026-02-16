@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/15 16:55
+### 最終更新：2026/02/16 16:19
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2017795039037165638"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/16（月） 15:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2023277294220091571"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/16（月） 15:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2023277228222828549"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 02/14（土） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2022552887520563229"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2022552887520563229)
 
 ---
 
 **DATE**: 02/14（土） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2022552636231209465"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/2022552636231209465)
+<br>
+#ボカセカ
 
 ---
 
@@ -202,13 +216,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
+[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
 
 ---
 
@@ -544,13 +558,13 @@
 
 **DATE**: 01/31（土） 12:04
 <br>
-[『A sw...](https://x.com/pj_sekai/status/2017433768810918142)
+[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
 
 ---
 
 **DATE**: 01/31（土） 12:04
 <br>
-[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
+[『A sw...](https://x.com/pj_sekai/status/2017433768810918142)
 
 ---
 
@@ -3225,13 +3239,13 @@
 
 **DATE**: 12/10（水） 12:05
 <br>
-[『Huma...](https://x.com/pj_sekai/status/1998589867580887049)
+[【思い出を...](https://x.com/pj_sekai/status/1998589869963227538)
 
 ---
 
 **DATE**: 12/10（水） 12:05
 <br>
-[【思い出を...](https://x.com/pj_sekai/status/1998589869963227538)
+[『Huma...](https://x.com/pj_sekai/status/1998589867580887049)
 
 ---
 
@@ -4304,22 +4318,6 @@
 **DATE**: 11/17（月） 12:04
 <br>
 [チアフルカ...](https://x.com/pj_sekai/status/1990254604932772200)
-
----
-
-**DATE**: 11/13（木） 18:00
-<br>
-[『抜錨』F...](https://x.com/pj_sekai/status/1988894613646533088)
-<br>
-#レオニ
-
----
-
-**DATE**: 11/13（木） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/1988804022707401164)
-<br>
-#セカイの4コマ
 
 <script>
 let nowDt = new Date();
