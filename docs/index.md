@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/19 21:47
+### 最終更新：2026/02/20 13:06
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2017795039037165638"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/20（金） 12:18
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2024685066258092059"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 02/19（木） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2024319304909619511"></a>
-</blockquote>
+[「Rabb...](https://x.com/pj_sekai/status/2024319304909619511)
 
 ---
 
@@ -354,13 +360,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
+[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
 
 ---
 
@@ -2178,13 +2184,13 @@
 
 **DATE**: 12/31（水） 12:10
 <br>
-[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
+[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
 
 ---
 
 **DATE**: 12/31（水） 12:10
 <br>
-[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
+[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
 
 ---
 
@@ -3365,13 +3371,13 @@
 
 **DATE**: 12/10（水） 12:05
 <br>
-[【スリリン...](https://x.com/pj_sekai/status/1998589895389139276)
+[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
 
 ---
 
 **DATE**: 12/10（水） 12:05
 <br>
-[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
+[【スリリン...](https://x.com/pj_sekai/status/1998589895389139276)
 
 ---
 
@@ -4412,34 +4418,6 @@
 **DATE**: 11/18（火） 12:03
 <br>
 [11月25...](https://x.com/pj_sekai/status/1990616775982264722)
-
----
-
-**DATE**: 11/17（月） 22:20
-<br>
-[先ほど投稿...](https://x.com/pj_sekai/status/1990409753646731595)
-
----
-
-**DATE**: 11/17（月） 22:11
-<br>
-[『征け』F...](https://x.com/pj_sekai/status/1990407509643870595)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 11/17（月） 22:10
-<br>
-[👑ワンダー...](https://x.com/pj_sekai/status/1990407248456327176)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 11/17（月） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1990389458756383072)
 
 <script>
 let nowDt = new Date();
