@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/22 06:13
+### 最終更新：2026/02/22 13:08
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2017795039037165638"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/22（日） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2025405182734204993"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 02/21（土） 15:16
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2025092368819773867"></a>
-</blockquote>
+[『太鼓の達...](https://x.com/pj_sekai/status/2025092368819773867)
+<br>
+#太鼓の達人
 
 ---
 
@@ -3781,25 +3789,25 @@
 
 **DATE**: 12/10（水） 12:05
 <br>
-[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
-
----
-
-**DATE**: 12/10（水） 12:05
-<br>
 [【スリリン...](https://x.com/pj_sekai/status/1998589895389139276)
 
 ---
 
 **DATE**: 12/10（水） 12:05
 <br>
-[【思い出を...](https://x.com/pj_sekai/status/1998589869963227538)
+[『Huma...](https://x.com/pj_sekai/status/1998589892708938144)
 
 ---
 
 **DATE**: 12/10（水） 12:05
 <br>
 [『Huma...](https://x.com/pj_sekai/status/1998589867580887049)
+
+---
+
+**DATE**: 12/10（水） 12:05
+<br>
+[【思い出を...](https://x.com/pj_sekai/status/1998589869963227538)
 
 ---
 
@@ -4762,18 +4770,6 @@
 **DATE**: 11/20（木） 11:40
 <br>
 [下記楽曲の...](https://x.com/pj_sekai/status/1991335745823576176)
-
----
-
-**DATE**: 11/19（水） 21:52
-<br>
-[【メンテナ...](https://x.com/pj_sekai/status/1991127480212816348)
-
----
-
-**DATE**: 11/19（水） 21:23
-<br>
-[💭プロセカ...](https://x.com/pj_sekai/status/1991120065853579682)
 
 <script>
 let nowDt = new Date();
