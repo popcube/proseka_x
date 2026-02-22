@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/22 13:08
+### 最終更新：2026/02/22 15:27
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2017795039037165638"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/22（日） 15:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2025452756354695659"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 02/21（土） 15:17
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2025092389967401378"></a>
-</blockquote>
+[『太鼓の達...](https://x.com/pj_sekai/status/2025092389967401378)
+<br>
+#太鼓の達人
 
 ---
 
@@ -1920,25 +1928,25 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
-
----
-
-**DATE**: 01/21（水） 12:04
-<br>
 [【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
+[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
 [【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
+
+---
+
+**DATE**: 01/21（水） 12:04
+<br>
+[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
 
 ---
 
@@ -2118,25 +2126,25 @@
 
 **DATE**: 01/11（日） 12:03
 <br>
-[【守るもの...](https://x.com/pj_sekai/status/2010185714911318387)
-
----
-
-**DATE**: 01/11（日） 12:03
-<br>
 [「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
 
 ---
 
 **DATE**: 01/11（日） 12:03
 <br>
-[【夕暮れの...](https://x.com/pj_sekai/status/2010185686671106460)
+[【守るもの...](https://x.com/pj_sekai/status/2010185714911318387)
 
 ---
 
 **DATE**: 01/11（日） 12:03
 <br>
 [「¿幸福な...](https://x.com/pj_sekai/status/2010185684645212291)
+
+---
+
+**DATE**: 01/11（日） 12:03
+<br>
+[【夕暮れの...](https://x.com/pj_sekai/status/2010185686671106460)
 
 ---
 
