@@ -1,7 +1,18 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/23 16:20
+### 最終更新：2026/02/24 18:34
+
+<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-0" style="display: none;">
+02/27（金） 08:00 ～ 11:30
+　<a href="https://x.com/pj_sekai/status/2026224489307238675">公式ポスト</a>
+</div>
 
 
 ---
@@ -10,6 +21,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2017795039037165638"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/24（火） 18:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2026224489307238675"></a>
 </blockquote>
 
 ---
@@ -48,9 +67,9 @@
 
 **DATE**: 02/22（日） 15:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2025452830426005831"></a>
-</blockquote>
+[『初音ミク...](https://x.com/pj_sekai/status/2025452830426005831)
+<br>
+#太鼓の達人
 
 ---
 
@@ -808,13 +827,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
+[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
 
 ---
 
@@ -1974,13 +1993,13 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
+[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
+[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
 
 ---
 
@@ -2172,13 +2191,13 @@
 
 **DATE**: 01/11（日） 12:03
 <br>
-[【守るもの...](https://x.com/pj_sekai/status/2010185714911318387)
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
 
 ---
 
 **DATE**: 01/11（日） 12:03
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
+[【守るもの...](https://x.com/pj_sekai/status/2010185714911318387)
 
 ---
 
@@ -2196,13 +2215,13 @@
 
 **DATE**: 01/11（日） 12:02
 <br>
-[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
 
 ---
 
 **DATE**: 01/11（日） 12:02
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
+[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
 
 ---
 
@@ -3550,13 +3569,13 @@
 
 **DATE**: 12/21（日） 12:01
 <br>
-[【逆境だっ...](https://x.com/pj_sekai/status/2002575046423032096)
+[「The ...](https://x.com/pj_sekai/status/2002575044376191072)
 
 ---
 
 **DATE**: 12/21（日） 12:01
 <br>
-[「The ...](https://x.com/pj_sekai/status/2002575044376191072)
+[【逆境だっ...](https://x.com/pj_sekai/status/2002575046423032096)
 
 ---
 
@@ -4667,61 +4686,17 @@
 <br>
 #セカイの4コマ
 
----
-
-**DATE**: 11/21（金） 21:00
-<br>
-[12月5日...](https://x.com/pj_sekai/status/1991839010206216502)
-<br>
-#セカラジ
-
----
-
-**DATE**: 11/21（金） 20:00
-<br>
-[📺WEBラ...](https://x.com/pj_sekai/status/1991823910073926078)
-<br>
-#セカラジ
-
----
-
-**DATE**: 11/21（金） 18:13
-<br>
-[📝アンケー...](https://x.com/pj_sekai/status/1991797218140156059)
-
----
-
-**DATE**: 11/21（金） 18:00
-<br>
-[『キャット...](https://x.com/pj_sekai/status/1991793898348486832)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 11/21（金） 12:14
-<br>
-[本日12時...](https://x.com/pj_sekai/status/1991706817421017100)
-
----
-
-**DATE**: 11/21（金） 12:11
-<br>
-[🌹プロセカ...](https://x.com/pj_sekai/status/1991705902949523677)
-
----
-
-**DATE**: 11/21（金） 11:47
-<br>
-[【v6.1...](https://x.com/pj_sekai/status/1991699929660813637)
-
----
-
-**DATE**: 11/21（金） 11:47
-<br>
-[【メンテナ...](https://x.com/pj_sekai/status/1991699921297371136)
-
 <script>
 let nowDt = new Date();
+let startDt0 = new Date(2026, 1, 27, 8, 0);
+let endDt0 = new Date(2026, 1, 27, 11, 30);
+if ((startDt0 < nowDt) && (nowDt < endDt0)){
+  document.getElementById('maint-ongoing-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
+else if (nowDt < startDt0){
+  document.getElementById('maint-planned-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
