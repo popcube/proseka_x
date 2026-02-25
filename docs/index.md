@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/02/25 23:14
+### 最終更新：2026/02/26 01:18
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -21,6 +21,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2017795039037165638"></a>
+</blockquote>
+
+---
+
+**DATE**: 02/26（木） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2026673551730762223"></a>
 </blockquote>
 
 ---
@@ -59,9 +67,9 @@
 
 **DATE**: 02/23（月） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2025814242503676207"></a>
-</blockquote>
+[『太鼓の達...](https://x.com/pj_sekai/status/2025814242503676207)
+<br>
+#太鼓の達人
 
 ---
 
@@ -2017,13 +2025,13 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
+[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
+[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
 
 ---
 
@@ -2189,10 +2197,6 @@
 
 ---
 
-**DATE**: 01/11（日） 15:00 イベント「**覚めない幻想をノックして**」 開始
-
----
-
 **DATE**: 01/11（日） 15:00
 <br>
 [#プロセカ...](https://x.com/pj_sekai/status/2010230191277138383)
@@ -2201,15 +2205,19 @@
 
 ---
 
-**DATE**: 01/11（日） 12:03
-<br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
+**DATE**: 01/11（日） 15:00 イベント「**覚めない幻想をノックして**」 開始
 
 ---
 
 **DATE**: 01/11（日） 12:03
 <br>
 [【守るもの...](https://x.com/pj_sekai/status/2010185714911318387)
+
+---
+
+**DATE**: 01/11（日） 12:03
+<br>
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
 
 ---
 
@@ -3581,13 +3589,13 @@
 
 **DATE**: 12/21（日） 12:01
 <br>
-[「The ...](https://x.com/pj_sekai/status/2002575044376191072)
+[【逆境だっ...](https://x.com/pj_sekai/status/2002575046423032096)
 
 ---
 
 **DATE**: 12/21（日） 12:01
 <br>
-[【逆境だっ...](https://x.com/pj_sekai/status/2002575046423032096)
+[「The ...](https://x.com/pj_sekai/status/2002575044376191072)
 
 ---
 
@@ -4639,24 +4647,6 @@
 **DATE**: 11/24（月） 15:01
 <br>
 [本日15時...](https://x.com/pj_sekai/status/1992836004747858101)
-
----
-
-**DATE**: 11/23（日） 15:04
-<br>
-[『怪獣にな...](https://x.com/pj_sekai/status/1992474236850749671)
-
----
-
-**DATE**: 11/23（日） 15:03
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/1992474189471859127)
-
----
-
-**DATE**: 11/23（日） 15:03
-<br>
-[本日15時...](https://x.com/pj_sekai/status/1992474105837502519)
 
 <script>
 let nowDt = new Date();
