@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/03/01 13:13
+### 最終更新：2026/03/01 14:46
 
 
 ---
@@ -9,7 +9,7 @@
 **最新のプロセカスケジュール**: 
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2017795039037165638"></a>
+<a href="https://twitter.com/pj_sekai/status/2027942236303069555"></a>
 </blockquote>
 
 ---
@@ -26,6 +26,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2027942456181055623"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/01（日） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2027942236303069555"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 02/28（土） 15:18
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2027629506400555437"></a>
-</blockquote>
+[本日15:...](https://x.com/pj_sekai/status/2027629506400555437)
 
 ---
 
@@ -2162,13 +2168,13 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
+[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
+[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
 
 ---
 
@@ -2384,13 +2390,13 @@
 
 **DATE**: 01/11（日） 12:02
 <br>
-[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
 
 ---
 
 **DATE**: 01/11（日） 12:02
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
+[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
 
 ---
 
