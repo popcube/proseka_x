@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/03/12 14:40
+### 最終更新：2026/03/13 13:03
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2027942236303069555"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/13（金） 11:48
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2032287590876139522"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 03/10（火） 18:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2031295469926887749"></a>
-</blockquote>
+[『林檎売り...](https://x.com/pj_sekai/status/2031295469926887749)
+<br>
+#レオニ
 
 ---
 
@@ -984,13 +992,13 @@
 
 **DATE**: 02/19（木） 12:03
 <br>
-[【びっくり...](https://x.com/pj_sekai/status/2024318960687292720)
+[「Rabb...](https://x.com/pj_sekai/status/2024318957537411505)
 
 ---
 
 **DATE**: 02/19（木） 12:03
 <br>
-[「Rabb...](https://x.com/pj_sekai/status/2024318957537411505)
+[【びっくり...](https://x.com/pj_sekai/status/2024318960687292720)
 
 ---
 
@@ -1246,13 +1254,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
+[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
 
 ---
 
@@ -1270,13 +1278,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
+[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
 
 ---
 
@@ -1624,13 +1632,13 @@
 
 **DATE**: 01/31（土） 12:04
 <br>
-[【炸裂！愛...](https://x.com/pj_sekai/status/2017433686879437145)
+[『A sw...](https://x.com/pj_sekai/status/2017433684186697874)
 
 ---
 
 **DATE**: 01/31（土） 12:04
 <br>
-[『A sw...](https://x.com/pj_sekai/status/2017433684186697874)
+[【炸裂！愛...](https://x.com/pj_sekai/status/2017433686879437145)
 
 ---
 
@@ -2424,13 +2432,13 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
+[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
+[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
 
 ---
 
@@ -2634,13 +2642,13 @@
 
 **DATE**: 01/11（日） 12:02
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
+[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
 
 ---
 
 **DATE**: 01/11（日） 12:02
 <br>
-[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
 
 ---
 
@@ -4330,50 +4338,6 @@
 **DATE**: 12/09（火） 15:05
 <br>
 [ソニックレ...](https://x.com/pj_sekai/status/1998272811945906683)
-
----
-
-**DATE**: 12/08（月） 22:34
-<br>
-[💭プロセカ...](https://x.com/pj_sekai/status/1998023261284888832)
-
----
-
-**DATE**: 12/08（月） 21:01
-<br>
-[『花結び』...](https://x.com/pj_sekai/status/1997999921652437078)
-<br>
-#レオニ
-
----
-
-**DATE**: 12/08（月） 21:01
-<br>
-[💭プロセカ...](https://x.com/pj_sekai/status/1997999851536277942)
-
----
-
-**DATE**: 12/08（月） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/1997999610430885914)
-
----
-
-**DATE**: 12/08（月） 21:00 イベント「**仰ぐ夜空に、星は紛れて**」 終了
-
----
-
-**DATE**: 12/08（月） 18:05
-<br>
-[12月19...](https://x.com/pj_sekai/status/1997955808206974997)
-<br>
-#セカラジ
-
----
-
-**DATE**: 12/08（月） 15:01
-<br>
-[ソニックレ...](https://x.com/pj_sekai/status/1997909460468351240)
 
 <script>
 let nowDt = new Date();
