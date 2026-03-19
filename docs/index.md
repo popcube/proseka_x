@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/03/19 16:42
+### 最終更新：2026/03/19 17:24
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2027942236303069555"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/19（木） 15:45
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2034521527396524256"></a>
 </blockquote>
 
 ---
@@ -38,19 +46,25 @@
 
 ---
 
-**DATE**: 03/19（木） 12:02
+**DATE**: 03/19（木） 15:05
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2034465387321213197"></a>
+<a href="https://twitter.com/pj_sekai/status/2034511490724823458"></a>
 </blockquote>
+
+---
+
+**DATE**: 03/19（木） 12:02
+<br>
+[「プロジェ...](https://x.com/pj_sekai/status/2034465387321213197)
+<br>
+#セカイの4コマ #桃井愛莉誕生祭2026
 
 ---
 
 **DATE**: 03/19（木） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2034283936776372709"></a>
-</blockquote>
+[☘️桃井愛...](https://x.com/pj_sekai/status/2034283936776372709)
 
 ---
 
@@ -562,13 +576,13 @@
 
 **DATE**: 02/28（土） 12:02
 <br>
-[【指さす先...](https://x.com/pj_sekai/status/2027580107012116663)
+[『Luna...](https://x.com/pj_sekai/status/2027580104499778039)
 
 ---
 
 **DATE**: 02/28（土） 12:02
 <br>
-[『Luna...](https://x.com/pj_sekai/status/2027580104499778039)
+[【指さす先...](https://x.com/pj_sekai/status/2027580107012116663)
 
 ---
 
@@ -1502,13 +1516,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
+[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
 
 ---
 
@@ -2680,13 +2694,13 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
+[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
+[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
 
 ---
 
