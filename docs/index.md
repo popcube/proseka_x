@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/03/23 16:38
+### 最終更新：2026/03/23 20:29
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2027942236303069555"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/23（月） 18:39
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2036014969951748514"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 03/20（金） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2034828104578052386"></a>
-</blockquote>
+[【お気に入...](https://x.com/pj_sekai/status/2034828104578052386)
 
 ---
 
@@ -1628,13 +1634,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
+[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
 
 ---
 
@@ -1970,13 +1976,13 @@
 
 **DATE**: 01/31（土） 12:04
 <br>
-[『A sw...](https://x.com/pj_sekai/status/2017433768810918142)
+[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
 
 ---
 
 **DATE**: 01/31（土） 12:04
 <br>
-[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
+[『A sw...](https://x.com/pj_sekai/status/2017433768810918142)
 
 ---
 
@@ -2770,13 +2776,13 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
+[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
+[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
 
 ---
 
@@ -2980,13 +2986,13 @@
 
 **DATE**: 01/11（日） 12:03
 <br>
-[【夕暮れの...](https://x.com/pj_sekai/status/2010185686671106460)
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185684645212291)
 
 ---
 
 **DATE**: 01/11（日） 12:03
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185684645212291)
+[【夕暮れの...](https://x.com/pj_sekai/status/2010185686671106460)
 
 ---
 
@@ -4346,13 +4352,13 @@
 
 **DATE**: 12/21（日） 12:01
 <br>
-[【逆境だっ...](https://x.com/pj_sekai/status/2002575046423032096)
+[「The ...](https://x.com/pj_sekai/status/2002575044376191072)
 
 ---
 
 **DATE**: 12/21（日） 12:01
 <br>
-[「The ...](https://x.com/pj_sekai/status/2002575044376191072)
+[【逆境だっ...](https://x.com/pj_sekai/status/2002575046423032096)
 
 ---
 
@@ -4476,12 +4482,6 @@
 **DATE**: 12/19（金） 12:18
 <br>
 [【メンテナ...](https://x.com/pj_sekai/status/2001854649406812425)
-
----
-
-**DATE**: 12/19（金） 11:25
-<br>
-[【メンテナ...](https://x.com/pj_sekai/status/2001841260576018506)
 
 <script>
 let nowDt = new Date();
