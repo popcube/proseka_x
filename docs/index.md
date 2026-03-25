@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/03/25 22:49
+### 最終更新：2026/03/25 23:53
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2027942236303069555"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/25（水） 21:22
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2036780637190070751"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/25（水） 21:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2036776772029800891"></a>
 </blockquote>
 
 ---
@@ -38,19 +54,27 @@
 
 ---
 
-**DATE**: 03/25（水） 20:35
+**DATE**: 03/25（水） 20:37
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2036769032796561600"></a>
-</blockquote>
+[㊗5.5周...](https://x.com/pj_sekai/status/2036769355598635168)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 03/25（水） 20:35
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2036768810439725531"></a>
-</blockquote>
+[㊗5.5周...](https://x.com/pj_sekai/status/2036769032796561600)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 03/25（水） 20:35
+<br>
+[㊗5.5周...](https://x.com/pj_sekai/status/2036768810439725531)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -78,6 +102,14 @@
 
 ---
 
+**DATE**: 03/25（水） 20:15
+<br>
+[アップデー...](https://x.com/pj_sekai/status/2036763854005563863)
+<br>
+#プロセカ放送局
+
+---
+
 **DATE**: 03/25（水） 20:14
 <br>
 [アップデー...](https://x.com/pj_sekai/status/2036763627001380901)
@@ -91,6 +123,22 @@
 [アップデー...](https://x.com/pj_sekai/status/2036763363536261465)
 <br>
 #プロセカ放送局
+
+---
+
+**DATE**: 03/25（水） 20:09
+<br>
+[プロジェク...](https://x.com/pj_sekai/status/2036762394048053697)
+<br>
+#プロセカ放送局 #プロセカあんスタコラボ
+
+---
+
+**DATE**: 03/25（水） 20:09
+<br>
+[プロジェク...](https://x.com/pj_sekai/status/2036762296438177850)
+<br>
+#プロセカ放送局 #プロセカあんスタコラボ
 
 ---
 
@@ -720,13 +768,13 @@
 
 **DATE**: 03/04（水） 12:01
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/2029029367356293271)
+[✉プロセカ...](https://x.com/pj_sekai/status/2029029369189154988)
 
 ---
 
 **DATE**: 03/04（水） 12:01
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/2029029369189154988)
+[✉プロセカ...](https://x.com/pj_sekai/status/2029029367356293271)
 
 ---
 
@@ -1782,13 +1830,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
+[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
 
 ---
 
@@ -2148,13 +2196,13 @@
 
 **DATE**: 01/31（土） 12:04
 <br>
-[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
+[『A sw...](https://x.com/pj_sekai/status/2017433768810918142)
 
 ---
 
 **DATE**: 01/31（土） 12:04
 <br>
-[『A sw...](https://x.com/pj_sekai/status/2017433768810918142)
+[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
 
 ---
 
@@ -2960,13 +3008,13 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
+[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
+[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
 
 ---
 
@@ -3630,13 +3678,13 @@
 
 **DATE**: 12/31（水） 12:10
 <br>
-[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
+[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
 
 ---
 
 **DATE**: 12/31（水） 12:10
 <br>
-[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
+[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
 
 ---
 
