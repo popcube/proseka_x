@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/03/27 19:10
+### 最終更新：2026/03/27 21:48
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -21,6 +21,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2027942236303069555"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/27（金） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2037499892264812577"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/27（金） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2037484790027538790"></a>
 </blockquote>
 
 ---
@@ -51,17 +67,17 @@
 
 **DATE**: 03/26（木） 14:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2037034609192607909"></a>
-</blockquote>
+[番組内で紹...](https://x.com/pj_sekai/status/2037034609192607909)
+<br>
+#クリフェス
 
 ---
 
 **DATE**: 03/26（木） 14:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2037034093259682115"></a>
-</blockquote>
+[🎨クリエイ...](https://x.com/pj_sekai/status/2037034093259682115)
+<br>
+#クリフェス
 
 ---
 
@@ -1391,13 +1407,13 @@
 
 **DATE**: 02/28（土） 12:02
 <br>
-[『Luna...](https://x.com/pj_sekai/status/2027580104499778039)
+[【指さす先...](https://x.com/pj_sekai/status/2027580107012116663)
 
 ---
 
 **DATE**: 02/28（土） 12:02
 <br>
-[【指さす先...](https://x.com/pj_sekai/status/2027580107012116663)
+[『Luna...](https://x.com/pj_sekai/status/2027580104499778039)
 
 ---
 
@@ -2355,13 +2371,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
+[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
 
 ---
 
@@ -2709,13 +2725,13 @@
 
 **DATE**: 01/31（土） 12:04
 <br>
-[【炸裂！愛...](https://x.com/pj_sekai/status/2017433686879437145)
+[『A sw...](https://x.com/pj_sekai/status/2017433684186697874)
 
 ---
 
 **DATE**: 01/31（土） 12:04
 <br>
-[『A sw...](https://x.com/pj_sekai/status/2017433684186697874)
+[【炸裂！愛...](https://x.com/pj_sekai/status/2017433686879437145)
 
 ---
 
@@ -3509,13 +3525,13 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
+[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
+[【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
 
 ---
 
@@ -4448,14 +4464,6 @@
 **DATE**: 12/23（火） 18:00
 <br>
 [✉プロセカ...](https://x.com/pj_sekai/status/2003390130808057929)
-
----
-
-**DATE**: 12/23（火） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2003299528485851570)
-<br>
-#セカイの4コマ
 
 <script>
 let nowDt = new Date();
