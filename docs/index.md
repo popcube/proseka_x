@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/03/28 23:18
+### 最終更新：2026/03/29 00:27
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -33,6 +33,14 @@
 
 ---
 
+**DATE**: 03/28（土） 22:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2037879331020751065"></a>
+</blockquote>
+
+---
+
 **DATE**: 03/28（土） 22:05
 <br>
 <blockquote class="twitter-tweet">
@@ -59,9 +67,9 @@
 
 **DATE**: 03/27（金） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2037499892264812577"></a>
-</blockquote>
+[4月10日...](https://x.com/pj_sekai/status/2037499892264812577)
+<br>
+#セカラジ
 
 ---
 
@@ -843,13 +851,13 @@
 
 **DATE**: 03/20（金） 12:02
 <br>
-[【服作り奮...](https://x.com/pj_sekai/status/2034827934520025380)
+[「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
 
 ---
 
 **DATE**: 03/20（金） 12:02
 <br>
-[「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
+[【服作り奮...](https://x.com/pj_sekai/status/2034827934520025380)
 
 ---
 
@@ -2111,13 +2119,13 @@
 
 **DATE**: 02/19（木） 12:03
 <br>
-[「Rabb...](https://x.com/pj_sekai/status/2024318957537411505)
+[【びっくり...](https://x.com/pj_sekai/status/2024318960687292720)
 
 ---
 
 **DATE**: 02/19（木） 12:03
 <br>
-[【びっくり...](https://x.com/pj_sekai/status/2024318960687292720)
+[「Rabb...](https://x.com/pj_sekai/status/2024318957537411505)
 
 ---
 
