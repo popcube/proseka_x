@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/03/29 00:27
+### 最終更新：2026/03/29 13:29
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -21,6 +21,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2027942236303069555"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/29（日） 12:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2038091127824515176"></a>
+</blockquote>
+
+---
+
+**DATE**: 03/29（日） 12:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2038091024086777914"></a>
 </blockquote>
 
 ---
@@ -51,17 +67,15 @@
 
 **DATE**: 03/28（土） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2037862269800058882"></a>
-</blockquote>
+[本日22時...](https://x.com/pj_sekai/status/2037862269800058882)
 
 ---
 
 **DATE**: 03/28（土） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2037726377147802080"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/2037726377147802080)
+<br>
+#クリフェス #プロセカファンミ #セカイシンフォニー
 
 ---
 
@@ -851,13 +865,13 @@
 
 **DATE**: 03/20（金） 12:02
 <br>
-[「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
+[【服作り奮...](https://x.com/pj_sekai/status/2034827934520025380)
 
 ---
 
 **DATE**: 03/20（金） 12:02
 <br>
-[【服作り奮...](https://x.com/pj_sekai/status/2034827934520025380)
+[「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
 
 ---
 
@@ -1319,13 +1333,13 @@
 
 **DATE**: 03/04（水） 12:01
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/2029029369189154988)
+[✉プロセカ...](https://x.com/pj_sekai/status/2029029367356293271)
 
 ---
 
 **DATE**: 03/04（水） 12:01
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/2029029367356293271)
+[✉プロセカ...](https://x.com/pj_sekai/status/2029029369189154988)
 
 ---
 
@@ -2381,13 +2395,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
+[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
 
 ---
 
@@ -3731,15 +3745,15 @@
 
 ---
 
-**DATE**: 01/11（日） 15:00 イベント「**覚めない幻想をノックして**」 開始
-
----
-
 **DATE**: 01/11（日） 15:00
 <br>
 [#プロセカ...](https://x.com/pj_sekai/status/2010230191277138383)
 <br>
 #プロセカZOZOコラボ
+
+---
+
+**DATE**: 01/11（日） 15:00 イベント「**覚めない幻想をノックして**」 開始
 
 ---
 
@@ -3757,25 +3771,25 @@
 
 **DATE**: 01/11（日） 12:03
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185684645212291)
+[【夕暮れの...](https://x.com/pj_sekai/status/2010185686671106460)
 
 ---
 
 **DATE**: 01/11（日） 12:03
 <br>
-[【夕暮れの...](https://x.com/pj_sekai/status/2010185686671106460)
-
----
-
-**DATE**: 01/11（日） 12:02
-<br>
-[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185684645212291)
 
 ---
 
 **DATE**: 01/11（日） 12:02
 <br>
 [「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
+
+---
+
+**DATE**: 01/11（日） 12:02
+<br>
+[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
 
 ---
 
@@ -4229,13 +4243,13 @@
 
 **DATE**: 12/31（水） 12:10
 <br>
-[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
+[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
 
 ---
 
 **DATE**: 12/31（水） 12:10
 <br>
-[【読み聞か...](https://x.com/pj_sekai/status/2006201197565518134)
+[「[202...](https://x.com/pj_sekai/status/2006201195489350075)
 
 ---
 
@@ -4454,20 +4468,6 @@
 **DATE**: 12/26（金） 20:22
 <br>
 [💫Leo/...](https://x.com/pj_sekai/status/2004513099165188140)
-
----
-
-**DATE**: 12/25（木） 00:00
-<br>
-[🌟#Mer...](https://x.com/pj_sekai/status/2003843126180581406)
-<br>
-#MerryChristmas #メリークリスマス
-
----
-
-**DATE**: 12/24（水） 18:30
-<br>
-[🎵公式Yo...](https://x.com/pj_sekai/status/2003760058275148107)
 
 <script>
 let nowDt = new Date();
