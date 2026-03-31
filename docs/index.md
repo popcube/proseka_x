@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/01 00:36
+### 最終更新：2026/04/01 01:38
 
 
 ---
@@ -14,6 +14,30 @@
 
 ---
 
+**DATE**: 04/01（水） 00:35
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2039003535287685194"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/01（水） 00:34
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2039003283633975635"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/01（水） 00:33
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2039003031841251831"></a>
+</blockquote>
+
+---
+
 **DATE**: 04/01（水） 00:32
 <br>
 <blockquote class="twitter-tweet">
@@ -22,35 +46,49 @@
 
 ---
 
-**DATE**: 04/01（水） 00:05
+**DATE**: 04/01（水） 00:31
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2038996135558484077"></a>
+<a href="https://twitter.com/pj_sekai/status/2039002528658891089"></a>
 </blockquote>
+
+---
+
+**DATE**: 04/01（水） 00:30
+<br>
+[#エイプリ...](https://x.com/pj_sekai/status/2039002280779731192)
+<br>
+#エイプリルフール
+
+---
+
+**DATE**: 04/01（水） 00:05
+<br>
+[🎵公式Yo...](https://x.com/pj_sekai/status/2038996135558484077)
+<br>
+#エイプリルフール
 
 ---
 
 **DATE**: 04/01（水） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2038994979583070662"></a>
-</blockquote>
+[🌟エイプリ...](https://x.com/pj_sekai/status/2038994979583070662)
+<br>
+#エイプリルフール
 
 ---
 
 **DATE**: 04/01（水） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2038994737676353967"></a>
-</blockquote>
+[不思議な村...](https://x.com/pj_sekai/status/2038994737676353967)
+<br>
+#エイプリルフール
 
 ---
 
 **DATE**: 03/31（火） 15:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2038860673497870347"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2038860673497870347)
 
 ---
 
