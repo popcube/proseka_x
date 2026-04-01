@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/01 13:40
+### 最終更新：2026/04/01 14:18
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2039176323873247444"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/01（水） 14:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2039206608107077939"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/01（水） 14:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2039206490880491670"></a>
 </blockquote>
 
 ---
@@ -33,24 +49,28 @@
 **DATE**: 04/01（水） 12:33
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2039184293013205288"></a>
+<a href="https://twitter.com/pj_sekai/status/2039184296439869588"></a>
 </blockquote>
 
 ---
 
 **DATE**: 04/01（水） 12:33
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2039184290165186744"></a>
-</blockquote>
+[『輝きパワ...](https://x.com/pj_sekai/status/2039184293013205288)
+
+---
+
+**DATE**: 04/01（水） 12:33
+<br>
+[#エイプリ...](https://x.com/pj_sekai/status/2039184290165186744)
+<br>
+#エイプリルフール
 
 ---
 
 **DATE**: 04/01（水） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2039177402522407107"></a>
-</blockquote>
+[☘️MOR...](https://x.com/pj_sekai/status/2039177402522407107)
 
 ---
 
@@ -242,13 +262,13 @@
 
 **DATE**: 03/30（月） 12:38
 <br>
-[「[5.5...](https://x.com/pj_sekai/status/2038460875988963626)
+[【思い描い...](https://x.com/pj_sekai/status/2038460878463676728)
 
 ---
 
 **DATE**: 03/30（月） 12:38
 <br>
-[【思い描い...](https://x.com/pj_sekai/status/2038460878463676728)
+[「[5.5...](https://x.com/pj_sekai/status/2038460875988963626)
 
 ---
 
@@ -2718,13 +2738,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
+[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
 
 ---
 
