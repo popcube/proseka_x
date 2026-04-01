@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/01 20:35
+### 最終更新：2026/04/02 05:34
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2039176323873247444"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/02（木） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2039357129644027935"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/01（水） 18:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2039267082450407867"></a>
 </blockquote>
 
 ---
@@ -38,31 +54,51 @@
 
 ---
 
+**DATE**: 04/01（水） 17:13
+<br>
+[👗一緒につ...](https://x.com/pj_sekai/status/2039254925541274005)
+<br>
+#プロセカ衣装デザイン
+
+---
+
 **DATE**: 04/01（水） 16:22
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2039241881289412768"></a>
-</blockquote>
+[『レッツゴ...](https://x.com/pj_sekai/status/2039241889162088456)
+
+---
+
+**DATE**: 04/01（水） 16:22
+<br>
+[『レッツゴ...](https://x.com/pj_sekai/status/2039241881289412768)
+
+---
+
+**DATE**: 04/01（水） 16:22
+<br>
+[#エイプリ...](https://x.com/pj_sekai/status/2039241878718267590)
+<br>
+#エイプリルフール
 
 ---
 
 **DATE**: 04/01（水） 14:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2039206608107077939"></a>
-</blockquote>
-
----
-
-**DATE**: 04/01（水） 14:01
+[#エイプリ...](https://x.com/pj_sekai/status/2039206608107077939)
 <br>
-[『犬じゃな...](https://x.com/pj_sekai/status/2039206500376379607)
+#エイプリルフール
 
 ---
 
 **DATE**: 04/01（水） 14:01
 <br>
 [『犬じゃな...](https://x.com/pj_sekai/status/2039206496773566669)
+
+---
+
+**DATE**: 04/01（水） 14:01
+<br>
+[『犬じゃな...](https://x.com/pj_sekai/status/2039206500376379607)
 
 ---
 
@@ -168,15 +204,15 @@
 
 **DATE**: 04/01（水） 10:03
 <br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
-<br>
-#エイプリルフール
+[『悪戯合戦...](https://x.com/pj_sekai/status/2039146592549454232)
 
 ---
 
 **DATE**: 04/01（水） 10:03
 <br>
-[『悪戯合戦...](https://x.com/pj_sekai/status/2039146592549454232)
+[#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
+<br>
+#エイプリルフール
 
 ---
 
@@ -314,13 +350,13 @@
 
 **DATE**: 03/30（月） 12:38
 <br>
-[「[5.5...](https://x.com/pj_sekai/status/2038460875988963626)
+[【思い描い...](https://x.com/pj_sekai/status/2038460878463676728)
 
 ---
 
 **DATE**: 03/30（月） 12:38
 <br>
-[【思い描い...](https://x.com/pj_sekai/status/2038460878463676728)
+[「[5.5...](https://x.com/pj_sekai/status/2038460875988963626)
 
 ---
 
@@ -1260,13 +1296,13 @@
 
 **DATE**: 03/20（金） 12:02
 <br>
-[「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
+[【服作り奮...](https://x.com/pj_sekai/status/2034827934520025380)
 
 ---
 
 **DATE**: 03/20（金） 12:02
 <br>
-[【服作り奮...](https://x.com/pj_sekai/status/2034827934520025380)
+[「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
 
 ---
 
@@ -1850,13 +1886,13 @@
 
 **DATE**: 02/28（土） 12:02
 <br>
-[『Luna...](https://x.com/pj_sekai/status/2027580104499778039)
+[【指さす先...](https://x.com/pj_sekai/status/2027580107012116663)
 
 ---
 
 **DATE**: 02/28（土） 12:02
 <br>
-[【指さす先...](https://x.com/pj_sekai/status/2027580107012116663)
+[『Luna...](https://x.com/pj_sekai/status/2027580104499778039)
 
 ---
 
@@ -4819,12 +4855,6 @@
 [2025年...](https://x.com/pj_sekai/status/2005473855499042980)
 <br>
 #プロセカ今年の一枚
-
----
-
-**DATE**: 12/28（日） 12:00
-<br>
-[⛩️もうす...](https://x.com/pj_sekai/status/2005111473148743834)
 
 <script>
 let nowDt = new Date();
