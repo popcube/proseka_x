@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/02 13:21
+### 最終更新：2026/04/02 15:12
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2039176323873247444"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/02（木） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2039585307130216857"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/02（木） 15:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2039584316054032433"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,13 @@
 
 **DATE**: 04/01（水） 18:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2039266873964106100"></a>
-</blockquote>
+[『初めまし...](https://x.com/pj_sekai/status/2039266873964106100)
 
 ---
 
 **DATE**: 04/01（水） 18:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2039266870776480136"></a>
-</blockquote>
+[『初めまし...](https://x.com/pj_sekai/status/2039266870776480136)
 
 ---
 
@@ -218,15 +230,15 @@
 
 **DATE**: 04/01（水） 10:03
 <br>
-[『悪戯合戦...](https://x.com/pj_sekai/status/2039146592549454232)
+[#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
+<br>
+#エイプリルフール
 
 ---
 
 **DATE**: 04/01（水） 10:03
 <br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
-<br>
-#エイプリルフール
+[『悪戯合戦...](https://x.com/pj_sekai/status/2039146592549454232)
 
 ---
 
@@ -4204,13 +4216,13 @@
 
 **DATE**: 01/11（日） 12:03
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
+[【守るもの...](https://x.com/pj_sekai/status/2010185714911318387)
 
 ---
 
 **DATE**: 01/11（日） 12:03
 <br>
-[【守るもの...](https://x.com/pj_sekai/status/2010185714911318387)
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
 
 ---
 
@@ -4228,13 +4240,13 @@
 
 **DATE**: 01/11（日） 12:02
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
+[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
 
 ---
 
 **DATE**: 01/11（日） 12:02
 <br>
-[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
 
 ---
 
