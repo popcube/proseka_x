@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/02 16:40
+### 最終更新：2026/04/02 17:37
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2039176323873247444"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/02（木） 17:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2039614695204872563"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 04/01（水） 18:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2039267082450407867"></a>
-</blockquote>
+[#エイプリ...](https://x.com/pj_sekai/status/2039267082450407867)
+<br>
+#エイプリルフール
 
 ---
 
@@ -72,6 +80,14 @@
 
 ---
 
+**DATE**: 04/01（水） 18:01
+<br>
+[#エイプリ...](https://x.com/pj_sekai/status/2039266868486447222)
+<br>
+#エイプリルフール
+
+---
+
 **DATE**: 04/01（水） 17:14
 <br>
 [🎊第34回...](https://x.com/pj_sekai/status/2039255007019831594)
@@ -80,7 +96,7 @@
 
 **DATE**: 04/01（水） 17:13
 <br>
-[👗一緒につ...](https://x.com/pj_sekai/status/2039254925541274005)
+[本NEWS...](https://x.com/pj_sekai/status/2039254927630119049)
 <br>
 #プロセカ衣装デザイン
 
@@ -88,7 +104,7 @@
 
 **DATE**: 04/01（水） 17:13
 <br>
-[本NEWS...](https://x.com/pj_sekai/status/2039254927630119049)
+[👗一緒につ...](https://x.com/pj_sekai/status/2039254925541274005)
 <br>
 #プロセカ衣装デザイン
 
@@ -158,13 +174,13 @@
 
 **DATE**: 04/01（水） 12:33
 <br>
-[『輝きパワ...](https://x.com/pj_sekai/status/2039184296439869588)
+[『輝きパワ...](https://x.com/pj_sekai/status/2039184299560509831)
 
 ---
 
 **DATE**: 04/01（水） 12:33
 <br>
-[『輝きパワ...](https://x.com/pj_sekai/status/2039184299560509831)
+[『輝きパワ...](https://x.com/pj_sekai/status/2039184296439869588)
 
 ---
 
@@ -236,15 +252,15 @@
 
 **DATE**: 04/01（水） 10:03
 <br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
-<br>
-#エイプリルフール
+[『悪戯合戦...](https://x.com/pj_sekai/status/2039146592549454232)
 
 ---
 
 **DATE**: 04/01（水） 10:03
 <br>
-[『悪戯合戦...](https://x.com/pj_sekai/status/2039146592549454232)
+[#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
+<br>
+#エイプリルフール
 
 ---
 
@@ -382,13 +398,13 @@
 
 **DATE**: 03/30（月） 12:38
 <br>
-[【思い描い...](https://x.com/pj_sekai/status/2038460878463676728)
+[「[5.5...](https://x.com/pj_sekai/status/2038460875988963626)
 
 ---
 
 **DATE**: 03/30（月） 12:38
 <br>
-[「[5.5...](https://x.com/pj_sekai/status/2038460875988963626)
+[【思い描い...](https://x.com/pj_sekai/status/2038460878463676728)
 
 ---
 
@@ -1796,13 +1812,13 @@
 
 **DATE**: 03/04（水） 12:01
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/2029029369189154988)
+[✉プロセカ...](https://x.com/pj_sekai/status/2029029367356293271)
 
 ---
 
 **DATE**: 03/04（水） 12:01
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/2029029367356293271)
+[✉プロセカ...](https://x.com/pj_sekai/status/2029029369189154988)
 
 ---
 
