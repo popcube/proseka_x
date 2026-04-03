@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/03 16:37
+### 最終更新：2026/04/03 19:08
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2039176323873247444"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/03（金） 18:51
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2040004208674676740"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 04/02（木） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2039585307130216857"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2039585307130216857)
 
 ---
 
@@ -86,13 +92,13 @@
 
 **DATE**: 04/01（水） 18:01
 <br>
-[『初めまし...](https://x.com/pj_sekai/status/2039266877135016085)
+[『初めまし...](https://x.com/pj_sekai/status/2039266873964106100)
 
 ---
 
 **DATE**: 04/01（水） 18:01
 <br>
-[『初めまし...](https://x.com/pj_sekai/status/2039266873964106100)
+[『初めまし...](https://x.com/pj_sekai/status/2039266877135016085)
 
 ---
 
@@ -170,13 +176,13 @@
 
 **DATE**: 04/01（水） 14:01
 <br>
-[『犬じゃな...](https://x.com/pj_sekai/status/2039206496773566669)
+[『犬じゃな...](https://x.com/pj_sekai/status/2039206500376379607)
 
 ---
 
 **DATE**: 04/01（水） 14:01
 <br>
-[『犬じゃな...](https://x.com/pj_sekai/status/2039206500376379607)
+[『犬じゃな...](https://x.com/pj_sekai/status/2039206496773566669)
 
 ---
 
