@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/05 15:20
+### 最終更新：2026/04/06 16:07
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2039176323873247444"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/06（月） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2041034858592698746"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/06（月） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2041034507244220778"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,13 @@
 
 **DATE**: 04/04（土） 15:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2040310351858991415"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/2040310351858991415)
 
 ---
 
 **DATE**: 04/04（土） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2040264465539883047"></a>
-</blockquote>
+[『絡繰るは...](https://x.com/pj_sekai/status/2040264465539883047)
 
 ---
 
@@ -212,13 +224,13 @@
 
 **DATE**: 04/01（水） 14:01
 <br>
-[『犬じゃな...](https://x.com/pj_sekai/status/2039206500376379607)
+[『犬じゃな...](https://x.com/pj_sekai/status/2039206496773566669)
 
 ---
 
 **DATE**: 04/01（水） 14:01
 <br>
-[『犬じゃな...](https://x.com/pj_sekai/status/2039206496773566669)
+[『犬じゃな...](https://x.com/pj_sekai/status/2039206500376379607)
 
 ---
 
@@ -1884,13 +1896,13 @@
 
 **DATE**: 03/04（水） 12:01
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/2029029369189154988)
+[✉プロセカ...](https://x.com/pj_sekai/status/2029029367356293271)
 
 ---
 
 **DATE**: 03/04（水） 12:01
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/2029029367356293271)
+[✉プロセカ...](https://x.com/pj_sekai/status/2029029369189154988)
 
 ---
 
@@ -2006,13 +2018,13 @@
 
 **DATE**: 02/28（土） 12:02
 <br>
-[『Luna...](https://x.com/pj_sekai/status/2027580104499778039)
+[【指さす先...](https://x.com/pj_sekai/status/2027580107012116663)
 
 ---
 
 **DATE**: 02/28（土） 12:02
 <br>
-[【指さす先...](https://x.com/pj_sekai/status/2027580107012116663)
+[『Luna...](https://x.com/pj_sekai/status/2027580104499778039)
 
 ---
 
@@ -2946,13 +2958,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
+[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
 
 ---
 
@@ -2970,13 +2982,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
+[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
 
 ---
 
@@ -4296,10 +4308,6 @@
 
 ---
 
-**DATE**: 01/11（日） 15:00 イベント「**覚めない幻想をノックして**」 開始
-
----
-
 **DATE**: 01/11（日） 15:00
 <br>
 [#プロセカ...](https://x.com/pj_sekai/status/2010230191277138383)
@@ -4308,15 +4316,19 @@
 
 ---
 
-**DATE**: 01/11（日） 12:03
-<br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
+**DATE**: 01/11（日） 15:00 イベント「**覚めない幻想をノックして**」 開始
 
 ---
 
 **DATE**: 01/11（日） 12:03
 <br>
 [【守るもの...](https://x.com/pj_sekai/status/2010185714911318387)
+
+---
+
+**DATE**: 01/11（日） 12:03
+<br>
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
 
 ---
 
@@ -4334,13 +4346,13 @@
 
 **DATE**: 01/11（日） 12:02
 <br>
-[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
 
 ---
 
 **DATE**: 01/11（日） 12:02
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
+[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
 
 ---
 
@@ -4567,142 +4579,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/2006923412170567708)
 <br>
 #セカイの4コマ
-
----
-
-**DATE**: 01/01（木） 19:03
-<br>
-[『新春！プ...](https://x.com/pj_sekai/status/2006667538558759020)
-<br>
-#プロセカ謎解きバトル
-
----
-
-**DATE**: 01/01（木） 18:53
-<br>
-[『新春！プ...](https://x.com/pj_sekai/status/2006665119980515527)
-<br>
-#プロセカ謎解きバトル
-
----
-
-**DATE**: 01/01（木） 18:45
-<br>
-[『新春！プ...](https://x.com/pj_sekai/status/2006663102247710808)
-<br>
-#プロセカ謎解きバトル
-
----
-
-**DATE**: 01/01（木） 18:39
-<br>
-[『新春！プ...](https://x.com/pj_sekai/status/2006661628994195886)
-<br>
-#プロセカ謎解きバトル
-
----
-
-**DATE**: 01/01（木） 18:33
-<br>
-[『新春！プ...](https://x.com/pj_sekai/status/2006659989256233435)
-<br>
-#プロセカ謎解きバトル
-
----
-
-**DATE**: 01/01（木） 18:27
-<br>
-[『新春！プ...](https://x.com/pj_sekai/status/2006658639021691297)
-<br>
-#プロセカ謎解きバトル
-
----
-
-**DATE**: 01/01（木） 18:21
-<br>
-[『新春！プ...](https://x.com/pj_sekai/status/2006656901766152229)
-<br>
-#プロセカ謎解きバトル
-
----
-
-**DATE**: 01/01（木） 18:12
-<br>
-[『新春！プ...](https://x.com/pj_sekai/status/2006654794942103612)
-<br>
-#プロセカ謎解きバトル
-
----
-
-**DATE**: 01/01（木） 18:00
-<br>
-[18時より...](https://x.com/pj_sekai/status/2006651652502335686)
-<br>
-#プロセカ謎解きバトル
-
----
-
-**DATE**: 01/01（木） 17:12
-<br>
-[👗一緒につ...](https://x.com/pj_sekai/status/2006639686861861126)
-<br>
-#プロセカ衣装デザイン
-
----
-
-**DATE**: 01/01（木） 15:06
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2006607821438149047)
-
----
-
-**DATE**: 01/01（木） 15:05
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2006607570169950685)
-<br>
-#モモジャン
-
----
-
-**DATE**: 01/01（木） 12:06
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2006562523080953888)
-<br>
-#プロセカ謎解きバトル
-
----
-
-**DATE**: 01/01（木） 12:05
-<br>
-[本日18時...](https://x.com/pj_sekai/status/2006562271749877874)
-<br>
-#プロセカ謎解きバトル
-
----
-
-**DATE**: 01/01（木） 12:03
-<br>
-[🎮第15回...](https://x.com/pj_sekai/status/2006561768668279090)
-
----
-
-**DATE**: 01/01（木） 12:02
-<br>
-[1月1日0...](https://x.com/pj_sekai/status/2006561516846272951)
-
----
-
-**DATE**: 01/01（木） 12:01
-<br>
-[1月1日0...](https://x.com/pj_sekai/status/2006561265812975884)
-
----
-
-**DATE**: 01/01（木） 12:00
-<br>
-[今月の #...](https://x.com/pj_sekai/status/2006561028084203649)
-<br>
-#プロセカスケジュール
 
 <script>
 let nowDt = new Date();
