@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/06 18:52
+### 最終更新：2026/04/07 18:18
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2039176323873247444"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/07（火） 18:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2041441510290538827"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 04/05（日） 15:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2040673403489894822"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2040673403489894822)
 
 ---
 
@@ -152,13 +158,13 @@
 
 **DATE**: 04/01（水） 18:01
 <br>
-[『初めまし...](https://x.com/pj_sekai/status/2039266873964106100)
+[『初めまし...](https://x.com/pj_sekai/status/2039266877135016085)
 
 ---
 
 **DATE**: 04/01（水） 18:01
 <br>
-[『初めまし...](https://x.com/pj_sekai/status/2039266877135016085)
+[『初めまし...](https://x.com/pj_sekai/status/2039266873964106100)
 
 ---
 
@@ -2030,13 +2036,13 @@
 
 **DATE**: 02/28（土） 12:02
 <br>
-[『Luna...](https://x.com/pj_sekai/status/2027580104499778039)
+[【指さす先...](https://x.com/pj_sekai/status/2027580107012116663)
 
 ---
 
 **DATE**: 02/28（土） 12:02
 <br>
-[【指さす先...](https://x.com/pj_sekai/status/2027580107012116663)
+[『Luna...](https://x.com/pj_sekai/status/2027580104499778039)
 
 ---
 
@@ -4136,13 +4142,13 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
+[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
+[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
 
 ---
 
@@ -4334,19 +4340,13 @@
 
 **DATE**: 01/11（日） 12:03
 <br>
-[【守るもの...](https://x.com/pj_sekai/status/2010185714911318387)
-
----
-
-**DATE**: 01/11（日） 12:03
-<br>
 [「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
 
 ---
 
 **DATE**: 01/11（日） 12:03
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185684645212291)
+[【守るもの...](https://x.com/pj_sekai/status/2010185714911318387)
 
 ---
 
@@ -4356,15 +4356,21 @@
 
 ---
 
-**DATE**: 01/11（日） 12:02
+**DATE**: 01/11（日） 12:03
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185684645212291)
 
 ---
 
 **DATE**: 01/11（日） 12:02
 <br>
 [【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
+
+---
+
+**DATE**: 01/11（日） 12:02
+<br>
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
 
 ---
 
@@ -4571,26 +4577,6 @@
 **DATE**: 01/03（土） 15:00
 <br>
 [💫日野森志...](https://x.com/pj_sekai/status/2007331087366636014)
-
----
-
-**DATE**: 01/02（金） 15:06
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2006970209182085397)
-
----
-
-**DATE**: 01/02（金） 15:05
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2006969957964460412)
-
----
-
-**DATE**: 01/02（金） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2006923412170567708)
-<br>
-#セカイの4コマ
 
 <script>
 let nowDt = new Date();
