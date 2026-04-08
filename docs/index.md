@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/08 15:49
+### 最終更新：2026/04/08 18:17
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2039176323873247444"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/08（水） 18:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2041804187244359694"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 04/07（火） 18:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2041441510290538827"></a>
-</blockquote>
+[1分でわか...](https://x.com/pj_sekai/status/2041441510290538827)
 
 ---
 
@@ -214,7 +220,7 @@
 
 **DATE**: 04/01（水） 17:13
 <br>
-[👗一緒につ...](https://x.com/pj_sekai/status/2039254925541274005)
+[本NEWS...](https://x.com/pj_sekai/status/2039254927630119049)
 <br>
 #プロセカ衣装デザイン
 
@@ -222,7 +228,7 @@
 
 **DATE**: 04/01（水） 17:13
 <br>
-[本NEWS...](https://x.com/pj_sekai/status/2039254927630119049)
+[👗一緒につ...](https://x.com/pj_sekai/status/2039254925541274005)
 <br>
 #プロセカ衣装デザイン
 
@@ -1470,13 +1476,13 @@
 
 **DATE**: 03/20（金） 12:02
 <br>
-[「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
+[【服作り奮...](https://x.com/pj_sekai/status/2034827934520025380)
 
 ---
 
 **DATE**: 03/20（金） 12:02
 <br>
-[【服作り奮...](https://x.com/pj_sekai/status/2034827934520025380)
+[「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
 
 ---
 
