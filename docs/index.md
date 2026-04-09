@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/08 18:17
+### 最終更新：2026/04/09 13:25
 
 
 ---
@@ -14,43 +14,81 @@
 
 ---
 
-**DATE**: 04/08（水） 18:03
+**DATE**: 04/09（木） 12:07
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2041804187244359694"></a>
+<a href="https://twitter.com/pj_sekai/status/2042076823245529195"></a>
 </blockquote>
+
+---
+
+**DATE**: 04/09（木） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2042076768014889092"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/09（木） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2042076673143930956"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/09（木） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2042075444414181507"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/09（木） 11:40
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2042070203828523027"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/09（木） 11:38
+<br>
+[下記楽曲の...](https://x.com/pj_sekai/status/2042069612297420805)
+
+---
+
+**DATE**: 04/08（水） 18:03
+<br>
+[1分でわか...](https://x.com/pj_sekai/status/2041804187244359694)
 
 ---
 
 **DATE**: 04/08（水） 15:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2041758933862498411"></a>
-</blockquote>
+[明日、4月...](https://x.com/pj_sekai/status/2041758933862498411)
 
 ---
 
 **DATE**: 04/07（火） 21:37
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2041495570892931076"></a>
-</blockquote>
+[👑ワンダー...](https://x.com/pj_sekai/status/2041495570892931076)
 
 ---
 
 **DATE**: 04/07（火） 21:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2041486858727923837"></a>
-</blockquote>
+[『傀儡のう...](https://x.com/pj_sekai/status/2041486858727923837)
+<br>
+#ワンダショ
 
 ---
 
 **DATE**: 04/07（火） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2041486156647256227"></a>
-</blockquote>
+[本日22時...](https://x.com/pj_sekai/status/2041486156647256227)
 
 ---
 
@@ -384,15 +422,15 @@
 
 **DATE**: 04/01（水） 10:03
 <br>
-[『悪戯合戦...](https://x.com/pj_sekai/status/2039146592549454232)
+[#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
+<br>
+#エイプリルフール
 
 ---
 
 **DATE**: 04/01（水） 10:03
 <br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
-<br>
-#エイプリルフール
+[『悪戯合戦...](https://x.com/pj_sekai/status/2039146592549454232)
 
 ---
 
@@ -530,13 +568,13 @@
 
 **DATE**: 03/30（月） 12:38
 <br>
-[【思い描い...](https://x.com/pj_sekai/status/2038460878463676728)
+[「[5.5...](https://x.com/pj_sekai/status/2038460875988963626)
 
 ---
 
 **DATE**: 03/30（月） 12:38
 <br>
-[「[5.5...](https://x.com/pj_sekai/status/2038460875988963626)
+[【思い描い...](https://x.com/pj_sekai/status/2038460878463676728)
 
 ---
 
@@ -2066,13 +2104,13 @@
 
 **DATE**: 02/28（土） 12:02
 <br>
-[【指さす先...](https://x.com/pj_sekai/status/2027580107012116663)
+[『Luna...](https://x.com/pj_sekai/status/2027580104499778039)
 
 ---
 
 **DATE**: 02/28（土） 12:02
 <br>
-[『Luna...](https://x.com/pj_sekai/status/2027580104499778039)
+[【指さす先...](https://x.com/pj_sekai/status/2027580107012116663)
 
 ---
 
@@ -3006,13 +3044,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
+[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
 
 ---
 
@@ -3372,13 +3410,13 @@
 
 **DATE**: 01/31（土） 12:04
 <br>
-[『A sw...](https://x.com/pj_sekai/status/2017433768810918142)
+[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
 
 ---
 
 **DATE**: 01/31（土） 12:04
 <br>
-[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
+[『A sw...](https://x.com/pj_sekai/status/2017433768810918142)
 
 ---
 
@@ -4172,25 +4210,25 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
-
----
-
-**DATE**: 01/21（水） 12:04
-<br>
 [【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
+[「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
 [【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
+
+---
+
+**DATE**: 01/21（水） 12:04
+<br>
+[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
 
 ---
 
@@ -4356,6 +4394,10 @@
 
 ---
 
+**DATE**: 01/11（日） 15:00 イベント「**覚めない幻想をノックして**」 開始
+
+---
+
 **DATE**: 01/11（日） 15:00
 <br>
 [#プロセカ...](https://x.com/pj_sekai/status/2010230191277138383)
@@ -4364,19 +4406,15 @@
 
 ---
 
-**DATE**: 01/11（日） 15:00 イベント「**覚めない幻想をノックして**」 開始
+**DATE**: 01/11（日） 12:03
+<br>
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
 
 ---
 
 **DATE**: 01/11（日） 12:03
 <br>
 [【守るもの...](https://x.com/pj_sekai/status/2010185714911318387)
-
----
-
-**DATE**: 01/11（日） 12:03
-<br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185712696734178)
 
 ---
 
@@ -4394,13 +4432,13 @@
 
 **DATE**: 01/11（日） 12:02
 <br>
-[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
 
 ---
 
 **DATE**: 01/11（日） 12:02
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185638407221255)
+[【ざわめく...](https://x.com/pj_sekai/status/2010185640491757776)
 
 ---
 
@@ -4557,30 +4595,6 @@
 [本日15時...](https://x.com/pj_sekai/status/2008056844074561851)
 <br>
 #レオニ
-
----
-
-**DATE**: 01/05（月） 00:06
-<br>
-[💫日野森志...](https://x.com/pj_sekai/status/2007830930879328648)
-
----
-
-**DATE**: 01/04（日） 15:06
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2007694984892559720)
-
----
-
-**DATE**: 01/04（日） 15:05
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2007694733477589352)
-
----
-
-**DATE**: 01/04（日） 12:01
-<br>
-[『まほろば...](https://x.com/pj_sekai/status/2007648575740915861)
 
 <script>
 let nowDt = new Date();
