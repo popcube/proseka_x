@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/09 17:15
+### 最終更新：2026/04/09 18:41
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2039176323873247444"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/09（木） 18:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2042167470728101890"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 04/09（木） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2042076768014889092"></a>
-</blockquote>
+[「Proo...](https://x.com/pj_sekai/status/2042076768014889092)
 
 ---
 
@@ -264,13 +270,13 @@
 
 **DATE**: 04/01（水） 18:01
 <br>
-[『初めまし...](https://x.com/pj_sekai/status/2039266877135016085)
+[『初めまし...](https://x.com/pj_sekai/status/2039266873964106100)
 
 ---
 
 **DATE**: 04/01（水） 18:01
 <br>
-[『初めまし...](https://x.com/pj_sekai/status/2039266873964106100)
+[『初めまし...](https://x.com/pj_sekai/status/2039266877135016085)
 
 ---
 
@@ -348,13 +354,13 @@
 
 **DATE**: 04/01（水） 14:01
 <br>
-[『犬じゃな...](https://x.com/pj_sekai/status/2039206496773566669)
+[『犬じゃな...](https://x.com/pj_sekai/status/2039206500376379607)
 
 ---
 
 **DATE**: 04/01（水） 14:01
 <br>
-[『犬じゃな...](https://x.com/pj_sekai/status/2039206500376379607)
+[『犬じゃな...](https://x.com/pj_sekai/status/2039206496773566669)
 
 ---
 
@@ -1552,13 +1558,13 @@
 
 **DATE**: 03/20（金） 12:02
 <br>
-[「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
+[【服作り奮...](https://x.com/pj_sekai/status/2034827934520025380)
 
 ---
 
 **DATE**: 03/20（金） 12:02
 <br>
-[【服作り奮...](https://x.com/pj_sekai/status/2034827934520025380)
+[「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
 
 ---
 
@@ -3460,13 +3466,13 @@
 
 **DATE**: 01/31（土） 12:04
 <br>
-[【炸裂！愛...](https://x.com/pj_sekai/status/2017433686879437145)
+[『A sw...](https://x.com/pj_sekai/status/2017433684186697874)
 
 ---
 
 **DATE**: 01/31（土） 12:04
 <br>
-[『A sw...](https://x.com/pj_sekai/status/2017433684186697874)
+[【炸裂！愛...](https://x.com/pj_sekai/status/2017433686879437145)
 
 ---
 
