@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/12 13:39
+### 最終更新：2026/04/13 13:51
 
 
 ---
@@ -14,43 +14,91 @@
 
 ---
 
-**DATE**: 04/12（日） 12:09
+**DATE**: 04/13（月） 12:18
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2043164696342327463"></a>
+<a href="https://twitter.com/pj_sekai/status/2043529236351484077"></a>
 </blockquote>
+
+---
+
+**DATE**: 04/13（月） 12:18
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2043529174112186452"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/13（月） 12:18
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2043529125252751608"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/13（月） 12:17
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2043529061868445713"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/13（月） 12:17
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2043528983833432366"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/13（月） 12:17
+<br>
+[本日12時...](https://x.com/pj_sekai/status/2043528929580069375)
+
+---
+
+**DATE**: 04/13（月） 12:16
+<br>
+[#プロセカ...](https://x.com/pj_sekai/status/2043528791008694459)
+<br>
+#プロセカあんスタコラボ
 
 ---
 
 **DATE**: 04/12（日） 12:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2043164506445205684"></a>
-</blockquote>
+[本日12時...](https://x.com/pj_sekai/status/2043164696342327463)
+
+---
+
+**DATE**: 04/12（日） 12:09
+<br>
+[本日12時...](https://x.com/pj_sekai/status/2043164506445205684)
 
 ---
 
 **DATE**: 04/12（日） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2043162196826558612"></a>
-</blockquote>
+[明日12時...](https://x.com/pj_sekai/status/2043162196826558612)
+<br>
+#プロセカあんスタコラボ
 
 ---
 
 **DATE**: 04/11（土） 12:17
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2042804083023843586"></a>
-</blockquote>
+[ワールドリ...](https://x.com/pj_sekai/status/2042804083023843586)
 
 ---
 
 **DATE**: 04/11（土） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2042799809355239772"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/2042799809355239772)
+<br>
+#セカイの4コマ
 
 ---
 
@@ -366,7 +414,7 @@
 
 **DATE**: 04/01（水） 17:13
 <br>
-[本NEWS...](https://x.com/pj_sekai/status/2039254927630119049)
+[👗一緒につ...](https://x.com/pj_sekai/status/2039254925541274005)
 <br>
 #プロセカ衣装デザイン
 
@@ -374,7 +422,7 @@
 
 **DATE**: 04/01（水） 17:13
 <br>
-[👗一緒につ...](https://x.com/pj_sekai/status/2039254925541274005)
+[本NEWS...](https://x.com/pj_sekai/status/2039254927630119049)
 <br>
 #プロセカ衣装デザイン
 
@@ -418,13 +466,13 @@
 
 **DATE**: 04/01（水） 14:01
 <br>
-[『犬じゃな...](https://x.com/pj_sekai/status/2039206496773566669)
+[『犬じゃな...](https://x.com/pj_sekai/status/2039206500376379607)
 
 ---
 
 **DATE**: 04/01（水） 14:01
 <br>
-[『犬じゃな...](https://x.com/pj_sekai/status/2039206500376379607)
+[『犬じゃな...](https://x.com/pj_sekai/status/2039206496773566669)
 
 ---
 
@@ -1622,13 +1670,13 @@
 
 **DATE**: 03/20（金） 12:02
 <br>
-[「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
+[【服作り奮...](https://x.com/pj_sekai/status/2034827934520025380)
 
 ---
 
 **DATE**: 03/20（金） 12:02
 <br>
-[【服作り奮...](https://x.com/pj_sekai/status/2034827934520025380)
+[「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
 
 ---
 
@@ -2090,13 +2138,13 @@
 
 **DATE**: 03/04（水） 12:01
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/2029029369189154988)
+[✉プロセカ...](https://x.com/pj_sekai/status/2029029367356293271)
 
 ---
 
 **DATE**: 03/04（水） 12:01
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/2029029367356293271)
+[✉プロセカ...](https://x.com/pj_sekai/status/2029029369189154988)
 
 ---
 
@@ -3152,13 +3200,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
+[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
 
 ---
 
@@ -3176,13 +3224,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
+[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
 
 ---
 
@@ -3518,13 +3566,13 @@
 
 **DATE**: 01/31（土） 12:04
 <br>
-[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
+[『A sw...](https://x.com/pj_sekai/status/2017433768810918142)
 
 ---
 
 **DATE**: 01/31（土） 12:04
 <br>
-[『A sw...](https://x.com/pj_sekai/status/2017433768810918142)
+[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
 
 ---
 
@@ -4502,15 +4550,15 @@
 
 ---
 
+**DATE**: 01/11（日） 15:00 イベント「**覚めない幻想をノックして**」 開始
+
+---
+
 **DATE**: 01/11（日） 15:00
 <br>
 [#プロセカ...](https://x.com/pj_sekai/status/2010230191277138383)
 <br>
 #プロセカZOZOコラボ
-
----
-
-**DATE**: 01/11（日） 15:00 イベント「**覚めない幻想をノックして**」 開始
 
 ---
 
@@ -4528,13 +4576,13 @@
 
 **DATE**: 01/11（日） 12:03
 <br>
-[「¿幸福な...](https://x.com/pj_sekai/status/2010185684645212291)
+[【夕暮れの...](https://x.com/pj_sekai/status/2010185686671106460)
 
 ---
 
 **DATE**: 01/11（日） 12:03
 <br>
-[【夕暮れの...](https://x.com/pj_sekai/status/2010185686671106460)
+[「¿幸福な...](https://x.com/pj_sekai/status/2010185684645212291)
 
 ---
 
@@ -4617,34 +4665,6 @@
 **DATE**: 01/09（金） 11:47
 <br>
 [下記楽曲の...](https://x.com/pj_sekai/status/2009456873213448522)
-
----
-
-**DATE**: 01/08（木） 15:02
-<br>
-[【v6.2...](https://x.com/pj_sekai/status/2009143626623021297)
-
----
-
-**DATE**: 01/08（木） 15:01
-<br>
-[1月9日（...](https://x.com/pj_sekai/status/2009143523069882846)
-
----
-
-**DATE**: 01/08（木） 12:01
-<br>
-[1月9日（...](https://x.com/pj_sekai/status/2009098074392809927)
-<br>
-#セカラジ
-
----
-
-**DATE**: 01/08（木） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2009097742530789842)
-<br>
-#セカイの4コマ #日野森志歩誕生祭2026
 
 <script>
 let nowDt = new Date();
