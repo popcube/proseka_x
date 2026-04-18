@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/18 13:24
+### 最終更新：2026/04/18 14:02
 
 
 ---
@@ -38,6 +38,14 @@
 
 ---
 
+**DATE**: 04/18（土） 12:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2045338437050651013"></a>
+</blockquote>
+
+---
+
 **DATE**: 04/18（土） 12:06
 <br>
 <blockquote class="twitter-tweet">
@@ -46,11 +54,15 @@
 
 ---
 
+**DATE**: 04/18（土） 12:04
+<br>
+[【力になれ...](https://x.com/pj_sekai/status/2045337763072127196)
+
+---
+
 **DATE**: 04/17（金） 21:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2045111299907186785"></a>
-</blockquote>
+[💿Vivi...](https://x.com/pj_sekai/status/2045111299907186785)
 
 ---
 
@@ -696,13 +708,13 @@
 
 **DATE**: 04/01（水） 12:33
 <br>
-[『輝きパワ...](https://x.com/pj_sekai/status/2039184299560509831)
+[『輝きパワ...](https://x.com/pj_sekai/status/2039184296439869588)
 
 ---
 
 **DATE**: 04/01（水） 12:33
 <br>
-[『輝きパワ...](https://x.com/pj_sekai/status/2039184296439869588)
+[『輝きパワ...](https://x.com/pj_sekai/status/2039184299560509831)
 
 ---
 
@@ -920,13 +932,13 @@
 
 **DATE**: 03/30（月） 12:38
 <br>
-[【思い描い...](https://x.com/pj_sekai/status/2038460878463676728)
+[「[5.5...](https://x.com/pj_sekai/status/2038460875988963626)
 
 ---
 
 **DATE**: 03/30（月） 12:38
 <br>
-[「[5.5...](https://x.com/pj_sekai/status/2038460875988963626)
+[【思い描い...](https://x.com/pj_sekai/status/2038460878463676728)
 
 ---
 
