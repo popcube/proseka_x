@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/20 13:51
+### 最終更新：2026/04/20 16:30
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2039176323873247444"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/20（月） 15:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2046109080142655978"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/20（月） 15:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2046108538028896536"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,13 @@
 
 **DATE**: 04/18（土） 20:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2045460123519467521"></a>
-</blockquote>
+[本日20:...](https://x.com/pj_sekai/status/2045460123519467521)
 
 ---
 
 **DATE**: 04/18（土） 12:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2045339298128699615"></a>
-</blockquote>
+[【気合いは...](https://x.com/pj_sekai/status/2045339298128699615)
 
 ---
 
@@ -638,13 +650,13 @@
 
 **DATE**: 04/01（水） 18:01
 <br>
-[『初めまし...](https://x.com/pj_sekai/status/2039266873964106100)
+[『初めまし...](https://x.com/pj_sekai/status/2039266877135016085)
 
 ---
 
 **DATE**: 04/01（水） 18:01
 <br>
-[『初めまし...](https://x.com/pj_sekai/status/2039266877135016085)
+[『初めまし...](https://x.com/pj_sekai/status/2039266873964106100)
 
 ---
 
@@ -834,15 +846,15 @@
 
 **DATE**: 04/01（水） 10:03
 <br>
-[『悪戯合戦...](https://x.com/pj_sekai/status/2039146592549454232)
+[#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
+<br>
+#エイプリルフール
 
 ---
 
 **DATE**: 04/01（水） 10:03
 <br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
-<br>
-#エイプリルフール
+[『悪戯合戦...](https://x.com/pj_sekai/status/2039146592549454232)
 
 ---
 
@@ -980,13 +992,13 @@
 
 **DATE**: 03/30（月） 12:38
 <br>
-[【思い描い...](https://x.com/pj_sekai/status/2038460878463676728)
+[「[5.5...](https://x.com/pj_sekai/status/2038460875988963626)
 
 ---
 
 **DATE**: 03/30（月） 12:38
 <br>
-[「[5.5...](https://x.com/pj_sekai/status/2038460875988963626)
+[【思い描い...](https://x.com/pj_sekai/status/2038460878463676728)
 
 ---
 
@@ -1926,13 +1938,13 @@
 
 **DATE**: 03/20（金） 12:02
 <br>
-[「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
+[【服作り奮...](https://x.com/pj_sekai/status/2034827934520025380)
 
 ---
 
 **DATE**: 03/20（金） 12:02
 <br>
-[【服作り奮...](https://x.com/pj_sekai/status/2034827934520025380)
+[「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
 
 ---
 
