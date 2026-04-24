@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/23 13:44
+### 最終更新：2026/04/24 16:17
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2039176323873247444"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/24（金） 15:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2047558041290396073"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/24（金） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2047557814483300655"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 04/20（月） 15:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2046109080142655978"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2046109080142655978)
 
 ---
 
 **DATE**: 04/20（月） 15:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2046108538028896536"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/2046108538028896536)
+<br>
+#ニーゴ
 
 ---
 
@@ -700,7 +714,7 @@
 
 **DATE**: 04/01（水） 17:13
 <br>
-[👗一緒につ...](https://x.com/pj_sekai/status/2039254925541274005)
+[本NEWS...](https://x.com/pj_sekai/status/2039254927630119049)
 <br>
 #プロセカ衣装デザイン
 
@@ -708,7 +722,7 @@
 
 **DATE**: 04/01（水） 17:13
 <br>
-[本NEWS...](https://x.com/pj_sekai/status/2039254927630119049)
+[👗一緒につ...](https://x.com/pj_sekai/status/2039254925541274005)
 <br>
 #プロセカ衣装デザイン
 
@@ -3224,13 +3238,13 @@
 
 **DATE**: 02/19（木） 12:03
 <br>
-[【びっくり...](https://x.com/pj_sekai/status/2024318960687292720)
+[「Rabb...](https://x.com/pj_sekai/status/2024318957537411505)
 
 ---
 
 **DATE**: 02/19（木） 12:03
 <br>
-[「Rabb...](https://x.com/pj_sekai/status/2024318957537411505)
+[【びっくり...](https://x.com/pj_sekai/status/2024318960687292720)
 
 ---
 
@@ -3486,13 +3500,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
+[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
 
 ---
 
@@ -3510,13 +3524,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
+[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
 
 ---
 
@@ -4652,25 +4666,25 @@
 
 **DATE**: 01/21（水） 12:04
 <br>
-[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
-
----
-
-**DATE**: 01/21（水） 12:04
-<br>
 [「Gath...](https://x.com/pj_sekai/status/2013809969834148092)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
-[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
+[【写真立て...](https://x.com/pj_sekai/status/2013809971977429267)
 
 ---
 
 **DATE**: 01/21（水） 12:04
 <br>
 [【燃え上が...](https://x.com/pj_sekai/status/2013809951727321295)
+
+---
+
+**DATE**: 01/21（水） 12:04
+<br>
+[「Gath...](https://x.com/pj_sekai/status/2013809949386879470)
 
 ---
 
@@ -4689,44 +4703,6 @@
 **DATE**: 01/20（火） 15:00
 <br>
 [明日、1月...](https://x.com/pj_sekai/status/2013491806437310550)
-
----
-
-**DATE**: 01/19（月） 22:13
-<br>
-[『幸福刑』...](https://x.com/pj_sekai/status/2013238268767179259)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 01/19（月） 22:09
-<br>
-[🎧25時、...](https://x.com/pj_sekai/status/2013237490241634674)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 01/19（月） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/2013219901436252163)
-
----
-
-**DATE**: 01/19（月） 21:00 イベント「**覚めない幻想をノックして**」 終了
-
----
-
-**DATE**: 01/19（月） 12:02
-<br>
-[📺番組冒頭...](https://x.com/pj_sekai/status/2013084530048225350)
-
----
-
-**DATE**: 01/19（月） 12:01
-<br>
-[1月26日...](https://x.com/pj_sekai/status/2013084464822288646)
 
 <script>
 let nowDt = new Date();
