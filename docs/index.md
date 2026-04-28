@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/28 19:24
+### 最終更新：2026/04/28 21:09
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -25,6 +25,22 @@
 
 ---
 
+**DATE**: 04/28（火） 20:26
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2049087766273913240"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/28（火） 20:22
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2049086802053701997"></a>
+</blockquote>
+
+---
+
 **DATE**: 04/28（火） 18:12
 <br>
 <blockquote class="twitter-tweet">
@@ -41,27 +57,67 @@
 
 ---
 
-**DATE**: 04/27（月） 21:16
+**DATE**: 04/27（月） 21:42
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2048737985592697107"></a>
+<a href="https://twitter.com/pj_sekai/status/2048744521190846696"></a>
 </blockquote>
+
+---
+
+**DATE**: 04/27（月） 21:23
+<br>
+[【#プロセ...](https://x.com/pj_sekai/status/2048739703097348297)
+<br>
+#プロセカ放送局 #プロセカ放送局
+
+---
+
+**DATE**: 04/27（月） 21:17
+<br>
+[🚌プロセカ...](https://x.com/pj_sekai/status/2048738187661697292)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 04/27（月） 21:16
+<br>
+[🚌プロセカ...](https://x.com/pj_sekai/status/2048738087254257788)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 04/27（月） 21:16
+<br>
+[🚌プロセカ...](https://x.com/pj_sekai/status/2048737985592697107)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 04/27（月） 21:15
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2048737812556697624"></a>
-</blockquote>
+[🚌プロセカ...](https://x.com/pj_sekai/status/2048737812556697624)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 04/27（月） 21:14
+<br>
+[🚌プロセカ...](https://x.com/pj_sekai/status/2048737500219441588)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 04/27（月） 21:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2048734273071694242"></a>
-</blockquote>
+[🌳ワールド...](https://x.com/pj_sekai/status/2048734273071694242)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -1135,15 +1191,15 @@
 
 **DATE**: 04/01（水） 10:03
 <br>
-[『悪戯合戦...](https://x.com/pj_sekai/status/2039146592549454232)
+[#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
+<br>
+#エイプリルフール
 
 ---
 
 **DATE**: 04/01（水） 10:03
 <br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
-<br>
-#エイプリルフール
+[『悪戯合戦...](https://x.com/pj_sekai/status/2039146592549454232)
 
 ---
 
@@ -3757,13 +3813,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
+[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
 
 ---
 
@@ -4123,13 +4179,13 @@
 
 **DATE**: 01/31（土） 12:04
 <br>
-[『A sw...](https://x.com/pj_sekai/status/2017433768810918142)
+[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
 
 ---
 
 **DATE**: 01/31（土） 12:04
 <br>
-[【憂鬱な冒...](https://x.com/pj_sekai/status/2017433771533078543)
+[『A sw...](https://x.com/pj_sekai/status/2017433768810918142)
 
 ---
 
@@ -4818,14 +4874,6 @@
 **DATE**: 01/25（日） 15:00
 <br>
 [🎤巡音ルカ...](https://x.com/pj_sekai/status/2015303623421370860)
-
----
-
-**DATE**: 01/24（土） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2014895946098999679)
-<br>
-#セカイの4コマ
 
 <script>
 let nowDt = new Date();
