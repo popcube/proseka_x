@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/04/30 17:09
+### 最終更新：2026/04/30 19:19
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2039176323873247444"></a>
+</blockquote>
+
+---
+
+**DATE**: 04/30（木） 18:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2049775775373742580"></a>
 </blockquote>
 
 ---
@@ -41,16 +49,20 @@
 **DATE**: 04/30（木） 12:20
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2049690301560967544"></a>
+<a href="https://twitter.com/pj_sekai/status/2049690303741993009"></a>
 </blockquote>
+
+---
+
+**DATE**: 04/30（木） 12:20
+<br>
+[「Cher...](https://x.com/pj_sekai/status/2049690301560967544)
 
 ---
 
 **DATE**: 04/30（木） 12:19
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2049690026188103957"></a>
-</blockquote>
+[【まさかの...](https://x.com/pj_sekai/status/2049690026188103957)
 
 ---
 
@@ -1440,13 +1452,13 @@
 
 **DATE**: 04/01（水） 12:33
 <br>
-[『輝きパワ...](https://x.com/pj_sekai/status/2039184296439869588)
+[『輝きパワ...](https://x.com/pj_sekai/status/2039184299560509831)
 
 ---
 
 **DATE**: 04/01（水） 12:33
 <br>
-[『輝きパワ...](https://x.com/pj_sekai/status/2039184299560509831)
+[『輝きパワ...](https://x.com/pj_sekai/status/2039184296439869588)
 
 ---
 
@@ -1518,15 +1530,15 @@
 
 **DATE**: 04/01（水） 10:03
 <br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
-<br>
-#エイプリルフール
+[『悪戯合戦...](https://x.com/pj_sekai/status/2039146592549454232)
 
 ---
 
 **DATE**: 04/01（水） 10:03
 <br>
-[『悪戯合戦...](https://x.com/pj_sekai/status/2039146592549454232)
+[#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
+<br>
+#エイプリルフール
 
 ---
 
