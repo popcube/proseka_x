@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/02 20:30
+### 最終更新：2026/05/02 22:46
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/02（土） 21:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2050553534647804119"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 05/02（土） 15:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2050458074931208301"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/2050458074931208301)
+<br>
+#ワンダショ
 
 ---
 
@@ -1480,13 +1488,13 @@
 
 **DATE**: 04/01（水） 18:01
 <br>
-[『初めまし...](https://x.com/pj_sekai/status/2039266877135016085)
+[『初めまし...](https://x.com/pj_sekai/status/2039266873964106100)
 
 ---
 
 **DATE**: 04/01（水） 18:01
 <br>
-[『初めまし...](https://x.com/pj_sekai/status/2039266873964106100)
+[『初めまし...](https://x.com/pj_sekai/status/2039266877135016085)
 
 ---
 
@@ -1564,13 +1572,13 @@
 
 **DATE**: 04/01（水） 14:01
 <br>
-[『犬じゃな...](https://x.com/pj_sekai/status/2039206496773566669)
+[『犬じゃな...](https://x.com/pj_sekai/status/2039206500376379607)
 
 ---
 
 **DATE**: 04/01（水） 14:01
 <br>
-[『犬じゃな...](https://x.com/pj_sekai/status/2039206500376379607)
+[『犬じゃな...](https://x.com/pj_sekai/status/2039206496773566669)
 
 ---
 
@@ -3236,13 +3244,13 @@
 
 **DATE**: 03/04（水） 12:01
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/2029029369189154988)
+[✉プロセカ...](https://x.com/pj_sekai/status/2029029367356293271)
 
 ---
 
 **DATE**: 03/04（水） 12:01
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/2029029367356293271)
+[✉プロセカ...](https://x.com/pj_sekai/status/2029029369189154988)
 
 ---
 
@@ -4298,13 +4306,13 @@
 
 **DATE**: 02/10（火） 12:03
 <br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
+[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
 
 ---
 
 **DATE**: 02/10（火） 12:03
 <br>
-[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
+[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
 
 ---
 
@@ -4761,18 +4769,6 @@
 [『スーパー...](https://x.com/pj_sekai/status/2016436097270919396)
 <br>
 #モモジャン
-
----
-
-**DATE**: 01/28（水） 12:05
-<br>
-[【メンテナ...](https://x.com/pj_sekai/status/2016346901743075510)
-
----
-
-**DATE**: 01/28（水） 12:05
-<br>
-[【アップデ...](https://x.com/pj_sekai/status/2016346817739575308)
 
 <script>
 let nowDt = new Date();
