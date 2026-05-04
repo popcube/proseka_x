@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/02 22:46
+### 最終更新：2026/05/04 17:27
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/04（月） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2051181497877713262"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 05/02（土） 15:12
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2050458370285711854"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2050458370285711854)
 
 ---
 
@@ -1488,13 +1494,13 @@
 
 **DATE**: 04/01（水） 18:01
 <br>
-[『初めまし...](https://x.com/pj_sekai/status/2039266873964106100)
+[『初めまし...](https://x.com/pj_sekai/status/2039266877135016085)
 
 ---
 
 **DATE**: 04/01（水） 18:01
 <br>
-[『初めまし...](https://x.com/pj_sekai/status/2039266877135016085)
+[『初めまし...](https://x.com/pj_sekai/status/2039266873964106100)
 
 ---
 
@@ -3244,13 +3250,13 @@
 
 **DATE**: 03/04（水） 12:01
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/2029029367356293271)
+[✉プロセカ...](https://x.com/pj_sekai/status/2029029369189154988)
 
 ---
 
 **DATE**: 03/04（水） 12:01
 <br>
-[✉プロセカ...](https://x.com/pj_sekai/status/2029029369189154988)
+[✉プロセカ...](https://x.com/pj_sekai/status/2029029367356293271)
 
 ---
 
@@ -4723,52 +4729,6 @@
 **DATE**: 01/30（金） 11:52
 <br>
 [【メンテナ...](https://x.com/pj_sekai/status/2017068350179029301)
-
----
-
-**DATE**: 01/30（金） 00:01
-<br>
-[🎤巡音ルカ...](https://x.com/pj_sekai/status/2016889318988751310)
-<br>
-#巡音ルカ #巡音ルカ17th
-
----
-
-**DATE**: 01/30（金） 00:00
-<br>
-[㊗️本日1...](https://x.com/pj_sekai/status/2016889081611829447)
-<br>
-#巡音ルカ #巡音ルカ17th
-
----
-
-**DATE**: 01/29（木） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/2016843778934329838)
-
----
-
-**DATE**: 01/29（木） 21:00 イベント「**GO ALL OUT**」 終了
-
----
-
-**DATE**: 01/28（水） 21:00
-<br>
-[🎧25時、...](https://x.com/pj_sekai/status/2016481383712002085)
-
----
-
-**DATE**: 01/28（水） 18:05
-<br>
-[ふわふわな...](https://x.com/pj_sekai/status/2016437576518037925)
-
----
-
-**DATE**: 01/28（水） 18:00
-<br>
-[『スーパー...](https://x.com/pj_sekai/status/2016436097270919396)
-<br>
-#モモジャン
 
 <script>
 let nowDt = new Date();
