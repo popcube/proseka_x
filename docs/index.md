@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/04 17:27
+### 最終更新：2026/05/05 01:21
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/05（火） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2051315921944195182"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 05/02（土） 17:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2050485442567675906"></a>
-</blockquote>
+[譜面メーカ...](https://x.com/pj_sekai/status/2050485442567675906)
 
 ---
 
@@ -4697,38 +4703,6 @@
 **DATE**: 01/31（土） 12:04
 <br>
 [『A sw...](https://x.com/pj_sekai/status/2017433684186697874)
-
----
-
-**DATE**: 01/30（金） 15:02
-<br>
-[明日、1月...](https://x.com/pj_sekai/status/2017116255283794267)
-
----
-
-**DATE**: 01/30（金） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2017070269127676117)
-<br>
-#セカイの4コマ #巡音ルカ #巡音ルカ17th
-
----
-
-**DATE**: 01/30（金） 11:54
-<br>
-[下記楽曲の...](https://x.com/pj_sekai/status/2017068988619169968)
-
----
-
-**DATE**: 01/30（金） 11:54
-<br>
-[【v6.3...](https://x.com/pj_sekai/status/2017068775334707383)
-
----
-
-**DATE**: 01/30（金） 11:52
-<br>
-[【メンテナ...](https://x.com/pj_sekai/status/2017068350179029301)
 
 <script>
 let nowDt = new Date();
