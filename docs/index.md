@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/06 02:47
+### 最終更新：2026/05/06 21:14
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/06（水） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2051995392066433415"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 05/02（土） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2050530840791384256"></a>
-</blockquote>
+[🎮譜面メー...](https://x.com/pj_sekai/status/2050530840791384256)
 
 ---
 
@@ -4627,34 +4633,6 @@
 **DATE**: 02/01（日） 15:05
 <br>
 [SNOW ...](https://x.com/pj_sekai/status/2017841593546416160)
-
----
-
-**DATE**: 02/01（日） 12:02
-<br>
-[2月1日0...](https://x.com/pj_sekai/status/2017795540616904819)
-
----
-
-**DATE**: 02/01（日） 12:01
-<br>
-[2月1日0...](https://x.com/pj_sekai/status/2017795289198039086)
-
----
-
-**DATE**: 02/01（日） 12:00
-<br>
-[今月の #...](https://x.com/pj_sekai/status/2017795039037165638)
-<br>
-#プロセカスケジュール
-
----
-
-**DATE**: 01/31（土） 18:00
-<br>
-[#セカライ...](https://x.com/pj_sekai/status/2017523250033831943)
-<br>
-#セカライ5th
 
 <script>
 let nowDt = new Date();
