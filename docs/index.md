@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/06 23:47
+### 最終更新：2026/05/07 14:33
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/07（木） 12:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2052224133040365769"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 05/05（火） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2051315921944195182"></a>
-</blockquote>
+[💫天馬咲希...](https://x.com/pj_sekai/status/2051315921944195182)
 
 ---
 
@@ -4611,40 +4617,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/2018157433659544052)
 <br>
 #セカイの4コマ
-
----
-
-**DATE**: 02/01（日） 17:44
-<br>
-[📜第3回マ...](https://x.com/pj_sekai/status/2017881856038060306)
-<br>
-#マイセカイ
-
----
-
-**DATE**: 02/01（日） 17:38
-<br>
-[🎊第33回...](https://x.com/pj_sekai/status/2017880342229917883)
-
----
-
-**DATE**: 02/01（日） 17:17
-<br>
-[👗一緒につ...](https://x.com/pj_sekai/status/2017874899864543247)
-<br>
-#プロセカ衣装デザイン
-
----
-
-**DATE**: 02/01（日） 15:06
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2017841845007786042)
-
----
-
-**DATE**: 02/01（日） 15:05
-<br>
-[SNOW ...](https://x.com/pj_sekai/status/2017841593546416160)
 
 <script>
 let nowDt = new Date();
