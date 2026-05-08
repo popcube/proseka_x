@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/07 19:38
+### 最終更新：2026/05/08 14:22
 
 
 ---
@@ -14,43 +14,99 @@
 
 ---
 
-**DATE**: 05/07（木） 15:01
+**DATE**: 05/08（金） 12:12
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2052267489355354398"></a>
+<a href="https://twitter.com/pj_sekai/status/2052587411247611951"></a>
 </blockquote>
+
+---
+
+**DATE**: 05/08（金） 12:12
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2052587408496197698"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/08（金） 12:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2052586839077421279"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/08（金） 12:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2052586836724519328"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/08（金） 12:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2052586519186325534"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/08（金） 12:08
+<br>
+[「風運ぶ青...](https://x.com/pj_sekai/status/2052586516673872281)
+
+---
+
+**DATE**: 05/08（金） 12:00
+<br>
+[#コネクト...](https://x.com/pj_sekai/status/2052584282556715339)
+<br>
+#コネクトライブ
+
+---
+
+**DATE**: 05/08（金） 11:37
+<br>
+[下記楽曲の...](https://x.com/pj_sekai/status/2052578510808694895)
+
+---
+
+**DATE**: 05/07（木） 15:01
+<br>
+[明日、5月...](https://x.com/pj_sekai/status/2052267489355354398)
 
 ---
 
 **DATE**: 05/07（木） 12:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2052224133040365769"></a>
-</blockquote>
+[5月8日（...](https://x.com/pj_sekai/status/2052224133040365769)
+<br>
+#セカラジ
 
 ---
 
 **DATE**: 05/06（水） 22:12
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2052013741479456846"></a>
-</blockquote>
+[『星に一番...](https://x.com/pj_sekai/status/2052013741479456846)
+<br>
+#レオニ
 
 ---
 
 **DATE**: 05/06（水） 22:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2052012692689362964"></a>
-</blockquote>
+[💫Leo/...](https://x.com/pj_sekai/status/2052012692689362964)
+<br>
+#レオニ
 
 ---
 
 **DATE**: 05/06（水） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2051995392066433415"></a>
-</blockquote>
+[本日22時...](https://x.com/pj_sekai/status/2051995392066433415)
 
 ---
 
@@ -4597,32 +4653,6 @@
 **DATE**: 02/03（火） 15:06
 <br>
 [SNOW ...](https://x.com/pj_sekai/status/2018566772883120268)
-
----
-
-**DATE**: 02/02（月） 15:08
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2018204871141527700)
-
----
-
-**DATE**: 02/02（月） 15:07
-<br>
-[SNOW ...](https://x.com/pj_sekai/status/2018204724735230180)
-
----
-
-**DATE**: 02/02（月） 12:01
-<br>
-[「人生を変...](https://x.com/pj_sekai/status/2018157803001851999)
-
----
-
-**DATE**: 02/02（月） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2018157433659544052)
-<br>
-#セカイの4コマ
 
 <script>
 let nowDt = new Date();
