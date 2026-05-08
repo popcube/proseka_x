@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/08 14:22
+### 最終更新：2026/05/08 16:03
 
 
 ---
@@ -10,6 +10,30 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/08（金） 15:18
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2052634196125036694"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/08（金） 15:18
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2052634142886797361"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/08（金） 15:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2052632189209309523"></a>
 </blockquote>
 
 ---
@@ -32,25 +56,19 @@
 
 **DATE**: 05/08（金） 12:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2052586839077421279"></a>
-</blockquote>
+[【ちゃんと...](https://x.com/pj_sekai/status/2052586839077421279)
 
 ---
 
 **DATE**: 05/08（金） 12:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2052586836724519328"></a>
-</blockquote>
+[「風運ぶ青...](https://x.com/pj_sekai/status/2052586836724519328)
 
 ---
 
 **DATE**: 05/08（金） 12:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2052586519186325534"></a>
-</blockquote>
+[【知らない...](https://x.com/pj_sekai/status/2052586519186325534)
 
 ---
 
