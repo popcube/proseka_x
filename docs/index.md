@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/09 14:24
+### 最終更新：2026/05/10 14:39
 
 
 ---
@@ -14,43 +14,81 @@
 
 ---
 
-**DATE**: 05/09（土） 12:04
+**DATE**: 05/10（日） 14:01
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2052947720219074817"></a>
+<a href="https://twitter.com/pj_sekai/status/2053339501918130664"></a>
 </blockquote>
+
+---
+
+**DATE**: 05/10（日） 13:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2053331697920544909"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/10（日） 12:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2053316597163442365"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/10（日） 12:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2053311988856746183"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/10（日） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2053310178389524990"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/09（土） 12:04
+<br>
+[#コネクト...](https://x.com/pj_sekai/status/2052947720219074817)
+<br>
+#コネクトライブ
 
 ---
 
 **DATE**: 05/09（土） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2052946660443963394"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/2052946660443963394)
+<br>
+#セカイの4コマ #天馬咲希誕生祭2026
 
 ---
 
 **DATE**: 05/09（土） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2052765717716680931"></a>
-</blockquote>
+[💫天馬咲希...](https://x.com/pj_sekai/status/2052765717716680931)
 
 ---
 
 **DATE**: 05/09（土） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2052765477932564870"></a>
-</blockquote>
+[㊗️本日5...](https://x.com/pj_sekai/status/2052765477932564870)
+<br>
+#天馬咲希誕生祭2026
 
 ---
 
 **DATE**: 05/08（金） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2052705067652784332"></a>
-</blockquote>
+[📺WEBラ...](https://x.com/pj_sekai/status/2052705067652784332)
+<br>
+#セカラジ
 
 ---
 
@@ -4673,32 +4711,6 @@
 [2月6日（...](https://x.com/pj_sekai/status/2019245605114228900)
 <br>
 #セカラジ
-
----
-
-**DATE**: 02/04（水） 18:05
-<br>
-[📝アンケー...](https://x.com/pj_sekai/status/2018974065856512053)
-
----
-
-**DATE**: 02/04（水） 15:04
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2018928506915508324)
-
----
-
-**DATE**: 02/04（水） 15:03
-<br>
-[SNOW ...](https://x.com/pj_sekai/status/2018928485771952188)
-
----
-
-**DATE**: 02/04（水） 12:03
-<br>
-[明日12時...](https://x.com/pj_sekai/status/2018883105273331767)
-<br>
-#プロセカサンリオコラボ
 
 <script>
 let nowDt = new Date();
