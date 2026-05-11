@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/10 23:07
+### 最終更新：2026/05/11 15:28
 
 
 ---
@@ -10,6 +10,30 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/11（月） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2053718055017214242"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/11（月） 15:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2053717469697888494"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/11（月） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2053671723028099348"></a>
 </blockquote>
 
 ---
@@ -32,25 +56,25 @@
 
 **DATE**: 05/10（日） 21:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2053445208281694469"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/2053445208281694469)
+<br>
+#コネクトライブ #コネクトライブ
 
 ---
 
 **DATE**: 05/10（日） 20:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2053431863377826095"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/2053431863377826095)
+<br>
+#コネクトライブ #コネクトライブ
 
 ---
 
 **DATE**: 05/10（日） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2053399842630823943"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/2053399842630823943)
+<br>
+#コネクトライブ #コネクトライブ
 
 ---
 
@@ -4693,38 +4717,6 @@
 **DATE**: 02/06（金） 15:01
 <br>
 [SNOW ...](https://x.com/pj_sekai/status/2019652633481605350)
-
----
-
-**DATE**: 02/06（金） 00:00
-<br>
-[🎧宵崎奏 ...](https://x.com/pj_sekai/status/2019425791176843693)
-
----
-
-**DATE**: 02/05（木） 18:01
-<br>
-[『オーダー...](https://x.com/pj_sekai/status/2019335670788194624)
-<br>
-#レオニ
-
----
-
-**DATE**: 02/05（木） 15:07
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2019291875451236631)
-
----
-
-**DATE**: 02/05（木） 15:06
-<br>
-[SNOW ...](https://x.com/pj_sekai/status/2019291579878617240)
-
----
-
-**DATE**: 02/05（木） 15:06
-<br>
-[🎧宵崎奏 ...](https://x.com/pj_sekai/status/2019291487377526882)
 
 <script>
 let nowDt = new Date();
