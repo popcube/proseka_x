@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/11 15:28
+### 最終更新：2026/05/12 14:57
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/12（火） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2054035025516179888"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/12（火） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2054034729629049239"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,17 @@
 
 **DATE**: 05/10（日） 22:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2053462596012105839"></a>
-</blockquote>
+[📝アンケー...](https://x.com/pj_sekai/status/2053462596012105839)
+<br>
+#コネクトライブ
 
 ---
 
 **DATE**: 05/10（日） 22:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2053462221544628583"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/2053462221544628583)
+<br>
+#コネクトライブ #コネクトライブ
 
 ---
 
@@ -4683,40 +4699,6 @@
 **DATE**: 02/07（土） 15:05
 <br>
 [SNOW ...](https://x.com/pj_sekai/status/2020015920773833105)
-
----
-
-**DATE**: 02/07（土） 00:00
-<br>
-[🎧宵崎奏 ...](https://x.com/pj_sekai/status/2019788172373160128)
-
----
-
-**DATE**: 02/06（金） 20:00
-<br>
-[📺WEBラ...](https://x.com/pj_sekai/status/2019727781345497196)
-<br>
-#セカラジ
-
----
-
-**DATE**: 02/06（金） 18:00
-<br>
-[『オーダー...](https://x.com/pj_sekai/status/2019697700896432515)
-<br>
-#レオニ
-
----
-
-**DATE**: 02/06（金） 15:01
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2019652695968346190)
-
----
-
-**DATE**: 02/06（金） 15:01
-<br>
-[SNOW ...](https://x.com/pj_sekai/status/2019652633481605350)
 
 <script>
 let nowDt = new Date();
