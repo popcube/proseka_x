@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/15 15:24
+### 最終更新：2026/05/15 22:16
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/15（金） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2055256889345380532"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 05/12（火） 15:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2054082011590221886"></a>
-</blockquote>
+[👑天馬司 ...](https://x.com/pj_sekai/status/2054082011590221886)
 
 ---
 
@@ -4627,62 +4633,6 @@
 **DATE**: 02/10（火） 15:06
 <br>
 [本日15:...](https://x.com/pj_sekai/status/2021103362780152235)
-
----
-
-**DATE**: 02/10（火） 12:03
-<br>
-[【最高の練...](https://x.com/pj_sekai/status/2021057413848428768)
-
----
-
-**DATE**: 02/10（火） 12:03
-<br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057411805741444)
-
----
-
-**DATE**: 02/10（火） 12:03
-<br>
-[【名プロデ...](https://x.com/pj_sekai/status/2021057350401130865)
-
----
-
-**DATE**: 02/10（火） 12:03
-<br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057348308173032)
-
----
-
-**DATE**: 02/10（火） 12:03
-<br>
-[【『今』の...](https://x.com/pj_sekai/status/2021057293182435709)
-
----
-
-**DATE**: 02/10（火） 12:03
-<br>
-[「瞬きのS...](https://x.com/pj_sekai/status/2021057290984698226)
-
----
-
-**DATE**: 02/10（火） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2021056527411343519)
-<br>
-#セカイの4コマ #宵崎奏誕生祭2026
-
----
-
-**DATE**: 02/10（火） 11:42
-<br>
-[「ビバハピ...](https://x.com/pj_sekai/status/2021052068849692821)
-
----
-
-**DATE**: 02/10（火） 11:42
-<br>
-[下記楽曲の...](https://x.com/pj_sekai/status/2021052020925558839)
 
 <script>
 let nowDt = new Date();
