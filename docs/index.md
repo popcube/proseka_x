@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/19 15:40
+### 最終更新：2026/05/19 22:39
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/19（火） 21:50
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2056719141944676824"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/19（火） 20:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2056692644844327422"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 05/18（月） 15:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2056255400299966729"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2056255400299966729)
 
 ---
 
 **DATE**: 05/18（月） 15:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2056255282880327927"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/2056255282880327927)
+<br>
+#モモジャン
 
 ---
 
@@ -4685,26 +4699,6 @@
 [本日15時...](https://x.com/pj_sekai/status/2022552636231209465)
 <br>
 #ボカセカ
-
----
-
-**DATE**: 02/14（土） 12:00
-<br>
-[🍫バレンタ...](https://x.com/pj_sekai/status/2022506079939366932)
-<br>
-#バレンタイン
-
----
-
-**DATE**: 02/14（土） 11:23
-<br>
-[投稿したポ...](https://x.com/pj_sekai/status/2022496918971248834)
-
----
-
-**DATE**: 02/14（土） 11:22
-<br>
-[🎤KAIT...](https://x.com/pj_sekai/status/2022496607187669499)
 
 <script>
 let nowDt = new Date();
