@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/21 22:47
+### 最終更新：2026/05/22 01:35
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/22（金） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2057476508571320508"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 05/20（水） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2056979314416164971"></a>
-</blockquote>
+[💿青柳冬弥...](https://x.com/pj_sekai/status/2056979314416164971)
 
 ---
 
@@ -4693,18 +4699,6 @@
 [㊗️本日2...](https://x.com/pj_sekai/status/2023412060487295052)
 <br>
 #KAITO #KAITO20th
-
----
-
-**DATE**: 02/16（月） 15:04
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2023277294220091571)
-
----
-
-**DATE**: 02/16（月） 15:04
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2023277228222828549)
 
 <script>
 let nowDt = new Date();
