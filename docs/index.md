@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/22 19:00
+### 最終更新：2026/05/22 21:26
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/22（金） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2057778514330316898"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 05/21（木） 20:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2057417603598197171"></a>
-</blockquote>
+[ワールドリ...](https://x.com/pj_sekai/status/2057417603598197171)
 
 ---
 
@@ -4679,30 +4685,6 @@
 **DATE**: 02/17（火） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/2023729152181010730)
-
----
-
-**DATE**: 02/17（火） 12:15
-<br>
-[『セカラジ...](https://x.com/pj_sekai/status/2023597111074316718)
-<br>
-#セカラジ
-
----
-
-**DATE**: 02/17（火） 12:15
-<br>
-[2月27日...](https://x.com/pj_sekai/status/2023597108214063421)
-<br>
-#セカラジ
-
----
-
-**DATE**: 02/17（火） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2023593255582011640)
-<br>
-#セカイの4コマ #KAITO #KAITO20th
 
 <script>
 let nowDt = new Date();
