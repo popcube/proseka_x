@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/22 01:35
+### 最終更新：2026/05/22 15:40
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/22（金） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2057704714314342652"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/22（金） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2057704647843004484"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 05/21（木） 12:23
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2057301263667306630"></a>
-</blockquote>
+[5月22日...](https://x.com/pj_sekai/status/2057301263667306630)
+<br>
+#セカラジ
 
 ---
 
 **DATE**: 05/21（木） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2057114132005126160"></a>
-</blockquote>
+[💿青柳冬弥...](https://x.com/pj_sekai/status/2057114132005126160)
 
 ---
 
@@ -4683,22 +4697,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/2023593255582011640)
 <br>
 #セカイの4コマ #KAITO #KAITO20th
-
----
-
-**DATE**: 02/17（火） 00:01
-<br>
-[🎤KAIT...](https://x.com/pj_sekai/status/2023412300883890449)
-<br>
-#KAITO #KAITO20th
-
----
-
-**DATE**: 02/17（火） 00:00
-<br>
-[㊗️本日2...](https://x.com/pj_sekai/status/2023412060487295052)
-<br>
-#KAITO #KAITO20th
 
 <script>
 let nowDt = new Date();
