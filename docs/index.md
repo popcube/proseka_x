@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/23 20:35
+### 最終更新：2026/05/25 00:56
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/25（月） 00:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2058563923851583868"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/25（月） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2058563675586453978"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 05/22（金） 18:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2057748648210129218"></a>
-</blockquote>
+[『ラグトレ...](https://x.com/pj_sekai/status/2057748648210129218)
+<br>
+#ニーゴ
 
 ---
 
 **DATE**: 05/22（金） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2057704714314342652"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2057704714314342652)
 
 ---
 
@@ -4609,74 +4623,6 @@
 **DATE**: 02/19（木） 19:00
 <br>
 [明日、2月...](https://x.com/pj_sekai/status/2024423721201533119)
-
----
-
-**DATE**: 02/19（木） 15:13
-<br>
-[👑ワンダー...](https://x.com/pj_sekai/status/2024366829209293132)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 02/19（木） 15:12
-<br>
-[本日15:...](https://x.com/pj_sekai/status/2024366532000960617)
-
----
-
-**DATE**: 02/19（木） 12:05
-<br>
-[【リンがつ...](https://x.com/pj_sekai/status/2024319308143464691)
-
----
-
-**DATE**: 02/19（木） 12:05
-<br>
-[「Rabb...](https://x.com/pj_sekai/status/2024319304909619511)
-
----
-
-**DATE**: 02/19（木） 12:04
-<br>
-[【宇宙でド...](https://x.com/pj_sekai/status/2024319071727341921)
-
----
-
-**DATE**: 02/19（木） 12:04
-<br>
-[「Rabb...](https://x.com/pj_sekai/status/2024319069185561065)
-
----
-
-**DATE**: 02/19（木） 12:03
-<br>
-[【びっくり...](https://x.com/pj_sekai/status/2024318960687292720)
-
----
-
-**DATE**: 02/19（木） 12:03
-<br>
-[「Rabb...](https://x.com/pj_sekai/status/2024318957537411505)
-
----
-
-**DATE**: 02/18（水） 15:41
-<br>
-[下記楽曲の...](https://x.com/pj_sekai/status/2024011263517618291)
-
----
-
-**DATE**: 02/18（水） 15:40
-<br>
-[マイセカイ...](https://x.com/pj_sekai/status/2024011243573703118)
-
----
-
-**DATE**: 02/18（水） 15:02
-<br>
-[明日、2月...](https://x.com/pj_sekai/status/2024001485697085823)
 
 <script>
 let nowDt = new Date();
