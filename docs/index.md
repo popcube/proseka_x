@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/25 16:03
+### 最終更新：2026/05/25 20:16
 
 
 ---
@@ -10,6 +10,38 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/25（月） 17:37
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2058829786093695130"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/25（月） 17:37
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2058829778988478579"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/25（月） 17:31
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2058828318808645951"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/25（月） 16:46
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2058817032481857921"></a>
 </blockquote>
 
 ---
@@ -24,33 +56,29 @@
 
 **DATE**: 05/25（月） 15:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2058792808815964421"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/2058792808815964421)
 
 ---
 
 **DATE**: 05/25（月） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2058744876825813038"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/2058744876825813038)
+<br>
+#セカイの4コマ #青柳冬弥誕生祭2026
 
 ---
 
 **DATE**: 05/25（月） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2058563923851583868"></a>
-</blockquote>
+[💿青柳冬弥...](https://x.com/pj_sekai/status/2058563923851583868)
 
 ---
 
 **DATE**: 05/25（月） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2058563675586453978"></a>
-</blockquote>
+[㊗️本日5...](https://x.com/pj_sekai/status/2058563675586453978)
+<br>
+#青柳冬弥誕生祭2026
 
 ---
 
