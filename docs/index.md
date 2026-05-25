@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/25 00:56
+### 最終更新：2026/05/25 16:03
 
 
 ---
@@ -10,6 +10,30 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/25（月） 15:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2058792865267105812"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/25（月） 15:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2058792808815964421"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/25（月） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2058744876825813038"></a>
 </blockquote>
 
 ---
@@ -32,25 +56,23 @@
 
 **DATE**: 05/23（土） 20:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2058142300598128894"></a>
-</blockquote>
+[ワールドリ...](https://x.com/pj_sekai/status/2058142300598128894)
 
 ---
 
 **DATE**: 05/23（土） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2058110691207426105"></a>
-</blockquote>
+[『ラグトレ...](https://x.com/pj_sekai/status/2058110691207426105)
+<br>
+#ニーゴ
 
 ---
 
 **DATE**: 05/22（金） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2057778514330316898"></a>
-</blockquote>
+[📺WEBラ...](https://x.com/pj_sekai/status/2057778514330316898)
+<br>
+#セカラジ
 
 ---
 
@@ -4617,12 +4639,6 @@
 **DATE**: 02/20（金） 12:18
 <br>
 [本日19:...](https://x.com/pj_sekai/status/2024685066258092059)
-
----
-
-**DATE**: 02/19（木） 19:00
-<br>
-[明日、2月...](https://x.com/pj_sekai/status/2024423721201533119)
 
 <script>
 let nowDt = new Date();
