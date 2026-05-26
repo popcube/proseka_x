@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/26 15:40
+### 最終更新：2026/05/26 22:38
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/26（火） 17:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059183170894057503"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/26（火） 17:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059183163990245794"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 05/25（月） 20:17
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2058869979572015253"></a>
-</blockquote>
+[ワールドリ...](https://x.com/pj_sekai/status/2058869979572015253)
 
 ---
 
 **DATE**: 05/25（月） 17:37
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2058829786093695130"></a>
-</blockquote>
+[#プロセカ...](https://x.com/pj_sekai/status/2058829786093695130)
+<br>
+#プロセカプロフィール帳交換会 #レオニ
 
 ---
 
