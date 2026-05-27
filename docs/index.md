@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/27 15:55
+### 最終更新：2026/05/27 19:55
 
 
 ---
@@ -14,43 +14,85 @@
 
 ---
 
+**DATE**: 05/27（水） 19:32
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059583433320620491"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/27（水） 19:31
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059583226998575392"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/27（水） 19:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059583097625252059"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/27（水） 18:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059560247954751508"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/27（水） 17:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059545205871907236"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/27（水） 17:00
+<br>
+[#プロセカ...](https://x.com/pj_sekai/status/2059545203980259727)
+<br>
+#プロセカプロフィール帳交換会 #ビビバス
+
+---
+
 **DATE**: 05/27（水） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059469647985131952"></a>
-</blockquote>
+[本日19:...](https://x.com/pj_sekai/status/2059469647985131952)
 
 ---
 
 **DATE**: 05/26（火） 17:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059183170894057503"></a>
-</blockquote>
+[#プロセカ...](https://x.com/pj_sekai/status/2059183170894057503)
+<br>
+#プロセカプロフィール帳交換会 #モモジャン
 
 ---
 
 **DATE**: 05/26（火） 17:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059183163990245794"></a>
-</blockquote>
+[#プロセカ...](https://x.com/pj_sekai/status/2059183163990245794)
+<br>
+#プロセカプロフィール帳交換会 #モモジャン
 
 ---
 
 **DATE**: 05/26（火） 12:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059109426557223167"></a>
-</blockquote>
+[✨セレクト...](https://x.com/pj_sekai/status/2059109426557223167)
 
 ---
 
 **DATE**: 05/26（火） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059107266389852392"></a>
-</blockquote>
+[明日、5月...](https://x.com/pj_sekai/status/2059107266389852392)
 
 ---
 
