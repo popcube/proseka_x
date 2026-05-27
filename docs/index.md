@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/27 19:55
+### 最終更新：2026/05/27 23:23
 
 
 ---
@@ -14,43 +14,121 @@
 
 ---
 
-**DATE**: 05/27（水） 19:32
+**DATE**: 05/27（水） 21:22
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059583433320620491"></a>
+<a href="https://twitter.com/pj_sekai/status/2059611146269962300"></a>
 </blockquote>
+
+---
+
+**DATE**: 05/27（水） 20:46
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059602178155905532"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/27（水） 20:38
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059600217222385733"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/27（水） 20:31
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059598314413408282"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/27（水） 20:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059598029196603611"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/27（水） 20:25
+<br>
+[プロジェク...](https://x.com/pj_sekai/status/2059596971321815437)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 05/27（水） 20:22
+<br>
+[プロジェク...](https://x.com/pj_sekai/status/2059596115306246618)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 05/27（水） 20:16
+<br>
+[🎶APPE...](https://x.com/pj_sekai/status/2059594701939126718)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 05/27（水） 20:06
+<br>
+[🎨一緒につ...](https://x.com/pj_sekai/status/2059591947057344611)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 05/27（水） 20:00
+<br>
+[『プロセカ...](https://x.com/pj_sekai/status/2059590538865860771)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 05/27（水） 19:32
+<br>
+[生放送中に...](https://x.com/pj_sekai/status/2059583433320620491)
+<br>
+#プロセカ放送局 #プロセカ放送局 #プロセカ放送局
 
 ---
 
 **DATE**: 05/27（水） 19:31
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059583226998575392"></a>
-</blockquote>
+[ボカロミュ...](https://x.com/pj_sekai/status/2059583226998575392)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 05/27（水） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059583097625252059"></a>
-</blockquote>
+[🌈プロセカ...](https://x.com/pj_sekai/status/2059583097625252059)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 05/27（水） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059560247954751508"></a>
-</blockquote>
+[このあと1...](https://x.com/pj_sekai/status/2059560247954751508)
 
 ---
 
 **DATE**: 05/27（水） 17:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059545205871907236"></a>
-</blockquote>
+[#プロセカ...](https://x.com/pj_sekai/status/2059545205871907236)
+<br>
+#プロセカプロフィール帳交換会 #ビビバス
 
 ---
 
@@ -4321,14 +4399,6 @@
 [『太鼓の達...](https://x.com/pj_sekai/status/2025452756354695659)
 <br>
 #太鼓の達人
-
----
-
-**DATE**: 02/22（日） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2025405182734204993)
-<br>
-#セカイの4コマ
 
 <script>
 let nowDt = new Date();
