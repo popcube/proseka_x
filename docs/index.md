@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/26 22:38
+### 最終更新：2026/05/27 15:55
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/27（水） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059469647985131952"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 05/25（月） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2058880762913640476"></a>
-</blockquote>
+[6月5日（...](https://x.com/pj_sekai/status/2058880762913640476)
+<br>
+#セカラジ
 
 ---
 
@@ -4279,44 +4287,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/2025405182734204993)
 <br>
 #セカイの4コマ
-
----
-
-**DATE**: 02/21（土） 21:00
-<br>
-[3月13日...](https://x.com/pj_sekai/status/2025178695787577720)
-<br>
-#セカラジ
-
----
-
-**DATE**: 02/21（土） 19:07
-<br>
-[💫Leo/...](https://x.com/pj_sekai/status/2025150355164758254)
-
----
-
-**DATE**: 02/21（土） 15:17
-<br>
-[『さいたま...](https://x.com/pj_sekai/status/2025092458699522323)
-<br>
-#太鼓の達人
-
----
-
-**DATE**: 02/21（土） 15:17
-<br>
-[『太鼓の達...](https://x.com/pj_sekai/status/2025092389967401378)
-<br>
-#太鼓の達人
-
----
-
-**DATE**: 02/21（土） 15:16
-<br>
-[『太鼓の達...](https://x.com/pj_sekai/status/2025092368819773867)
-<br>
-#太鼓の達人
 
 <script>
 let nowDt = new Date();
