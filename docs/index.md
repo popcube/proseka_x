@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/28 19:49
+### 最終更新：2026/05/29 06:11
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -258,6 +258,22 @@
 **DATE**: 05/27（水） 20:16
 <br>
 [🎶APPE...](https://x.com/pj_sekai/status/2059594701939126718)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 05/27（水） 20:16
+<br>
+[キズナラン...](https://x.com/pj_sekai/status/2059594549912387941)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 05/27（水） 20:15
+<br>
+[🏡マイセカ...](https://x.com/pj_sekai/status/2059594278754783646)
 <br>
 #プロセカ放送局
 
@@ -4570,28 +4586,6 @@
 **DATE**: 02/24（火） 18:15
 <br>
 [【メンテナ...](https://x.com/pj_sekai/status/2026224489307238675)
-
----
-
-**DATE**: 02/23（月） 15:05
-<br>
-[『幽玄ノ乱...](https://x.com/pj_sekai/status/2025814258026680598)
-<br>
-#太鼓の達人
-
----
-
-**DATE**: 02/23（月） 15:05
-<br>
-[『太鼓の達...](https://x.com/pj_sekai/status/2025814242503676207)
-<br>
-#太鼓の達人
-
----
-
-**DATE**: 02/23（月） 12:03
-<br>
-[✨セレクト...](https://x.com/pj_sekai/status/2025768346051022935)
 
 <script>
 let nowDt = new Date();
