@@ -1,7 +1,18 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/28 15:43
+### 最終更新：2026/05/28 19:49
+
+<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-0" style="display: none;">
+05/31（日） 08:30 ～ 11:30
+　<a href="https://x.com/pj_sekai/status/2059923280036036688">公式ポスト</a>
+</div>
 
 
 ---
@@ -10,6 +21,38 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/28（木） 18:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059923990274302282"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/28（木） 18:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059923280036036688"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/28（木） 17:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059907619977109538"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/28（木） 17:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2059907617418588335"></a>
 </blockquote>
 
 ---
@@ -24,33 +67,33 @@
 
 **DATE**: 05/27（水） 21:22
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059611146269962300"></a>
-</blockquote>
+[🎊プロセカ...](https://x.com/pj_sekai/status/2059611146269962300)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 05/27（水） 21:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059605834959831522"></a>
-</blockquote>
+[【#プロセ...](https://x.com/pj_sekai/status/2059605834959831522)
+<br>
+#プロセカ放送局 #プロセカ放送局
 
 ---
 
 **DATE**: 05/27（水） 20:59
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059605369916387511"></a>
-</blockquote>
+[🎊グッズ情...](https://x.com/pj_sekai/status/2059605369916387511)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 05/27（水） 20:54
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059604244089766366"></a>
-</blockquote>
+[🚌プロセカ...](https://x.com/pj_sekai/status/2059604244089766366)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -4552,5 +4595,15 @@
 
 <script>
 let nowDt = new Date();
+let startDt0 = new Date(2026, 4, 31, 8, 30);
+let endDt0 = new Date(2026, 4, 31, 11, 30);
+if ((startDt0 < nowDt) && (nowDt < endDt0)){
+  document.getElementById('maint-ongoing-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
+else if (nowDt < startDt0){
+  document.getElementById('maint-planned-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
