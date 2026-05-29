@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/29 19:39
+### 最終更新：2026/05/29 22:47
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -25,6 +25,38 @@
 
 ---
 
+**DATE**: 05/29（金） 22:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2060346387653648412"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/29（金） 20:47
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2060327233131270574"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/29（金） 20:21
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2060320504536563882"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/29（金） 20:20
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2060320390896025906"></a>
+</blockquote>
+
+---
+
 **DATE**: 05/29（金） 17:02
 <br>
 <blockquote class="twitter-tweet">
@@ -35,33 +67,29 @@
 
 **DATE**: 05/29（金） 17:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2060270580382027881"></a>
-</blockquote>
+[#プロセカ...](https://x.com/pj_sekai/status/2060270580382027881)
+<br>
+#プロセカプロフィール帳交換会 #ニーゴ
 
 ---
 
 **DATE**: 05/28（木） 18:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059923990274302282"></a>
-</blockquote>
+[わたしの分...](https://x.com/pj_sekai/status/2059923990274302282)
 
 ---
 
 **DATE**: 05/28（木） 18:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059923280036036688"></a>
-</blockquote>
+[【メンテナ...](https://x.com/pj_sekai/status/2059923280036036688)
 
 ---
 
 **DATE**: 05/28（木） 17:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059907619977109538"></a>
-</blockquote>
+[#プロセカ...](https://x.com/pj_sekai/status/2059907619977109538)
+<br>
+#プロセカプロフィール帳交換会 #ワンダショ
 
 ---
 
