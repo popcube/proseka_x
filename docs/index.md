@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/05/29 06:11
+### 最終更新：2026/05/29 19:39
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -21,6 +21,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2050067686126993414"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/29（金） 17:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2060270587612950824"></a>
+</blockquote>
+
+---
+
+**DATE**: 05/29（金） 17:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2060270580382027881"></a>
 </blockquote>
 
 ---
@@ -51,17 +67,17 @@
 
 **DATE**: 05/28（木） 17:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059907617418588335"></a>
-</blockquote>
+[#プロセカ...](https://x.com/pj_sekai/status/2059907617418588335)
+<br>
+#プロセカプロフィール帳交換会 #ワンダショ
 
 ---
 
 **DATE**: 05/28（木） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2059832030171713666"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/2059832030171713666)
+<br>
+#セカイの4コマ
 
 ---
 
