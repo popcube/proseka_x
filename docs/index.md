@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/01 17:25
+### 最終更新：2026/06/01 23:34
 
 
 ---
@@ -10,6 +10,30 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2061283888736182576"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/01（月） 17:38
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2061366779516235880"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/01（月） 17:19
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2061362067337367766"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/01（月） 17:19
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2061362065437323270"></a>
 </blockquote>
 
 ---
@@ -32,25 +56,21 @@
 
 **DATE**: 06/01（月） 15:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2061329044071956969"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/2061329044071956969)
+<br>
+#ニーゴ
 
 ---
 
 **DATE**: 06/01（月） 12:18
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2061286271679607172"></a>
-</blockquote>
+[🌲ワールド...](https://x.com/pj_sekai/status/2061286271679607172)
 
 ---
 
 **DATE**: 06/01（月） 12:15
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2061285535440945405"></a>
-</blockquote>
+[6月1日0...](https://x.com/pj_sekai/status/2061285535440945405)
 
 ---
 
@@ -4657,36 +4677,6 @@
 **DATE**: 02/27（金） 15:02
 <br>
 [明日、2月...](https://x.com/pj_sekai/status/2027263040161509749)
-
----
-
-**DATE**: 02/27（金） 12:11
-<br>
-[先ほど投稿...](https://x.com/pj_sekai/status/2027220093260931106)
-
----
-
-**DATE**: 02/27（金） 12:11
-<br>
-[【v6.3...](https://x.com/pj_sekai/status/2027220013183320264)
-
----
-
-**DATE**: 02/27（金） 11:43
-<br>
-[下記楽曲の...](https://x.com/pj_sekai/status/2027212992652411051)
-
----
-
-**DATE**: 02/27（金） 11:43
-<br>
-[【メンテナ...](https://x.com/pj_sekai/status/2027212888990261451)
-
----
-
-**DATE**: 02/27（金） 11:28
-<br>
-[【アップデ...](https://x.com/pj_sekai/status/2027209086174175530)
 
 <script>
 let nowDt = new Date();
