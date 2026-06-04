@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/02 20:47
+### 最終更新：2026/06/04 16:15
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2061283888736182576"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/04（木） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2062369685161816560"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 06/01（月） 17:19
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2061362065437323270"></a>
-</blockquote>
+[NEWS内...](https://x.com/pj_sekai/status/2061362065437323270)
+<br>
+#プロセカ衣装デザイン
 
 ---
 
@@ -4557,118 +4565,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/2028304295443956101)
 <br>
 #セカイの4コマ #小豆沢こはね誕生祭2026
-
----
-
-**DATE**: 03/02（月） 00:01
-<br>
-[💿小豆沢こ...](https://x.com/pj_sekai/status/2028123343036014860)
-
----
-
-**DATE**: 03/02（月） 00:00
-<br>
-[㊗️本日3...](https://x.com/pj_sekai/status/2028123091755503805)
-<br>
-#小豆沢こはね誕生祭2026
-
----
-
-**DATE**: 03/01（日） 17:10
-<br>
-[👗一緒につ...](https://x.com/pj_sekai/status/2028020113275031616)
-<br>
-#プロセカ衣装デザイン
-
----
-
-**DATE**: 03/01（日） 15:06
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2027988719735845355)
-
----
-
-**DATE**: 03/01（日） 15:05
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2027988704145649990)
-<br>
-#ビビバス
-
----
-
-**DATE**: 03/01（日） 12:02
-<br>
-[3月1日0...](https://x.com/pj_sekai/status/2027942466658439251)
-
----
-
-**DATE**: 03/01（日） 12:02
-<br>
-[3月1日0...](https://x.com/pj_sekai/status/2027942456181055623)
-
----
-
-**DATE**: 03/01（日） 12:01
-<br>
-[今月の #...](https://x.com/pj_sekai/status/2027942236303069555)
-<br>
-#プロセカスケジュール
-
----
-
-**DATE**: 02/28（土） 15:18
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2027629580929142807)
-
----
-
-**DATE**: 02/28（土） 15:18
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2027629529297260795)
-<br>
-#モモジャン
-
----
-
-**DATE**: 02/28（土） 15:18
-<br>
-[本日15:...](https://x.com/pj_sekai/status/2027629506400555437)
-
----
-
-**DATE**: 02/28（土） 12:02
-<br>
-[【指さす先...](https://x.com/pj_sekai/status/2027580107012116663)
-
----
-
-**DATE**: 02/28（土） 12:02
-<br>
-[『Luna...](https://x.com/pj_sekai/status/2027580104499778039)
-
----
-
-**DATE**: 02/28（土） 12:02
-<br>
-[【暗い庭と...](https://x.com/pj_sekai/status/2027580046974869640)
-
----
-
-**DATE**: 02/28（土） 12:02
-<br>
-[『Luna...](https://x.com/pj_sekai/status/2027580044412129582)
-
----
-
-**DATE**: 02/28（土） 12:01
-<br>
-[【悪夢の世...](https://x.com/pj_sekai/status/2027579977986937240)
-
----
-
-**DATE**: 02/28（土） 12:01
-<br>
-[『Luna...](https://x.com/pj_sekai/status/2027579975780716661)
 
 <script>
 let nowDt = new Date();
