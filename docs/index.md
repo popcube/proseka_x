@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/04 16:15
+### 最終更新：2026/06/05 15:58
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2061283888736182576"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/05（金） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2062777948974059979"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/05（金） 15:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2062777520353878100"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,13 @@
 
 **DATE**: 06/01（月） 17:38
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2061366779516235880"></a>
-</blockquote>
+[🎊第35回...](https://x.com/pj_sekai/status/2061366779516235880)
 
 ---
 
 **DATE**: 06/01（月） 17:19
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2061362067337367766"></a>
-</blockquote>
+[「衣装デザ...](https://x.com/pj_sekai/status/2061362067337367766)
 
 ---
 
@@ -4551,20 +4563,6 @@
 **DATE**: 03/03（火） 17:05
 <br>
 [🏡マイセカ...](https://x.com/pj_sekai/status/2028743639565025762)
-
----
-
-**DATE**: 03/02（月） 12:05
-<br>
-[3月9日2...](https://x.com/pj_sekai/status/2028305564820983949)
-
----
-
-**DATE**: 03/02（月） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2028304295443956101)
-<br>
-#セカイの4コマ #小豆沢こはね誕生祭2026
 
 <script>
 let nowDt = new Date();
