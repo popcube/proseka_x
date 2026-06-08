@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/07 15:58
+### 最終更新：2026/06/08 16:23
 
 
 ---
@@ -14,43 +14,107 @@
 
 ---
 
-**DATE**: 06/07（日） 15:04
+**DATE**: 06/08（月） 15:05
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2063502235255062806"></a>
+<a href="https://twitter.com/pj_sekai/status/2063865055389880811"></a>
 </blockquote>
+
+---
+
+**DATE**: 06/08（月） 12:16
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2063822323703263584"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/08（月） 12:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2063822254962790498"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/08（月） 12:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2063822197312065656"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/08（月） 12:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2063822126084452637"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/08（月） 12:10
+<br>
+[【想いをの...](https://x.com/pj_sekai/status/2063820970801103351)
+
+---
+
+**DATE**: 06/08（月） 12:10
+<br>
+[『Past...](https://x.com/pj_sekai/status/2063820904820539569)
+
+---
+
+**DATE**: 06/08（月） 12:10
+<br>
+[【今度はわ...](https://x.com/pj_sekai/status/2063820854354760070)
+
+---
+
+**DATE**: 06/08（月） 12:07
+<br>
+[【託した願...](https://x.com/pj_sekai/status/2063820131835531602)
+
+---
+
+**DATE**: 06/08（月） 11:38
+<br>
+[下記楽曲の...](https://x.com/pj_sekai/status/2063812951111590335)
+
+---
+
+**DATE**: 06/07（日） 15:04
+<br>
+[明日、6月...](https://x.com/pj_sekai/status/2063502235255062806)
 
 ---
 
 **DATE**: 06/06（土） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2063229416646533136"></a>
-</blockquote>
+[本日22時...](https://x.com/pj_sekai/status/2063229416646533136)
 
 ---
 
 **DATE**: 06/06（土） 17:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2063170094457614599"></a>
-</blockquote>
+[🏡マイセカ...](https://x.com/pj_sekai/status/2063170094457614599)
 
 ---
 
 **DATE**: 06/05（金） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2062867033973514441"></a>
-</blockquote>
+[6月19日...](https://x.com/pj_sekai/status/2062867033973514441)
+<br>
+#セカラジ
 
 ---
 
 **DATE**: 06/05（金） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2062851939851813097"></a>
-</blockquote>
+[📺WEBラ...](https://x.com/pj_sekai/status/2062851939851813097)
+<br>
+#セカラジ
 
 ---
 
