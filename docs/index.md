@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/12 23:14
+### 最終更新：2026/06/14 21:28
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2061283888736182576"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/14（日） 20:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2066115355735699459"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 06/12（金） 12:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2065268481432686698"></a>
-</blockquote>
+[本日12時...](https://x.com/pj_sekai/status/2065268481432686698)
 
 ---
 
@@ -4565,56 +4571,6 @@
 **DATE**: 03/13（金） 11:48
 <br>
 [下記楽曲の...](https://x.com/pj_sekai/status/2032287590876139522)
-
----
-
-**DATE**: 03/12（木） 12:03
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2031929113695674542)
-
----
-
-**DATE**: 03/12（木） 12:03
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2031929081500221739)
-
----
-
-**DATE**: 03/12（木） 12:02
-<br>
-[3月13日...](https://x.com/pj_sekai/status/2031928746660544811)
-<br>
-#セカラジ
-
----
-
-**DATE**: 03/11（水） 18:01
-<br>
-[『林檎売り...](https://x.com/pj_sekai/status/2031656820818010207)
-<br>
-#レオニ
-
----
-
-**DATE**: 03/10（火） 18:05
-<br>
-[『林檎売り...](https://x.com/pj_sekai/status/2031295469926887749)
-<br>
-#レオニ
-
----
-
-**DATE**: 03/10（火） 15:05
-<br>
-[☘️MOR...](https://x.com/pj_sekai/status/2031249972805644331)
-<br>
-#モモジャン
-
----
-
-**DATE**: 03/10（火） 15:03
-<br>
-[本日15:...](https://x.com/pj_sekai/status/2031249690277416995)
 
 <script>
 let nowDt = new Date();
