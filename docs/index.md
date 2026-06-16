@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/15 17:48
+### 最終更新：2026/06/16 22:16
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2061283888736182576"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/16（火） 20:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2066841019468177436"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 06/12（金） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2065314850243539319"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2065314850243539319)
 
 ---
 
@@ -4547,44 +4553,6 @@
 **DATE**: 03/14（土） 15:06
 <br>
 [☘️桃井愛...](https://x.com/pj_sekai/status/2032699816044798177)
-
----
-
-**DATE**: 03/14（土） 12:01
-<br>
-[💐ホワイト...](https://x.com/pj_sekai/status/2032653191352037665)
-<br>
-#ホワイトデー
-
----
-
-**DATE**: 03/14（土） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2032652948518445164)
-<br>
-#セカイの4コマ
-
----
-
-**DATE**: 03/14（土） 00:00
-<br>
-[💙💐Hap...](https://x.com/pj_sekai/status/2032471754778804639)
-<br>
-#ホワイトデー
-
----
-
-**DATE**: 03/13（金） 20:00
-<br>
-[📺WEBラ...](https://x.com/pj_sekai/status/2032411358202085785)
-<br>
-#セカラジ
-
----
-
-**DATE**: 03/13（金） 11:48
-<br>
-[下記楽曲の...](https://x.com/pj_sekai/status/2032287590876139522)
 
 <script>
 let nowDt = new Date();
