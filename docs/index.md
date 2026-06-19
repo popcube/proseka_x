@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/19 17:27
+### 最終更新：2026/06/19 21:30
 
 
 ---
@@ -10,6 +10,38 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2061283888736182576"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/19（金） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2067940462405783601"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/19（金） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2067925371626905679"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/19（金） 19:28
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2067917465905205554"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/19（金） 18:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2067896335374876766"></a>
 </blockquote>
 
 ---
@@ -24,33 +56,25 @@
 
 **DATE**: 06/19（金） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2067851237123584093"></a>
-</blockquote>
+[👑神代類 ...](https://x.com/pj_sekai/status/2067851237123584093)
 
 ---
 
 **DATE**: 06/18（木） 20:23
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2067568770760179795"></a>
-</blockquote>
+[『旅に帰る...](https://x.com/pj_sekai/status/2067568770760179795)
 
 ---
 
 **DATE**: 06/18（木） 20:22
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2067568625851244733"></a>
-</blockquote>
+[ワールドリ...](https://x.com/pj_sekai/status/2067568625851244733)
 
 ---
 
 **DATE**: 06/18（木） 12:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2067445188730216460"></a>
-</blockquote>
+[📺番組冒頭...](https://x.com/pj_sekai/status/2067445188730216460)
 
 ---
 
@@ -4509,12 +4533,6 @@
 [『バイオレ...](https://x.com/pj_sekai/status/2033830820667134080)
 <br>
 #ビビバス #コンパス
-
----
-
-**DATE**: 03/17（火） 12:02
-<br>
-[【ご注意】...](https://x.com/pj_sekai/status/2033740799666754032)
 
 <script>
 let nowDt = new Date();
