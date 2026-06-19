@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/18 20:35
+### 最終更新：2026/06/19 17:27
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2061283888736182576"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/19（金） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2067851547623715194"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/19（金） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2067851237123584093"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 06/18（木） 12:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2067444821296640269"></a>
-</blockquote>
+[6月25日...](https://x.com/pj_sekai/status/2067444821296640269)
 
 ---
 
 **DATE**: 06/18（木） 12:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2067444562650607834"></a>
-</blockquote>
+[6月19日...](https://x.com/pj_sekai/status/2067444562650607834)
+<br>
+#セカラジ
 
 ---
 
@@ -4501,30 +4515,6 @@
 **DATE**: 03/17（火） 12:02
 <br>
 [【ご注意】...](https://x.com/pj_sekai/status/2033740799666754032)
-
----
-
-**DATE**: 03/16（月） 18:04
-<br>
-[『バイオレ...](https://x.com/pj_sekai/status/2033469568367370425)
-<br>
-#ビビバス #コンパス
-
----
-
-**DATE**: 03/16（月） 17:01
-<br>
-[プロジェク...](https://x.com/pj_sekai/status/2033453649658355886)
-<br>
-#コンパス
-
----
-
-**DATE**: 03/16（月） 15:02
-<br>
-[プロジェク...](https://x.com/pj_sekai/status/2033423647705370689)
-<br>
-#コンパス
 
 <script>
 let nowDt = new Date();
