@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/20 15:55
+### 最終更新：2026/06/21 00:57
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2061283888736182576"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/21（日） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2068348148976959823"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 06/20（土） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2068168669222535379"></a>
-</blockquote>
+[【胸の奥で...](https://x.com/pj_sekai/status/2068168669222535379)
 
 ---
 
@@ -4561,32 +4567,6 @@
 [『ラヴィ』...](https://x.com/pj_sekai/status/2034193100076376506)
 <br>
 #ニーゴ #コンパス
-
----
-
-**DATE**: 03/18（水） 15:05
-<br>
-[【お知らせ...](https://x.com/pj_sekai/status/2034149210250219821)
-
----
-
-**DATE**: 03/18（水） 12:06
-<br>
-[🎶5.5周...](https://x.com/pj_sekai/status/2034104028708393471)
-<br>
-#プロセカ収録楽曲予想
-
----
-
-**DATE**: 03/18（水） 12:05
-<br>
-[3月25日...](https://x.com/pj_sekai/status/2034103929596956799)
-
----
-
-**DATE**: 03/18（水） 12:04
-<br>
-[🎧25時、...](https://x.com/pj_sekai/status/2034103739787993345)
 
 <script>
 let nowDt = new Date();
