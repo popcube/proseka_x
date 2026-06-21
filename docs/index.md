@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/21 00:57
+### 最終更新：2026/06/21 16:26
 
 
 ---
@@ -10,6 +10,38 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2061283888736182576"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/21（日） 15:23
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2068580513154224244"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/21（日） 15:22
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2068580418665005367"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/21（日） 15:22
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2068580304273723672"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/21（日） 15:22
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2068580279355314181"></a>
 </blockquote>
 
 ---
@@ -24,33 +56,27 @@
 
 **DATE**: 06/20（土） 15:12
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2068215290887024872"></a>
-</blockquote>
+[👑ワンダー...](https://x.com/pj_sekai/status/2068215290887024872)
+<br>
+#ワンダショ
 
 ---
 
 **DATE**: 06/20（土） 15:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2068215250147844098"></a>
-</blockquote>
+[本日15:...](https://x.com/pj_sekai/status/2068215250147844098)
 
 ---
 
 **DATE**: 06/20（土） 12:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2068168931249107202"></a>
-</blockquote>
+[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
 
 ---
 
 **DATE**: 06/20（土） 12:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2068168928954892317"></a>
-</blockquote>
+[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
 
 ---
 
@@ -4517,56 +4543,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/2034465387321213197)
 <br>
 #セカイの4コマ #桃井愛莉誕生祭2026
-
----
-
-**DATE**: 03/19（木） 00:01
-<br>
-[☘️桃井愛...](https://x.com/pj_sekai/status/2034283936776372709)
-
----
-
-**DATE**: 03/19（木） 00:00
-<br>
-[㊗️本日3...](https://x.com/pj_sekai/status/2034283684615033285)
-<br>
-#桃井愛莉誕生祭2026
-
----
-
-**DATE**: 03/18（水） 22:21
-<br>
-[先ほど投稿...](https://x.com/pj_sekai/status/2034258995838628330)
-
----
-
-**DATE**: 03/18（水） 22:21
-<br>
-[『カラフル...](https://x.com/pj_sekai/status/2034258792301650291)
-<br>
-#モモジャン
-
----
-
-**DATE**: 03/18（水） 21:10
-<br>
-[『カラフル...](https://x.com/pj_sekai/status/2034241089151082693)
-<br>
-#モモジャン
-
----
-
-**DATE**: 03/18（水） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/2034238396042735681)
-
----
-
-**DATE**: 03/18（水） 18:00
-<br>
-[『ラヴィ』...](https://x.com/pj_sekai/status/2034193100076376506)
-<br>
-#ニーゴ #コンパス
 
 <script>
 let nowDt = new Date();
