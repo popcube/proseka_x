@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/21 16:26
+### 最終更新：2026/06/22 17:49
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2061283888736182576"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/22（月） 15:19
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2068941816280633540"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/22（月） 15:18
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2068941617466429856"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,13 @@
 
 **DATE**: 06/21（日） 15:22
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2068580279355314181"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/2068580279355314181)
 
 ---
 
 **DATE**: 06/21（日） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2068348148976959823"></a>
-</blockquote>
+[👑神代類 ...](https://x.com/pj_sekai/status/2068348148976959823)
 
 ---
 
@@ -4477,72 +4489,6 @@
 **DATE**: 03/20（金） 12:02
 <br>
 [「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
-
----
-
-**DATE**: 03/19（木） 21:34
-<br>
-[先ほど投稿...](https://x.com/pj_sekai/status/2034609435738558629)
-
----
-
-**DATE**: 03/19（木） 21:33
-<br>
-[マイセカイ...](https://x.com/pj_sekai/status/2034609308135231573)
-
----
-
-**DATE**: 03/19（木） 21:02
-<br>
-[☘️MOR...](https://x.com/pj_sekai/status/2034601405638664542)
-
----
-
-**DATE**: 03/19（木） 18:00
-<br>
-[『透過する...](https://x.com/pj_sekai/status/2034555478681014329)
-<br>
-#ビビバス
-
----
-
-**DATE**: 03/19（木） 15:45
-<br>
-[『透過する...](https://x.com/pj_sekai/status/2034521527396524256)
-<br>
-#ビビバス
-
----
-
-**DATE**: 03/19（木） 15:44
-<br>
-[マイセカイ...](https://x.com/pj_sekai/status/2034521376749724138)
-
----
-
-**DATE**: 03/19（木） 15:43
-<br>
-[「ドラマツ...](https://x.com/pj_sekai/status/2034521213717139724)
-
----
-
-**DATE**: 03/19（木） 15:43
-<br>
-[下記楽曲の...](https://x.com/pj_sekai/status/2034521144104190147)
-
----
-
-**DATE**: 03/19（木） 15:05
-<br>
-[明日、3月...](https://x.com/pj_sekai/status/2034511490724823458)
-
----
-
-**DATE**: 03/19（木） 12:02
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2034465387321213197)
-<br>
-#セカイの4コマ #桃井愛莉誕生祭2026
 
 <script>
 let nowDt = new Date();
