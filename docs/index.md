@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/22 17:49
+### 最終更新：2026/06/22 23:29
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2061283888736182576"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/22（月） 18:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2068990070284222789"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 06/21（日） 15:22
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2068580304273723672"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/2068580304273723672)
 
 ---
 
@@ -4453,42 +4459,6 @@
 **DATE**: 03/20（金） 15:05
 <br>
 [本日15:...](https://x.com/pj_sekai/status/2034873913415803133)
-
----
-
-**DATE**: 03/20（金） 12:03
-<br>
-[【お気に入...](https://x.com/pj_sekai/status/2034828104578052386)
-
----
-
-**DATE**: 03/20（金） 12:03
-<br>
-[「ボクらの...](https://x.com/pj_sekai/status/2034828102443180043)
-
----
-
-**DATE**: 03/20（金） 12:03
-<br>
-[【朝日とコ...](https://x.com/pj_sekai/status/2034828089348538375)
-
----
-
-**DATE**: 03/20（金） 12:03
-<br>
-[「ボクらの...](https://x.com/pj_sekai/status/2034828087159136528)
-
----
-
-**DATE**: 03/20（金） 12:02
-<br>
-[【服作り奮...](https://x.com/pj_sekai/status/2034827934520025380)
-
----
-
-**DATE**: 03/20（金） 12:02
-<br>
-[「ボクらの...](https://x.com/pj_sekai/status/2034827932368347189)
 
 <script>
 let nowDt = new Date();
