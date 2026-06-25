@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/25 21:17
+### 最終更新：2026/06/26 00:22
 
 
 ---
@@ -10,6 +10,38 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2061283888736182576"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/25（木） 21:50
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2070127466002407705"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/25（木） 21:45
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2070126311197270028"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/25（木） 21:21
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2070120096631292213"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/25（木） 21:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2070118702419431875"></a>
 </blockquote>
 
 ---
@@ -24,33 +56,49 @@
 
 **DATE**: 06/25（木） 21:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2070117499694366750"></a>
-</blockquote>
+[#プロセカ...](https://x.com/pj_sekai/status/2070117499694366750)
+<br>
+#プロセカ感謝祭 #プロセカCS #プロセカ放送局
 
 ---
 
 **DATE**: 06/25（木） 21:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2070115583727919248"></a>
-</blockquote>
+[#プロセカ...](https://x.com/pj_sekai/status/2070115583727919248)
+<br>
+#プロセカ感謝祭 #プロセカ放送局
 
 ---
 
 **DATE**: 06/25（木） 21:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2070115310565491199"></a>
-</blockquote>
+[#プロセカ...](https://x.com/pj_sekai/status/2070115310565491199)
+<br>
+#プロセカ感謝祭 #プロセカ放送局
 
 ---
 
 **DATE**: 06/25（木） 20:51
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2070112571806695504"></a>
-</blockquote>
+[🌳ワールド...](https://x.com/pj_sekai/status/2070112571806695504)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/25（木） 20:43
+<br>
+[🎶楽曲追加...](https://x.com/pj_sekai/status/2070110743320773040)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/25（木） 20:38
+<br>
+[ブルームフ...](https://x.com/pj_sekai/status/2070109411583181058)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -62,9 +110,33 @@
 
 ---
 
+**DATE**: 06/25（木） 20:31
+<br>
+[椎名もた楽...](https://x.com/pj_sekai/status/2070107652244623740)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/25（木） 20:30
+<br>
+[🏡マイセカ...](https://x.com/pj_sekai/status/2070107243564110331)
+<br>
+#プロセカ放送局
+
+---
+
 **DATE**: 06/25（木） 20:29
 <br>
 [🏡マイセカ...](https://x.com/pj_sekai/status/2070107050491998588)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/25（木） 20:26
+<br>
+[アップデー...](https://x.com/pj_sekai/status/2070106469891272995)
 <br>
 #プロセカ放送局
 
@@ -81,6 +153,14 @@
 **DATE**: 06/25（木） 20:15
 <br>
 [🎨一緒につ...](https://x.com/pj_sekai/status/2070103683157934431)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/25（木） 20:08
+<br>
+[🎊一緒につ...](https://x.com/pj_sekai/status/2070101790415376395)
 <br>
 #プロセカ放送局
 
@@ -4581,18 +4661,6 @@
 **DATE**: 03/23（月） 18:39
 <br>
 [【重要なお...](https://x.com/pj_sekai/status/2036014969951748514)
-
----
-
-**DATE**: 03/23（月） 15:04
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2035960954505298086)
-
----
-
-**DATE**: 03/23（月） 15:04
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2035960884720505072)
 
 <script>
 let nowDt = new Date();
