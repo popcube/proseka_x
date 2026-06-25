@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/24 21:28
+### 最終更新：2026/06/25 15:40
 
 
 ---
@@ -10,6 +10,30 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2061283888736182576"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/25（木） 15:13
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2070027708453785772"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/25（木） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2070025723457556892"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/25（木） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2069978891750682628"></a>
 </blockquote>
 
 ---
@@ -32,25 +56,23 @@
 
 **DATE**: 06/24（水） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2069616506909139086"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/2069616506909139086)
+<br>
+#セカイの4コマ #神代類誕生祭2026
 
 ---
 
 **DATE**: 06/24（水） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2069435560033136646"></a>
-</blockquote>
+[👑神代類 ...](https://x.com/pj_sekai/status/2069435560033136646)
 
 ---
 
 **DATE**: 06/24（水） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2069435309276987877"></a>
-</blockquote>
+[㊗️本日6...](https://x.com/pj_sekai/status/2069435309276987877)
+<br>
+#神代類誕生祭2026
 
 ---
 
