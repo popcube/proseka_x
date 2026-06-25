@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/25 18:57
+### 最終更新：2026/06/25 21:17
 
 
 ---
@@ -14,43 +14,115 @@
 
 ---
 
-**DATE**: 06/25（木） 18:00
+**DATE**: 06/25（木） 21:14
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2070069492063879356"></a>
+<a href="https://twitter.com/pj_sekai/status/2070118336260902939"></a>
 </blockquote>
+
+---
+
+**DATE**: 06/25（木） 21:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2070117499694366750"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/25（木） 21:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2070115583727919248"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/25（木） 21:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2070115310565491199"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/25（木） 20:51
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2070112571806695504"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/25（木） 20:36
+<br>
+[🌳ワールド...](https://x.com/pj_sekai/status/2070108902243676575)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/25（木） 20:29
+<br>
+[🏡マイセカ...](https://x.com/pj_sekai/status/2070107050491998588)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/25（木） 20:19
+<br>
+[🏡マイセカ...](https://x.com/pj_sekai/status/2070104597625196692)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/25（木） 20:15
+<br>
+[🎨一緒につ...](https://x.com/pj_sekai/status/2070103683157934431)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/25（木） 19:31
+<br>
+[ボカロミュ...](https://x.com/pj_sekai/status/2070092436886679956)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/25（木） 18:00
+<br>
+[このあと1...](https://x.com/pj_sekai/status/2070069492063879356)
 
 ---
 
 **DATE**: 06/25（木） 15:13
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2070027708453785772"></a>
-</blockquote>
+[『ANiM...](https://x.com/pj_sekai/status/2070027708453785772)
+<br>
+#DEEMO
 
 ---
 
 **DATE**: 06/25（木） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2070025723457556892"></a>
-</blockquote>
+[プロジェク...](https://x.com/pj_sekai/status/2070025723457556892)
 
 ---
 
 **DATE**: 06/25（木） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2069978891750682628"></a>
-</blockquote>
+[本日19:...](https://x.com/pj_sekai/status/2069978891750682628)
 
 ---
 
 **DATE**: 06/24（水） 19:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2069722207903740208"></a>
-</blockquote>
+[明日、6月...](https://x.com/pj_sekai/status/2069722207903740208)
 
 ---
 
