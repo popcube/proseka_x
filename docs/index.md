@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/26 21:29
+### 最終更新：2026/06/27 05:48
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -450,6 +450,14 @@
 **DATE**: 06/25（木） 20:19
 <br>
 [🏡マイセカ...](https://x.com/pj_sekai/status/2070104597625196692)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 06/25（木） 20:18
+<br>
+[🏡マイセカ...](https://x.com/pj_sekai/status/2070104436178059407)
 <br>
 #プロセカ放送局
 
@@ -4984,14 +4992,6 @@
 **DATE**: 03/25（水） 12:26
 <br>
 [本日19:...](https://x.com/pj_sekai/status/2036645976921026773)
-
----
-
-**DATE**: 03/24（火） 18:00
-<br>
-[明日、3月...](https://x.com/pj_sekai/status/2036367429614358666)
-<br>
-#譜面メーカー
 
 <script>
 let nowDt = new Date();
