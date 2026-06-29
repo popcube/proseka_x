@@ -1,18 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/28 22:04
-
-<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
-【メンテナンス実施中】
-</div></div>
-<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-<div id="maint-0" style="display: none;">
-06/29（月） 12:30 ～ 15:30
-　<a href="https://x.com/pj_sekai/status/2070441507480637888">公式ポスト</a>
-</div>
+### 最終更新：2026/06/29 16:22
 
 
 ---
@@ -25,43 +14,81 @@
 
 ---
 
-**DATE**: 06/28（日） 21:38
+**DATE**: 06/29（月） 16:00
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2071211631250714900"></a>
+<a href="https://twitter.com/pj_sekai/status/2071488930311205297"></a>
 </blockquote>
+
+---
+
+**DATE**: 06/29（月） 15:53
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2071487099895984175"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/29（月） 15:52
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2071486858891252009"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/29（月） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2071429305121587610"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/29（月） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2071429258149605761"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/29（月） 12:02
+<br>
+[明日、6月...](https://x.com/pj_sekai/status/2071429154529255581)
+
+---
+
+**DATE**: 06/28（日） 21:38
+<br>
+[👑ワンダー...](https://x.com/pj_sekai/status/2071211631250714900)
 
 ---
 
 **DATE**: 06/28（日） 21:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2071204840899039637"></a>
-</blockquote>
+[『オールイ...](https://x.com/pj_sekai/status/2071204840899039637)
+<br>
+#ワンダショ
 
 ---
 
 **DATE**: 06/28（日） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2071201952868794698"></a>
-</blockquote>
+[本日22時...](https://x.com/pj_sekai/status/2071201952868794698)
 
 ---
 
 **DATE**: 06/26（金） 18:40
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2070441977100046832"></a>
-</blockquote>
+[【アップデ...](https://x.com/pj_sekai/status/2070441977100046832)
 
 ---
 
 **DATE**: 06/26（金） 18:38
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2070441507480637888"></a>
-</blockquote>
+[【メンテナ...](https://x.com/pj_sekai/status/2070441507480637888)
 
 ---
 
@@ -4327,33 +4354,7 @@
 <br>
 [㊗もうすぐ...](https://x.com/pj_sekai/status/2037367351558254796)
 
----
-
-**DATE**: 03/26（木） 14:11
-<br>
-[番組内で紹...](https://x.com/pj_sekai/status/2037034609192607909)
-<br>
-#クリフェス
-
----
-
-**DATE**: 03/26（木） 14:09
-<br>
-[🎨クリエイ...](https://x.com/pj_sekai/status/2037034093259682115)
-<br>
-#クリフェス
-
 <script>
 let nowDt = new Date();
-let startDt0 = new Date(2026, 5, 29, 12, 30);
-let endDt0 = new Date(2026, 5, 29, 15, 30);
-if ((startDt0 < nowDt) && (nowDt < endDt0)){
-  document.getElementById('maint-ongoing-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
-else if (nowDt < startDt0){
-  document.getElementById('maint-planned-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
