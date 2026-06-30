@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/30 01:11
+### 最終更新：2026/06/30 15:47
 
 
 ---
@@ -14,43 +14,85 @@
 
 ---
 
-**DATE**: 06/29（月） 16:48
+**DATE**: 06/30（火） 15:11
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2071500950293172534"></a>
+<a href="https://twitter.com/pj_sekai/status/2071839079457751545"></a>
 </blockquote>
+
+---
+
+**DATE**: 06/30（火） 15:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2071838971353813326"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/30（火） 12:20
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2071796077028868257"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/30（火） 12:18
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2071795485963370600"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/30（火） 12:18
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2071795483849404841"></a>
+</blockquote>
+
+---
+
+**DATE**: 06/30（火） 12:13
+<br>
+[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
+
+---
+
+**DATE**: 06/30（火） 12:13
+<br>
+[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
+
+---
+
+**DATE**: 06/29（月） 16:48
+<br>
+[「プロセカ...](https://x.com/pj_sekai/status/2071500950293172534)
 
 ---
 
 **DATE**: 06/29（月） 16:45
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2071500282480181383"></a>
-</blockquote>
+[マイセカイ...](https://x.com/pj_sekai/status/2071500282480181383)
 
 ---
 
 **DATE**: 06/29（月） 16:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2071488930311205297"></a>
-</blockquote>
+[下記楽曲の...](https://x.com/pj_sekai/status/2071488930311205297)
 
 ---
 
 **DATE**: 06/29（月） 15:53
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2071487099895984175"></a>
-</blockquote>
+[【v6.6...](https://x.com/pj_sekai/status/2071487099895984175)
 
 ---
 
 **DATE**: 06/29（月） 15:52
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2071486858891252009"></a>
-</blockquote>
+[【メンテナ...](https://x.com/pj_sekai/status/2071486858891252009)
 
 ---
 
@@ -4331,34 +4373,6 @@
 [プロジェク...](https://x.com/pj_sekai/status/2037726377147802080)
 <br>
 #クリフェス #プロセカファンミ #セカイシンフォニー
-
----
-
-**DATE**: 03/27（金） 21:00
-<br>
-[4月10日...](https://x.com/pj_sekai/status/2037499892264812577)
-<br>
-#セカラジ
-
----
-
-**DATE**: 03/27（金） 20:00
-<br>
-[📺WEBラ...](https://x.com/pj_sekai/status/2037484790027538790)
-<br>
-#セカラジ
-
----
-
-**DATE**: 03/27（金） 18:07
-<br>
-[【メンテナ...](https://x.com/pj_sekai/status/2037456356933063124)
-
----
-
-**DATE**: 03/27（金） 18:00
-<br>
-[【アップデ...](https://x.com/pj_sekai/status/2037454600190714173)
 
 <script>
 let nowDt = new Date();
