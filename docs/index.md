@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/06/30 19:28
+### 最終更新：2026/07/01 16:04
 
 
 ---
@@ -9,48 +9,88 @@
 **最新のプロセカスケジュール**: 
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2061283888736182576"></a>
+<a href="https://twitter.com/pj_sekai/status/2072155087892570465"></a>
 </blockquote>
+
+---
+
+**DATE**: 07/01（水） 15:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2072201353049555257"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/01（水） 15:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2072200800005476434"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/01（水） 12:12
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2072156462315655676"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/01（水） 12:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2072156080608784609"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/01（水） 12:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2072155533470241210"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/01（水） 12:07
+<br>
+[今月の #...](https://x.com/pj_sekai/status/2072155087892570465)
+<br>
+#プロセカスケジュール
 
 ---
 
 **DATE**: 06/30（火） 15:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2071839079457751545"></a>
-</blockquote>
+[☘️MOR...](https://x.com/pj_sekai/status/2071839079457751545)
+<br>
+#モモジャン
 
 ---
 
 **DATE**: 06/30（火） 15:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2071838971353813326"></a>
-</blockquote>
+[本日15:...](https://x.com/pj_sekai/status/2071838971353813326)
 
 ---
 
 **DATE**: 06/30（火） 12:20
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2071796077028868257"></a>
-</blockquote>
+[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
 
 ---
 
 **DATE**: 06/30（火） 12:20
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2071796075007234069"></a>
-</blockquote>
+[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
 
 ---
 
 **DATE**: 06/30（火） 12:18
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2071795485963370600"></a>
-</blockquote>
+[【100万...](https://x.com/pj_sekai/status/2071795485963370600)
 
 ---
 
@@ -4367,42 +4407,6 @@
 **DATE**: 03/29（日） 12:09
 <br>
 [明日12時...](https://x.com/pj_sekai/status/2038091024086777914)
-
----
-
-**DATE**: 03/28（土） 22:33
-<br>
-[🎧25時、...](https://x.com/pj_sekai/status/2037885845198524614)
-
----
-
-**DATE**: 03/28（土） 22:07
-<br>
-[『告白』F...](https://x.com/pj_sekai/status/2037879331020751065)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 03/28（土） 22:05
-<br>
-[🎧25時、...](https://x.com/pj_sekai/status/2037878855441203609)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 03/28（土） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/2037862269800058882)
-
----
-
-**DATE**: 03/28（土） 12:00
-<br>
-[プロジェク...](https://x.com/pj_sekai/status/2037726377147802080)
-<br>
-#クリフェス #プロセカファンミ #セカイシンフォニー
 
 <script>
 let nowDt = new Date();
