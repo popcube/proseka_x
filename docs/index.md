@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/07/02 15:34
+### 最終更新：2026/07/02 21:05
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2072155087892570465"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/02（木） 19:23
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2072627201061847369"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 07/01（水） 17:17
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2072233029515497559"></a>
-</blockquote>
+[「衣装デザ...](https://x.com/pj_sekai/status/2072233029515497559)
 
 ---
 
@@ -4415,30 +4421,6 @@
 **DATE**: 03/30（月） 12:33
 <br>
 [本日12時...](https://x.com/pj_sekai/status/2038459631396384933)
-
----
-
-**DATE**: 03/30（月） 11:54
-<br>
-[下記楽曲の...](https://x.com/pj_sekai/status/2038449793446580656)
-
----
-
-**DATE**: 03/30（月） 11:54
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2038449698584113429)
-
----
-
-**DATE**: 03/30（月） 11:48
-<br>
-[【v6.4...](https://x.com/pj_sekai/status/2038448308709212545)
-
----
-
-**DATE**: 03/30（月） 11:47
-<br>
-[【メンテナ...](https://x.com/pj_sekai/status/2038448069805805726)
 
 <script>
 let nowDt = new Date();
