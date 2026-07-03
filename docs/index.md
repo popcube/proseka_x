@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/07/02 21:05
+### 最終更新：2026/07/03 20:54
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2072155087892570465"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/03（金） 20:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2072999394769817802"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 07/01（水） 20:34
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2072282757536108794"></a>
-</blockquote>
+[【お知らせ...](https://x.com/pj_sekai/status/2072282757536108794)
 
 ---
 
@@ -4295,132 +4301,6 @@
 **DATE**: 03/31（火） 15:06
 <br>
 [本日15時...](https://x.com/pj_sekai/status/2038860384178995699)
-
----
-
-**DATE**: 03/30（月） 18:12
-<br>
-[番組内で紹...](https://x.com/pj_sekai/status/2038544974892171291)
-<br>
-#クリフェス
-
----
-
-**DATE**: 03/30（月） 18:11
-<br>
-[🎨クリエイ...](https://x.com/pj_sekai/status/2038544545651265952)
-<br>
-#クリフェス
-
----
-
-**DATE**: 03/30（月） 15:07
-<br>
-[👑ワンダー...](https://x.com/pj_sekai/status/2038498355526205512)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 03/30（月） 15:07
-<br>
-[本日15:...](https://x.com/pj_sekai/status/2038498285074456637)
-
----
-
-**DATE**: 03/30（月） 12:39
-<br>
-[【名探偵M...](https://x.com/pj_sekai/status/2038461097217589489)
-
----
-
-**DATE**: 03/30（月） 12:39
-<br>
-[「[5.5...](https://x.com/pj_sekai/status/2038461095015567782)
-
----
-
-**DATE**: 03/30（月） 12:38
-<br>
-[【口には出...](https://x.com/pj_sekai/status/2038460920838725972)
-
----
-
-**DATE**: 03/30（月） 12:38
-<br>
-[【思い描い...](https://x.com/pj_sekai/status/2038460878463676728)
-
----
-
-**DATE**: 03/30（月） 12:38
-<br>
-[「[5.5...](https://x.com/pj_sekai/status/2038460875988963626)
-
----
-
-**DATE**: 03/30（月） 12:38
-<br>
-[【見つけて...](https://x.com/pj_sekai/status/2038460771240415440)
-
----
-
-**DATE**: 03/30（月） 12:38
-<br>
-[「[5.5...](https://x.com/pj_sekai/status/2038460769202049514)
-
----
-
-**DATE**: 03/30（月） 12:37
-<br>
-[【足跡をた...](https://x.com/pj_sekai/status/2038460702944567526)
-
----
-
-**DATE**: 03/30（月） 12:37
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2038460638524272734)
-
----
-
-**DATE**: 03/30（月） 12:36
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2038460354070720736)
-
----
-
-**DATE**: 03/30（月） 12:35
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2038460122373275869)
-
----
-
-**DATE**: 03/30（月） 12:35
-<br>
-[5.5周年...](https://x.com/pj_sekai/status/2038460086595789097)
-
----
-
-**DATE**: 03/30（月） 12:34
-<br>
-[5.5周年...](https://x.com/pj_sekai/status/2038459879309050238)
-
----
-
-**DATE**: 03/30（月） 12:34
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2038459768789143993)
-
----
-
-**DATE**: 03/30（月） 12:33
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2038459691400147191)
-
----
-
-**DATE**: 03/30（月） 12:33
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2038459631396384933)
 
 <script>
 let nowDt = new Date();
