@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/07/03 20:54
+### 最終更新：2026/07/04 14:43
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2072155087892570465"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/04（土） 12:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2073242604058341684"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 07/02（木） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2072515619786768453"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/2072515619786768453)
+<br>
+#セカイの4コマ
 
 ---
 
@@ -4217,90 +4225,6 @@
 [#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
 <br>
 #エイプリルフール
-
----
-
-**DATE**: 04/01（水） 00:35
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039003535287685194)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 00:34
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039003283633975635)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 00:33
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039003031841251831)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 00:32
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039002780271317452)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 00:31
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039002528658891089)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 00:30
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039002280779731192)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 00:05
-<br>
-[🎵公式Yo...](https://x.com/pj_sekai/status/2038996135558484077)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 00:01
-<br>
-[🌟エイプリ...](https://x.com/pj_sekai/status/2038994979583070662)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 00:00
-<br>
-[不思議な村...](https://x.com/pj_sekai/status/2038994737676353967)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 03/31（火） 15:07
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2038860673497870347)
-
----
-
-**DATE**: 03/31（火） 15:06
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2038860384178995699)
 
 <script>
 let nowDt = new Date();
