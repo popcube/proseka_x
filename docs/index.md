@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/07/04 17:50
+### 最終更新：2026/07/06 16:02
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2072155087892570465"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/06（月） 15:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2074014230765039646"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/06（月） 15:14
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2074014155028443275"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 07/02（木） 19:23
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2072627201061847369"></a>
-</blockquote>
+[【お知らせ...](https://x.com/pj_sekai/status/2072627201061847369)
 
 ---
 
 **DATE**: 07/02（木） 15:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2072560908543422467"></a>
-</blockquote>
+[雨の日のひ...](https://x.com/pj_sekai/status/2072560908543422467)
+<br>
+#ふわぷち #梅雨
 
 ---
 
@@ -3975,264 +3989,6 @@
 **DATE**: 04/03（金） 15:05
 <br>
 [本日15時...](https://x.com/pj_sekai/status/2039947290195230747)
-
----
-
-**DATE**: 04/02（木） 18:06
-<br>
-[1分でわか...](https://x.com/pj_sekai/status/2039630467734106141)
-
----
-
-**DATE**: 04/02（木） 17:03
-<br>
-[🏡マイセカ...](https://x.com/pj_sekai/status/2039614695204872563)
-
----
-
-**DATE**: 04/02（木） 15:06
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2039585307130216857)
-
----
-
-**DATE**: 04/02（木） 15:02
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2039584316054032433)
-
----
-
-**DATE**: 04/02（木） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2039538338429092134)
-<br>
-#セカイの4コマ
-
----
-
-**DATE**: 04/02（木） 00:00
-<br>
-[🌟エイプリ...](https://x.com/pj_sekai/status/2039357129644027935)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 18:02
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039267082450407867)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 18:01
-<br>
-[『初めまし...](https://x.com/pj_sekai/status/2039266877135016085)
-
----
-
-**DATE**: 04/01（水） 18:01
-<br>
-[『初めまし...](https://x.com/pj_sekai/status/2039266873964106100)
-
----
-
-**DATE**: 04/01（水） 18:01
-<br>
-[『初めまし...](https://x.com/pj_sekai/status/2039266870776480136)
-
----
-
-**DATE**: 04/01（水） 18:01
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039266868486447222)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 17:14
-<br>
-[🎊第34回...](https://x.com/pj_sekai/status/2039255007019831594)
-
----
-
-**DATE**: 04/01（水） 17:13
-<br>
-[本NEWS...](https://x.com/pj_sekai/status/2039254927630119049)
-<br>
-#プロセカ衣装デザイン
-
----
-
-**DATE**: 04/01（水） 17:13
-<br>
-[👗一緒につ...](https://x.com/pj_sekai/status/2039254925541274005)
-<br>
-#プロセカ衣装デザイン
-
----
-
-**DATE**: 04/01（水） 16:23
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039242134294090130)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 16:22
-<br>
-[『レッツゴ...](https://x.com/pj_sekai/status/2039241889162088456)
-
----
-
-**DATE**: 04/01（水） 16:22
-<br>
-[『レッツゴ...](https://x.com/pj_sekai/status/2039241881289412768)
-
----
-
-**DATE**: 04/01（水） 16:22
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039241878718267590)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 14:01
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039206608107077939)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 14:01
-<br>
-[『犬じゃな...](https://x.com/pj_sekai/status/2039206500376379607)
-
----
-
-**DATE**: 04/01（水） 14:01
-<br>
-[『犬じゃな...](https://x.com/pj_sekai/status/2039206496773566669)
-
----
-
-**DATE**: 04/01（水） 14:01
-<br>
-[『犬じゃな...](https://x.com/pj_sekai/status/2039206493963337863)
-
----
-
-**DATE**: 04/01（水） 14:01
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039206490880491670)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 12:34
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039184593090449483)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 12:33
-<br>
-[『輝きパワ...](https://x.com/pj_sekai/status/2039184299560509831)
-
----
-
-**DATE**: 04/01（水） 12:33
-<br>
-[『輝きパワ...](https://x.com/pj_sekai/status/2039184296439869588)
-
----
-
-**DATE**: 04/01（水） 12:33
-<br>
-[『輝きパワ...](https://x.com/pj_sekai/status/2039184293013205288)
-
----
-
-**DATE**: 04/01（水） 12:33
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039184290165186744)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 12:05
-<br>
-[☘️MOR...](https://x.com/pj_sekai/status/2039177402522407107)
-
----
-
-**DATE**: 04/01（水） 12:03
-<br>
-[🎮第16回...](https://x.com/pj_sekai/status/2039176781102760047)
-
----
-
-**DATE**: 04/01（水） 12:03
-<br>
-[4月1日0...](https://x.com/pj_sekai/status/2039176695329235271)
-
----
-
-**DATE**: 04/01（水） 12:03
-<br>
-[4月1日0...](https://x.com/pj_sekai/status/2039176681118974205)
-
----
-
-**DATE**: 04/01（水） 12:01
-<br>
-[今月の #...](https://x.com/pj_sekai/status/2039176323873247444)
-<br>
-#プロセカスケジュール
-
----
-
-**DATE**: 04/01（水） 10:05
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039147202891956389)
-<br>
-#エイプリルフール
-
----
-
-**DATE**: 04/01（水） 10:03
-<br>
-[『悪戯合戦...](https://x.com/pj_sekai/status/2039146599155376639)
-
----
-
-**DATE**: 04/01（水） 10:03
-<br>
-[『悪戯合戦...](https://x.com/pj_sekai/status/2039146595904856185)
-
----
-
-**DATE**: 04/01（水） 10:03
-<br>
-[『悪戯合戦...](https://x.com/pj_sekai/status/2039146592549454232)
-
----
-
-**DATE**: 04/01（水） 10:03
-<br>
-[#エイプリ...](https://x.com/pj_sekai/status/2039146590171271675)
-<br>
-#エイプリルフール
 
 <script>
 let nowDt = new Date();
