@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/07/08 16:58
+### 最終更新：2026/07/09 15:06
 
 
 ---
@@ -10,6 +10,38 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2072155087892570465"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/09（木） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2075053823996170653"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/09（木） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2075053595213603271"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/09（木） 11:38
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2075046813154079060"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/09（木） 11:37
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2075046530797711505"></a>
 </blockquote>
 
 ---
@@ -24,33 +56,27 @@
 
 **DATE**: 07/08（水） 12:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2074692931911565742"></a>
-</blockquote>
+[プロセカ6...](https://x.com/pj_sekai/status/2074692931911565742)
 
 ---
 
 **DATE**: 07/07（火） 21:38
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2074473152386924603"></a>
-</blockquote>
+[☘️MOR...](https://x.com/pj_sekai/status/2074473152386924603)
 
 ---
 
 **DATE**: 07/07（火） 21:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2074464528230961531"></a>
-</blockquote>
+[『Gimm...](https://x.com/pj_sekai/status/2074464528230961531)
+<br>
+#モモジャン
 
 ---
 
 **DATE**: 07/07（火） 21:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2074463988075909213"></a>
-</blockquote>
+[本日22時...](https://x.com/pj_sekai/status/2074463988075909213)
 
 ---
 
@@ -3967,18 +3993,6 @@
 **DATE**: 04/06（月） 15:05
 <br>
 [本日15時...](https://x.com/pj_sekai/status/2041034507244220778)
-
----
-
-**DATE**: 04/05（日） 15:10
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2040673403489894822)
-
----
-
-**DATE**: 04/05（日） 15:10
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2040673301413212438)
 
 <script>
 let nowDt = new Date();
