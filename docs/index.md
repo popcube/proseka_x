@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/07/12 14:17
+### 最終更新：2026/07/13 18:46
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2072155087892570465"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/13（月） 15:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2076549074858496143"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/13（月） 15:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2076548907711262833"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,17 @@
 
 **DATE**: 07/11（土） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2075777097575084488"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/2075777097575084488)
+<br>
+#セカイの4コマ
 
 ---
 
 **DATE**: 07/11（土） 10:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2075749044891373591"></a>
-</blockquote>
+[🎮プロジェ...](https://x.com/pj_sekai/status/2075749044891373591)
+<br>
+#プロセカCS
 
 ---
 
@@ -3949,94 +3965,6 @@
 **DATE**: 04/10（金） 10:58
 <br>
 [【v6.4...](https://x.com/pj_sekai/status/2042422056667791826)
-
----
-
-**DATE**: 04/10（金） 00:00
-<br>
-[☘️花里み...](https://x.com/pj_sekai/status/2042256230543204627)
-
----
-
-**DATE**: 04/09（木） 18:07
-<br>
-[「プロセカ...](https://x.com/pj_sekai/status/2042167470728101890)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 04/09（木） 17:03
-<br>
-[【v6.4...](https://x.com/pj_sekai/status/2042151367301853283)
-
----
-
-**DATE**: 04/09（木） 15:10
-<br>
-[本日15:...](https://x.com/pj_sekai/status/2042123036460282260)
-
----
-
-**DATE**: 04/09（木） 15:00
-<br>
-[☘️花里み...](https://x.com/pj_sekai/status/2042120328231710809)
-
----
-
-**DATE**: 04/09（木） 12:07
-<br>
-[【応援の気...](https://x.com/pj_sekai/status/2042076823245529195)
-
----
-
-**DATE**: 04/09（木） 12:06
-<br>
-[「Proo...](https://x.com/pj_sekai/status/2042076768014889092)
-
----
-
-**DATE**: 04/09（木） 12:06
-<br>
-[【この壁を...](https://x.com/pj_sekai/status/2042076673143930956)
-
----
-
-**DATE**: 04/09（木） 12:06
-<br>
-[「Proo...](https://x.com/pj_sekai/status/2042076618525700285)
-
----
-
-**DATE**: 04/09（木） 12:05
-<br>
-[【垣間見え...](https://x.com/pj_sekai/status/2042076485935321555)
-
----
-
-**DATE**: 04/09（木） 12:05
-<br>
-[「Proo...](https://x.com/pj_sekai/status/2042076429282898366)
-
----
-
-**DATE**: 04/09（木） 12:01
-<br>
-[4月10日...](https://x.com/pj_sekai/status/2042075444414181507)
-<br>
-#セカラジ
-
----
-
-**DATE**: 04/09（木） 11:40
-<br>
-[「WAVE...](https://x.com/pj_sekai/status/2042070203828523027)
-
----
-
-**DATE**: 04/09（木） 11:38
-<br>
-[下記楽曲の...](https://x.com/pj_sekai/status/2042069612297420805)
 
 <script>
 let nowDt = new Date();
