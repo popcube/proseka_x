@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/07/16 00:59
+### 最終更新：2026/07/17 00:16
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2072155087892570465"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/17（金） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2077770236728647999"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 07/15（水） 10:45
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2077207972581900341"></a>
-</blockquote>
+[【Andr...](https://x.com/pj_sekai/status/2077207972581900341)
 
 ---
 
@@ -3867,82 +3873,6 @@
 [#プロセカ...](https://x.com/pj_sekai/status/2043615393374466367)
 <br>
 #プロセカあんスタコラボ #プロセカあんスタコラボ
-
----
-
-**DATE**: 04/13（月） 15:06
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2043571461793988889)
-
----
-
-**DATE**: 04/13（月） 15:04
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2043571118955782189)
-<br>
-#レオニ
-
----
-
-**DATE**: 04/13（月） 12:18
-<br>
-[各メンバー...](https://x.com/pj_sekai/status/2043529238826090621)
-<br>
-#プロセカあんスタコラボ
-
----
-
-**DATE**: 04/13（月） 12:18
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2043529236351484077)
-<br>
-#プロセカあんスタコラボ
-
----
-
-**DATE**: 04/13（月） 12:18
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2043529174112186452)
-<br>
-#プロセカあんスタコラボ
-
----
-
-**DATE**: 04/13（月） 12:18
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2043529125252751608)
-<br>
-#プロセカあんスタコラボ
-
----
-
-**DATE**: 04/13（月） 12:17
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2043529061868445713)
-<br>
-#プロセカあんスタコラボ
-
----
-
-**DATE**: 04/13（月） 12:17
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2043528983833432366)
-<br>
-#プロセカあんスタコラボ
-
----
-
-**DATE**: 04/13（月） 12:17
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2043528929580069375)
-
----
-
-**DATE**: 04/13（月） 12:16
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2043528791008694459)
-<br>
-#プロセカあんスタコラボ
 
 <script>
 let nowDt = new Date();
