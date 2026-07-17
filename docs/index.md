@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/07/17 20:05
+### 最終更新：2026/07/17 21:20
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2072155087892570465"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/17（金） 21:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2078091093418066403"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/17（金） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2078087329244131363"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,13 @@
 
 **DATE**: 07/17（金） 15:10
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2077999333799252246"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/2077999333799252246)
 
 ---
 
 **DATE**: 07/17（金） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2077770236728647999"></a>
-</blockquote>
+[👑草薙寧々...](https://x.com/pj_sekai/status/2077770236728647999)
 
 ---
 
@@ -3871,14 +3883,6 @@
 [#プロセカ...](https://x.com/pj_sekai/status/2043977568076919145)
 <br>
 #プロセカあんスタコラボ #プロセカあんスタコラボ
-
----
-
-**DATE**: 04/14（火） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2043886966077288756)
-<br>
-#セカイの4コマ #花里みのり誕生祭2026
 
 <script>
 let nowDt = new Date();
