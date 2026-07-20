@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/07/20 00:50
+### 最終更新：2026/07/20 14:59
 
 
 ---
@@ -10,6 +10,38 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2072155087892570465"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/20（月） 12:17
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2079042900302938299"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/20（月） 12:16
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2079042785605538027"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/20（月） 12:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2079041424696521132"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/20（月） 12:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2079041062719660326"></a>
 </blockquote>
 
 ---
@@ -24,33 +56,27 @@
 
 **DATE**: 07/20（月） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2078857391878365509"></a>
-</blockquote>
+[㊗️本日7...](https://x.com/pj_sekai/status/2078857391878365509)
+<br>
+#草薙寧々誕生祭2026
 
 ---
 
 **DATE**: 07/19（日） 20:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2078798211205189807"></a>
-</blockquote>
+[ワールドリ...](https://x.com/pj_sekai/status/2078798211205189807)
 
 ---
 
 **DATE**: 07/19（日） 20:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2078798173443867035"></a>
-</blockquote>
+[本日20:...](https://x.com/pj_sekai/status/2078798173443867035)
 
 ---
 
 **DATE**: 07/19（日） 17:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2078753714245173282"></a>
-</blockquote>
+[マイセカイ...](https://x.com/pj_sekai/status/2078753714245173282)
 
 ---
 
@@ -3927,34 +3953,6 @@
 **DATE**: 04/17（金） 14:39
 <br>
 [マイセカイ...](https://x.com/pj_sekai/status/2045014194396028981)
-
----
-
-**DATE**: 04/16（木） 22:13
-<br>
-[『CRAS...](https://x.com/pj_sekai/status/2044766098160250936)
-<br>
-#ビビバス
-
----
-
-**DATE**: 04/16（木） 22:11
-<br>
-[💿Vivi...](https://x.com/pj_sekai/status/2044765746157519008)
-<br>
-#ビビバス
-
----
-
-**DATE**: 04/16（木） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/2044747636662550717)
-
----
-
-**DATE**: 04/16（木） 18:30
-<br>
-[穏やかな日...](https://x.com/pj_sekai/status/2044709967345893508)
 
 <script>
 let nowDt = new Date();
