@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/07/26 20:36
+### 最終更新：2026/07/27 14:51
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2072155087892570465"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/27（月） 12:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2081577174549881047"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/27（月） 12:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2081577083357241829"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 07/26（日） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2081031971606519830"></a>
-</blockquote>
+[💿白石杏 ...](https://x.com/pj_sekai/status/2081031971606519830)
 
 ---
 
 **DATE**: 07/26（日） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2081031722859127024"></a>
-</blockquote>
+[㊗️本日7...](https://x.com/pj_sekai/status/2081031722859127024)
+<br>
+#白石杏誕生祭2026
 
 ---
 
@@ -3959,14 +3973,6 @@
 **DATE**: 04/24（金） 15:06
 <br>
 [本日15時...](https://x.com/pj_sekai/status/2047557814483300655)
-
----
-
-**DATE**: 04/23（木） 12:02
-<br>
-[4月24日...](https://x.com/pj_sekai/status/2047148998105206987)
-<br>
-#セカラジ
 
 <script>
 let nowDt = new Date();
