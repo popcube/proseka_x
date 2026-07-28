@@ -1,7 +1,18 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/07/28 13:54
+### 最終更新：2026/07/28 19:44
+
+<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-0" style="display: none;">
+07/31（金） 07:30 ～ 11:30
+　<a href="https://x.com/pj_sekai/status/2082040239322026062">公式ポスト</a>
+</div>
 
 
 ---
@@ -10,6 +21,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2072155087892570465"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/28（火） 18:48
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2082040374768582976"></a>
+</blockquote>
+
+---
+
+**DATE**: 07/28（火） 18:47
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2082040239322026062"></a>
 </blockquote>
 
 ---
@@ -40,17 +67,17 @@
 
 **DATE**: 07/27（月） 21:14
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2081714841690263712"></a>
-</blockquote>
+[🎊グッズ情...](https://x.com/pj_sekai/status/2081714841690263712)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 07/27（月） 21:13
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2081714528212095146"></a>
-</blockquote>
+[🚌プロセカ...](https://x.com/pj_sekai/status/2081714528212095146)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -4330,5 +4357,15 @@
 
 <script>
 let nowDt = new Date();
+let startDt0 = new Date(2026, 6, 31, 7, 30);
+let endDt0 = new Date(2026, 6, 31, 11, 30);
+if ((startDt0 < nowDt) && (nowDt < endDt0)){
+  document.getElementById('maint-ongoing-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
+else if (nowDt < startDt0){
+  document.getElementById('maint-planned-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
