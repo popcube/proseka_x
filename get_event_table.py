@@ -84,6 +84,7 @@ def get_event_table():
 
             a = pd.read_html(StringIO(pjsekai_res.text), index_col='No', encoding="utf-8",
                             attrs={"id": "sortable_table1"})[0]
+            a = a.astype("object") ## error handling for imcompatible type setitem
             # default columns belown
             # No, 週目, イベント名, 形式, ユニット, タイプ, 書き下ろし楽曲, 開始日, 終了日, 日数, 参加人数
             
