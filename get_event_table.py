@@ -5,6 +5,7 @@ from functools import partial
 import sys
 import re
 from urllib3.util.retry import Retry
+from io import StringIO
 
 pd.options.mode.copy_on_write = True
 
@@ -81,7 +82,7 @@ def get_event_table():
         if pjsekai_res.ok:
         # if False: #delete this and activate above
 
-            a = pd.read_html(pjsekai_res.content, index_col='No', encoding="utf-8",
+            a = pd.read_html(StringIO(pjsekai_res.text), index_col='No', encoding="utf-8",
                             attrs={"id": "sortable_table1"})[0]
             # default columns belown
             # No, 週目, イベント名, 形式, ユニット, タイプ, 書き下ろし楽曲, 開始日, 終了日, 日数, 参加人数
@@ -110,7 +111,7 @@ def get_stream_table():
         pjsekai_res = requests.get("https://pjsekai.com/?1c5f55649f", timeout=3.0)
         if pjsekai_res.ok:
         # if False: #delete this and activate above
-            a = pd.read_html(pjsekai_res.content, 
+            a = pd.read_html(StringIO(pjsekai_res.text), 
                         encoding="utf-8",
                         attrs={"border": "0", "cellspacing": "1", "class": "style_table"})
             # print(a[0])
