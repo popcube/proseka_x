@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/02 05:12
+### 最終更新：2026/08/02 13:55
 
 
 ---
@@ -9,7 +9,23 @@
 **最新のプロセカスケジュール**: 
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2072155087892570465"></a>
+<a href="https://twitter.com/pj_sekai/status/2083387246938394849"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/02（日） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2083749628852261207"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/01（土） 17:50
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2083475393936515530"></a>
 </blockquote>
 
 ---
@@ -22,6 +38,14 @@
 
 ---
 
+**DATE**: 08/01（土） 17:20
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2083467856898113917"></a>
+</blockquote>
+
+---
+
 **DATE**: 08/01（土） 17:17
 <br>
 <blockquote class="twitter-tweet">
@@ -30,27 +54,37 @@
 
 ---
 
+**DATE**: 08/01（土） 12:02
+<br>
+[8月1日0...](https://x.com/pj_sekai/status/2083387744219517143)
+
+---
+
 **DATE**: 08/01（土） 12:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2083387492406108326"></a>
-</blockquote>
+[8月1日0...](https://x.com/pj_sekai/status/2083387492406108326)
+
+---
+
+**DATE**: 08/01（土） 12:00
+<br>
+[今月の #...](https://x.com/pj_sekai/status/2083387246938394849)
+<br>
+#プロセカスケジュール
 
 ---
 
 **DATE**: 07/31（金） 20:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2083148428083966297"></a>
-</blockquote>
+[ワールドリ...](https://x.com/pj_sekai/status/2083148428083966297)
 
 ---
 
 **DATE**: 07/31（金） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2083145659285184831"></a>
-</blockquote>
+[📺WEBラ...](https://x.com/pj_sekai/status/2083145659285184831)
+<br>
+#セカラジ
 
 ---
 
@@ -70,6 +104,12 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+
+---
+
+**DATE**: 07/31（金） 12:16
+<br>
 [「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
@@ -83,6 +123,12 @@
 **DATE**: 07/31（金） 12:14
 <br>
 [「Tuck...](https://x.com/pj_sekai/status/2083028440874360915)
+
+---
+
+**DATE**: 07/31（金） 12:13
+<br>
+[【悔いのな...](https://x.com/pj_sekai/status/2083028282812043378)
 
 ---
 
@@ -4039,20 +4085,6 @@
 **DATE**: 04/30（木） 11:43
 <br>
 [【メンテナ...](https://x.com/pj_sekai/status/2049681070308884759)
-
----
-
-**DATE**: 04/30（木） 00:01
-<br>
-[🎧東雲絵名...](https://x.com/pj_sekai/status/2049504227068965333)
-
----
-
-**DATE**: 04/30（木） 00:00
-<br>
-[㊗️本日4...](https://x.com/pj_sekai/status/2049503975125237785)
-<br>
-#東雲絵名誕生祭2026
 
 <script>
 let nowDt = new Date();
