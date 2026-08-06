@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/06 17:05
+### 最終更新：2026/08/07 00:08
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/07（金） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2085380377141719339"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 08/05（水） 12:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2084838790343118890"></a>
-</blockquote>
+[本日12時...](https://x.com/pj_sekai/status/2084838790343118890)
 
 ---
 
@@ -1646,13 +1652,13 @@
 
 **DATE**: 06/30（火） 12:13
 <br>
-[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
+[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
 
 ---
 
 **DATE**: 06/30（火） 12:13
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
+[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
 
 ---
 
@@ -2810,15 +2816,15 @@
 
 **DATE**: 06/01（月） 17:19
 <br>
-[NEWS内...](https://x.com/pj_sekai/status/2061362065437323270)
-<br>
-#プロセカ衣装デザイン
+[「衣装デザ...](https://x.com/pj_sekai/status/2061362067337367766)
 
 ---
 
 **DATE**: 06/01（月） 17:19
 <br>
-[「衣装デザ...](https://x.com/pj_sekai/status/2061362067337367766)
+[NEWS内...](https://x.com/pj_sekai/status/2061362065437323270)
+<br>
+#プロセカ衣装デザイン
 
 ---
 
@@ -3986,13 +3992,13 @@
 
 **DATE**: 05/08（金） 12:12
 <br>
-[「風運ぶ青...](https://x.com/pj_sekai/status/2052587408496197698)
+[【丁寧な一...](https://x.com/pj_sekai/status/2052587411247611951)
 
 ---
 
 **DATE**: 05/08（金） 12:12
 <br>
-[【丁寧な一...](https://x.com/pj_sekai/status/2052587411247611951)
+[「風運ぶ青...](https://x.com/pj_sekai/status/2052587408496197698)
 
 ---
 
@@ -4083,12 +4089,6 @@
 **DATE**: 05/05（火） 00:00
 <br>
 [💫天馬咲希...](https://x.com/pj_sekai/status/2051315921944195182)
-
----
-
-**DATE**: 05/04（月） 15:05
-<br>
-[💫天馬咲希...](https://x.com/pj_sekai/status/2051181497877713262)
 
 <script>
 let nowDt = new Date();
