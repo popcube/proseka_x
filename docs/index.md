@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/07 00:08
+### 最終更新：2026/08/07 13:47
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/07（金） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2085562924433900017"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 08/05（水） 12:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2084839009587761516"></a>
-</blockquote>
+[🎮プロジェ...](https://x.com/pj_sekai/status/2084839009587761516)
+<br>
+#プロセカCS
 
 ---
 
@@ -1118,13 +1126,13 @@
 
 **DATE**: 07/19（日） 12:06
 <br>
-[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
+[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
 
 ---
 
 **DATE**: 07/19（日） 12:06
 <br>
-[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
+[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
 
 ---
 
@@ -2410,13 +2418,13 @@
 
 **DATE**: 06/20（土） 12:07
 <br>
-[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
+[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
 
 ---
 
 **DATE**: 06/20（土） 12:07
 <br>
-[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
+[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
 
 ---
 
@@ -3992,13 +4000,13 @@
 
 **DATE**: 05/08（金） 12:12
 <br>
-[【丁寧な一...](https://x.com/pj_sekai/status/2052587411247611951)
+[「風運ぶ青...](https://x.com/pj_sekai/status/2052587408496197698)
 
 ---
 
 **DATE**: 05/08（金） 12:12
 <br>
-[「風運ぶ青...](https://x.com/pj_sekai/status/2052587408496197698)
+[【丁寧な一...](https://x.com/pj_sekai/status/2052587411247611951)
 
 ---
 
@@ -4083,12 +4091,6 @@
 **DATE**: 05/06（水） 00:00
 <br>
 [💫天馬咲希...](https://x.com/pj_sekai/status/2051678313274568920)
-
----
-
-**DATE**: 05/05（火） 00:00
-<br>
-[💫天馬咲希...](https://x.com/pj_sekai/status/2051315921944195182)
 
 <script>
 let nowDt = new Date();
