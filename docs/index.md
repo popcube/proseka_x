@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/07 18:39
+### 最終更新：2026/08/07 21:10
 
 
 ---
@@ -11,6 +11,26 @@
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
 </blockquote>
+
+---
+
+**DATE**: 08/07（金） 21:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2085698408799756401"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/07（金） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2085697477848777154"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/07（金） 21:00 イベント「**Echo of a Prayer**」 終了
 
 ---
 
@@ -40,17 +60,15 @@
 
 **DATE**: 08/07（金） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2085562924433900017"></a>
-</blockquote>
+[🎮プロジェ...](https://x.com/pj_sekai/status/2085562924433900017)
+<br>
+#プロセカCS
 
 ---
 
 **DATE**: 08/07（金） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2085380377141719339"></a>
-</blockquote>
+[💫星乃一歌...](https://x.com/pj_sekai/status/2085380377141719339)
 
 ---
 
@@ -276,13 +294,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
@@ -1654,13 +1672,13 @@
 
 **DATE**: 06/30（火） 12:18
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
+[【100万...](https://x.com/pj_sekai/status/2071795485963370600)
 
 ---
 
 **DATE**: 06/30（火） 12:18
 <br>
-[【100万...](https://x.com/pj_sekai/status/2071795485963370600)
+[「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
 
 ---
 
@@ -2842,15 +2860,15 @@
 
 **DATE**: 06/01（月） 17:19
 <br>
-[NEWS内...](https://x.com/pj_sekai/status/2061362065437323270)
-<br>
-#プロセカ衣装デザイン
+[「衣装デザ...](https://x.com/pj_sekai/status/2061362067337367766)
 
 ---
 
 **DATE**: 06/01（月） 17:19
 <br>
-[「衣装デザ...](https://x.com/pj_sekai/status/2061362067337367766)
+[NEWS内...](https://x.com/pj_sekai/status/2061362065437323270)
+<br>
+#プロセカ衣装デザイン
 
 ---
 
@@ -4018,13 +4036,13 @@
 
 **DATE**: 05/08（金） 12:12
 <br>
-[「風運ぶ青...](https://x.com/pj_sekai/status/2052587408496197698)
+[【丁寧な一...](https://x.com/pj_sekai/status/2052587411247611951)
 
 ---
 
 **DATE**: 05/08（金） 12:12
 <br>
-[【丁寧な一...](https://x.com/pj_sekai/status/2052587411247611951)
+[「風運ぶ青...](https://x.com/pj_sekai/status/2052587408496197698)
 
 ---
 
