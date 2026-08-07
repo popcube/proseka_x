@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/07 13:47
+### 最終更新：2026/08/07 16:39
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/07（金） 15:42
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2085617613762347437"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/07（金） 15:42
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2085617579956252725"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,13 @@
 
 **DATE**: 08/06（木） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2085245549645803633"></a>
-</blockquote>
+[💫星乃一歌...](https://x.com/pj_sekai/status/2085245549645803633)
 
 ---
 
 **DATE**: 08/05（水） 15:48
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2084894177289212093"></a>
-</blockquote>
+[【お知らせ...](https://x.com/pj_sekai/status/2084894177289212093)
 
 ---
 
@@ -1126,13 +1138,13 @@
 
 **DATE**: 07/19（日） 12:06
 <br>
-[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
+[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
 
 ---
 
 **DATE**: 07/19（日） 12:06
 <br>
-[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
+[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
 
 ---
 
@@ -2418,13 +2430,13 @@
 
 **DATE**: 06/20（土） 12:07
 <br>
-[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
+[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
 
 ---
 
 **DATE**: 06/20（土） 12:07
 <br>
-[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
+[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
 
 ---
 
