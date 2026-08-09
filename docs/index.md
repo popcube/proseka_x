@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/08 15:38
+### 最終更新：2026/08/09 13:12
 
 
 ---
@@ -10,6 +10,38 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/09（日） 12:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2086288115191476503"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/09（日） 12:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2086288112414785944"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/09（日） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2086288048233525295"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/09（日） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2086287845287981218"></a>
 </blockquote>
 
 ---
@@ -24,33 +56,29 @@
 
 **DATE**: 08/08（土） 10:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2085896721192878303"></a>
-</blockquote>
+[🎮プロジェ...](https://x.com/pj_sekai/status/2085896721192878303)
+<br>
+#プロセカCS
 
 ---
 
 **DATE**: 08/08（土） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2085742762943803750"></a>
-</blockquote>
+[💫星乃一歌...](https://x.com/pj_sekai/status/2085742762943803750)
 
 ---
 
 **DATE**: 08/07（金） 21:38
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2085707236857573843"></a>
-</blockquote>
+[💫Leo/...](https://x.com/pj_sekai/status/2085707236857573843)
 
 ---
 
 **DATE**: 08/07（金） 21:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2085698408799756401"></a>
-</blockquote>
+[『天秤、指...](https://x.com/pj_sekai/status/2085698408799756401)
+<br>
+#レオニ
 
 ---
 
@@ -320,13 +348,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
@@ -1188,13 +1216,13 @@
 
 **DATE**: 07/19（日） 12:06
 <br>
-[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
+[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
 
 ---
 
 **DATE**: 07/19（日） 12:06
 <br>
-[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
+[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
 
 ---
 
@@ -1686,25 +1714,25 @@
 
 **DATE**: 06/30（火） 12:20
 <br>
-[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
+[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
 
 ---
 
 **DATE**: 06/30（火） 12:20
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
-
----
-
-**DATE**: 06/30（火） 12:18
-<br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
+[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
 
 ---
 
 **DATE**: 06/30（火） 12:18
 <br>
 [【100万...](https://x.com/pj_sekai/status/2071795485963370600)
+
+---
+
+**DATE**: 06/30（火） 12:18
+<br>
+[「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
 
 ---
 
@@ -1722,13 +1750,13 @@
 
 **DATE**: 06/30（火） 12:13
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
+[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
 
 ---
 
 **DATE**: 06/30（火） 12:13
 <br>
-[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
+[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
 
 ---
 
@@ -2810,13 +2838,13 @@
 
 ---
 
-**DATE**: 06/06（土） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/2063229416646533136)
+**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
 
 ---
 
-**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
+**DATE**: 06/06（土） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/2063229416646533136)
 
 ---
 
@@ -2886,15 +2914,15 @@
 
 **DATE**: 06/01（月） 17:19
 <br>
-[「衣装デザ...](https://x.com/pj_sekai/status/2061362067337367766)
+[NEWS内...](https://x.com/pj_sekai/status/2061362065437323270)
+<br>
+#プロセカ衣装デザイン
 
 ---
 
 **DATE**: 06/01（月） 17:19
 <br>
-[NEWS内...](https://x.com/pj_sekai/status/2061362065437323270)
-<br>
-#プロセカ衣装デザイン
+[「衣装デザ...](https://x.com/pj_sekai/status/2061362067337367766)
 
 ---
 
@@ -4062,13 +4090,13 @@
 
 **DATE**: 05/08（金） 12:12
 <br>
-[【丁寧な一...](https://x.com/pj_sekai/status/2052587411247611951)
+[「風運ぶ青...](https://x.com/pj_sekai/status/2052587408496197698)
 
 ---
 
 **DATE**: 05/08（金） 12:12
 <br>
-[「風運ぶ青...](https://x.com/pj_sekai/status/2052587408496197698)
+[【丁寧な一...](https://x.com/pj_sekai/status/2052587411247611951)
 
 ---
 
@@ -4121,32 +4149,6 @@
 [5月8日（...](https://x.com/pj_sekai/status/2052224133040365769)
 <br>
 #セカラジ
-
----
-
-**DATE**: 05/06（水） 22:12
-<br>
-[『星に一番...](https://x.com/pj_sekai/status/2052013741479456846)
-<br>
-#レオニ
-
----
-
-**DATE**: 05/06（水） 22:08
-<br>
-[💫Leo/...](https://x.com/pj_sekai/status/2052012692689362964)
-<br>
-#レオニ
-
----
-
-**DATE**: 05/06（水） 21:00 イベント「**あたたかな思い出を辿って**」 終了
-
----
-
-**DATE**: 05/06（水） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/2051995392066433415)
 
 <script>
 let nowDt = new Date();
