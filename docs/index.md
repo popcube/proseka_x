@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/09 16:14
+### 最終更新：2026/08/10 12:11
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/10（月） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2086649838909919566"></a>
 </blockquote>
 
 ---
@@ -52,9 +60,7 @@
 
 **DATE**: 08/09（日） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2086288045146538133"></a>
-</blockquote>
+[「Pier...](https://x.com/pj_sekai/status/2086288045146538133)
 
 ---
 
@@ -1748,13 +1754,13 @@
 
 **DATE**: 06/30（火） 12:18
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
+[【100万...](https://x.com/pj_sekai/status/2071795485963370600)
 
 ---
 
 **DATE**: 06/30（火） 12:18
 <br>
-[【100万...](https://x.com/pj_sekai/status/2071795485963370600)
+[「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
 
 ---
 
@@ -2530,13 +2536,13 @@
 
 **DATE**: 06/20（土） 12:07
 <br>
-[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
+[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
 
 ---
 
 **DATE**: 06/20（土） 12:07
 <br>
-[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
+[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
 
 ---
 
@@ -4112,13 +4118,13 @@
 
 **DATE**: 05/08（金） 12:12
 <br>
-[「風運ぶ青...](https://x.com/pj_sekai/status/2052587408496197698)
+[【丁寧な一...](https://x.com/pj_sekai/status/2052587411247611951)
 
 ---
 
 **DATE**: 05/08（金） 12:12
 <br>
-[【丁寧な一...](https://x.com/pj_sekai/status/2052587411247611951)
+[「風運ぶ青...](https://x.com/pj_sekai/status/2052587408496197698)
 
 ---
 
@@ -4157,20 +4163,6 @@
 **DATE**: 05/08（金） 11:37
 <br>
 [下記楽曲の...](https://x.com/pj_sekai/status/2052578510808694895)
-
----
-
-**DATE**: 05/07（木） 15:01
-<br>
-[明日、5月...](https://x.com/pj_sekai/status/2052267489355354398)
-
----
-
-**DATE**: 05/07（木） 12:08
-<br>
-[5月8日（...](https://x.com/pj_sekai/status/2052224133040365769)
-<br>
-#セカラジ
 
 <script>
 let nowDt = new Date();
