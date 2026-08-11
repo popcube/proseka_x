@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/11 00:36
+### 最終更新：2026/08/11 12:03
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/11（火） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2087011132913697201"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/11（火） 10:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2086980919844360490"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 08/10（月） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2086695661618303228"></a>
-</blockquote>
+[じん楽曲追...](https://x.com/pj_sekai/status/2086695661618303228)
+<br>
+#レオニ
 
 ---
 
 **DATE**: 08/10（月） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2086649838909919566"></a>
-</blockquote>
+[🌲ワールド...](https://x.com/pj_sekai/status/2086649838909919566)
 
 ---
 
@@ -400,13 +414,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
@@ -2560,13 +2574,13 @@
 
 **DATE**: 06/20（土） 12:07
 <br>
-[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
+[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
 
 ---
 
 **DATE**: 06/20（土） 12:07
 <br>
-[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
+[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
 
 ---
 
@@ -2890,13 +2904,13 @@
 
 ---
 
-**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
-
----
-
 **DATE**: 06/06（土） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/2063229416646533136)
+
+---
+
+**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
 
 ---
 
@@ -4083,36 +4097,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/2052946660443963394)
 <br>
 #セカイの4コマ #天馬咲希誕生祭2026
-
----
-
-**DATE**: 05/09（土） 00:01
-<br>
-[💫天馬咲希...](https://x.com/pj_sekai/status/2052765717716680931)
-
----
-
-**DATE**: 05/09（土） 00:00
-<br>
-[㊗️本日5...](https://x.com/pj_sekai/status/2052765477932564870)
-<br>
-#天馬咲希誕生祭2026
-
----
-
-**DATE**: 05/08（金） 20:00
-<br>
-[📺WEBラ...](https://x.com/pj_sekai/status/2052705067652784332)
-<br>
-#セカラジ
-
----
-
-**DATE**: 05/08（金） 18:01
-<br>
-[「プロセカ...](https://x.com/pj_sekai/status/2052675187431416005)
-<br>
-#プロセカ放送局
 
 <script>
 let nowDt = new Date();
