@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/13 13:00
+### 最終更新：2026/08/13 16:50
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/13（木） 15:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2087783197774070056"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/13（木） 15:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2087783171983368457"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,17 @@
 
 **DATE**: 08/12（水） 12:13
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2087376991142171128"></a>
-</blockquote>
+[本日予定し...](https://x.com/pj_sekai/status/2087376991142171128)
+<br>
+#プロセカCS
 
 ---
 
 **DATE**: 08/12（水） 12:12
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2087376659603484958"></a>
-</blockquote>
+[🎮プロジェ...](https://x.com/pj_sekai/status/2087376659603484958)
+<br>
+#プロセカCS
 
 ---
 
@@ -1850,13 +1866,13 @@
 
 **DATE**: 06/30（火） 12:20
 <br>
-[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
+[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
 
 ---
 
 **DATE**: 06/30（火） 12:20
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
+[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
 
 ---
 
