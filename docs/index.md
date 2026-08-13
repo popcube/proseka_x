@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/12 18:04
+### 最終更新：2026/08/13 13:00
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/13（木） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2087736869333442918"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 08/12（水） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2087373516782116896"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/2087373516782116896)
+<br>
+#セカイの4コマ
 
 ---
 
@@ -1854,13 +1862,13 @@
 
 **DATE**: 06/30（火） 12:18
 <br>
-[【100万...](https://x.com/pj_sekai/status/2071795485963370600)
+[「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
 
 ---
 
 **DATE**: 06/30（火） 12:18
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
+[【100万...](https://x.com/pj_sekai/status/2071795485963370600)
 
 ---
 
@@ -2966,13 +2974,13 @@
 
 ---
 
-**DATE**: 06/06（土） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/2063229416646533136)
+**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
 
 ---
 
-**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
+**DATE**: 06/06（土） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/2063229416646533136)
 
 ---
 
@@ -4051,98 +4059,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/2053671723028099348)
 <br>
 #セカイの4コマ
-
----
-
-**DATE**: 05/10（日） 22:10
-<br>
-[📝アンケー...](https://x.com/pj_sekai/status/2053462596012105839)
-<br>
-#コネクトライブ
-
----
-
-**DATE**: 05/10（日） 22:08
-<br>
-[#コネクト...](https://x.com/pj_sekai/status/2053462221544628583)
-<br>
-#コネクトライブ #コネクトライブ
-
----
-
-**DATE**: 05/10（日） 21:01
-<br>
-[#コネクト...](https://x.com/pj_sekai/status/2053445208281694469)
-<br>
-#コネクトライブ #コネクトライブ
-
----
-
-**DATE**: 05/10（日） 20:08
-<br>
-[#コネクト...](https://x.com/pj_sekai/status/2053431863377826095)
-<br>
-#コネクトライブ #コネクトライブ
-
----
-
-**DATE**: 05/10（日） 18:00
-<br>
-[#コネクト...](https://x.com/pj_sekai/status/2053399842630823943)
-<br>
-#コネクトライブ #コネクトライブ
-
----
-
-**DATE**: 05/10（日） 17:32
-<br>
-[#コネクト...](https://x.com/pj_sekai/status/2053392642327933326)
-<br>
-#コネクトライブ
-
----
-
-**DATE**: 05/10（日） 16:28
-<br>
-[#コネクト...](https://x.com/pj_sekai/status/2053376708729041315)
-<br>
-#コネクトライブ #コネクトライブ
-
----
-
-**DATE**: 05/10（日） 14:01
-<br>
-[#コネクト...](https://x.com/pj_sekai/status/2053339501918130664)
-<br>
-#コネクトライブ #コネクトライブ
-
----
-
-**DATE**: 05/10（日） 13:30
-<br>
-[#コネクト...](https://x.com/pj_sekai/status/2053331697920544909)
-<br>
-#コネクトライブ
-
----
-
-**DATE**: 05/10（日） 12:30
-<br>
-[#コネクト...](https://x.com/pj_sekai/status/2053316597163442365)
-<br>
-#コネクトライブ
-
----
-
-**DATE**: 05/10（日） 12:11
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2053311988856746183)
-
----
-
-**DATE**: 05/10（日） 12:04
-<br>
-[🌲ワールド...](https://x.com/pj_sekai/status/2053310178389524990)
 
 <script>
 let nowDt = new Date();
