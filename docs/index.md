@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/14 12:56
+### 最終更新：2026/08/14 16:47
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/14（金） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2088145035040878710"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/14（金） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2088145020541112694"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 08/13（木） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2087736869333442918"></a>
-</blockquote>
+[8月14日...](https://x.com/pj_sekai/status/2087736869333442918)
+<br>
+#セカラジ
 
 ---
 
 **DATE**: 08/12（水） 15:19
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2087423676795003289"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2087423676795003289)
 
 ---
 
@@ -174,13 +188,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
@@ -1874,13 +1888,13 @@
 
 **DATE**: 06/30（火） 12:20
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
+[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
 
 ---
 
 **DATE**: 06/30（火） 12:20
 <br>
-[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
+[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
 
 ---
 
