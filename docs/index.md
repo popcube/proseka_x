@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/15 20:25
+### 最終更新：2026/08/15 21:23
 
 
 ---
@@ -11,6 +11,18 @@
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
 </blockquote>
+
+---
+
+**DATE**: 08/15（土） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2088596576864256009"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/15（土） 21:00 イベント「**Leap Beyond The Limits！**」 終了
 
 ---
 
@@ -48,9 +60,7 @@
 
 **DATE**: 08/14（金） 11:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2088086200515187105"></a>
-</blockquote>
+[初音ミク「...](https://x.com/pj_sekai/status/2088086200515187105)
 
 ---
 
@@ -536,13 +546,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
@@ -1902,25 +1912,25 @@
 
 **DATE**: 06/30（火） 12:20
 <br>
-[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
+[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
 
 ---
 
 **DATE**: 06/30（火） 12:20
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
-
----
-
-**DATE**: 06/30（火） 12:18
-<br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
+[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
 
 ---
 
 **DATE**: 06/30（火） 12:18
 <br>
 [【100万...](https://x.com/pj_sekai/status/2071795485963370600)
+
+---
+
+**DATE**: 06/30（火） 12:18
+<br>
+[「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
 
 ---
 
@@ -3102,15 +3112,15 @@
 
 **DATE**: 06/01（月） 17:19
 <br>
-[「衣装デザ...](https://x.com/pj_sekai/status/2061362067337367766)
+[NEWS内...](https://x.com/pj_sekai/status/2061362065437323270)
+<br>
+#プロセカ衣装デザイン
 
 ---
 
 **DATE**: 06/01（月） 17:19
 <br>
-[NEWS内...](https://x.com/pj_sekai/status/2061362065437323270)
-<br>
-#プロセカ衣装デザイン
+[「衣装デザ...](https://x.com/pj_sekai/status/2061362067337367766)
 
 ---
 
@@ -4059,12 +4069,6 @@
 **DATE**: 05/14（木） 00:00
 <br>
 [👑天馬司 ...](https://x.com/pj_sekai/status/2054577415368683730)
-
----
-
-**DATE**: 05/13（水） 12:00
-<br>
-[💫Leo/...](https://x.com/pj_sekai/status/2054396227098153280)
 
 <script>
 let nowDt = new Date();
