@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/15 21:23
+### 最終更新：2026/08/15 22:41
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/15（土） 22:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2088614115208282210"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/15（土） 22:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2088613962451718567"></a>
 </blockquote>
 
 ---
@@ -44,17 +60,15 @@
 
 **DATE**: 08/14（金） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2088145035040878710"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2088145035040878710)
 
 ---
 
 **DATE**: 08/14（金） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2088145020541112694"></a>
-</blockquote>
+[じん楽曲追...](https://x.com/pj_sekai/status/2088145020541112694)
+<br>
+#ニーゴ
 
 ---
 
@@ -212,13 +226,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
