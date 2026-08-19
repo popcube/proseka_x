@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/18 18:24
+### 最終更新：2026/08/19 12:38
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/19（水） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2089910976128885244"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/19（水） 12:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2089910821061271576"></a>
 </blockquote>
 
 ---
@@ -44,17 +60,15 @@
 
 **DATE**: 08/17（月） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2089276050287010263"></a>
-</blockquote>
+[🏮あやかし...](https://x.com/pj_sekai/status/2089276050287010263)
+<br>
+#プロセカあやかし横丁の夏休み
 
 ---
 
 **DATE**: 08/17（月） 12:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2089187879599915501"></a>
-</blockquote>
+[【あの頃言...](https://x.com/pj_sekai/status/2089187879599915501)
 
 ---
 
@@ -2046,25 +2060,25 @@
 
 **DATE**: 06/30（火） 12:20
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
+[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
 
 ---
 
 **DATE**: 06/30（火） 12:20
 <br>
-[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
-
----
-
-**DATE**: 06/30（火） 12:18
-<br>
-[【100万...](https://x.com/pj_sekai/status/2071795485963370600)
+[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
 
 ---
 
 **DATE**: 06/30（火） 12:18
 <br>
 [「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
+
+---
+
+**DATE**: 06/30（火） 12:18
+<br>
+[【100万...](https://x.com/pj_sekai/status/2071795485963370600)
 
 ---
 
@@ -3170,13 +3184,13 @@
 
 ---
 
-**DATE**: 06/06（土） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/2063229416646533136)
+**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
 
 ---
 
-**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
+**DATE**: 06/06（土） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/2063229416646533136)
 
 ---
 
@@ -4153,32 +4167,6 @@
 **DATE**: 05/17（日） 11:34
 <br>
 [下記楽曲の...](https://x.com/pj_sekai/status/2055839391361515793)
-
----
-
-**DATE**: 05/17（日） 00:01
-<br>
-[👑天馬司 ...](https://x.com/pj_sekai/status/2055664820675080307)
-
----
-
-**DATE**: 05/17（日） 00:00
-<br>
-[㊗️本日5...](https://x.com/pj_sekai/status/2055664577249968608)
-<br>
-#天馬司誕生祭2026
-
----
-
-**DATE**: 05/16（土） 21:04
-<br>
-[💿Vivi...](https://x.com/pj_sekai/status/2055620403553525867)
-
----
-
-**DATE**: 05/16（土） 15:00
-<br>
-[明日、5月...](https://x.com/pj_sekai/status/2055528676331299308)
 
 <script>
 let nowDt = new Date();
