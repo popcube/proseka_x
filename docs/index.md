@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/20 18:48
+### 最終更新：2026/08/21 13:23
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/21（金） 12:33
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2090643464832856416"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 08/19（水） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2090000830909014253"></a>
-</blockquote>
+[🏮#プロセ...](https://x.com/pj_sekai/status/2090000830909014253)
+<br>
+#プロセカあやかし横丁の夏休み #レオニ
 
 ---
 
@@ -392,13 +400,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
@@ -2104,13 +2112,13 @@
 
 **DATE**: 06/30（火） 12:18
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
+[【100万...](https://x.com/pj_sekai/status/2071795485963370600)
 
 ---
 
 **DATE**: 06/30（火） 12:18
 <br>
-[【100万...](https://x.com/pj_sekai/status/2071795485963370600)
+[「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
 
 ---
 
@@ -4059,26 +4067,6 @@
 **DATE**: 05/19（火） 12:14
 <br>
 [マイセカイ...](https://x.com/pj_sekai/status/2056574206335422877)
-
----
-
-**DATE**: 05/18（月） 19:06
-<br>
-[💫Leo/...](https://x.com/pj_sekai/status/2056315433163341908)
-
----
-
-**DATE**: 05/18（月） 15:07
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2056255400299966729)
-
----
-
-**DATE**: 05/18（月） 15:07
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2056255282880327927)
-<br>
-#モモジャン
 
 <script>
 let nowDt = new Date();
