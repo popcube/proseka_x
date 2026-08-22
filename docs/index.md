@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/22 18:06
+### 最終更新：2026/08/23 00:26
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/23（日） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2091178589618307460"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 08/21（金） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2090725611647979563"></a>
-</blockquote>
+[『ハイドア...](https://x.com/pj_sekai/status/2090725611647979563)
+<br>
+#レオニ
 
 ---
 
@@ -2172,13 +2180,13 @@
 
 **DATE**: 06/30（火） 12:13
 <br>
-[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
+[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
 
 ---
 
 **DATE**: 06/30（火） 12:13
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
+[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
 
 ---
 
@@ -2930,13 +2938,13 @@
 
 **DATE**: 06/20（土） 12:07
 <br>
-[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
+[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
 
 ---
 
 **DATE**: 06/20（土） 12:07
 <br>
-[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
+[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
 
 ---
 
@@ -4061,24 +4069,6 @@
 **DATE**: 05/21（木） 00:00
 <br>
 [💿青柳冬弥...](https://x.com/pj_sekai/status/2057114132005126160)
-
----
-
-**DATE**: 05/20（水） 15:04
-<br>
-[💿青柳冬弥...](https://x.com/pj_sekai/status/2056979314416164971)
-
----
-
-**DATE**: 05/20（水） 12:07
-<br>
-[📺番組冒頭...](https://x.com/pj_sekai/status/2056934846698852829)
-
----
-
-**DATE**: 05/20（水） 12:06
-<br>
-[5月27日...](https://x.com/pj_sekai/status/2056934444318310718)
 
 <script>
 let nowDt = new Date();
