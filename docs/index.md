@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/23 20:35
+### 最終更新：2026/08/24 00:23
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/24（月） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2091540971817492643"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 08/22（土） 15:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2091042965938696586"></a>
-</blockquote>
+[🎧暁山瑞希...](https://x.com/pj_sekai/status/2091042965938696586)
 
 ---
 
@@ -458,13 +464,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
@@ -4069,14 +4075,6 @@
 **DATE**: 05/21（木） 18:05
 <br>
 [アイス泥棒...](https://x.com/pj_sekai/status/2057387266377703901)
-
----
-
-**DATE**: 05/21（木） 12:23
-<br>
-[5月22日...](https://x.com/pj_sekai/status/2057301263667306630)
-<br>
-#セカラジ
 
 <script>
 let nowDt = new Date();
