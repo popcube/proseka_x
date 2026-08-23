@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/23 00:26
+### 最終更新：2026/08/23 18:58
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/23（日） 18:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2091450374196740134"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 08/21（金） 18:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2090726853686206722"></a>
-</blockquote>
+[🏮#プロセ...](https://x.com/pj_sekai/status/2090726853686206722)
+<br>
+#プロセカあやかし横丁の夏休み #ビビバス
 
 ---
 
@@ -444,13 +452,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
@@ -2938,13 +2946,13 @@
 
 **DATE**: 06/20（土） 12:07
 <br>
-[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
+[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
 
 ---
 
 **DATE**: 06/20（土） 12:07
 <br>
-[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
+[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
 
 ---
 
@@ -4063,12 +4071,6 @@
 [5月22日...](https://x.com/pj_sekai/status/2057301263667306630)
 <br>
 #セカラジ
-
----
-
-**DATE**: 05/21（木） 00:00
-<br>
-[💿青柳冬弥...](https://x.com/pj_sekai/status/2057114132005126160)
 
 <script>
 let nowDt = new Date();
