@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/24 00:23
+### 最終更新：2026/08/24 17:10
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/24（月） 15:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2091769702238593463"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/24（月） 15:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2091769608537837709"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 08/23（日） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2091178589618307460"></a>
-</blockquote>
+[🎧暁山瑞希...](https://x.com/pj_sekai/status/2091178589618307460)
 
 ---
 
 **DATE**: 08/22（土） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2091087987664994659"></a>
-</blockquote>
+[🏮#プロセ...](https://x.com/pj_sekai/status/2091087987664994659)
+<br>
+#プロセカあやかし横丁の夏休み #ワンダショ
 
 ---
 
@@ -464,13 +478,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
@@ -3288,13 +3302,13 @@
 
 ---
 
-**DATE**: 06/06（土） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/2063229416646533136)
+**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
 
 ---
 
-**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
+**DATE**: 06/06（土） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/2063229416646533136)
 
 ---
 
@@ -4057,24 +4071,6 @@
 [本日15時...](https://x.com/pj_sekai/status/2057704647843004484)
 <br>
 #ニーゴ
-
----
-
-**DATE**: 05/22（金） 00:00
-<br>
-[💿青柳冬弥...](https://x.com/pj_sekai/status/2057476508571320508)
-
----
-
-**DATE**: 05/21（木） 20:05
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/2057417603598197171)
-
----
-
-**DATE**: 05/21（木） 18:05
-<br>
-[アイス泥棒...](https://x.com/pj_sekai/status/2057387266377703901)
 
 <script>
 let nowDt = new Date();
