@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/24 19:51
+### 最終更新：2026/08/25 12:39
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/25（火） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2092085918115209286"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 08/24（月） 15:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2091769608537837709"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/2091769608537837709)
 
 ---
 
@@ -2198,13 +2204,13 @@
 
 **DATE**: 06/30（火） 12:20
 <br>
-[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
+[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
 
 ---
 
 **DATE**: 06/30（火） 12:20
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
+[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
 
 ---
 
@@ -2992,13 +2998,13 @@
 
 **DATE**: 06/20（土） 12:07
 <br>
-[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
+[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
 
 ---
 
 **DATE**: 06/20（土） 12:07
 <br>
-[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
+[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
 
 ---
 
@@ -4059,36 +4065,6 @@
 **DATE**: 05/23（土） 18:00
 <br>
 [『ラグトレ...](https://x.com/pj_sekai/status/2058110691207426105)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 05/22（金） 20:00
-<br>
-[📺WEBラ...](https://x.com/pj_sekai/status/2057778514330316898)
-<br>
-#セカラジ
-
----
-
-**DATE**: 05/22（金） 18:01
-<br>
-[『ラグトレ...](https://x.com/pj_sekai/status/2057748648210129218)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 05/22（金） 15:06
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2057704714314342652)
-
----
-
-**DATE**: 05/22（金） 15:06
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2057704647843004484)
 <br>
 #ニーゴ
 
