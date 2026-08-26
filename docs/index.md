@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/26 14:15
+### 最終更新：2026/08/26 14:51
 
 
 ---
@@ -18,6 +18,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2092454491295477776"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/26（水） 12:22
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2092452573609623929"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/26（水） 12:20
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2092452015880458342"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 08/25（火） 18:17
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092179570879513046"></a>
-</blockquote>
+[🏮#プロセ...](https://x.com/pj_sekai/status/2092179570879513046)
+<br>
+#プロセカあやかし横丁の夏休み #レオニ
 
 ---
 
 **DATE**: 08/25（火） 18:15
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092178959408730297"></a>
-</blockquote>
+[明日、8月...](https://x.com/pj_sekai/status/2092178959408730297)
 
 ---
 
@@ -876,13 +890,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
