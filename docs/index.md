@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/25 20:20
+### 最終更新：2026/08/26 12:44
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/26（水） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2092447189100331207"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 08/24（月） 18:14
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2091816470884061666"></a>
-</blockquote>
+[🏮#プロセ...](https://x.com/pj_sekai/status/2091816470884061666)
+<br>
+#プロセカあやかし横丁の夏休み
 
 ---
 
@@ -1728,13 +1736,13 @@
 
 **DATE**: 07/19（日） 12:06
 <br>
-[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
+[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
 
 ---
 
 **DATE**: 07/19（日） 12:06
 <br>
-[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
+[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
 
 ---
 
@@ -3020,13 +3028,13 @@
 
 **DATE**: 06/20（土） 12:07
 <br>
-[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
+[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
 
 ---
 
 **DATE**: 06/20（土） 12:07
 <br>
-[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
+[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
 
 ---
 
@@ -3350,13 +3358,13 @@
 
 ---
 
-**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
-
----
-
 **DATE**: 06/06（土） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/2063229416646533136)
+
+---
+
+**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
 
 ---
 
@@ -4075,20 +4083,6 @@
 [㊗️本日5...](https://x.com/pj_sekai/status/2058563675586453978)
 <br>
 #青柳冬弥誕生祭2026
-
----
-
-**DATE**: 05/23（土） 20:05
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/2058142300598128894)
-
----
-
-**DATE**: 05/23（土） 18:00
-<br>
-[『ラグトレ...](https://x.com/pj_sekai/status/2058110691207426105)
-<br>
-#ニーゴ
 
 <script>
 let nowDt = new Date();
