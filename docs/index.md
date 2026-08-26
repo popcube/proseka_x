@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/26 23:04
+### 最終更新：2026/08/27 00:53
 
 
 ---
@@ -30,6 +30,14 @@
 
 ---
 
+**DATE**: 08/26（水） 20:53
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2092581103781752847"></a>
+</blockquote>
+
+---
+
 **DATE**: 08/26（水） 20:51
 <br>
 <blockquote class="twitter-tweet">
@@ -48,9 +56,9 @@
 
 **DATE**: 08/26（水） 20:45
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092579084866064800"></a>
-</blockquote>
+[🎶楽曲追加...](https://x.com/pj_sekai/status/2092579084866064800)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -3240,13 +3248,13 @@
 
 **DATE**: 06/20（土） 12:07
 <br>
-[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
+[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
 
 ---
 
 **DATE**: 06/20（土） 12:07
 <br>
-[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
+[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
 
 ---
 
@@ -3570,13 +3578,13 @@
 
 ---
 
-**DATE**: 06/06（土） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/2063229416646533136)
+**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
 
 ---
 
-**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
+**DATE**: 06/06（土） 21:00
+<br>
+[本日22時...](https://x.com/pj_sekai/status/2063229416646533136)
 
 ---
 
