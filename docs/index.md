@@ -1,7 +1,18 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/27 06:47
+### 最終更新：2026/08/27 13:08
+
+<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-0" style="display: none;">
+08/28（金） 08:30 ～ 11:30
+　<a href="https://x.com/pj_sekai/status/2092797024387375614">公式ポスト</a>
+</div>
 
 
 ---
@@ -14,43 +25,79 @@
 
 ---
 
-**DATE**: 08/27（木） 00:15
+**DATE**: 08/27（木） 12:28
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092631906009702646"></a>
+<a href="https://twitter.com/pj_sekai/status/2092816582175306000"></a>
 </blockquote>
+
+---
+
+**DATE**: 08/27（木） 12:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2092810590964388129"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（木） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2092809329871085955"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（木） 11:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2092797171821322529"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（木） 11:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2092797024387375614"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（木） 00:15
+<br>
+[🎤初音ミク...](https://x.com/pj_sekai/status/2092631906009702646)
+<br>
+#初音ミク
 
 ---
 
 **DATE**: 08/27（木） 00:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092629389699871043"></a>
-</blockquote>
+[🎧暁山瑞希...](https://x.com/pj_sekai/status/2092629389699871043)
 
 ---
 
 **DATE**: 08/27（木） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092628139990286633"></a>
-</blockquote>
+[㊗️本日8...](https://x.com/pj_sekai/status/2092628139990286633)
+<br>
+#暁山瑞希誕生祭2026
 
 ---
 
 **DATE**: 08/26（水） 22:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092599351701094876"></a>
-</blockquote>
+[【お知らせ...](https://x.com/pj_sekai/status/2092599351701094876)
 
 ---
 
 **DATE**: 08/26（水） 21:53
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092596246611743115"></a>
-</blockquote>
+[🎊プロセカ...](https://x.com/pj_sekai/status/2092596246611743115)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -1026,13 +1073,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
@@ -3528,13 +3575,13 @@
 
 **DATE**: 06/20（土） 12:07
 <br>
-[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
+[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
 
 ---
 
 **DATE**: 06/20（土） 12:07
 <br>
-[「Act ...](https://x.com/pj_sekai/status/2068168928954892317)
+[【憂いの先...](https://x.com/pj_sekai/status/2068168931249107202)
 
 ---
 
@@ -3934,15 +3981,15 @@
 
 **DATE**: 06/01（月） 17:19
 <br>
-[NEWS内...](https://x.com/pj_sekai/status/2061362065437323270)
-<br>
-#プロセカ衣装デザイン
+[「衣装デザ...](https://x.com/pj_sekai/status/2061362067337367766)
 
 ---
 
 **DATE**: 06/01（月） 17:19
 <br>
-[「衣装デザ...](https://x.com/pj_sekai/status/2061362067337367766)
+[NEWS内...](https://x.com/pj_sekai/status/2061362065437323270)
+<br>
+#プロセカ衣装デザイン
 
 ---
 
@@ -4570,21 +4617,17 @@
 <br>
 #セカイの4コマ #青柳冬弥誕生祭2026
 
----
-
-**DATE**: 05/25（月） 00:01
-<br>
-[💿青柳冬弥...](https://x.com/pj_sekai/status/2058563923851583868)
-
----
-
-**DATE**: 05/25（月） 00:00
-<br>
-[㊗️本日5...](https://x.com/pj_sekai/status/2058563675586453978)
-<br>
-#青柳冬弥誕生祭2026
-
 <script>
 let nowDt = new Date();
+let startDt0 = new Date(2026, 7, 28, 8, 30);
+let endDt0 = new Date(2026, 7, 28, 11, 30);
+if ((startDt0 < nowDt) && (nowDt < endDt0)){
+  document.getElementById('maint-ongoing-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
+else if (nowDt < startDt0){
+  document.getElementById('maint-planned-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
