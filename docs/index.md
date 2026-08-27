@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/27 22:27
+### 最終更新：2026/08/28 08:01
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -21,6 +21,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/28（金） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2092990531261395133"></a>
 </blockquote>
 
 ---
@@ -63,9 +71,7 @@
 
 **DATE**: 08/27（木） 12:28
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092816582175306000"></a>
-</blockquote>
+[先日投稿し...](https://x.com/pj_sekai/status/2092816582175306000)
 
 ---
 
@@ -1445,13 +1451,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
@@ -2827,13 +2833,13 @@
 
 **DATE**: 06/30（火） 12:18
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
+[【100万...](https://x.com/pj_sekai/status/2071795485963370600)
 
 ---
 
 **DATE**: 06/30（火） 12:18
 <br>
-[【100万...](https://x.com/pj_sekai/status/2071795485963370600)
+[「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
 
 ---
 
@@ -2851,13 +2857,13 @@
 
 **DATE**: 06/30（火） 12:13
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
+[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
 
 ---
 
 **DATE**: 06/30（火） 12:13
 <br>
-[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
+[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
 
 ---
 
@@ -3943,13 +3949,13 @@
 
 ---
 
-**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
-
----
-
 **DATE**: 06/06（土） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/2063229416646533136)
+
+---
+
+**DATE**: 06/06（土） 21:00 イベント「**最果てへと飛ぶキミへ**」 終了
 
 ---
 
@@ -4590,62 +4596,6 @@
 **DATE**: 05/26（火） 12:00
 <br>
 [明日、5月...](https://x.com/pj_sekai/status/2059107266389852392)
-
----
-
-**DATE**: 05/25（月） 21:00
-<br>
-[6月5日（...](https://x.com/pj_sekai/status/2058880762913640476)
-<br>
-#セカラジ
-
----
-
-**DATE**: 05/25（月） 20:17
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/2058869979572015253)
-
----
-
-**DATE**: 05/25（月） 17:37
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2058829786093695130)
-<br>
-#プロセカプロフィール帳交換会 #レオニ
-
----
-
-**DATE**: 05/25（月） 17:37
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2058829778988478579)
-<br>
-#プロセカプロフィール帳交換会 #レオニ
-
----
-
-**DATE**: 05/25（月） 17:31
-<br>
-[プロセカプ...](https://x.com/pj_sekai/status/2058828318808645951)
-<br>
-#プロセカプロフィール帳交換会
-
----
-
-**DATE**: 05/25（月） 16:46
-<br>
-[「衣装デザ...](https://x.com/pj_sekai/status/2058817032481857921)
-
----
-
-**DATE**: 05/25（月） 15:10
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2058792865267105812)
-
----
-
-**DATE**: 05/25（月） 15:10
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2058792808815964421)
 
 <script>
 let nowDt = new Date();
