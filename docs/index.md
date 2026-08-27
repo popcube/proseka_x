@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/27 14:48
+### 最終更新：2026/08/27 22:27
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -25,6 +25,42 @@
 
 ---
 
+**DATE**: 08/27（木） 20:22
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2092935686605398025"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（木） 20:21
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2092935598525051061"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（木） 20:00 イベント「**Again And Again Ambition！**」 終了
+
+---
+
+**DATE**: 08/27（木） 18:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2092902739273810040"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/27（木） 18:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2092901060583334140"></a>
+</blockquote>
+
+---
+
 **DATE**: 08/27（木） 12:28
 <br>
 <blockquote class="twitter-tweet">
@@ -35,33 +71,29 @@
 
 **DATE**: 08/27（木） 12:28
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092816371302510597"></a>
-</blockquote>
+[🎊グッズ情...](https://x.com/pj_sekai/status/2092816371302510597)
 
 ---
 
 **DATE**: 08/27（木） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092810590964388129"></a>
-</blockquote>
+[8月28日...](https://x.com/pj_sekai/status/2092810590964388129)
+<br>
+#セカラジ
 
 ---
 
 **DATE**: 08/27（木） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092809329871085955"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/2092809329871085955)
+<br>
+#セカイの4コマ #暁山瑞希誕生祭2026
 
 ---
 
 **DATE**: 08/27（木） 11:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092797171821322529"></a>
-</blockquote>
+[【アップデ...](https://x.com/pj_sekai/status/2092797171821322529)
 
 ---
 
@@ -2819,13 +2851,13 @@
 
 **DATE**: 06/30（火） 12:13
 <br>
-[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
+[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
 
 ---
 
 **DATE**: 06/30（火） 12:13
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
+[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
 
 ---
 
@@ -3987,15 +4019,15 @@
 
 **DATE**: 06/01（月） 17:19
 <br>
-[「衣装デザ...](https://x.com/pj_sekai/status/2061362067337367766)
+[NEWS内...](https://x.com/pj_sekai/status/2061362065437323270)
+<br>
+#プロセカ衣装デザイン
 
 ---
 
 **DATE**: 06/01（月） 17:19
 <br>
-[NEWS内...](https://x.com/pj_sekai/status/2061362065437323270)
-<br>
-#プロセカ衣装デザイン
+[「衣装デザ...](https://x.com/pj_sekai/status/2061362067337367766)
 
 ---
 
@@ -4614,14 +4646,6 @@
 **DATE**: 05/25（月） 15:10
 <br>
 [本日15時...](https://x.com/pj_sekai/status/2058792808815964421)
-
----
-
-**DATE**: 05/25（月） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2058744876825813038)
-<br>
-#セカイの4コマ #青柳冬弥誕生祭2026
 
 <script>
 let nowDt = new Date();
