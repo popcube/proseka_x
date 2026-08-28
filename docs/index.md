@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/28 23:47
+### 最終更新：2026/08/29 08:48
 
 
 ---
@@ -18,6 +18,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2093307624414740533"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/28（金） 19:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2093278017460269345"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 08/28（金） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2093262324735807724"></a>
-</blockquote>
+[『ペンタト...](https://x.com/pj_sekai/status/2093262324735807724)
 
 ---
 
@@ -73,6 +79,12 @@
 [本日15時...](https://x.com/pj_sekai/status/2093223165082456065)
 <br>
 #マジカルミライ2026
+
+---
+
+**DATE**: 08/28（金） 13:49
+<br>
+[先日投稿し...](https://x.com/pj_sekai/status/2093199157905572237)
 
 ---
 
@@ -1224,13 +1236,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
@@ -1558,13 +1570,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
@@ -4132,15 +4144,15 @@
 
 **DATE**: 06/01（月） 17:19
 <br>
-[「衣装デザ...](https://x.com/pj_sekai/status/2061362067337367766)
+[NEWS内...](https://x.com/pj_sekai/status/2061362065437323270)
+<br>
+#プロセカ衣装デザイン
 
 ---
 
 **DATE**: 06/01（月） 17:19
 <br>
-[NEWS内...](https://x.com/pj_sekai/status/2061362065437323270)
-<br>
-#プロセカ衣装デザイン
+[「衣装デザ...](https://x.com/pj_sekai/status/2061362067337367766)
 
 ---
 
@@ -4675,22 +4687,6 @@
 **DATE**: 05/27（水） 12:00
 <br>
 [本日19:...](https://x.com/pj_sekai/status/2059469647985131952)
-
----
-
-**DATE**: 05/26（火） 17:01
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2059183170894057503)
-<br>
-#プロセカプロフィール帳交換会 #モモジャン
-
----
-
-**DATE**: 05/26（火） 17:01
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2059183163990245794)
-<br>
-#プロセカプロフィール帳交換会 #モモジャン
 
 <script>
 let nowDt = new Date();
