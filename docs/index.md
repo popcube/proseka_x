@@ -1,18 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/08/28 08:01
-
-<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
-【メンテナンス実施中】
-</div></div>
-<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-<div id="maint-0" style="display: none;">
-08/28（金） 08:30 ～ 11:30
-　<a href="https://x.com/pj_sekai/status/2092797024387375614">公式ポスト</a>
-</div>
+### 最終更新：2026/08/28 12:32
 
 
 ---
@@ -21,6 +10,30 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/28（金） 12:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2093174091813716006"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/28（金） 11:44
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2093167897690739070"></a>
+</blockquote>
+
+---
+
+**DATE**: 08/28（金） 10:13
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2093144981183844724"></a>
 </blockquote>
 
 ---
@@ -43,9 +56,7 @@
 
 **DATE**: 08/27（木） 20:21
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092935598525051061"></a>
-</blockquote>
+[ワールドリ...](https://x.com/pj_sekai/status/2092935598525051061)
 
 ---
 
@@ -55,17 +66,15 @@
 
 **DATE**: 08/27（木） 18:11
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092902739273810040"></a>
-</blockquote>
+[『ペンタト...](https://x.com/pj_sekai/status/2092902739273810040)
 
 ---
 
 **DATE**: 08/27（木） 18:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2092901060583334140"></a>
-</blockquote>
+[🏮#プロセ...](https://x.com/pj_sekai/status/2092901060583334140)
+<br>
+#プロセカあやかし横丁の夏休み #ビビバス
 
 ---
 
@@ -281,6 +290,14 @@
 
 ---
 
+**DATE**: 08/26（水） 20:49
+<br>
+[👑ワンダー...](https://x.com/pj_sekai/status/2092580293387649097)
+<br>
+#プロセカ放送局
+
+---
+
 **DATE**: 08/26（水） 20:48
 <br>
 [👑ワンダー...](https://x.com/pj_sekai/status/2092580020485337382)
@@ -490,6 +507,14 @@
 **DATE**: 08/26（水） 20:20
 <br>
 [🏡マイセカ...](https://x.com/pj_sekai/status/2092572848921681944)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 08/26（水） 20:19
+<br>
+[🏡マイセカ...](https://x.com/pj_sekai/status/2092572744840081769)
 <br>
 #プロセカ放送局
 
@@ -4599,15 +4624,5 @@
 
 <script>
 let nowDt = new Date();
-let startDt0 = new Date(2026, 7, 28, 8, 30);
-let endDt0 = new Date(2026, 7, 28, 11, 30);
-if ((startDt0 < nowDt) && (nowDt < endDt0)){
-  document.getElementById('maint-ongoing-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
-else if (nowDt < startDt0){
-  document.getElementById('maint-planned-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
