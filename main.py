@@ -114,7 +114,8 @@ def post_sort(response):
           sorted_posts.append([
             datetime_str(post_obj_list[0]["datecreated"]),        ## date
             post_id,                                              ## id
-            post_obj_list[0]["articlebody"].rstrip("Translate post"),     ## body
+            post_obj_list[0]["text"].rstrip("Translate post"),    ## body
+            #  post_obj_list[0]["articlebody"].rstrip("Translate post"),     ## body (now removed)
             #  metatag_body,                                         ## metatag body
             now_str                                               ## detected time
           ])
