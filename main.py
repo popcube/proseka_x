@@ -32,9 +32,10 @@ def get_current_data():
 
 def get_search_response(days, keyword, max_page, ex_urls):
   if GOOGE_API_DEBUG == 'yes':
-    print("GOOGE_API_DEBUG")
+    days=10
     max_page = 10
     ex_urls = []
+    print(f"GOOGE_API_DEBUG: days={days}, max_page={max_page}, ex_urls={" ".join(ex_urls)}")
   service = build("customsearch", "v1", developerKey=GOOGLE_API_KEY)
 
   start_index = 1
