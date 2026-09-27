@@ -113,7 +113,7 @@ def post_sort(response):
           post_obj_list = item["pagemap"]["socialmediaposting"]
           metatag_body = item["pagemap"]["metatags"][0]["og:description"]
           person_obj_list = item["pagemap"]["person"]
-          if "identifier" in post_obj_list[0]:
+          if "identifier" in post_obj_list[0].keys():
             post_id = post_obj_list[0]["identifier"]
           else:
             post_id = item["pagemap"]["metatags"][0]["og:url"].split("/")[-1]
@@ -132,6 +132,7 @@ def post_sort(response):
         except Exception as e:
           print(e)
           print("cannot retrieve item from out.json, skipping...")
+          print(item["pagemap"]["socialmediaposting"]) ## for temporary debug ToBeDeleted
           pass
           
     sorted_posts.sort(key=lambda x: x[1], reverse=True)
@@ -200,8 +201,8 @@ if __name__ == '__main__':
     # with open("x_ids.text", "w") as f:
     #   f.writelines([added_post[1] + "\n" for added_post in added_posts])
       
-    with redirect_stdout(open(os.devnull, 'w')):
-      generator()
+    # with redirect_stdout(open(os.devnull, 'w')):
+    #   generator()
     
     ## FOR DEBUG
     ## added_posts = [["", "1981375057005072654"]]

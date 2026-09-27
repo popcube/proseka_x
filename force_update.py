@@ -7,6 +7,9 @@ import re
 from make_index_md_3 import main as make_index_md
 from send_to_discord import main as send_to_discord
 from private_script_storage.populate_from_ids import main as populate_from_ids
+from private_script_storage.generator import main as generator
+
+from contextlib import redirect_stdout
 
 GITHUB_EVENT_PATH = os.environ.get("GITHUB_EVENT_PATH")
 GITHUB_OUTPUT = os.environ.get("GITHUB_OUTPUT")
@@ -47,6 +50,8 @@ def main(ids):
       elif re.fullmatch(url_pattern, id):
         ids.append(re.match(url_pattern, id).group(2))
   else:
+    with redirect_stdout(open(os.devnull, 'w')):
+      generator()
     with open("./gt.txt", "r") as f:
       gt = f.read().rstrip("\n")
     
