@@ -10,9 +10,6 @@ from googleapiclient.discovery import build
 from make_index_md_3 import main as make_index_md
 from send_to_discord import main as send_to_discord
 from force_update import main as force_update
-from private_script_storage.generator import main as generator
-
-from contextlib import redirect_stdout
 
 GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
 SEARCH_ENGINE_ID = os.environ.get("SEARCH_ENGINE_ID")
@@ -122,7 +119,7 @@ def post_sort(response):
             continue
           
           sorted_posts.append([
-            datetime_str(post_obj_list[0]["datecreated"]),        ## date
+            datetime_str(post_obj_list[0]["datepublished"]),        ## date
             post_id,                                              ## id
             post_obj_list[0]["text"].rstrip("Translate post"),    ## body
             #  post_obj_list[0]["articlebody"].rstrip("Translate post"),     ## body (now removed)
