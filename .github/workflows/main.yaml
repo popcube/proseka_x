@@ -28,6 +28,8 @@ jobs:
       GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       SEARCH_ENGINE_ID: ${{ secrets.SEARCH_ENGINE_ID }}
       DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+      ACTIVATE_URL: ${{ secrets.ACTIVATE_URL }}
+      BEARER_TOKEN: ${{ secrets.BEARER_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
