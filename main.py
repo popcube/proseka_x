@@ -101,12 +101,22 @@ def post_sort(response):
   else:
     now_str = (datetime.now() + timedelta(hours=9)).isoformat()
     for res in response:
+      if not "items" in res.keys():
+        print("items key is not found in json response")
+        print("sort skipping...")
+        print()
+        print(res)
+        print()
+        continue
       for item in res["items"]:
         try:
           post_obj_list = item["pagemap"]["socialmediaposting"]
           metatag_body = item["pagemap"]["metatags"][0]["og:description"]
           person_obj_list = item["pagemap"]["person"]
-          post_id = post_obj_list[0]["identifier"]
+          if "identifier" in post_obj_list[0]:
+            post_id = post_obj_list[0]["identifier"]
+          else:
+            post_id = item["pagemap"]["metatags"][0]["og:url"].split("/")[-1]
           if detect_rt(post_obj_list, person_obj_list, metatag_body):
             print(f"{post_id} is deemed as Repost, skipping...")
             continue
