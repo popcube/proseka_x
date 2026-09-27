@@ -7,7 +7,8 @@ import re
 from make_index_md_3 import main as make_index_md
 from send_to_discord import main as send_to_discord
 from private_script_storage.populate_from_ids import main as populate_from_ids
-from private_script_storage.generator import main as generator
+# from private_script_storage.generator import main as generator
+from update_to_lambda.main import main as generator
 
 from contextlib import redirect_stdout
 

@@ -61,8 +61,14 @@ jobs:
           token: ${{ secrets.FULL_REPO_TOKEN }}
           repository: "popcube/private_script_storage"
           path: ./private_script_storage
-      
-      
+
+      - name: sub script checkout 2
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.FULL_REPO_TOKEN }}
+          repository: "popcube/update_to_lambda"
+          path: ./update_to_lambda
+            
       - name: sub script library install
         run: pip install -r ./private_script_storage/requirements.txt
           
