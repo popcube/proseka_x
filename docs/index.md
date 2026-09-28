@@ -1,7 +1,18 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/09/27 22:11
+### 最終更新：2026/09/28 18:07
+
+<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-0" style="display: none;">
+09/29（火） 21:00 ～ 09/30（水） 00:00
+　<a href="https://x.com/pj_sekai/status/2104443323159330837">公式ポスト</a>
+</div>
 
 
 ---
@@ -10,6 +21,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2084202595128873142"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/28（月） 18:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2104496336729170169"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/28（月） 14:29
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2104443323159330837"></a>
 </blockquote>
 
 ---
@@ -44,17 +71,13 @@
 
 **DATE**: 09/25（金） 12:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2103320695048745337"></a>
-</blockquote>
+[フィナーレ...](https://x.com/pj_sekai/status/2103320695048745337)
 
 ---
 
 **DATE**: 09/25（金） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2103320168202207619"></a>
-</blockquote>
+[本日12時...](https://x.com/pj_sekai/status/2103320168202207619)
 
 ---
 
@@ -1310,13 +1333,13 @@
 
 **DATE**: 08/17（月） 12:08
 <br>
-[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
+[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
 
 ---
 
 **DATE**: 08/17（月） 12:08
 <br>
-[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
+[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
 
 ---
 
@@ -1590,13 +1613,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
@@ -1924,13 +1947,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
@@ -3446,525 +3469,17 @@
 <br>
 [プロジェク...](https://x.com/pj_sekai/status/2070387684091310093)
 
----
-
-**DATE**: 06/25（木） 21:50
-<br>
-[🎮プロジェ...](https://x.com/pj_sekai/status/2070127466002407705)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 06/25（木） 21:45
-<br>
-[先ほど投稿...](https://x.com/pj_sekai/status/2070126311197270028)
-
----
-
-**DATE**: 06/25（木） 21:42
-<br>
-[🎊プロセカ...](https://x.com/pj_sekai/status/2070125451213951297)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 21:21
-<br>
-[【#プロセ...](https://x.com/pj_sekai/status/2070120239728345292)
-<br>
-#プロセカ放送局 #プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 21:21
-<br>
-[🎊グッズ情...](https://x.com/pj_sekai/status/2070120096631292213)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 21:19
-<br>
-[🎊グッズ情...](https://x.com/pj_sekai/status/2070119638789509211)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 21:16
-<br>
-[『劇場版プ...](https://x.com/pj_sekai/status/2070118928802873424)
-<br>
-#プロセカ放送局 #劇場版プロセカ
-
----
-
-**DATE**: 06/25（木） 21:15
-<br>
-[プロセカ ...](https://x.com/pj_sekai/status/2070118702419431875)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 21:14
-<br>
-[🎨CLIP...](https://x.com/pj_sekai/status/2070118501633884383)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 21:14
-<br>
-[🎧25時、...](https://x.com/pj_sekai/status/2070118336260902939)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 21:13
-<br>
-[💿Vivi...](https://x.com/pj_sekai/status/2070118185383375225)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 21:12
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2070117820332208307)
-<br>
-#プロセカ感謝祭 #プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 21:10
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2070117499694366750)
-<br>
-#プロセカ感謝祭 #プロセカCS #プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 21:06
-<br>
-[🎮プロジェ...](https://x.com/pj_sekai/status/2070116515643572252)
-<br>
-#プロセカ放送局 #プロセカCS
-
----
-
-**DATE**: 06/25（木） 21:06
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2070116296210231801)
-<br>
-#プロセカ感謝祭 #プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 21:03
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2070115583727919248)
-<br>
-#プロセカ感謝祭 #プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 21:02
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2070115436520509463)
-<br>
-#プロセカ感謝祭 #プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 21:02
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2070115310565491199)
-<br>
-#プロセカ感謝祭 #プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 21:01
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2070115184501535096)
-<br>
-#プロセカ感謝祭 #プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 21:00
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2070114927705227347)
-<br>
-#プロセカ感謝祭 #プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:56
-<br>
-[#プロセカ...](https://x.com/pj_sekai/status/2070113828340429222)
-<br>
-#プロセカ感謝祭 #プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:52
-<br>
-[🌳ワールド...](https://x.com/pj_sekai/status/2070112820101034224)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:51
-<br>
-[🌳ワールド...](https://x.com/pj_sekai/status/2070112571806695504)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:49
-<br>
-[🎧25時、...](https://x.com/pj_sekai/status/2070112109439160662)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:48
-<br>
-[🎧25時、...](https://x.com/pj_sekai/status/2070111929566461992)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:46
-<br>
-[☘️MOR...](https://x.com/pj_sekai/status/2070111464615215430)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:46
-<br>
-[☘️MOR...](https://x.com/pj_sekai/status/2070111308926840956)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:43
-<br>
-[🎶楽曲追加...](https://x.com/pj_sekai/status/2070110743320773040)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:43
-<br>
-[🎶楽曲追加...](https://x.com/pj_sekai/status/2070110534859686290)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:42
-<br>
-[🎶楽曲追加...](https://x.com/pj_sekai/status/2070110365934055923)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:39
-<br>
-[6月30日...](https://x.com/pj_sekai/status/2070109555636469891)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:38
-<br>
-[ブルームフ...](https://x.com/pj_sekai/status/2070109411583181058)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:38
-<br>
-[ブルームフ...](https://x.com/pj_sekai/status/2070109269098398121)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:36
-<br>
-[🌳ワールド...](https://x.com/pj_sekai/status/2070108902243676575)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:35
-<br>
-[🌳ワールド...](https://x.com/pj_sekai/status/2070108614665343392)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:34
-<br>
-[椎名もた楽...](https://x.com/pj_sekai/status/2070108465587183671)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:34
-<br>
-[椎名もた楽...](https://x.com/pj_sekai/status/2070108258380222605)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:33
-<br>
-[椎名もた楽...](https://x.com/pj_sekai/status/2070108142802014484)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:32
-<br>
-[椎名もた楽...](https://x.com/pj_sekai/status/2070107929131507865)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:32
-<br>
-[「You ...](https://x.com/pj_sekai/status/2070107816715813327)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:31
-<br>
-[椎名もた楽...](https://x.com/pj_sekai/status/2070107652244623740)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:30
-<br>
-[🌎ワールド...](https://x.com/pj_sekai/status/2070107483029619123)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:30
-<br>
-[🎶APPE...](https://x.com/pj_sekai/status/2070107352582463609)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:30
-<br>
-[🏡マイセカ...](https://x.com/pj_sekai/status/2070107243564110331)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:29
-<br>
-[🏡マイセカ...](https://x.com/pj_sekai/status/2070107050491998588)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:28
-<br>
-[🏡マイセカ...](https://x.com/pj_sekai/status/2070106903733244315)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:27
-<br>
-[【お知らせ...](https://x.com/pj_sekai/status/2070106697436369242)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:26
-<br>
-[アップデー...](https://x.com/pj_sekai/status/2070106469891272995)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:26
-<br>
-[アップデー...](https://x.com/pj_sekai/status/2070106309991751762)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:25
-<br>
-[アップデー...](https://x.com/pj_sekai/status/2070106103611036154)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:24
-<br>
-[アップデー...](https://x.com/pj_sekai/status/2070105922253500505)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:20
-<br>
-[🏡マイセカ...](https://x.com/pj_sekai/status/2070104764244013488)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:19
-<br>
-[🏡マイセカ...](https://x.com/pj_sekai/status/2070104597625196692)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:18
-<br>
-[🏡マイセカ...](https://x.com/pj_sekai/status/2070104436178059407)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:15
-<br>
-[🎨一緒につ...](https://x.com/pj_sekai/status/2070103683157934431)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:14
-<br>
-[🎨一緒につ...](https://x.com/pj_sekai/status/2070103290613043220)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:12
-<br>
-[🎨一緒につ...](https://x.com/pj_sekai/status/2070102912009900041)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:08
-<br>
-[🎊一緒につ...](https://x.com/pj_sekai/status/2070101790415376395)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 20:02
-<br>
-[『プロセカ...](https://x.com/pj_sekai/status/2070100314171318278)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 19:31
-<br>
-[生放送中に...](https://x.com/pj_sekai/status/2070092571792249259)
-<br>
-#プロセカ放送局 #プロセカ放送局 #プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 19:31
-<br>
-[ボカロミュ...](https://x.com/pj_sekai/status/2070092436886679956)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 19:30
-<br>
-[🌈プロセカ...](https://x.com/pj_sekai/status/2070092272306417763)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 06/25（木） 19:30 「**プロセカ放送局 第33回**」 放送開始
-
----
-
-**DATE**: 06/25（木） 18:00
-<br>
-[このあと1...](https://x.com/pj_sekai/status/2070069492063879356)
-
----
-
-**DATE**: 06/25（木） 15:13
-<br>
-[『ANiM...](https://x.com/pj_sekai/status/2070027708453785772)
-<br>
-#DEEMO
-
----
-
-**DATE**: 06/25（木） 15:06
-<br>
-[プロジェク...](https://x.com/pj_sekai/status/2070025723457556892)
-
 <script>
 let nowDt = new Date();
+let startDt0 = new Date(2026, 8, 29, 21, 0);
+let endDt0 = new Date(2026, 8, 30, 0, 0);
+if ((startDt0 < nowDt) && (nowDt < endDt0)){
+  document.getElementById('maint-ongoing-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
+else if (nowDt < startDt0){
+  document.getElementById('maint-planned-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
