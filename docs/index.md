@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/09/28 18:13
+### 最終更新：2026/09/29 12:19
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -25,6 +25,34 @@
 
 ---
 
+**DATE**: 09/29（火） 12:13
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2104771542404207023"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/29（火） 12:13
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2104771458522288590"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/29（火） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2104768131852120514"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/28（月） 20:00 イベント「**&ref(): File not found: "Connect to SEKAI!.png" at page "イベント"; Connect to SEKAI!**」 終了
+
+---
+
 **DATE**: 09/28（月） 18:00
 <br>
 <blockquote class="twitter-tweet">
@@ -43,25 +71,21 @@
 
 **DATE**: 09/28（月） 14:28
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2104443038575849789"></a>
-</blockquote>
+[【アップデ...](https://x.com/pj_sekai/status/2104443038575849789)
 
 ---
 
 **DATE**: 09/27（日） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2104133954471141802"></a>
-</blockquote>
+[🎮プロジェ...](https://x.com/pj_sekai/status/2104133954471141802)
+<br>
+#プロセカCS
 
 ---
 
 **DATE**: 09/27（日） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2104044718661517721"></a>
-</blockquote>
+[もうすぐ6...](https://x.com/pj_sekai/status/2104044718661517721)
 
 ---
 
@@ -1621,13 +1645,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
@@ -3361,13 +3385,13 @@
 
 **DATE**: 06/30（火） 12:13
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
+[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
 
 ---
 
 **DATE**: 06/30（火） 12:13
 <br>
-[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
+[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
 
 ---
 
@@ -3448,34 +3472,6 @@
 **DATE**: 06/28（日） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/2071201952868794698)
-
----
-
-**DATE**: 06/28（日） 21:00 イベント「**Phantom maze monster**」 終了
-
----
-
-**DATE**: 06/26（金） 18:40
-<br>
-[【アップデ...](https://x.com/pj_sekai/status/2070441977100046832)
-
----
-
-**DATE**: 06/26（金） 18:38
-<br>
-[【メンテナ...](https://x.com/pj_sekai/status/2070441507480637888)
-
----
-
-**DATE**: 06/26（金） 18:04
-<br>
-[こはね・イ...](https://x.com/pj_sekai/status/2070433017785659705)
-
----
-
-**DATE**: 06/26（金） 15:04
-<br>
-[プロジェク...](https://x.com/pj_sekai/status/2070387684091310093)
 
 <script>
 let nowDt = new Date();
