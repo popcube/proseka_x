@@ -1,18 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/09/29 18:21
-
-<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
-【メンテナンス実施中】
-</div></div>
-<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-<div id="maint-0" style="display: none;">
-09/29（火） 21:00 ～ 09/30（水） 00:00
-　<a href="https://x.com/pj_sekai/status/2104443323159330837">公式ポスト</a>
-</div>
+### 最終更新：2026/09/30 01:02
 
 
 ---
@@ -25,47 +14,111 @@
 
 ---
 
+**DATE**: 09/30（水） 00:47
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2104961177629712505"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/30（水） 00:46
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2104960912558059819"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/30（水） 00:44
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2104960391835156524"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/30（水） 00:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2104951686053933148"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/30（水） 00:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2104950170077249658"></a>
+</blockquote>
+
+---
+
+**DATE**: 09/29（火） 23:42
+<br>
+[全世界プロ...](https://x.com/pj_sekai/status/2104944802798457011)
+<br>
+#プロセカ6周年 #SEKAIanniversary
+
+---
+
+**DATE**: 09/29（火） 23:32
+<br>
+[全世界プロ...](https://x.com/pj_sekai/status/2104942384677285953)
+<br>
+#プロセカ6周年 #SEKAIanniversary
+
+---
+
+**DATE**: 09/29（火） 23:20
+<br>
+[㊗️プロジ...](https://x.com/pj_sekai/status/2104939320130031929)
+<br>
+#プロセカ6周年
+
+---
+
+**DATE**: 09/29（火） 20:00
+<br>
+[㊗️プロジ...](https://x.com/pj_sekai/status/2104888941925011563)
+
+---
+
 **DATE**: 09/29（火） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2104858728143147296"></a>
-</blockquote>
+[🎮プロジェ...](https://x.com/pj_sekai/status/2104858728143147296)
+<br>
+#プロセカCS
 
 ---
 
 **DATE**: 09/29（火） 12:13
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2104771542404207023"></a>
-</blockquote>
+[明日12時...](https://x.com/pj_sekai/status/2104771542404207023)
 
 ---
 
 **DATE**: 09/29（火） 12:13
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2104771458522288590"></a>
-</blockquote>
+[明日12時...](https://x.com/pj_sekai/status/2104771458522288590)
 
 ---
 
 **DATE**: 09/29（火） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2104768131852120514"></a>
-</blockquote>
+[㊗️プロジ...](https://x.com/pj_sekai/status/2104768131852120514)
 
 ---
 
-**DATE**: 09/28（月） 20:00 イベント「**&ref(): File not found: "Connect to SEKAI!.png" at page "イベント"; Connect to SEKAI!**」 終了
+**DATE**: 09/28（月） 20:00 イベント「**Connect to SEKAI！**」 終了
 
 ---
 
 **DATE**: 09/28（月） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2104496336729170169"></a>
-</blockquote>
+[🎮プロジェ...](https://x.com/pj_sekai/status/2104496336729170169)
+<br>
+#プロセカCS
 
 ---
 
@@ -95,7 +148,7 @@
 
 ---
 
-**DATE**: 09/25（金） 20:00 イベント「**&ref(): File not found: "Connect to SEKAI!.png" at page "イベント"; Connect to SEKAI!**」 開始
+**DATE**: 09/25（金） 20:00 イベント「**Connect to SEKAI！**」 開始
 
 ---
 
@@ -2857,13 +2910,13 @@
 
 **DATE**: 07/19（日） 12:06
 <br>
-[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
+[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
 
 ---
 
 **DATE**: 07/19（日） 12:06
 <br>
-[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
+[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
 
 ---
 
@@ -3355,13 +3408,13 @@
 
 **DATE**: 06/30（火） 12:20
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
+[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
 
 ---
 
 **DATE**: 06/30（火） 12:20
 <br>
-[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
+[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
 
 ---
 
@@ -3481,15 +3534,5 @@
 
 <script>
 let nowDt = new Date();
-let startDt0 = new Date(2026, 8, 29, 21, 0);
-let endDt0 = new Date(2026, 8, 30, 0, 0);
-if ((startDt0 < nowDt) && (nowDt < endDt0)){
-  document.getElementById('maint-ongoing-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
-else if (nowDt < startDt0){
-  document.getElementById('maint-planned-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
