@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/02 01:42
+### 最終更新：2026/10/02 06:22
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -21,6 +21,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/02（金） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2105674106129854606"></a>
 </blockquote>
 
 ---
@@ -59,9 +67,7 @@
 
 **DATE**: 10/01（木） 17:39
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2105578424127660448"></a>
-</blockquote>
+[🎊一緒につ...](https://x.com/pj_sekai/status/2105578424127660448)
 
 ---
 
@@ -88,6 +94,12 @@
 **DATE**: 10/01（木） 12:12
 <br>
 [10月1日...](https://x.com/pj_sekai/status/2105495959551852711)
+
+---
+
+**DATE**: 10/01（木） 12:12
+<br>
+[10月1日...](https://x.com/pj_sekai/status/2105495923573055908)
 
 ---
 
@@ -3817,13 +3829,13 @@
 
 **DATE**: 06/30（火） 12:20
 <br>
-[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
+[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
 
 ---
 
 **DATE**: 06/30（火） 12:20
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
+[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
 
 ---
 
@@ -3853,13 +3865,13 @@
 
 **DATE**: 06/30（火） 12:13
 <br>
-[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
+[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
 
 ---
 
 **DATE**: 06/30（火） 12:13
 <br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
+[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
 
 ---
 
@@ -3872,18 +3884,6 @@
 **DATE**: 06/30（火） 12:10
 <br>
 [「ブルーム...](https://x.com/pj_sekai/status/2071793524522340479)
-
----
-
-**DATE**: 06/29（月） 16:48
-<br>
-[「プロセカ...](https://x.com/pj_sekai/status/2071500950293172534)
-
----
-
-**DATE**: 06/29（月） 16:45
-<br>
-[マイセカイ...](https://x.com/pj_sekai/status/2071500282480181383)
 
 <script>
 let nowDt = new Date();
