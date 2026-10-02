@@ -1,18 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/02 08:04
-
-<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
-【メンテナンス実施中】
-</div></div>
-<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-<div id="maint-0" style="display: none;">
-10/02（金） 11:00 ～ 11:30
-　<a href="https://x.com/pj_sekai/status/2105272361977290767">公式ポスト</a>
-</div>
+### 最終更新：2026/10/02 12:10
 
 
 ---
@@ -21,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/02（金） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2105855290566680667"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/02（金） 10:22
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2105830684661260629"></a>
 </blockquote>
 
 ---
@@ -51,17 +56,13 @@
 
 **DATE**: 10/01（木） 17:40
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2105578565698019480"></a>
-</blockquote>
+[💥第5回超...](https://x.com/pj_sekai/status/2105578565698019480)
 
 ---
 
 **DATE**: 10/01（木） 17:40
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2105578484231995526"></a>
-</blockquote>
+[🎊第37回...](https://x.com/pj_sekai/status/2105578484231995526)
 
 ---
 
@@ -3355,13 +3356,13 @@
 
 **DATE**: 07/19（日） 12:06
 <br>
-[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
+[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
 
 ---
 
 **DATE**: 07/19（日） 12:06
 <br>
-[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
+[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
 
 ---
 
@@ -3911,15 +3912,5 @@
 
 <script>
 let nowDt = new Date();
-let startDt0 = new Date(2026, 9, 2, 11, 0);
-let endDt0 = new Date(2026, 9, 2, 11, 30);
-if ((startDt0 < nowDt) && (nowDt < endDt0)){
-  document.getElementById('maint-ongoing-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
-else if (nowDt < startDt0){
-  document.getElementById('maint-planned-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
