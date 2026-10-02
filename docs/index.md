@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/02 18:13
+### 最終更新：2026/10/03 00:50
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/03（土） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2106036487179669890"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 10/02（金） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2105674106129854606"></a>
-</blockquote>
+[☘️桐谷遥...](https://x.com/pj_sekai/status/2105674106129854606)
 
 ---
 
@@ -3845,84 +3851,6 @@
 [今月の #...](https://x.com/pj_sekai/status/2072155087892570465)
 <br>
 #プロセカスケジュール
-
----
-
-**DATE**: 06/30（火） 15:11
-<br>
-[☘️MOR...](https://x.com/pj_sekai/status/2071839079457751545)
-<br>
-#モモジャン
-
----
-
-**DATE**: 06/30（火） 15:11
-<br>
-[本日15:...](https://x.com/pj_sekai/status/2071838971353813326)
-
----
-
-**DATE**: 06/30（火） 15:00 イベント「**アイドル・花里みのり～夢の最前線～**」 開始
-
----
-
-**DATE**: 06/30（火） 12:20
-<br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071796075007234069)
-
----
-
-**DATE**: 06/30（火） 12:20
-<br>
-[【ミクちゃ...](https://x.com/pj_sekai/status/2071796077028868257)
-
----
-
-**DATE**: 06/30（火） 12:18
-<br>
-[【100万...](https://x.com/pj_sekai/status/2071795485963370600)
-
----
-
-**DATE**: 06/30（火） 12:18
-<br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071795483849404841)
-
----
-
-**DATE**: 06/30（火） 12:15
-<br>
-[【可愛い応...](https://x.com/pj_sekai/status/2071794816623768029)
-
----
-
-**DATE**: 06/30（火） 12:15
-<br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071794814514028825)
-
----
-
-**DATE**: 06/30（火） 12:13
-<br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071794172731011503)
-
----
-
-**DATE**: 06/30（火） 12:13
-<br>
-[【あなたの...](https://x.com/pj_sekai/status/2071794174647828975)
-
----
-
-**DATE**: 06/30（火） 12:10
-<br>
-[【一緒に帰...](https://x.com/pj_sekai/status/2071793526422347877)
-
----
-
-**DATE**: 06/30（火） 12:10
-<br>
-[「ブルーム...](https://x.com/pj_sekai/status/2071793524522340479)
 
 <script>
 let nowDt = new Date();
