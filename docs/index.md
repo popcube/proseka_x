@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/03 11:56
+### 最終更新：2026/10/03 17:46
 
 
 ---
@@ -14,43 +14,92 @@
 
 ---
 
-**DATE**: 10/03（土） 09:00
+**DATE**: 10/03（土） 17:30
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2106172386613788920"></a>
+<a href="https://twitter.com/pj_sekai/status/2106300805724999947"></a>
 </blockquote>
+
+---
+
+**DATE**: 10/03（土） 15:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2106265681750822925"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/03（土） 12:32
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2106225805307289785"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/03（土） 12:32
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2106225751259537616"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/03（土） 12:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2106220136785142063"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/03（土） 12:08
+<br>
+[🎮プロジェ...](https://x.com/pj_sekai/status/2106219804004884544)
+
+---
+
+**DATE**: 10/03（土） 12:08
+<br>
+[プロジェク...](https://x.com/pj_sekai/status/2106219724405420344)
+
+---
+
+**DATE**: 10/03（土） 09:00
+<br>
+[本日より
+...](https://x.com/pj_sekai/status/2106172386613788920)
+<br>
+#プロセカ感謝祭 #プロセカCS
 
 ---
 
 **DATE**: 10/03（土） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2106036487179669890"></a>
-</blockquote>
+[🌟プロセカ...](https://x.com/pj_sekai/status/2106036487179669890)
+<br>
+#プロセカ6周年イラスト
 
 ---
 
 **DATE**: 10/02（金） 15:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2105901669141840038"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2105901669141840038)
 
 ---
 
 **DATE**: 10/02（金） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2105855290566680667"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/2105855290566680667)
+<br>
+#セカイの4コマ
 
 ---
 
 **DATE**: 10/02（金） 11:40
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2105850286686544344"></a>
-</blockquote>
+[【メンテナ...](https://x.com/pj_sekai/status/2105850286686544344)
 
 ---
 
@@ -3388,13 +3437,13 @@
 
 **DATE**: 07/19（日） 12:06
 <br>
-[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
+[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
 
 ---
 
 **DATE**: 07/19（日） 12:06
 <br>
-[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
+[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
 
 ---
 
