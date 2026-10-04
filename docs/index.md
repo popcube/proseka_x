@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/04 12:26
+### 最終更新：2026/10/04 18:12
 
 
 ---
@@ -14,43 +14,95 @@
 
 ---
 
-**DATE**: 10/04（日） 12:09
+**DATE**: 10/04（日） 16:04
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2106582524982108430"></a>
+<a href="https://twitter.com/pj_sekai/status/2106641468710592825"></a>
 </blockquote>
+
+---
+
+**DATE**: 10/04（日） 16:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2106641217161224660"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/04（日） 16:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2106640965213753704"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/04（日） 16:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2106640713597219304"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/04（日） 16:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2106640463591813137"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/04（日） 15:11
+<br>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2106628332792205425)
+
+---
+
+**DATE**: 10/04（日） 13:21
+<br>
+[先ほど投稿...](https://x.com/pj_sekai/status/2106600648850788604)
+
+---
+
+**DATE**: 10/04（日） 13:20
+<br>
+[『Tast...](https://x.com/pj_sekai/status/2106600411016855570)
+
+---
+
+**DATE**: 10/04（日） 12:09
+<br>
+[🌟6thア...](https://x.com/pj_sekai/status/2106582524982108430)
 
 ---
 
 **DATE**: 10/04（日） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2106398870624153958"></a>
-</blockquote>
+[🌟プロセカ...](https://x.com/pj_sekai/status/2106398870624153958)
 
 ---
 
 **DATE**: 10/03（土） 23:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2106383777648050564"></a>
-</blockquote>
+[🌟書き下ろ...](https://x.com/pj_sekai/status/2106383777648050564)
 
 ---
 
 **DATE**: 10/03（土） 22:37
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2106378074053063149"></a>
-</blockquote>
+[🎮プロジェ...](https://x.com/pj_sekai/status/2106378074053063149)
+<br>
+#プロセカCS
 
 ---
 
 **DATE**: 10/03（土） 22:33
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2106377035535016203"></a>
-</blockquote>
+[🎮プロジェ...](https://x.com/pj_sekai/status/2106377035535016203)
+<br>
+#プロセカCS
 
 ---
 
