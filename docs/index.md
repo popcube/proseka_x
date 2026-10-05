@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/05 07:16
+### 最終更新：2026/10/05 18:53
 
 
 ---
@@ -10,6 +10,38 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/05（月） 15:16
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2106991992895066479"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/05（月） 15:16
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2106991784249397268"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/05（月） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2106942703724581223"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/05（月） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2106942455249781008"></a>
 </blockquote>
 
 ---
@@ -24,33 +56,29 @@
 
 **DATE**: 10/05（月） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2106761509980549605"></a>
-</blockquote>
+[☘️桐谷遥...](https://x.com/pj_sekai/status/2106761509980549605)
 
 ---
 
 **DATE**: 10/05（月） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2106761266295398815"></a>
-</blockquote>
+[㊗️本日1...](https://x.com/pj_sekai/status/2106761266295398815)
+<br>
+#桐谷遥誕生祭2026
 
 ---
 
 **DATE**: 10/04（日） 21:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2106717777335898459"></a>
-</blockquote>
+[📝アンケー...](https://x.com/pj_sekai/status/2106717777335898459)
+<br>
+#プロセカ感謝祭
 
 ---
 
 **DATE**: 10/04（日） 16:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2106641468710592825"></a>
-</blockquote>
+[🎮プロジェ...](https://x.com/pj_sekai/status/2106641468710592825)
 
 ---
 
