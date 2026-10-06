@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/05 18:53
+### 最終更新：2026/10/06 12:53
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/06（火） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2107304853362090475"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 10/05（月） 00:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2106762516449939535"></a>
-</blockquote>
+[🌟プロセカ...](https://x.com/pj_sekai/status/2106762516449939535)
+<br>
+#プロセカ6周年イラスト
 
 ---
 
@@ -3649,13 +3657,13 @@
 
 **DATE**: 07/19（日） 12:06
 <br>
-[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
+[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
 
 ---
 
 **DATE**: 07/19（日） 12:06
 <br>
-[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
+[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
 
 ---
 
@@ -4010,14 +4018,6 @@
 **DATE**: 07/04（土） 12:08
 <br>
 [『キミと過...](https://x.com/pj_sekai/status/2073242604058341684)
-
----
-
-**DATE**: 07/03（金） 20:02
-<br>
-[📺WEBラ...](https://x.com/pj_sekai/status/2072999394769817802)
-<br>
-#セカラジ
 
 <script>
 let nowDt = new Date();
