@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/06 18:40
+### 最終更新：2026/10/07 18:37
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/07（水） 15:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2107714969387336081"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 10/05（月） 12:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2106942703724581223"></a>
-</blockquote>
+[「プロジェ...](https://x.com/pj_sekai/status/2106942703724581223)
+<br>
+#セカイの4コマ #桐谷遥誕生祭2026
 
 ---
 
@@ -2459,13 +2467,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
@@ -3665,13 +3673,13 @@
 
 **DATE**: 07/19（日） 12:06
 <br>
-[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
+[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
 
 ---
 
 **DATE**: 07/19（日） 12:06
 <br>
-[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
+[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
 
 ---
 
@@ -4014,18 +4022,6 @@
 **DATE**: 07/06（月） 15:14
 <br>
 [本日15時...](https://x.com/pj_sekai/status/2074014155028443275)
-
----
-
-**DATE**: 07/04（土） 17:06
-<br>
-[🏡マイセカ...](https://x.com/pj_sekai/status/2073317589795901773)
-
----
-
-**DATE**: 07/04（土） 12:08
-<br>
-[『キミと過...](https://x.com/pj_sekai/status/2073242604058341684)
 
 <script>
 let nowDt = new Date();
