@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/08 18:47
+### 最終更新：2026/10/09 02:06
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/08（木） 18:02
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2108120891825811572"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 10/06（火） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2107304853362090475"></a>
-</blockquote>
+[🌟プロセカ...](https://x.com/pj_sekai/status/2107304853362090475)
+<br>
+#プロセカ6周年イラスト
 
 ---
 
@@ -2199,13 +2207,13 @@
 
 **DATE**: 08/17（月） 12:08
 <br>
-[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
+[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
 
 ---
 
 **DATE**: 08/17（月） 12:08
 <br>
-[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
+[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
 
 ---
 
@@ -2813,13 +2821,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
@@ -4018,22 +4026,6 @@
 **DATE**: 07/07（火） 21:02
 <br>
 [本日22時...](https://x.com/pj_sekai/status/2074463988075909213)
-
----
-
-**DATE**: 07/07（火） 21:00 イベント「**アイドル・花里みのり～夢の最前線～**」 終了
-
----
-
-**DATE**: 07/06（月） 15:15
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2074014230765039646)
-
----
-
-**DATE**: 07/06（月） 15:14
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2074014155028443275)
 
 <script>
 let nowDt = new Date();
