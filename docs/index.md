@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/10 18:16
+### 最終更新：2026/10/11 00:29
 
 
 ---
@@ -11,6 +11,18 @@
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
 </blockquote>
+
+---
+
+**DATE**: 10/10（土） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2108890291650592826"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/10（土） 21:00 イベント「**Side by Side, Our ways！**」 終了
 
 ---
 
@@ -48,9 +60,7 @@
 
 **DATE**: 10/09（金） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2108438870895501675"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2108438870895501675)
 
 ---
 
@@ -4026,18 +4036,6 @@
 **DATE**: 07/09（木） 11:37
 <br>
 [下記楽曲の...](https://x.com/pj_sekai/status/2075046530797711505)
-
----
-
-**DATE**: 07/08（水） 15:05
-<br>
-[明日、7月...](https://x.com/pj_sekai/status/2074736721594642703)
-
----
-
-**DATE**: 07/08（水） 12:11
-<br>
-[プロセカ6...](https://x.com/pj_sekai/status/2074692931911565742)
 
 <script>
 let nowDt = new Date();
