@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/12 19:03
+### 最終更新：2026/10/13 04:47
 
 
 ---
@@ -11,6 +11,18 @@
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
 </blockquote>
+
+---
+
+**DATE**: 10/12（月） 18:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2109570524246688159"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/12（月） 15:00 イベント「**Stars Off Orbit**」 開始
 
 ---
 
@@ -52,9 +64,9 @@
 
 **DATE**: 10/09（金） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2108512816231539103"></a>
-</blockquote>
+[📺WEBラ...](https://x.com/pj_sekai/status/2108512816231539103)
+<br>
+#セカラジ
 
 ---
 
@@ -2871,13 +2883,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
@@ -3940,14 +3952,6 @@
 [🎮プロジェ...](https://x.com/pj_sekai/status/2075749044891373591)
 <br>
 #プロセカCS
-
----
-
-**DATE**: 07/10（金） 18:00
-<br>
-[『1000...](https://x.com/pj_sekai/status/2075505304637526133)
-<br>
-#ワンダショ
 
 <script>
 let nowDt = new Date();
