@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/11 00:29
+### 最終更新：2026/10/12 19:03
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/12（月） 12:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2109483116180234751"></a>
 </blockquote>
 
 ---
@@ -52,9 +60,9 @@
 
 **DATE**: 10/09（金） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2108482616697446405"></a>
-</blockquote>
+[『転生林檎...](https://x.com/pj_sekai/status/2108482616697446405)
+<br>
+#ワンダショ
 
 ---
 
@@ -3940,102 +3948,6 @@
 [『1000...](https://x.com/pj_sekai/status/2075505304637526133)
 <br>
 #ワンダショ
-
----
-
-**DATE**: 07/09（木） 18:13
-<br>
-[📝アンケー...](https://x.com/pj_sekai/status/2075146219010302397)
-
----
-
-**DATE**: 07/09（木） 18:10
-<br>
-[『1000...](https://x.com/pj_sekai/status/2075145505659875551)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 07/09（木） 18:07
-<br>
-[「プロセカ...](https://x.com/pj_sekai/status/2075144762232058210)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 07/09（木） 15:11
-<br>
-[🎧25時、...](https://x.com/pj_sekai/status/2075100388165128590)
-<br>
-#ニーゴ
-
----
-
-**DATE**: 07/09（木） 15:09
-<br>
-[本日15:...](https://x.com/pj_sekai/status/2075100113698217984)
-
----
-
-**DATE**: 07/09（木） 15:00 イベント「**褪せない今を、彩って**」 開始
-
----
-
-**DATE**: 07/09（木） 12:06
-<br>
-[【穏やかな...](https://x.com/pj_sekai/status/2075054031429566879)
-
----
-
-**DATE**: 07/09（木） 12:06
-<br>
-[「透き明く...](https://x.com/pj_sekai/status/2075053976081547622)
-
----
-
-**DATE**: 07/09（木） 12:05
-<br>
-[【指先なぞ...](https://x.com/pj_sekai/status/2075053823996170653)
-
----
-
-**DATE**: 07/09（木） 12:05
-<br>
-[「透き明く...](https://x.com/pj_sekai/status/2075053767545012469)
-
----
-
-**DATE**: 07/09（木） 12:05
-<br>
-[【藍に咲く...](https://x.com/pj_sekai/status/2075053595213603271)
-
----
-
-**DATE**: 07/09（木） 12:04
-<br>
-[「透き明く...](https://x.com/pj_sekai/status/2075053535784526226)
-
----
-
-**DATE**: 07/09（木） 12:03
-<br>
-[🎮プロジェ...](https://x.com/pj_sekai/status/2075053210646303142)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 07/09（木） 11:38
-<br>
-[「幾望の月...](https://x.com/pj_sekai/status/2075046813154079060)
-
----
-
-**DATE**: 07/09（木） 11:37
-<br>
-[下記楽曲の...](https://x.com/pj_sekai/status/2075046530797711505)
 
 <script>
 let nowDt = new Date();
