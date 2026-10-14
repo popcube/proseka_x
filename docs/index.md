@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/14 11:44
+### 最終更新：2026/10/15 07:09
 
 
 ---
@@ -51,6 +51,12 @@
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2109570524246688159"></a>
 </blockquote>
+
+---
+
+**DATE**: 10/12（月） 15:04
+<br>
+[本日15:...](https://x.com/pj_sekai/status/2109525693646401840)
 
 ---
 
@@ -3822,13 +3828,13 @@
 
 **DATE**: 07/19（日） 12:06
 <br>
-[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
+[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
 
 ---
 
 **DATE**: 07/19（日） 12:06
 <br>
-[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
+[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
 
 ---
 
@@ -3985,24 +3991,6 @@
 [本日15時...](https://x.com/pj_sekai/status/2076548907711262833)
 <br>
 #ビビバス
-
----
-
-**DATE**: 07/12（日） 12:06
-<br>
-[🌲ワールド...](https://x.com/pj_sekai/status/2076140995348247039)
-
----
-
-**DATE**: 07/12（日） 12:05
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2076140774077690284)
-
----
-
-**DATE**: 07/12（日） 12:04
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2076140690497818715)
 
 <script>
 let nowDt = new Date();
