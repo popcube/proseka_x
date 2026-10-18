@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/16 16:46
+### 最終更新：2026/10/18 16:33
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/18（日） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2111653504406454468"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 10/16（金） 15:17
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2110978380355211765"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2110978380355211765)
 
 ---
 
@@ -114,13 +120,13 @@
 
 **DATE**: 10/12（月） 12:15
 <br>
-[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
+[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
 
 ---
 
 **DATE**: 10/12（月） 12:15
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
+[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
 
 ---
 
@@ -3973,46 +3979,6 @@
 **DATE**: 07/17（金） 00:00
 <br>
 [👑草薙寧々...](https://x.com/pj_sekai/status/2077770236728647999)
-
----
-
-**DATE**: 07/16（木） 00:00
-<br>
-[👑草薙寧々...](https://x.com/pj_sekai/status/2077407843880431981)
-
----
-
-**DATE**: 07/15（水） 18:04
-<br>
-[『セカラジ...](https://x.com/pj_sekai/status/2077318372468166790)
-<br>
-#セカラジ
-
----
-
-**DATE**: 07/15（水） 18:04
-<br>
-[7月24日...](https://x.com/pj_sekai/status/2077318370417090592)
-<br>
-#セカラジ
-
----
-
-**DATE**: 07/15（水） 15:07
-<br>
-[👑草薙寧々...](https://x.com/pj_sekai/status/2077273725658177721)
-
----
-
-**DATE**: 07/15（水） 10:45
-<br>
-[【Andr...](https://x.com/pj_sekai/status/2077207972581900341)
-
----
-
-**DATE**: 07/14（火） 18:34
-<br>
-[【Andr...](https://x.com/pj_sekai/status/2076963472311713926)
 
 <script>
 let nowDt = new Date();
