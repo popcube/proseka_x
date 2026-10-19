@@ -1,7 +1,18 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/19 17:20
+### 最終更新：2026/10/20 00:46
+
+<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-0" style="display: none;">
+10/21（水） 08:30 ～ 11:30
+　<a href="https://x.com/pj_sekai/status/2112148654551421237">公式ポスト</a>
+</div>
 
 
 ---
@@ -10,6 +21,42 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/19（月） 22:43
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2112177839533338794"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/19（月） 21:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2112154312478691802"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/19（月） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2112151781585125840"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/19（月） 21:00 イベント「**Stars Off Orbit**」 終了
+
+---
+
+**DATE**: 10/19（月） 20:47
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2112148654551421237"></a>
 </blockquote>
 
 ---
@@ -24,33 +71,31 @@
 
 **DATE**: 10/19（月） 15:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2112062993475465708"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/2112062993475465708)
+<br>
+#ワンダショ
 
 ---
 
 **DATE**: 10/18（日） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2111653504406454468"></a>
-</blockquote>
+[10月21...](https://x.com/pj_sekai/status/2111653504406454468)
+<br>
+#ビビバス
 
 ---
 
 **DATE**: 10/16（金） 15:39
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2110983868014895470"></a>
-</blockquote>
+[【お知らせ...](https://x.com/pj_sekai/status/2110983868014895470)
 
 ---
 
 **DATE**: 10/16（金） 15:38
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2110983806727709025"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/2110983806727709025)
+<br>
+#コネクトライブ
 
 ---
 
@@ -124,13 +169,13 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
@@ -3014,13 +3059,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
@@ -3978,19 +4023,17 @@
 <br>
 [セカイの隅...](https://x.com/pj_sekai/status/2078043036798644540)
 
----
-
-**DATE**: 07/17（金） 15:10
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2077999387410927893)
-
----
-
-**DATE**: 07/17（金） 15:10
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2077999333799252246)
-
 <script>
 let nowDt = new Date();
+let startDt0 = new Date(2026, 9, 21, 8, 30);
+let endDt0 = new Date(2026, 9, 21, 11, 30);
+if ((startDt0 < nowDt) && (nowDt < endDt0)){
+  document.getElementById('maint-ongoing-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
+else if (nowDt < startDt0){
+  document.getElementById('maint-planned-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
