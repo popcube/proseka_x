@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/20 00:46
+### 最終更新：2026/10/20 05:49
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -29,6 +29,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2112177839533338794"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/19（月） 21:42
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2112162362010792059"></a>
 </blockquote>
 
 ---
@@ -63,9 +71,7 @@
 
 **DATE**: 10/19（月） 15:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2112063028149764292"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2112063028149764292)
 
 ---
 
@@ -169,13 +175,13 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
@@ -2445,13 +2451,13 @@
 
 **DATE**: 08/17（月） 12:08
 <br>
-[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
+[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
 
 ---
 
 **DATE**: 08/17（月） 12:08
 <br>
-[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
+[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
 
 ---
 
@@ -3059,13 +3065,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
@@ -3931,13 +3937,13 @@
 
 **DATE**: 07/19（日） 12:06
 <br>
-[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
+[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
 
 ---
 
 **DATE**: 07/19（日） 12:06
 <br>
-[『arou...](https://x.com/pj_sekai/status/2078677943275155881)
+[【心の濁り...](https://x.com/pj_sekai/status/2078677945418404138)
 
 ---
 
@@ -4006,22 +4012,6 @@
 **DATE**: 07/17（金） 21:00
 <br>
 [本日22時...](https://x.com/pj_sekai/status/2078087329244131363)
-
----
-
-**DATE**: 07/17（金） 21:00 イベント「**褪せない今を、彩って**」 終了
-
----
-
-**DATE**: 07/17（金） 18:17
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/2078046354753081437)
-
----
-
-**DATE**: 07/17（金） 18:04
-<br>
-[セカイの隅...](https://x.com/pj_sekai/status/2078043036798644540)
 
 <script>
 let nowDt = new Date();
