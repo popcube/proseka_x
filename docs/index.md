@@ -1,18 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/21 03:06
-
-<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
-【メンテナンス実施中】
-</div></div>
-<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-<div id="maint-0" style="display: none;">
-10/21（水） 08:30 ～ 11:30
-　<a href="https://x.com/pj_sekai/status/2112148654551421237">公式ポスト</a>
-</div>
+### 最終更新：2026/10/21 17:07
 
 
 ---
@@ -25,43 +14,97 @@
 
 ---
 
-**DATE**: 10/20（火） 19:30
+**DATE**: 10/21（水） 17:02
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2112491515767578766"></a>
+<a href="https://twitter.com/pj_sekai/status/2112816658507297104"></a>
 </blockquote>
+
+---
+
+**DATE**: 10/21（水） 16:13
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2112804510477459526"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/21（水） 15:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2112787994214273038"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/21（水） 15:00 イベント「**Vivid BAD SQUAD Memories**」 開始
+
+---
+
+**DATE**: 10/21（水） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2112742323461538088"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/21（水） 12:03
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2112741629065052563"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/21（水） 11:45
+<br>
+[下記楽曲の...](https://x.com/pj_sekai/status/2112736893238710590)
+
+---
+
+**DATE**: 10/21（水） 11:43
+<br>
+[【メンテナ...](https://x.com/pj_sekai/status/2112736626040533001)
+
+---
+
+**DATE**: 10/20（火） 19:30
+<br>
+[【お知らせ...](https://x.com/pj_sekai/status/2112491515767578766)
 
 ---
 
 **DATE**: 10/20（火） 18:32
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2112476939256762720"></a>
-</blockquote>
+[彰人・冬弥...](https://x.com/pj_sekai/status/2112476939256762720)
 
 ---
 
 **DATE**: 10/20（火） 18:29
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2112476344651256232"></a>
-</blockquote>
+[こはね・杏...](https://x.com/pj_sekai/status/2112476344651256232)
 
 ---
 
 **DATE**: 10/20（火） 18:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2112471042916774019"></a>
-</blockquote>
+[10月21...](https://x.com/pj_sekai/status/2112471042916774019)
+
+---
+
+**DATE**: 10/20（火） 18:02
+<br>
+[10月21...](https://x.com/pj_sekai/status/2112469437886636355)
+<br>
+#こはねはいいぞ #杏はいいぞ #彰人はいいぞ #冬弥はいいぞ #ビビバスはいいぞ
 
 ---
 
 **DATE**: 10/20（火） 15:13
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2112426891852550553"></a>
-</blockquote>
+[明日、10...](https://x.com/pj_sekai/status/2112426891852550553)
 
 ---
 
@@ -207,25 +250,25 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
-
----
-
-**DATE**: 10/12（月） 12:15
-<br>
-[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
 **DATE**: 10/12（月） 12:15
 <br>
 [【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
+
+---
+
+**DATE**: 10/12（月） 12:15
+<br>
+[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
 
 ---
 
@@ -3097,13 +3140,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
@@ -4021,15 +4064,5 @@
 
 <script>
 let nowDt = new Date();
-let startDt0 = new Date(2026, 9, 21, 8, 30);
-let endDt0 = new Date(2026, 9, 21, 11, 30);
-if ((startDt0 < nowDt) && (nowDt < endDt0)){
-  document.getElementById('maint-ongoing-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
-else if (nowDt < startDt0){
-  document.getElementById('maint-planned-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
