@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/21 22:44
+### 最終更新：2026/10/22 03:16
 
 
 ---
@@ -38,6 +38,14 @@
 
 ---
 
+**DATE**: 10/21（水） 17:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2112816406932910353"></a>
+</blockquote>
+
+---
+
 **DATE**: 10/21（水） 17:00
 <br>
 <blockquote class="twitter-tweet">
@@ -46,11 +54,19 @@
 
 ---
 
+**DATE**: 10/21（水） 16:15
+<br>
+[💿総集編イ...](https://x.com/pj_sekai/status/2112804975311302807)
+<br>
+#セカイの4コマ #ビビバス
+
+---
+
 **DATE**: 10/21（水） 16:13
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2112804510477459526"></a>
-</blockquote>
+[💿総集編イ...](https://x.com/pj_sekai/status/2112804510477459526)
+<br>
+#セカイの4コマ #ビビバス
 
 ---
 
@@ -125,6 +141,12 @@
 **DATE**: 10/21（水） 11:45
 <br>
 [下記楽曲の...](https://x.com/pj_sekai/status/2112736893238710590)
+
+---
+
+**DATE**: 10/21（水） 11:44
+<br>
+[【v7.1...](https://x.com/pj_sekai/status/2112736753413206256)
 
 ---
 
@@ -3204,13 +3226,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
@@ -4049,16 +4071,6 @@
 **DATE**: 07/19（日） 20:04
 <br>
 [本日20:...](https://x.com/pj_sekai/status/2078798173443867035)
-
----
-
-**DATE**: 07/19（日） 20:00 イベント「**君の隣、君と見る明日**」 開始
-
----
-
-**DATE**: 07/19（日） 17:08
-<br>
-[マイセカイ...](https://x.com/pj_sekai/status/2078753714245173282)
 
 <script>
 let nowDt = new Date();
