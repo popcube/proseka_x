@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/21 17:07
+### 最終更新：2026/10/21 17:10
 
 
 ---
@@ -18,6 +18,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2112816658507297104"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/21（水） 17:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2112816158420218266"></a>
 </blockquote>
 
 ---
@@ -50,11 +58,21 @@
 
 ---
 
+**DATE**: 10/21（水） 12:04
+<br>
+[📺番組冒頭...](https://x.com/pj_sekai/status/2112741747084431374)
+
+---
+
 **DATE**: 10/21（水） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2112741629065052563"></a>
-</blockquote>
+[10月28...](https://x.com/pj_sekai/status/2112741629065052563)
+
+---
+
+**DATE**: 10/21（水） 12:00
+<br>
+[🎧25時、...](https://x.com/pj_sekai/status/2112740672406962238)
 
 ---
 
@@ -2526,13 +2544,13 @@
 
 **DATE**: 08/17（月） 12:08
 <br>
-[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
+[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
 
 ---
 
 **DATE**: 08/17（月） 12:08
 <br>
-[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
+[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
 
 ---
 
