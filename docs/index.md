@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/22 03:16
+### 最終更新：2026/10/22 10:04
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/22（木） 10:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2113072852434137504"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 10/21（水） 17:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2112816158420218266"></a>
-</blockquote>
+[💿総集編イ...](https://x.com/pj_sekai/status/2112816158420218266)
+<br>
+#セカイの4コマ #ビビバス
 
 ---
 
@@ -4045,32 +4053,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/2079041062719660326)
 <br>
 #セカイの4コマ #草薙寧々誕生祭2026
-
----
-
-**DATE**: 07/20（月） 00:01
-<br>
-[👑草薙寧々...](https://x.com/pj_sekai/status/2078857644505280611)
-
----
-
-**DATE**: 07/20（月） 00:00
-<br>
-[㊗️本日7...](https://x.com/pj_sekai/status/2078857391878365509)
-<br>
-#草薙寧々誕生祭2026
-
----
-
-**DATE**: 07/19（日） 20:04
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/2078798211205189807)
-
----
-
-**DATE**: 07/19（日） 20:04
-<br>
-[本日20:...](https://x.com/pj_sekai/status/2078798173443867035)
 
 <script>
 let nowDt = new Date();
