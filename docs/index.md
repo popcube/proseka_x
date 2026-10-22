@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/22 17:11
+### 最終更新：2026/10/22 22:45
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/22（木） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2113223847856033916"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/22（木） 16:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2113163449207308645"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 10/22（木） 10:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2113072852434137504"></a>
-</blockquote>
+[💿総集編イ...](https://x.com/pj_sekai/status/2113072852434137504)
+<br>
+#セカイの4コマ #ビビバス
 
 ---
 
 **DATE**: 10/21（水） 20:33
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2112869922636497206"></a>
-</blockquote>
+[【お知らせ...](https://x.com/pj_sekai/status/2112869922636497206)
 
 ---
 
@@ -3266,13 +3280,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
@@ -4057,34 +4071,6 @@
 [🎮プロジェ...](https://x.com/pj_sekai/status/2079129189777641627)
 <br>
 #プロセカCS
-
----
-
-**DATE**: 07/20（月） 12:17
-<br>
-[📺番組冒頭...](https://x.com/pj_sekai/status/2079042900302938299)
-
----
-
-**DATE**: 07/20（月） 12:16
-<br>
-[7月27日...](https://x.com/pj_sekai/status/2079042785605538027)
-
----
-
-**DATE**: 07/20（月） 12:11
-<br>
-[夏の海にお...](https://x.com/pj_sekai/status/2079041424696521132)
-<br>
-#ふわぷち #海の日
-
----
-
-**DATE**: 07/20（月） 12:09
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2079041062719660326)
-<br>
-#セカイの4コマ #草薙寧々誕生祭2026
 
 <script>
 let nowDt = new Date();
