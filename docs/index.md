@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/23 22:22
+### 最終更新：2026/10/24 02:55
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/23（金） 20:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2113587488396918862"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/23（金） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2113586231959318873"></a>
 </blockquote>
 
 ---
@@ -30,27 +46,35 @@
 
 ---
 
-**DATE**: 10/23（金） 18:00
+**DATE**: 10/23（金） 18:30
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2113556032530051261"></a>
+<a href="https://twitter.com/pj_sekai/status/2113563581564273008"></a>
 </blockquote>
+
+---
+
+**DATE**: 10/23（金） 18:00
+<br>
+[💿総集編イ...](https://x.com/pj_sekai/status/2113556032530051261)
+<br>
+#セカイの4コマ #ビビバス
 
 ---
 
 **DATE**: 10/23（金） 16:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2113525833532833927"></a>
-</blockquote>
+[💿総集編イ...](https://x.com/pj_sekai/status/2113525833532833927)
+<br>
+#セカイの4コマ #ビビバス
 
 ---
 
 **DATE**: 10/23（金） 15:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2113510737121366472"></a>
-</blockquote>
+[📝1枚でわ...](https://x.com/pj_sekai/status/2113510737121366472)
+<br>
+#ビビバス
 
 ---
 
@@ -3046,13 +3070,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
@@ -4145,24 +4169,6 @@
 [7月31日...](https://x.com/pj_sekai/status/2079506676110021100)
 <br>
 #セカラジ
-
----
-
-**DATE**: 07/21（火） 15:44
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2079457517978243373)
-
----
-
-**DATE**: 07/21（火） 15:09
-<br>
-[椎名もた楽...](https://x.com/pj_sekai/status/2079448562505785774)
-
----
-
-**DATE**: 07/21（火） 15:07
-<br>
-[💿白石杏 ...](https://x.com/pj_sekai/status/2079448144631545998)
 
 <script>
 let nowDt = new Date();
