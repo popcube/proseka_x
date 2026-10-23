@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/24 02:55
+### 最終更新：2026/10/24 06:58
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/24（土） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2113646634475421824"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 10/23（金） 18:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2113563581564273008"></a>
-</blockquote>
+[💿総集編イ...](https://x.com/pj_sekai/status/2113563581564273008)
+<br>
+#セカイの4コマ #ビビバス
 
 ---
 
@@ -3070,13 +3078,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
@@ -4155,20 +4163,6 @@
 **DATE**: 07/22（水） 00:00
 <br>
 [💿白石杏 ...](https://x.com/pj_sekai/status/2079582173280321581)
-
----
-
-**DATE**: 07/21（火） 20:07
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/2079523665088307527)
-
----
-
-**DATE**: 07/21（火） 19:00
-<br>
-[7月31日...](https://x.com/pj_sekai/status/2079506676110021100)
-<br>
-#セカラジ
 
 <script>
 let nowDt = new Date();
