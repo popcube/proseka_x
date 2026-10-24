@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/24 11:32
+### 最終更新：2026/10/24 16:45
 
 
 ---
@@ -10,6 +10,30 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/24（土） 16:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2113888222665482462"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/24（土） 14:37
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2113867398222930134"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/24（土） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2113827956917494083"></a>
 </blockquote>
 
 ---
@@ -32,25 +56,23 @@
 
 **DATE**: 10/24（土） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2113646634475421824"></a>
-</blockquote>
+[💫望月穂波...](https://x.com/pj_sekai/status/2113646634475421824)
 
 ---
 
 **DATE**: 10/23（金） 20:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2113587488396918862"></a>
-</blockquote>
+[10月26...](https://x.com/pj_sekai/status/2113587488396918862)
+<br>
+#モモジャン
 
 ---
 
 **DATE**: 10/23（金） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2113586231959318873"></a>
-</blockquote>
+[📺WEBラ...](https://x.com/pj_sekai/status/2113586231959318873)
+<br>
+#セカラジ
 
 ---
 
@@ -538,13 +560,13 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
@@ -3094,13 +3116,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
@@ -3428,13 +3450,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
