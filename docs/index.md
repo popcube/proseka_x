@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/24 16:47
+### 最終更新：2026/10/24 21:23
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/24（土） 18:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2113918434874671228"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/24（土） 17:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2113910869109375087"></a>
 </blockquote>
 
 ---
@@ -38,19 +54,27 @@
 
 ---
 
+**DATE**: 10/24（土） 13:00
+<br>
+[#コネクト...](https://x.com/pj_sekai/status/2113842930566017475)
+<br>
+#コネクトライブ #コネクトライブ
+
+---
+
 **DATE**: 10/24（土） 12:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2113835373361234108"></a>
-</blockquote>
+[💿総集編イ...](https://x.com/pj_sekai/status/2113835373361234108)
+<br>
+#セカイの4コマ #ビビバス
 
 ---
 
 **DATE**: 10/24（土） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2113827956917494083"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/2113827956917494083)
+<br>
+#コネクトライブ
 
 ---
 
@@ -576,25 +600,25 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
-
----
-
-**DATE**: 10/12（月） 12:15
-<br>
-[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
 **DATE**: 10/12（月） 12:15
 <br>
 [【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
+
+---
+
+**DATE**: 10/12（月） 12:15
+<br>
+[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
 
 ---
 
@@ -4205,12 +4229,6 @@
 **DATE**: 07/22（水） 15:06
 <br>
 [椎名もた楽...](https://x.com/pj_sekai/status/2079810278083166429)
-
----
-
-**DATE**: 07/22（水） 12:07
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2079765155869790410)
 
 <script>
 let nowDt = new Date();
