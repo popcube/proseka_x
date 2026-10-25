@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/25 07:05
+### 最終更新：2026/10/25 11:20
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/25（日） 10:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2114160015225524449"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 10/24（土） 17:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2113903499088155095"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/2113903499088155095)
+<br>
+#コネクトライブ
 
 ---
 
@@ -638,13 +646,13 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
@@ -4241,12 +4249,6 @@
 [7月24日...](https://x.com/pj_sekai/status/2080126861301121287)
 <br>
 #セカラジ
-
----
-
-**DATE**: 07/23（木） 00:00
-<br>
-[💿白石杏 ...](https://x.com/pj_sekai/status/2079944560328028463)
 
 <script>
 let nowDt = new Date();
