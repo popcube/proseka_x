@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/26 02:02
+### 最終更新：2026/10/26 07:09
 
 
 ---
@@ -42,6 +42,14 @@
 
 ---
 
+**DATE**: 10/25（日） 20:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2114318800489423246"></a>
+</blockquote>
+
+---
+
 **DATE**: 10/25（日） 19:30
 <br>
 <blockquote class="twitter-tweet">
@@ -52,15 +60,13 @@
 
 **DATE**: 10/25（日） 17:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2114265958982574354"></a>
-</blockquote>
+[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
 
 ---
 
 **DATE**: 10/25（日） 17:01
 <br>
-[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
+[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
 
 ---
 
@@ -742,25 +748,25 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
-
----
-
-**DATE**: 10/12（月） 12:15
-<br>
-[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
 **DATE**: 10/12（月） 12:15
 <br>
 [【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
+
+---
+
+**DATE**: 10/12（月） 12:15
+<br>
+[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
 
 ---
 
@@ -3018,13 +3024,13 @@
 
 **DATE**: 08/17（月） 12:08
 <br>
-[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
+[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
 
 ---
 
 **DATE**: 08/17（月） 12:08
 <br>
-[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
+[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
 
 ---
 
@@ -3298,13 +3304,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
@@ -4311,20 +4317,6 @@
 [🎮プロジェ...](https://x.com/pj_sekai/status/2080488144546513071)
 <br>
 #プロセカCS
-
----
-
-**DATE**: 07/23（木） 20:07
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/2080248377523237076)
-
----
-
-**DATE**: 07/23（木） 18:00
-<br>
-[『だめにん...](https://x.com/pj_sekai/status/2080216354993443204)
-<br>
-#モモジャン
 
 <script>
 let nowDt = new Date();
