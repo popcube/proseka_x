@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/26 09:50
+### 最終更新：2026/10/26 17:16
 
 
 ---
@@ -10,6 +10,42 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/26（月） 16:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2114613246539997324"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/26（月） 15:00 イベント「**MORE MORE JUMP！ Memories**」 開始
+
+---
+
+**DATE**: 10/26（月） 12:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2114554889884024948"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/26（月） 12:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2114554837379731662"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/26（月） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2114553693253296404"></a>
 </blockquote>
 
 ---
@@ -24,9 +60,7 @@
 
 **DATE**: 10/25（日） 21:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2114327472674385970"></a>
-</blockquote>
+[🏡マイセカ...](https://x.com/pj_sekai/status/2114327472674385970)
 
 ---
 
@@ -36,25 +70,25 @@
 
 **DATE**: 10/25（日） 20:56
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2114325254734811509"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/2114325254734811509)
+<br>
+#コネクトライブ #コネクトライブ
 
 ---
 
 **DATE**: 10/25（日） 20:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2114318800489423246"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/2114318800489423246)
+<br>
+#コネクトライブ #コネクトライブ
 
 ---
 
 **DATE**: 10/25（日） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2114303703134142552"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/2114303703134142552)
+<br>
+#コネクトライブ #コネクトライブ
 
 ---
 
@@ -68,13 +102,13 @@
 
 **DATE**: 10/25（日） 17:01
 <br>
-[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
+[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
 
 ---
 
 **DATE**: 10/25（日） 17:01
 <br>
-[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
+[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
 
 ---
 
