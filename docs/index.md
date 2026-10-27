@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/27 17:32
+### 最終更新：2026/10/27 23:54
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/27（火） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2115035795786481696"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/27（火） 18:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2115005585963819114"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,15 @@
 
 **DATE**: 10/27（火） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2114734042856001633"></a>
-</blockquote>
+[💫望月穂波...](https://x.com/pj_sekai/status/2114734042856001633)
 
 ---
 
 **DATE**: 10/27（火） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2114733800592957447"></a>
-</blockquote>
+[㊗️本日1...](https://x.com/pj_sekai/status/2114733800592957447)
+<br>
+#望月穂波誕生祭2026
 
 ---
 
