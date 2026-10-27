@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/27 05:39
+### 最終更新：2026/10/27 11:56
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/27（火） 10:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2114884789148815470"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 10/26（月） 19:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2114658300721857023"></a>
-</blockquote>
+[☘️総集編...](https://x.com/pj_sekai/status/2114658300721857023)
+<br>
+#モモジャン
 
 ---
 
@@ -874,25 +882,25 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
-
----
-
-**DATE**: 10/12（月） 12:15
-<br>
-[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
 **DATE**: 10/12（月） 12:15
 <br>
 [「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
+
+---
+
+**DATE**: 10/12（月） 12:15
+<br>
+[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
 
 ---
 
