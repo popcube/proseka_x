@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/28 04:46
+### 最終更新：2026/10/28 12:04
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/28（水） 10:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2115247179753566504"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 10/27（火） 12:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2114922535532057015"></a>
-</blockquote>
+[☘️総集編...](https://x.com/pj_sekai/status/2114922535532057015)
+<br>
+#セカイの4コマ #モモジャン
 
 ---
 
@@ -4461,26 +4469,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/2081212916133740937)
 <br>
 #セカイの4コマ #白石杏誕生祭2026
-
----
-
-**DATE**: 07/26（日） 00:01
-<br>
-[💿白石杏 ...](https://x.com/pj_sekai/status/2081031971606519830)
-
----
-
-**DATE**: 07/26（日） 00:00
-<br>
-[㊗️本日7...](https://x.com/pj_sekai/status/2081031722859127024)
-<br>
-#白石杏誕生祭2026
-
----
-
-**DATE**: 07/25（土） 20:08
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/2080973565252567137)
 
 <script>
 let nowDt = new Date();
