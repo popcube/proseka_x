@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/29 08:42
+### 最終更新：2026/10/29 12:31
 
 
 ---
@@ -10,6 +10,30 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/29（木） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2115641396413812825"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/29（木） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2115640091024793742"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/29（木） 10:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2115609568654823726"></a>
 </blockquote>
 
 ---
@@ -32,25 +56,25 @@
 
 **DATE**: 10/28（水） 20:55
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2115412158632837231"></a>
-</blockquote>
+[☘️MOR...](https://x.com/pj_sekai/status/2115412158632837231)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 10/28（水） 20:51
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2115411207750639778"></a>
-</blockquote>
+[🎧25時、...](https://x.com/pj_sekai/status/2115411207750639778)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 10/28（水） 20:47
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2115410227130667284"></a>
-</blockquote>
+[🎶楽曲追加...](https://x.com/pj_sekai/status/2115410227130667284)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -89,6 +113,14 @@
 **DATE**: 10/28（水） 20:22
 <br>
 [🏡マイセカ...](https://x.com/pj_sekai/status/2115403774642835676)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 10/28（水） 20:22
+<br>
+[🏡マイセカ...](https://x.com/pj_sekai/status/2115403709031334276)
 <br>
 #プロセカ放送局
 
@@ -1110,25 +1142,25 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
-
----
-
-**DATE**: 10/12（月） 12:15
-<br>
-[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
 **DATE**: 10/12（月） 12:15
 <br>
 [「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
+
+---
+
+**DATE**: 10/12（月） 12:15
+<br>
+[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
 
 ---
 
@@ -3386,13 +3418,13 @@
 
 **DATE**: 08/17（月） 12:08
 <br>
-[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
+[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
 
 ---
 
 **DATE**: 08/17（月） 12:08
 <br>
-[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
+[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
 
 ---
 
@@ -3666,13 +3698,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
