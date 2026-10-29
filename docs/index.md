@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/29 12:31
+### 最終更新：2026/10/29 18:11
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/29（木） 16:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2115700158616772927"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/29（木） 14:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2115669965512806606"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,17 @@
 
 **DATE**: 10/28（水） 21:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2115414041548181712"></a>
-</blockquote>
+[👑ワンダー...](https://x.com/pj_sekai/status/2115414041548181712)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 10/28（水） 20:56
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2115412306201092102"></a>
-</blockquote>
+[☘️MOR...](https://x.com/pj_sekai/status/2115412306201092102)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -1154,13 +1170,13 @@
 
 **DATE**: 10/12（月） 12:15
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
+[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
 
 ---
 
 **DATE**: 10/12（月） 12:15
 <br>
-[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
+[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
 
 ---
 
@@ -3698,13 +3714,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
@@ -4032,13 +4048,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
