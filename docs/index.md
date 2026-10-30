@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/31 01:06
+### 最終更新：2026/10/31 05:45
 
 
 ---
@@ -30,6 +30,14 @@
 
 ---
 
+**DATE**: 10/30（金） 21:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2116139446349570138"></a>
+</blockquote>
+
+---
+
 **DATE**: 10/30（金） 21:04
 <br>
 <blockquote class="twitter-tweet">
@@ -52,9 +60,9 @@
 
 **DATE**: 10/30（金） 14:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2116032352313020520"></a>
-</blockquote>
+[☘️総集編...](https://x.com/pj_sekai/status/2116032352313020520)
+<br>
+#セカイの4コマ #モモジャン
 
 ---
 
@@ -4223,22 +4231,6 @@
 **DATE**: 07/29（水） 20:26
 <br>
 [ワールドリ...](https://x.com/pj_sekai/status/2082427559711846670)
-
----
-
-**DATE**: 07/29（水） 20:00 イベント「**君の隣、君と見る明日**」 終了
-
----
-
-**DATE**: 07/28（火） 18:48
-<br>
-[【アップデ...](https://x.com/pj_sekai/status/2082040374768582976)
-
----
-
-**DATE**: 07/28（火） 18:47
-<br>
-[【メンテナ...](https://x.com/pj_sekai/status/2082040239322026062)
 
 <script>
 let nowDt = new Date();
