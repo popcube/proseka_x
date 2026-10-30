@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/30 18:23
+### 最終更新：2026/10/31 01:06
 
 
 ---
@@ -11,6 +11,34 @@
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2105494935629873439"></a>
 </blockquote>
+
+---
+
+**DATE**: 10/30（金） 23:27
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2116175091579191631"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/30（金） 21:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2116139535994360129"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/30（金） 21:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2116139095449887066"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/30（金） 21:00 イベント「**MORE MORE JUMP！ Memories**」 終了
 
 ---
 
@@ -30,27 +58,35 @@
 
 ---
 
+**DATE**: 10/30（金） 12:00
+<br>
+[☘️総集編...](https://x.com/pj_sekai/status/2116002172911353939)
+<br>
+#セカイの4コマ #モモジャン
+
+---
+
 **DATE**: 10/30（金） 10:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2115971956545593405"></a>
-</blockquote>
+[☘️総集編...](https://x.com/pj_sekai/status/2115971956545593405)
+<br>
+#セカイの4コマ #モモジャン
 
 ---
 
 **DATE**: 10/29（木） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2115760559161487760"></a>
-</blockquote>
+[☘️総集編...](https://x.com/pj_sekai/status/2115760559161487760)
+<br>
+#セカイの4コマ #モモジャン
 
 ---
 
 **DATE**: 10/29（木） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2115753008373846334"></a>
-</blockquote>
+[☘️総集編...](https://x.com/pj_sekai/status/2115753008373846334)
+<br>
+#モモジャン
 
 ---
 
@@ -526,13 +562,13 @@
 
 **DATE**: 10/25（日） 17:01
 <br>
-[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
+[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
 
 ---
 
 **DATE**: 10/25（日） 17:01
 <br>
-[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
+[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
 
 ---
 
@@ -4203,14 +4239,6 @@
 **DATE**: 07/28（火） 18:47
 <br>
 [【メンテナ...](https://x.com/pj_sekai/status/2082040239322026062)
-
----
-
-**DATE**: 07/28（火） 12:09
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2081940030084591638)
-<br>
-#セカイの4コマ
 
 <script>
 let nowDt = new Date();
