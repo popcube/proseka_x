@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/10/31 12:18
+### 最終更新：2026/10/31 18:09
 
 
 ---
@@ -14,43 +14,91 @@
 
 ---
 
-**DATE**: 10/31（土） 12:14
+**DATE**: 10/31（土） 15:19
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2116368062131880045"></a>
+<a href="https://twitter.com/pj_sekai/status/2116414799542374718"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/31（土） 15:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2116413754007257436"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/31（土） 15:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2116413669915734351"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/31（土） 15:12
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2116413083921084481"></a>
+</blockquote>
+
+---
+
+**DATE**: 10/31（土） 15:00 イベント「**いつかの君へ、旋律を**」 開始
+
+---
+
+**DATE**: 10/31（土） 13:26
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2116386205457940906"></a>
 </blockquote>
 
 ---
 
 **DATE**: 10/31（土） 12:14
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2116368059934089570"></a>
-</blockquote>
+[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
+
+---
+
+**DATE**: 10/31（土） 12:14
+<br>
+[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
+
+---
+
+**DATE**: 10/31（土） 12:13
+<br>
+[【ほんの少...](https://x.com/pj_sekai/status/2116367879134388365)
+
+---
+
+**DATE**: 10/31（土） 12:12
+<br>
+[【暗闇の果...](https://x.com/pj_sekai/status/2116367722955391160)
 
 ---
 
 **DATE**: 10/31（土） 12:03
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2116365533616722179"></a>
-</blockquote>
+[🎃ハロウィ...](https://x.com/pj_sekai/status/2116365533616722179)
 
 ---
 
 **DATE**: 10/30（金） 23:27
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2116175091579191631"></a>
-</blockquote>
+[各種アカウ...](https://x.com/pj_sekai/status/2116175091579191631)
 
 ---
 
 **DATE**: 10/30（金） 21:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2116139535994360129"></a>
-</blockquote>
+[☘️総集編...](https://x.com/pj_sekai/status/2116139535994360129)
+<br>
+#モモジャン
 
 ---
 
@@ -4184,13 +4232,13 @@
 
 **DATE**: 07/31（金） 12:16
 <br>
-[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
+[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
 
 ---
 
 **DATE**: 07/31（金） 12:16
 <br>
-[「Tuck...](https://x.com/pj_sekai/status/2083028891543978081)
+[【やること...](https://x.com/pj_sekai/status/2083028893209157817)
 
 ---
 
