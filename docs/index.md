@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/03 19:21
+### 最終更新：2026/11/05 03:08
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/05（木） 00:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2117995534472376710"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,7 @@
 
 **DATE**: 11/02（月） 10:31
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2117067113768869943"></a>
-</blockquote>
+[本投稿につ...](https://x.com/pj_sekai/status/2117067113768869943)
 
 ---
 
@@ -766,13 +772,13 @@
 
 **DATE**: 10/25（日） 17:01
 <br>
-[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
+[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
 
 ---
 
 **DATE**: 10/25（日） 17:01
 <br>
-[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
+[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
 
 ---
 
@@ -4010,13 +4016,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
@@ -4243,70 +4249,6 @@
 [8月14日...](https://x.com/pj_sekai/status/2084112030131224867)
 <br>
 #セカラジ
-
----
-
-**DATE**: 08/02（日） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2083749628852261207)
-<br>
-#セカイの4コマ
-
----
-
-**DATE**: 08/01（土） 17:50
-<br>
-[「衣装デザ...](https://x.com/pj_sekai/status/2083475393936515530)
-
----
-
-**DATE**: 08/01（土） 17:38
-<br>
-[NEWS内...](https://x.com/pj_sekai/status/2083472362985726232)
-<br>
-#プロセカ衣装デザイン
-
----
-
-**DATE**: 08/01（土） 17:38
-<br>
-[一緒につく...](https://x.com/pj_sekai/status/2083472360817254427)
-<br>
-#プロセカ衣装デザイン
-
----
-
-**DATE**: 08/01（土） 17:20
-<br>
-[📜第4回マ...](https://x.com/pj_sekai/status/2083467856898113917)
-<br>
-#マイセカイ
-
----
-
-**DATE**: 08/01（土） 17:17
-<br>
-[🎊第36回...](https://x.com/pj_sekai/status/2083467044360692147)
-
----
-
-**DATE**: 08/01（土） 12:02
-<br>
-[8月1日0...](https://x.com/pj_sekai/status/2083387744219517143)
-
----
-
-**DATE**: 08/01（土） 12:01
-<br>
-[8月1日0...](https://x.com/pj_sekai/status/2083387492406108326)
-
----
-
-**DATE**: 08/01（土） 12:00
-<br>
-[今月の #...](https://x.com/pj_sekai/status/2083387246938394849)
-<br>
-#プロセカスケジュール
 
 <script>
 let nowDt = new Date();
