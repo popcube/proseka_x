@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/05 09:15
+### 最終更新：2026/11/05 13:16
 
 
 ---
@@ -14,10 +14,34 @@
 
 ---
 
+**DATE**: 11/05（木） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2118176917761532101"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/05（木） 12:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2118176797796016373"></a>
+</blockquote>
+
+---
+
 **DATE**: 11/05（木） 00:01
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2117995534472376710"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/04（水） 18:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2117904695830229019"></a>
 </blockquote>
 
 ---
@@ -32,25 +56,21 @@
 
 **DATE**: 11/02（月） 21:58
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2117239809496519138"></a>
-</blockquote>
+[【お知らせ...](https://x.com/pj_sekai/status/2117239809496519138)
 
 ---
 
 **DATE**: 11/02（月） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2117136165216415788"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2117136165216415788)
 
 ---
 
 **DATE**: 11/02（月） 15:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2117136115912372636"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/2117136115912372636)
+<br>
+#ビビバス
 
 ---
 
@@ -3744,13 +3764,13 @@
 
 **DATE**: 08/17（月） 12:08
 <br>
-[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
+[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
 
 ---
 
 **DATE**: 08/17（月） 12:08
 <br>
-[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
+[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
 
 ---
 
