@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/05 13:16
+### 最終更新：2026/11/06 19:13
 
 
 ---
@@ -10,6 +10,30 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/06（金） 15:12
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2118587295171498172"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/06（金） 15:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2118586109081063854"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/06（金） 15:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2118586026704924716"></a>
 </blockquote>
 
 ---
@@ -32,25 +56,25 @@
 
 **DATE**: 11/05（木） 00:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2117995534472376710"></a>
-</blockquote>
+[🎤MEIK...](https://x.com/pj_sekai/status/2117995534472376710)
+<br>
+#MEIKO #MEIKO22nd
 
 ---
 
 **DATE**: 11/04（水） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2117904695830229019"></a>
-</blockquote>
+[🎨CLIP...](https://x.com/pj_sekai/status/2117904695830229019)
+<br>
+#プロセカの思い出MV
 
 ---
 
 **DATE**: 11/03（火） 18:02
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2117542988712972359"></a>
-</blockquote>
+[🎨CLIP...](https://x.com/pj_sekai/status/2117542988712972359)
+<br>
+#プロセカの思い出MV
 
 ---
 
@@ -800,13 +824,13 @@
 
 **DATE**: 10/25（日） 17:01
 <br>
-[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
+[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
 
 ---
 
 **DATE**: 10/25（日） 17:01
 <br>
-[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
+[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
 
 ---
 
@@ -4213,70 +4237,6 @@
 **DATE**: 08/04（火） 12:00
 <br>
 [✉プロセカ...](https://x.com/pj_sekai/status/2084474411521036585)
-
----
-
-**DATE**: 08/03（月） 18:10
-<br>
-[神代実験室...](https://x.com/pj_sekai/status/2084205141142733269)
-
----
-
-**DATE**: 08/03（月） 18:03
-<br>
-[『花に風』...](https://x.com/pj_sekai/status/2084203459503669344)
-<br>
-#ビビバス
-
----
-
-**DATE**: 08/03（月） 18:00
-<br>
-[先日投稿し...](https://x.com/pj_sekai/status/2084202682143903983)
-
----
-
-**DATE**: 08/03（月） 17:59
-<br>
-[今月の #...](https://x.com/pj_sekai/status/2084202595128873142)
-<br>
-#プロセカスケジュール
-
----
-
-**DATE**: 08/03（月） 15:53
-<br>
-[先日投稿し...](https://x.com/pj_sekai/status/2084170725666197872)
-
----
-
-**DATE**: 08/03（月） 15:52
-<br>
-[📜第4回マ...](https://x.com/pj_sekai/status/2084170587115794887)
-<br>
-#マイセカイ
-
----
-
-**DATE**: 08/03（月） 15:08
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2084159544763302387)
-
----
-
-**DATE**: 08/03（月） 15:07
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2084159187177902533)
-<br>
-#ボカセカ
-
----
-
-**DATE**: 08/03（月） 12:00
-<br>
-[8月14日...](https://x.com/pj_sekai/status/2084112030131224867)
-<br>
-#セカラジ
 
 <script>
 let nowDt = new Date();
