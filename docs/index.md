@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/08 18:45
+### 最終更新：2026/11/09 01:22
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -22,6 +22,26 @@
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
 </blockquote>
+
+---
+
+**DATE**: 11/09（月） 00:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2119444842933788839"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/08（日） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2119399539132252350"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/08（日） 21:00 イベント「**いつかの君へ、旋律を**」 終了
 
 ---
 
@@ -51,17 +71,15 @@
 
 **DATE**: 11/07（土） 15:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2118948200921055565"></a>
-</blockquote>
+[💿東雲彰人...](https://x.com/pj_sekai/status/2118948200921055565)
 
 ---
 
 **DATE**: 11/07（土） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2118902576548917374"></a>
-</blockquote>
+[💿総集編イ...](https://x.com/pj_sekai/status/2118902576548917374)
+<br>
+#こはねはいいぞ #ビビバス
 
 ---
 
@@ -264,13 +282,13 @@
 
 **DATE**: 10/31（土） 12:14
 <br>
-[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
+[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
 
 ---
 
 **DATE**: 10/31（土） 12:14
 <br>
-[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
+[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
 
 ---
 
@@ -4122,13 +4140,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
@@ -4231,18 +4249,6 @@
 **DATE**: 08/07（金） 00:00
 <br>
 [💫星乃一歌...](https://x.com/pj_sekai/status/2085380377141719339)
-
----
-
-**DATE**: 08/06（木） 15:30
-<br>
-[8月7日（...](https://x.com/pj_sekai/status/2085252028603711782)
-
----
-
-**DATE**: 08/06（木） 15:04
-<br>
-[💫星乃一歌...](https://x.com/pj_sekai/status/2085245549645803633)
 
 <script>
 let nowDt = new Date();
