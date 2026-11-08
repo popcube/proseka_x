@@ -1,7 +1,18 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/08 12:25
+### 最終更新：2026/11/08 18:45
+
+<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
+【メンテナンス実施中】
+</div></div>
+<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
+【メンテナンス予定あり】
+</div></div>
+<div id="maint-0" style="display: none;">
+11/10（火） 21:05 ～ 21:50
+　<a href="https://x.com/pj_sekai/status/2119264859917594781">公式ポスト</a>
+</div>
 
 
 ---
@@ -10,6 +21,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/08（日） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2119264859917594781"></a>
 </blockquote>
 
 ---
@@ -48,9 +67,9 @@
 
 **DATE**: 11/06（金） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2118659670134956408"></a>
-</blockquote>
+[📺WEBラ...](https://x.com/pj_sekai/status/2118659670134956408)
+<br>
+#セカラジ
 
 ---
 
@@ -4227,5 +4246,15 @@
 
 <script>
 let nowDt = new Date();
+let startDt0 = new Date(2026, 10, 10, 21, 5);
+let endDt0 = new Date(2026, 10, 10, 21, 50);
+if ((startDt0 < nowDt) && (nowDt < endDt0)){
+  document.getElementById('maint-ongoing-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
+else if (nowDt < startDt0){
+  document.getElementById('maint-planned-0').style.display = 'block';
+  document.getElementById('maint-0').style.display = 'block';
+}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
