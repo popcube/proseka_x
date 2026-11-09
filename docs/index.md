@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/09 12:42
+### 最終更新：2026/11/10 06:06
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -21,6 +21,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/09（月） 21:16
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2119766083876118781"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/09（月） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2119746825892884617"></a>
 </blockquote>
 
 ---
@@ -51,9 +67,7 @@
 
 **DATE**: 11/08（日） 21:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2119399539132252350"></a>
-</blockquote>
+[本日22時...](https://x.com/pj_sekai/status/2119399539132252350)
 
 ---
 
@@ -63,9 +77,7 @@
 
 **DATE**: 11/08（日） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2119264859917594781"></a>
-</blockquote>
+[【メンテナ...](https://x.com/pj_sekai/status/2119264859917594781)
 
 ---
 
@@ -910,13 +922,13 @@
 
 **DATE**: 10/25（日） 17:01
 <br>
-[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
+[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
 
 ---
 
 **DATE**: 10/25（日） 17:01
 <br>
-[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
+[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
 
 ---
 
@@ -1598,13 +1610,13 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
@@ -3874,13 +3886,13 @@
 
 **DATE**: 08/17（月） 12:08
 <br>
-[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
+[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
 
 ---
 
 **DATE**: 08/17（月） 12:08
 <br>
-[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
+[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
 
 ---
 
@@ -4211,52 +4223,6 @@
 **DATE**: 08/07（金） 21:38
 <br>
 [💫Leo/...](https://x.com/pj_sekai/status/2085707236857573843)
-
----
-
-**DATE**: 08/07（金） 21:03
-<br>
-[『天秤、指...](https://x.com/pj_sekai/status/2085698408799756401)
-<br>
-#レオニ
-
----
-
-**DATE**: 08/07（金） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/2085697477848777154)
-
----
-
-**DATE**: 08/07（金） 21:00 イベント「**Echo of a Prayer**」 終了
-
----
-
-**DATE**: 08/07（金） 18:04
-<br>
-[「プロセカ...](https://x.com/pj_sekai/status/2085653227375305000)
-<br>
-#プロセカ放送局
-
----
-
-**DATE**: 08/07（金） 15:42
-<br>
-[「チルドレ...](https://x.com/pj_sekai/status/2085617613762347437)
-
----
-
-**DATE**: 08/07（金） 15:42
-<br>
-[下記楽曲の...](https://x.com/pj_sekai/status/2085617579956252725)
-
----
-
-**DATE**: 08/07（金） 12:05
-<br>
-[🎮プロジェ...](https://x.com/pj_sekai/status/2085562924433900017)
-<br>
-#プロセカCS
 
 <script>
 let nowDt = new Date();
