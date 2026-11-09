@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/09 07:44
+### 最終更新：2026/11/09 12:42
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -21,6 +21,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/09（月） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2119626033099915402"></a>
 </blockquote>
 
 ---
@@ -63,9 +71,9 @@
 
 **DATE**: 11/08（日） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2119263658047844486"></a>
-</blockquote>
+[💿総集編イ...](https://x.com/pj_sekai/status/2119263658047844486)
+<br>
+#杏はいいぞ #ビビバス
 
 ---
 
@@ -4146,13 +4154,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
@@ -4249,12 +4257,6 @@
 [🎮プロジェ...](https://x.com/pj_sekai/status/2085562924433900017)
 <br>
 #プロセカCS
-
----
-
-**DATE**: 08/07（金） 00:00
-<br>
-[💫星乃一歌...](https://x.com/pj_sekai/status/2085380377141719339)
 
 <script>
 let nowDt = new Date();
