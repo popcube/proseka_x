@@ -1,18 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/10 14:15
-
-<div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
-【メンテナンス実施中】
-</div></div>
-<div class="highlight" id="maint-planned-0" style="display: none;"><div class="gi">
-【メンテナンス予定あり】
-</div></div>
-<div id="maint-0" style="display: none;">
-11/10（火） 21:05 ～ 21:50
-　<a href="https://x.com/pj_sekai/status/2119264859917594781">公式ポスト</a>
-</div>
+### 最終更新：2026/11/11 03:15
 
 
 ---
@@ -21,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/10（火） 21:53
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2120137793020293461"></a>
 </blockquote>
 
 ---
@@ -59,9 +56,7 @@
 
 **DATE**: 11/09（月） 00:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2119444842933788839"></a>
-</blockquote>
+[💿東雲彰人...](https://x.com/pj_sekai/status/2119444842933788839)
 
 ---
 
@@ -1630,13 +1625,13 @@
 
 **DATE**: 10/12（月） 12:15
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
+[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
 
 ---
 
 **DATE**: 10/12（月） 12:15
 <br>
-[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
+[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
 
 ---
 
@@ -4174,13 +4169,13 @@
 
 **DATE**: 08/09（日） 12:07
 <br>
-[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
+[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
 
 ---
 
 **DATE**: 08/09（日） 12:07
 <br>
-[「Pier...](https://x.com/pj_sekai/status/2086288112414785944)
+[【信頼に応...](https://x.com/pj_sekai/status/2086288115191476503)
 
 ---
 
@@ -4206,31 +4201,7 @@
 <br>
 [「Pier...](https://x.com/pj_sekai/status/2086287845287981218)
 
----
-
-**DATE**: 08/08（土） 15:01
-<br>
-[明日、8月...](https://x.com/pj_sekai/status/2085969541121835489)
-
----
-
-**DATE**: 08/08（土） 10:11
-<br>
-[🎮プロジェ...](https://x.com/pj_sekai/status/2085896721192878303)
-<br>
-#プロセカCS
-
 <script>
 let nowDt = new Date();
-let startDt0 = new Date(2026, 10, 10, 21, 5);
-let endDt0 = new Date(2026, 10, 10, 21, 50);
-if ((startDt0 < nowDt) && (nowDt < endDt0)){
-  document.getElementById('maint-ongoing-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
-else if (nowDt < startDt0){
-  document.getElementById('maint-planned-0').style.display = 'block';
-  document.getElementById('maint-0').style.display = 'block';
-}
 </script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
