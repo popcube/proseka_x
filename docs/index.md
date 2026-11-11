@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/11 03:15
+### 最終更新：2026/11/11 12:47
 
 
 ---
@@ -14,43 +14,79 @@
 
 ---
 
-**DATE**: 11/10（火） 21:53
+**DATE**: 11/11（水） 12:06
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2120137793020293461"></a>
+<a href="https://twitter.com/pj_sekai/status/2120352557193470160"></a>
 </blockquote>
+
+---
+
+**DATE**: 11/11（水） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2120352533986394583"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/11（水） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2120352532140855464"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/11（水） 12:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2120352518932947030"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/11（水） 11:44
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2120346926721999338"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/10（火） 21:53
+<br>
+[【メンテナ...](https://x.com/pj_sekai/status/2120137793020293461)
 
 ---
 
 **DATE**: 11/10（火） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2119988429714800716"></a>
-</blockquote>
+[💿総集編イ...](https://x.com/pj_sekai/status/2119988429714800716)
+<br>
+#冬弥はいいぞ #ビビバス
 
 ---
 
 **DATE**: 11/09（月） 21:16
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2119766083876118781"></a>
-</blockquote>
+[チアフルカ...](https://x.com/pj_sekai/status/2119766083876118781)
 
 ---
 
 **DATE**: 11/09（月） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2119746825892884617"></a>
-</blockquote>
+[11月20...](https://x.com/pj_sekai/status/2119746825892884617)
+<br>
+#セカラジ
 
 ---
 
 **DATE**: 11/09（月） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2119626033099915402"></a>
-</blockquote>
+[💿総集編イ...](https://x.com/pj_sekai/status/2119626033099915402)
+<br>
+#彰人はいいぞ #ビビバス
 
 ---
 
@@ -925,13 +961,13 @@
 
 **DATE**: 10/25（日） 17:01
 <br>
-[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
+[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
 
 ---
 
 **DATE**: 10/25（日） 17:01
 <br>
-[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
+[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
 
 ---
 
