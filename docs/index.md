@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/12 13:55
+### 最終更新：2026/11/13 03:35
 
 
 ---
@@ -18,6 +18,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2120720744707510750"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/12（木） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2120714385157194007"></a>
 </blockquote>
 
 ---
@@ -52,9 +60,7 @@
 
 **DATE**: 11/11（水） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2120352533986394583"></a>
-</blockquote>
+[【見落とし...](https://x.com/pj_sekai/status/2120352533986394583)
 
 ---
 
@@ -375,13 +381,13 @@
 
 **DATE**: 10/31（土） 12:14
 <br>
-[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
+[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
 
 ---
 
 **DATE**: 10/31（土） 12:14
 <br>
-[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
+[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
 
 ---
 
@@ -3953,13 +3959,13 @@
 
 **DATE**: 08/17（月） 12:08
 <br>
-[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
+[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
 
 ---
 
 **DATE**: 08/17（月） 12:08
 <br>
-[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
+[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
 
 ---
 
@@ -4198,26 +4204,6 @@
 [㊗️本日8...](https://x.com/pj_sekai/status/2086829931435073630)
 <br>
 #星乃一歌誕生祭2026
-
----
-
-**DATE**: 08/10（月） 15:06
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2086695719545815122)
-
----
-
-**DATE**: 08/10（月） 15:06
-<br>
-[じん楽曲追...](https://x.com/pj_sekai/status/2086695661618303228)
-<br>
-#レオニ
-
----
-
-**DATE**: 08/10（月） 12:04
-<br>
-[🌲ワールド...](https://x.com/pj_sekai/status/2086649838909919566)
 
 <script>
 let nowDt = new Date();
