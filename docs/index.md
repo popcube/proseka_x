@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/13 03:35
+### 最終更新：2026/11/13 09:01
 
 
 ---
@@ -38,15 +38,21 @@
 
 ---
 
+**DATE**: 11/11（水） 15:08
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2120398305863856502"></a>
+</blockquote>
+
+---
+
 **DATE**: 11/11（水） 15:00 イベント「**My Searing Light**」 開始
 
 ---
 
 **DATE**: 11/11（水） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2120352555448643944"></a>
-</blockquote>
+[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
 
 ---
 
@@ -4190,20 +4196,6 @@
 [涼しい山へ...](https://x.com/pj_sekai/status/2086980919844360490)
 <br>
 #ふわぷち #山の日
-
----
-
-**DATE**: 08/11（火） 00:01
-<br>
-[💫星乃一歌...](https://x.com/pj_sekai/status/2086830177041150152)
-
----
-
-**DATE**: 08/11（火） 00:00
-<br>
-[㊗️本日8...](https://x.com/pj_sekai/status/2086829931435073630)
-<br>
-#星乃一歌誕生祭2026
 
 <script>
 let nowDt = new Date();
