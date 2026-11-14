@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/13 13:07
+### 最終更新：2026/11/14 09:16
 
 
 ---
@@ -38,6 +38,14 @@
 
 ---
 
+**DATE**: 11/12（木） 12:04
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2120714366429597727"></a>
+</blockquote>
+
+---
+
 **DATE**: 11/12（木） 00:01
 <br>
 <blockquote class="twitter-tweet">
@@ -48,9 +56,7 @@
 
 **DATE**: 11/11（水） 15:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2120398305863856502"></a>
-</blockquote>
+[本日15:...](https://x.com/pj_sekai/status/2120398305863856502)
 
 ---
 
@@ -393,13 +399,13 @@
 
 **DATE**: 10/31（土） 12:14
 <br>
-[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
+[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
 
 ---
 
 **DATE**: 10/31（土） 12:14
 <br>
-[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
+[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
 
 ---
 
@@ -1707,13 +1713,13 @@
 
 **DATE**: 10/12（月） 12:15
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
+[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
 
 ---
 
 **DATE**: 10/12（月） 12:15
 <br>
-[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
+[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
 
 ---
 
@@ -4160,48 +4166,6 @@
 [「プロジェ...](https://x.com/pj_sekai/status/2087373516782116896)
 <br>
 #セカイの4コマ
-
----
-
-**DATE**: 08/11（火） 15:05
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2087057697539805450)
-
----
-
-**DATE**: 08/11（火） 15:04
-<br>
-[じん楽曲追...](https://x.com/pj_sekai/status/2087057645735944413)
-<br>
-#モモジャン
-
----
-
-**DATE**: 08/11（火） 12:06
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2087012837692752228)
-
----
-
-**DATE**: 08/11（火） 12:06
-<br>
-[本日12時...](https://x.com/pj_sekai/status/2087012815433515159)
-
----
-
-**DATE**: 08/11（火） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2087011132913697201)
-<br>
-#セカイの4コマ #星乃一歌誕生祭2026
-
----
-
-**DATE**: 08/11（火） 10:00
-<br>
-[涼しい山へ...](https://x.com/pj_sekai/status/2086980919844360490)
-<br>
-#ふわぷち #山の日
 
 <script>
 let nowDt = new Date();
