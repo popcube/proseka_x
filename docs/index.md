@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/14 18:42
+### 最終更新：2026/11/15 12:51
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/15（日） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2121800368107688102"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 11/12（木） 12:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2120720744707510750"></a>
-</blockquote>
+[☘️総集編...](https://x.com/pj_sekai/status/2120720744707510750)
+<br>
+#みのりはいいぞ #モモジャン
 
 ---
 
@@ -417,13 +425,13 @@
 
 **DATE**: 10/31（土） 12:14
 <br>
-[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
+[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
 
 ---
 
 **DATE**: 10/31（土） 12:14
 <br>
-[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
+[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
 
 ---
 
@@ -1731,13 +1739,13 @@
 
 **DATE**: 10/12（月） 12:15
 <br>
-[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
+[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
 
 ---
 
 **DATE**: 10/12（月） 12:15
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
+[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
 
 ---
 
@@ -3995,13 +4003,13 @@
 
 **DATE**: 08/17（月） 12:08
 <br>
-[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
+[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
 
 ---
 
 **DATE**: 08/17（月） 12:08
 <br>
-[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
+[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
 
 ---
 
@@ -4146,44 +4154,6 @@
 [8月14日...](https://x.com/pj_sekai/status/2087736869333442918)
 <br>
 #セカラジ
-
----
-
-**DATE**: 08/12（水） 15:19
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2087423676795003289)
-
----
-
-**DATE**: 08/12（水） 15:14
-<br>
-[じん楽曲追...](https://x.com/pj_sekai/status/2087422447775813999)
-<br>
-#ビビバス
-
----
-
-**DATE**: 08/12（水） 12:13
-<br>
-[本日予定し...](https://x.com/pj_sekai/status/2087376991142171128)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 08/12（水） 12:12
-<br>
-[🎮プロジェ...](https://x.com/pj_sekai/status/2087376659603484958)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 08/12（水） 12:00
-<br>
-[「プロジェ...](https://x.com/pj_sekai/status/2087373516782116896)
-<br>
-#セカイの4コマ
 
 <script>
 let nowDt = new Date();
