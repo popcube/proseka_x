@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/15 12:51
+### 最終更新：2026/11/16 19:27
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/16（月） 15:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2122209327109050718"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,9 @@
 
 **DATE**: 11/13（金） 12:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2121075830998683700"></a>
-</blockquote>
+[☘️総集編...](https://x.com/pj_sekai/status/2121075830998683700)
+<br>
+#遥はいいぞ #モモジャン
 
 ---
 
@@ -1727,13 +1735,13 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
@@ -4132,28 +4140,6 @@
 **DATE**: 08/14（金） 11:11
 <br>
 [初音ミク「...](https://x.com/pj_sekai/status/2088086200515187105)
-
----
-
-**DATE**: 08/13（木） 15:07
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2087783197774070056)
-
----
-
-**DATE**: 08/13（木） 15:07
-<br>
-[じん楽曲追...](https://x.com/pj_sekai/status/2087783171983368457)
-<br>
-#ワンダショ
-
----
-
-**DATE**: 08/13（木） 12:03
-<br>
-[8月14日...](https://x.com/pj_sekai/status/2087736869333442918)
-<br>
-#セカラジ
 
 <script>
 let nowDt = new Date();
