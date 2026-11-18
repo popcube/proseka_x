@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/18 04:57
+### 最終更新：2026/11/18 10:33
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/18（水） 00:20
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2122711405975806200"></a>
 </blockquote>
 
 ---
@@ -38,19 +46,27 @@
 
 ---
 
-**DATE**: 11/15（日） 12:00
+**DATE**: 11/16（月） 15:05
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2121800368107688102"></a>
+<a href="https://twitter.com/pj_sekai/status/2122209307609743852"></a>
 </blockquote>
+
+---
+
+**DATE**: 11/15（日） 12:00
+<br>
+[☘️総集編...](https://x.com/pj_sekai/status/2121800368107688102)
+<br>
+#雫はいいぞ #モモジャン
 
 ---
 
 **DATE**: 11/14（土） 18:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2121528815222718688"></a>
-</blockquote>
+[1分でわか...](https://x.com/pj_sekai/status/2121528815222718688)
+<br>
+#モモジャン
 
 ---
 
@@ -116,13 +132,13 @@
 
 **DATE**: 11/11（水） 12:06
 <br>
-[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
+[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
 
 ---
 
 **DATE**: 11/11（水） 12:06
 <br>
-[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
+[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
 
 ---
 
@@ -1751,13 +1767,13 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
@@ -4088,46 +4104,6 @@
 **DATE**: 08/16（日） 15:04
 <br>
 [明日、8月...](https://x.com/pj_sekai/status/2088869397012344994)
-
----
-
-**DATE**: 08/15（土） 22:40
-<br>
-[☘️MOR...](https://x.com/pj_sekai/status/2088621823143678037)
-
----
-
-**DATE**: 08/15（土） 22:09
-<br>
-[『スターダ...](https://x.com/pj_sekai/status/2088614115208282210)
-<br>
-#モモジャン
-
----
-
-**DATE**: 08/15（土） 22:09
-<br>
-[☘️MOR...](https://x.com/pj_sekai/status/2088613962451718567)
-<br>
-#モモジャン
-
----
-
-**DATE**: 08/15（土） 21:00
-<br>
-[本日22時...](https://x.com/pj_sekai/status/2088596576864256009)
-
----
-
-**DATE**: 08/15（土） 21:00 イベント「**Leap Beyond The Limits！**」 終了
-
----
-
-**DATE**: 08/15（土） 20:00
-<br>
-[8月28日...](https://x.com/pj_sekai/status/2088581480226144275)
-<br>
-#セカラジ
 
 <script>
 let nowDt = new Date();
