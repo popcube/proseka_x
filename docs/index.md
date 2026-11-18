@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/18 14:09
+### 最終更新：2026/11/19 04:14
 
 
 ---
@@ -11,6 +11,34 @@
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
 </blockquote>
+
+---
+
+**DATE**: 11/18（水） 22:33
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2123047023582601321"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/18（水） 21:41
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2123033819414766059"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/18（水） 21:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2123023422766657825"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/18（水） 21:00 イベント「**My Searing Light**」 終了
 
 ---
 
@@ -32,25 +60,19 @@
 
 **DATE**: 11/18（水） 00:20
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2122711405975806200"></a>
-</blockquote>
+[【お知らせ...](https://x.com/pj_sekai/status/2122711405975806200)
 
 ---
 
 **DATE**: 11/17（火） 22:07
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2122677938944631238"></a>
-</blockquote>
+[【お知らせ...](https://x.com/pj_sekai/status/2122677938944631238)
 
 ---
 
 **DATE**: 11/17（火） 19:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2122630827536212406"></a>
-</blockquote>
+[見てみて♪...](https://x.com/pj_sekai/status/2122630827536212406)
 
 ---
 
@@ -150,13 +172,13 @@
 
 **DATE**: 11/11（水） 12:06
 <br>
-[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
+[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
 
 ---
 
 **DATE**: 11/11（水） 12:06
 <br>
-[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
+[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
 
 ---
 
@@ -483,13 +505,13 @@
 
 **DATE**: 10/31（土） 12:14
 <br>
-[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
+[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
 
 ---
 
 **DATE**: 10/31（土） 12:14
 <br>
-[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
+[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
 
 ---
 
@@ -1097,13 +1119,13 @@
 
 **DATE**: 10/25（日） 17:01
 <br>
-[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
+[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
 
 ---
 
 **DATE**: 10/25（日） 17:01
 <br>
-[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
+[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
 
 ---
 
@@ -1785,13 +1807,13 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
@@ -4061,13 +4083,13 @@
 
 **DATE**: 08/17（月） 12:08
 <br>
-[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
+[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
 
 ---
 
 **DATE**: 08/17（月） 12:08
 <br>
-[【森の導き...](https://x.com/pj_sekai/status/2089187699790066015)
+[『Craw...](https://x.com/pj_sekai/status/2089187697810395600)
 
 ---
 
@@ -4116,12 +4138,6 @@
 **DATE**: 08/17（月） 11:38
 <br>
 [下記楽曲の...](https://x.com/pj_sekai/status/2089180035026727086)
-
----
-
-**DATE**: 08/16（日） 15:04
-<br>
-[明日、8月...](https://x.com/pj_sekai/status/2088869397012344994)
 
 <script>
 let nowDt = new Date();
