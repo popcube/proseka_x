@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/20 13:54
+### 最終更新：2026/11/20 19:48
 
 
 ---
@@ -14,43 +14,107 @@
 
 ---
 
+**DATE**: 11/20（金） 19:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2123718006165680458"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/20（金） 18:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2123702891982524609"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/20（金） 17:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2123687800042115159"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/20（金） 15:16
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2123661741699793193"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/20（金） 15:15
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2123661521209495623"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/20（金） 15:15
+<br>
+[本日15時...](https://x.com/pj_sekai/status/2123661413273248242)
+<br>
+#ワンダショ
+
+---
+
+**DATE**: 11/20（金） 15:13
+<br>
+[#コネクト...](https://x.com/pj_sekai/status/2123660967594930559)
+<br>
+#コネクトライブ
+
+---
+
+**DATE**: 11/20（金） 15:12
+<br>
+[#コネクト...](https://x.com/pj_sekai/status/2123660828042019315)
+<br>
+#コネクトライブ
+
+---
+
+**DATE**: 11/20（金） 15:00 イベント「**ワンダーランズ×ショウタイム Memories**」 開始
+
+---
+
 **DATE**: 11/20（金） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2123613577156436199"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2123613577156436199)
+<br>
+#ワンダショ
 
 ---
 
 **DATE**: 11/19（木） 18:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2123341564164637044"></a>
-</blockquote>
+[フレームは...](https://x.com/pj_sekai/status/2123341564164637044)
 
 ---
 
 **DATE**: 11/19（木） 18:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2123341561698439667"></a>
-</blockquote>
+[11月20...](https://x.com/pj_sekai/status/2123341561698439667)
 
 ---
 
 **DATE**: 11/19（木） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2123340520193757199"></a>
-</blockquote>
+[11月20...](https://x.com/pj_sekai/status/2123340520193757199)
+<br>
+#司はいいぞ #えむはいいぞ #寧々はいいぞ #類はいいぞ #ワンダショはいいぞ
 
 ---
 
 **DATE**: 11/19（木） 12:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2123252133453774864"></a>
-</blockquote>
+[11月20...](https://x.com/pj_sekai/status/2123252133453774864)
+<br>
+#セカラジ
 
 ---
 
@@ -216,13 +280,13 @@
 
 **DATE**: 11/11（水） 12:06
 <br>
-[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
+[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
 
 ---
 
 **DATE**: 11/11（水） 12:06
 <br>
-[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
+[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
 
 ---
 
@@ -549,13 +613,13 @@
 
 **DATE**: 10/31（土） 12:14
 <br>
-[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
+[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
 
 ---
 
 **DATE**: 10/31（土） 12:14
 <br>
-[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
+[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
 
 ---
 
