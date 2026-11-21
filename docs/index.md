@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/21 19:31
+### 最終更新：2026/11/22 02:46
 
 
 ---
@@ -10,6 +10,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/21（土） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2124095493542142433"></a>
 </blockquote>
 
 ---
@@ -46,11 +54,19 @@
 
 ---
 
+**DATE**: 11/21（土） 12:00
+<br>
+[👑総集編イ...](https://x.com/pj_sekai/status/2123974688250405263)
+<br>
+#セカイの4コマ #ワンダショ
+
+---
+
 **DATE**: 11/21（土） 10:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2123944493271392525"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2123944493271392525)
+<br>
+#セカイの4コマ #ワンダショ
 
 ---
 
@@ -4230,18 +4246,6 @@
 [🏮#プロセ...](https://x.com/pj_sekai/status/2090000830909014253)
 <br>
 #プロセカあやかし横丁の夏休み #レオニ
-
----
-
-**DATE**: 08/19（水） 12:03
-<br>
-[📺番組冒頭...](https://x.com/pj_sekai/status/2089910976128885244)
-
----
-
-**DATE**: 08/19（水） 12:02
-<br>
-[8月26日...](https://x.com/pj_sekai/status/2089910821061271576)
 
 <script>
 let nowDt = new Date();
