@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/21 13:49
+### 最終更新：2026/11/21 19:31
 
 
 ---
@@ -10,6 +10,38 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/21（土） 18:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2124065291176939710"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/21（土） 16:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2124035079102255574"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/21（土） 15:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2124019987517976773"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/21（土） 14:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2124004881895972910"></a>
 </blockquote>
 
 ---
@@ -24,33 +56,33 @@
 
 **DATE**: 11/20（金） 20:31
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2123741107821646156"></a>
-</blockquote>
+[『セカラジ...](https://x.com/pj_sekai/status/2123741107821646156)
+<br>
+#セカラジ
 
 ---
 
 **DATE**: 11/20（金） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2123733089952346341"></a>
-</blockquote>
+[📺WEBラ...](https://x.com/pj_sekai/status/2123733089952346341)
+<br>
+#セカラジ
 
 ---
 
 **DATE**: 11/20（金） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2123725543094796621"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2123725543094796621)
+<br>
+#ワンダショ
 
 ---
 
 **DATE**: 11/20（金） 19:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2123718006165680458"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2123718006165680458)
+<br>
+#ワンダショ
 
 ---
 
@@ -1295,13 +1327,13 @@
 
 **DATE**: 10/25（日） 17:01
 <br>
-[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
+[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
 
 ---
 
 **DATE**: 10/25（日） 17:01
 <br>
-[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
+[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
 
 ---
 
