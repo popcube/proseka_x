@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/22 13:05
+### 最終更新：2026/11/22 19:35
 
 
 ---
@@ -10,6 +10,30 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/22（日） 19:20
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2124447814218645768"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/22（日） 16:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2124397472990515639"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/22（日） 14:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2124367274316276037"></a>
 </blockquote>
 
 ---
@@ -32,25 +56,25 @@
 
 **DATE**: 11/21（土） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2124095493542142433"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2124095493542142433)
+<br>
+#セカイの4コマ #ワンダショ
 
 ---
 
 **DATE**: 11/21（土） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2124065291176939710"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2124065291176939710)
+<br>
+#セカイの4コマ #ワンダショ
 
 ---
 
 **DATE**: 11/21（土） 16:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2124035079102255574"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2124035079102255574)
+<br>
+#セカイの4コマ #ワンダショ
 
 ---
 
@@ -745,13 +769,13 @@
 
 **DATE**: 10/31（土） 12:14
 <br>
-[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
+[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
 
 ---
 
 **DATE**: 10/31（土） 12:14
 <br>
-[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
+[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
 
 ---
 
@@ -2059,13 +2083,13 @@
 
 **DATE**: 10/12（月） 12:15
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
+[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
 
 ---
 
 **DATE**: 10/12（月） 12:15
 <br>
-[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
+[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
 
 ---
 
