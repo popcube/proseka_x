@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/22 02:46
+### 最終更新：2026/11/22 13:05
 
 
 ---
@@ -10,6 +10,22 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/22（日） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2124337084051951911"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/22（日） 10:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2124306879748751505"></a>
 </blockquote>
 
 ---
@@ -40,17 +56,17 @@
 
 **DATE**: 11/21（土） 15:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2124019987517976773"></a>
-</blockquote>
+[📝1枚でわ...](https://x.com/pj_sekai/status/2124019987517976773)
+<br>
+#ワンダショ
 
 ---
 
 **DATE**: 11/21（土） 14:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2124004881895972910"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2124004881895972910)
+<br>
+#セカイの4コマ #ワンダショ
 
 ---
 
@@ -4232,20 +4248,6 @@
 [🏮#プロセ...](https://x.com/pj_sekai/status/2090363211132580123)
 <br>
 #プロセカあやかし横丁の夏休み #モモジャン
-
----
-
-**DATE**: 08/19（水） 20:08
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/2090033155961131314)
-
----
-
-**DATE**: 08/19（水） 18:00
-<br>
-[🏮#プロセ...](https://x.com/pj_sekai/status/2090000830909014253)
-<br>
-#プロセカあやかし横丁の夏休み #レオニ
 
 <script>
 let nowDt = new Date();
