@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/22 19:35
+### 最終更新：2026/11/23 03:01
 
 
 ---
@@ -14,6 +14,30 @@
 
 ---
 
+**DATE**: 11/22（日） 20:05
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2124459124230607157"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/22（日） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2124457868326027421"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/22（日） 19:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2124450317693562999"></a>
+</blockquote>
+
+---
+
 **DATE**: 11/22（日） 19:20
 <br>
 <blockquote class="twitter-tweet">
@@ -22,35 +46,43 @@
 
 ---
 
-**DATE**: 11/22（日） 16:00
+**DATE**: 11/22（日） 18:00
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2124397472990515639"></a>
+<a href="https://twitter.com/pj_sekai/status/2124427680489607207"></a>
 </blockquote>
+
+---
+
+**DATE**: 11/22（日） 16:00
+<br>
+[👑総集編イ...](https://x.com/pj_sekai/status/2124397472990515639)
+<br>
+#セカイの4コマ #ワンダショ
 
 ---
 
 **DATE**: 11/22（日） 14:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2124367274316276037"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2124367274316276037)
+<br>
+#セカイの4コマ #ワンダショ
 
 ---
 
 **DATE**: 11/22（日） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2124337084051951911"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2124337084051951911)
+<br>
+#セカイの4コマ #ワンダショ
 
 ---
 
 **DATE**: 11/22（日） 10:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2124306879748751505"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2124306879748751505)
+<br>
+#セカイの4コマ #ワンダショ
 
 ---
 
@@ -769,13 +801,13 @@
 
 **DATE**: 10/31（土） 12:14
 <br>
-[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
+[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
 
 ---
 
 **DATE**: 10/31（土） 12:14
 <br>
-[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
+[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
 
 ---
 
@@ -1383,13 +1415,13 @@
 
 **DATE**: 10/25（日） 17:01
 <br>
-[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
+[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
 
 ---
 
 **DATE**: 10/25（日） 17:01
 <br>
-[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
+[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
 
 ---
 
@@ -2071,13 +2103,13 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
@@ -4264,14 +4296,6 @@
 [『ハイドア...](https://x.com/pj_sekai/status/2090363963993379189)
 <br>
 #レオニ
-
----
-
-**DATE**: 08/20（木） 18:00
-<br>
-[🏮#プロセ...](https://x.com/pj_sekai/status/2090363211132580123)
-<br>
-#プロセカあやかし横丁の夏休み #モモジャン
 
 <script>
 let nowDt = new Date();
