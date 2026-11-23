@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/23 20:36
+### 最終更新：2026/11/24 07:55
 
 
 ---
@@ -18,6 +18,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2124790062504169769"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/23（月） 16:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2124759860466360647"></a>
 </blockquote>
 
 ---
@@ -48,9 +56,17 @@
 
 **DATE**: 11/23（月） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2124699465307066721"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2124699465307066721)
+<br>
+#セカイの4コマ #ワンダショ
+
+---
+
+**DATE**: 11/23（月） 10:00
+<br>
+[👑総集編イ...](https://x.com/pj_sekai/status/2124669268738367560)
+<br>
+#セカイの4コマ #ワンダショ
 
 ---
 
@@ -516,13 +532,13 @@
 
 **DATE**: 11/11（水） 12:06
 <br>
-[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
+[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
 
 ---
 
 **DATE**: 11/11（水） 12:06
 <br>
-[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
+[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
 
 ---
 
@@ -849,13 +865,13 @@
 
 **DATE**: 10/31（土） 12:14
 <br>
-[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
+[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
 
 ---
 
 **DATE**: 10/31（土） 12:14
 <br>
-[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
+[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
 
 ---
 
@@ -2151,25 +2167,25 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
-
----
-
-**DATE**: 10/12（月） 12:15
-<br>
-[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
 **DATE**: 10/12（月） 12:15
 <br>
 [【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
+
+---
+
+**DATE**: 10/12（月） 12:15
+<br>
+[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
 
 ---
 
@@ -4300,36 +4316,6 @@
 **DATE**: 08/22（土） 15:01
 <br>
 [🎧暁山瑞希...](https://x.com/pj_sekai/status/2091042965938696586)
-
----
-
-**DATE**: 08/21（金） 20:05
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/2090757113077551333)
-
----
-
-**DATE**: 08/21（金） 18:05
-<br>
-[🏮#プロセ...](https://x.com/pj_sekai/status/2090726853686206722)
-<br>
-#プロセカあやかし横丁の夏休み #ビビバス
-
----
-
-**DATE**: 08/21（金） 18:00
-<br>
-[『ハイドア...](https://x.com/pj_sekai/status/2090725611647979563)
-<br>
-#レオニ
-
----
-
-**DATE**: 08/21（金） 12:33
-<br>
-[🎮プロジェ...](https://x.com/pj_sekai/status/2090643464832856416)
-<br>
-#プロセカCS
 
 <script>
 let nowDt = new Date();
