@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/24 07:55
+### 最終更新：2026/11/24 13:14
 
 
 ---
@@ -10,6 +10,38 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/24（火） 12:13
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125065195445993974"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/24（火） 12:07
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125063670929789145"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/24（火） 10:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125031648882286909"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/23（月） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2124820252928479674"></a>
 </blockquote>
 
 ---
@@ -24,33 +56,29 @@
 
 **DATE**: 11/23（月） 16:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2124759860466360647"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2124759860466360647)
+<br>
+#セカイの4コマ #ワンダショ
 
 ---
 
 **DATE**: 11/23（月） 15:12
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2124747971954970964"></a>
-</blockquote>
+[追加楽曲紹...](https://x.com/pj_sekai/status/2124747971954970964)
 
 ---
 
 **DATE**: 11/23（月） 15:12
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2124747806846136830"></a>
-</blockquote>
+[本日15時...](https://x.com/pj_sekai/status/2124747806846136830)
 
 ---
 
 **DATE**: 11/23（月） 14:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2124729655940780249"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2124729655940780249)
+<br>
+#セカイの4コマ #ワンダショ
 
 ---
 
@@ -2167,25 +2195,25 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
-
----
-
-**DATE**: 10/12（月） 12:15
-<br>
-[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
 **DATE**: 10/12（月） 12:15
 <br>
 [「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
+
+---
+
+**DATE**: 10/12（月） 12:15
+<br>
+[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
 
 ---
 
