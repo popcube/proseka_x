@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/25 20:58
+### 最終更新：2026/11/26 06:04
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -25,43 +25,99 @@
 
 ---
 
-**DATE**: 11/25（水） 20:07
+**DATE**: 11/25（水） 20:41
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125546938573668619"></a>
+<a href="https://twitter.com/pj_sekai/status/2125555408224002154"></a>
 </blockquote>
+
+---
+
+**DATE**: 11/25（水） 20:38
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125554834309046513"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/25（水） 20:29
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125552333065228488"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/25（水） 20:22
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125550650767577355"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/25（水） 20:17
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125549550324924508"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/25（水） 20:12
+<br>
+[🏡マイセカ...](https://x.com/pj_sekai/status/2125548118142050807)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 11/25（水） 20:08
+<br>
+[🎨一緒につ...](https://x.com/pj_sekai/status/2125547135106269265)
+<br>
+#プロセカ放送局
+
+---
+
+**DATE**: 11/25（水） 20:07
+<br>
+[🎨一緒につ...](https://x.com/pj_sekai/status/2125546938573668619)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 11/25（水） 20:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125546570003472630"></a>
-</blockquote>
+[🎨一緒につ...](https://x.com/pj_sekai/status/2125546570003472630)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 11/25（水） 19:31
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125537881703973254"></a>
-</blockquote>
+[生放送中に...](https://x.com/pj_sekai/status/2125537881703973254)
+<br>
+#プロセカ放送局 #プロセカ放送局 #プロセカ放送局
 
 ---
 
 **DATE**: 11/25（水） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125537597577654378"></a>
-</blockquote>
+[🌈プロセカ...](https://x.com/pj_sekai/status/2125537597577654378)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 11/25（水） 19:25
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125536220579082513"></a>
-</blockquote>
+[💫総集編イ...](https://x.com/pj_sekai/status/2125536220579082513)
+<br>
+#レオニ
 
 ---
 
@@ -73,6 +129,12 @@
 
 ---
 
+**DATE**: 11/25（水） 18:05
+<br>
+[このあと1...](https://x.com/pj_sekai/status/2125516088746111294)
+
+---
+
 **DATE**: 11/25（水） 18:01
 <br>
 [💫総集編イ...](https://x.com/pj_sekai/status/2125515081844957347)
@@ -81,9 +143,25 @@
 
 ---
 
+**DATE**: 11/25（水） 18:00
+<br>
+[💫総集編イ...](https://x.com/pj_sekai/status/2125514832111673646)
+<br>
+#セカイの4コマ #レオニ
+
+---
+
 **DATE**: 11/25（水） 17:00
 <br>
 [💫総集編イ...](https://x.com/pj_sekai/status/2125499733619699864)
+<br>
+#セカイの4コマ #レオニ
+
+---
+
+**DATE**: 11/25（水） 16:00
+<br>
+[💫総集編イ...](https://x.com/pj_sekai/status/2125484634918048056)
 <br>
 #セカイの4コマ #レオニ
 
@@ -759,13 +837,13 @@
 
 **DATE**: 11/11（水） 12:06
 <br>
-[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
+[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
 
 ---
 
 **DATE**: 11/11（水） 12:06
 <br>
-[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
+[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
 
 ---
 
@@ -4509,20 +4587,6 @@
 **DATE**: 08/24（月） 00:00
 <br>
 [🎧暁山瑞希...](https://x.com/pj_sekai/status/2091540971817492643)
-
----
-
-**DATE**: 08/23（日） 20:04
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/2091481719035891728)
-
----
-
-**DATE**: 08/23（日） 18:00
-<br>
-[🏮#プロセ...](https://x.com/pj_sekai/status/2091450374196740134)
-<br>
-#プロセカあやかし横丁の夏休み #ニーゴ
 
 <script>
 let nowDt = new Date();
