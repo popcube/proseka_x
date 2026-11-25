@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/24 22:09
+### 最終更新：2026/11/25 11:58
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -25,11 +25,23 @@
 
 ---
 
-**DATE**: 11/24（火） 18:01
+**DATE**: 11/25（水） 11:41
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125152694319174113"></a>
+<a href="https://twitter.com/pj_sekai/status/2125419577878413664"></a>
 </blockquote>
+
+---
+
+**DATE**: 11/24（火） 21:10
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125200489784717502"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/24（火） 21:00 イベント「**ワンダーランズ×ショウタイム Memories**」 終了
 
 ---
 
@@ -37,6 +49,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2125152694004482464"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/24（火） 18:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125152694319174113"></a>
 </blockquote>
 
 ---
@@ -51,17 +71,17 @@
 
 **DATE**: 11/24（火） 14:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125092045756768748"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2125092045756768748)
+<br>
+#セカイの4コマ #ワンダショ
 
 ---
 
 **DATE**: 11/24（火） 13:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125076947369906635"></a>
-</blockquote>
+[👑総集編イ...](https://x.com/pj_sekai/status/2125076947369906635)
+<br>
+#セカイの4コマ #ワンダショ
 
 ---
 
@@ -625,13 +645,13 @@
 
 **DATE**: 11/11（水） 12:06
 <br>
-[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
+[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
 
 ---
 
 **DATE**: 11/11（水） 12:06
 <br>
-[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
+[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
 
 ---
 
@@ -1572,13 +1592,13 @@
 
 **DATE**: 10/25（日） 17:01
 <br>
-[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
+[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
 
 ---
 
 **DATE**: 10/25（日） 17:01
 <br>
-[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
+[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
 
 ---
 
@@ -4389,26 +4409,6 @@
 [🏮#プロセ...](https://x.com/pj_sekai/status/2091450374196740134)
 <br>
 #プロセカあやかし横丁の夏休み #ニーゴ
-
----
-
-**DATE**: 08/23（日） 00:00
-<br>
-[🎧暁山瑞希...](https://x.com/pj_sekai/status/2091178589618307460)
-
----
-
-**DATE**: 08/22（土） 18:00
-<br>
-[🏮#プロセ...](https://x.com/pj_sekai/status/2091087987664994659)
-<br>
-#プロセカあやかし横丁の夏休み #ワンダショ
-
----
-
-**DATE**: 08/22（土） 15:01
-<br>
-[🎧暁山瑞希...](https://x.com/pj_sekai/status/2091042965938696586)
 
 <script>
 let nowDt = new Date();
