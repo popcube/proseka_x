@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/25 15:06
+### 最終更新：2026/11/25 20:58
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -25,43 +25,115 @@
 
 ---
 
-**DATE**: 11/25（水） 13:00
+**DATE**: 11/25（水） 20:07
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125439341061136807"></a>
+<a href="https://twitter.com/pj_sekai/status/2125546938573668619"></a>
 </blockquote>
+
+---
+
+**DATE**: 11/25（水） 20:06
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125546570003472630"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/25（水） 19:31
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125537881703973254"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/25（水） 19:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125537597577654378"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/25（水） 19:25
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125536220579082513"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/25（水） 19:00
+<br>
+[💫総集編イ...](https://x.com/pj_sekai/status/2125529933657026763)
+<br>
+#レオニ
+
+---
+
+**DATE**: 11/25（水） 18:01
+<br>
+[💫総集編イ...](https://x.com/pj_sekai/status/2125515081844957347)
+<br>
+#セカイの4コマ #レオニ
+
+---
+
+**DATE**: 11/25（水） 17:00
+<br>
+[💫総集編イ...](https://x.com/pj_sekai/status/2125499733619699864)
+<br>
+#セカイの4コマ #レオニ
+
+---
+
+**DATE**: 11/25（水） 15:13
+<br>
+[本日15時...](https://x.com/pj_sekai/status/2125472942779973681)
+<br>
+#レオニ
+
+---
+
+**DATE**: 11/25（水） 15:00 イベント「**Leo/need Memories**」 開始
+
+---
+
+**DATE**: 11/25（水） 13:00
+<br>
+[📝アンケー...](https://x.com/pj_sekai/status/2125439341061136807)
 
 ---
 
 **DATE**: 11/25（水） 12:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125431787757220341"></a>
-</blockquote>
+[本日19:...](https://x.com/pj_sekai/status/2125431787757220341)
 
 ---
 
 **DATE**: 11/25（水） 12:06
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125425760957866377"></a>
-</blockquote>
+[💫総集編イ...](https://x.com/pj_sekai/status/2125425760957866377)
+<br>
+#レオニ
 
 ---
 
 **DATE**: 11/25（水） 12:05
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125425559723487472"></a>
-</blockquote>
+[💫総集編イ...](https://x.com/pj_sekai/status/2125425559723487472)
+<br>
+#レオニ
 
 ---
 
 **DATE**: 11/25（水） 12:04
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125425287534088335"></a>
-</blockquote>
+[💫総集編イ...](https://x.com/pj_sekai/status/2125425287534088335)
+<br>
+#レオニ
 
 ---
 
@@ -93,13 +165,13 @@
 
 **DATE**: 11/24（火） 18:01
 <br>
-[11月25...](https://x.com/pj_sekai/status/2125152694004482464)
+[フレームは...](https://x.com/pj_sekai/status/2125152694319174113)
 
 ---
 
 **DATE**: 11/24（火） 18:01
 <br>
-[フレームは...](https://x.com/pj_sekai/status/2125152694319174113)
+[11月25...](https://x.com/pj_sekai/status/2125152694004482464)
 
 ---
 
@@ -1020,13 +1092,13 @@
 
 **DATE**: 10/31（土） 12:14
 <br>
-[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
+[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
 
 ---
 
 **DATE**: 10/31（土） 12:14
 <br>
-[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
+[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
 
 ---
 
@@ -2322,13 +2394,13 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
