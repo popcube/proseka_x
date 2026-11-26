@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/26 20:45
+### 最終更新：2026/11/27 05:46
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -21,6 +21,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/26（木） 20:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125907436032712761"></a>
 </blockquote>
 
 ---
@@ -59,9 +67,17 @@
 
 **DATE**: 11/26（木） 12:01
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125786873713070199"></a>
-</blockquote>
+[12月4日...](https://x.com/pj_sekai/status/2125786873713070199)
+<br>
+#セカラジ
+
+---
+
+**DATE**: 11/26（木） 12:00
+<br>
+[💫総集編イ...](https://x.com/pj_sekai/status/2125786639842848884)
+<br>
+#セカイの4コマ #レオニ
 
 ---
 
@@ -4641,42 +4657,6 @@
 [3分間のひ...](https://x.com/pj_sekai/status/2092085918115209286)
 <br>
 #ふわぷち #即席ラーメン記念日
-
----
-
-**DATE**: 08/24（月） 18:14
-<br>
-[🏮#プロセ...](https://x.com/pj_sekai/status/2091816470884061666)
-<br>
-#プロセカあやかし横丁の夏休み
-
----
-
-**DATE**: 08/24（月） 18:14
-<br>
-[🏮#プロセ...](https://x.com/pj_sekai/status/2091816462008877142)
-<br>
-#プロセカあやかし横丁の夏休み
-
----
-
-**DATE**: 08/24（月） 18:00
-<br>
-[🎮プロジェ...](https://x.com/pj_sekai/status/2091813006590329140)
-<br>
-#プロセカCS
-
----
-
-**DATE**: 08/24（月） 15:08
-<br>
-[追加楽曲紹...](https://x.com/pj_sekai/status/2091769702238593463)
-
----
-
-**DATE**: 08/24（月） 15:08
-<br>
-[本日15時...](https://x.com/pj_sekai/status/2091769608537837709)
 
 <script>
 let nowDt = new Date();
