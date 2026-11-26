@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/26 14:59
+### 最終更新：2026/11/26 20:45
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -25,6 +25,22 @@
 
 ---
 
+**DATE**: 11/26（木） 18:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125877227250463122"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/26（木） 16:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2125847019231273317"></a>
+</blockquote>
+
+---
+
 **DATE**: 11/26（木） 14:00
 <br>
 <blockquote class="twitter-tweet">
@@ -41,27 +57,35 @@
 
 ---
 
-**DATE**: 11/26（木） 10:00
+**DATE**: 11/26（木） 12:01
 <br>
 <blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125756431920222542"></a>
+<a href="https://twitter.com/pj_sekai/status/2125786873713070199"></a>
 </blockquote>
+
+---
+
+**DATE**: 11/26（木） 10:00
+<br>
+[💫総集編イ...](https://x.com/pj_sekai/status/2125756431920222542)
+<br>
+#セカイの4コマ #レオニ
 
 ---
 
 **DATE**: 11/25（水） 20:41
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125555408224002154"></a>
-</blockquote>
+[👑ワンダー...](https://x.com/pj_sekai/status/2125555408224002154)
+<br>
+#プロセカ放送局
 
 ---
 
 **DATE**: 11/25（水） 20:38
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125554834309046513"></a>
-</blockquote>
+[💿Vivi...](https://x.com/pj_sekai/status/2125554834309046513)
+<br>
+#プロセカ放送局
 
 ---
 
@@ -909,13 +933,13 @@
 
 **DATE**: 11/11（水） 12:06
 <br>
-[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
+[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
 
 ---
 
 **DATE**: 11/11（水） 12:06
 <br>
-[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
+[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
 
 ---
 
@@ -1242,13 +1266,13 @@
 
 **DATE**: 10/31（土） 12:14
 <br>
-[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
+[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
 
 ---
 
 **DATE**: 10/31（土） 12:14
 <br>
-[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
+[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
 
 ---
 
