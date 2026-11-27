@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/27 20:39
+### 最終更新：2026/11/28 05:18
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -65,6 +65,14 @@
 
 ---
 
+**DATE**: 11/27（金） 16:00
+<br>
+[💫総集編イ...](https://x.com/pj_sekai/status/2126209408824664323)
+<br>
+#セカイの4コマ #レオニ
+
+---
+
 **DATE**: 11/27（金） 14:00
 <br>
 [💫総集編イ...](https://x.com/pj_sekai/status/2126179208565018697)
@@ -92,6 +100,14 @@
 **DATE**: 11/27（金） 12:03
 <br>
 [#コネクト...](https://x.com/pj_sekai/status/2126149946013565220)
+<br>
+#コネクトライブ
+
+---
+
+**DATE**: 11/27（金） 12:03
+<br>
+[#コネクト...](https://x.com/pj_sekai/status/2126149809874821605)
 <br>
 #コネクトライブ
 
@@ -1043,13 +1059,13 @@
 
 **DATE**: 11/11（水） 12:06
 <br>
-[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
+[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
 
 ---
 
 **DATE**: 11/11（水） 12:06
 <br>
-[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
+[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
 
 ---
 
@@ -2678,13 +2694,13 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
@@ -4723,34 +4739,6 @@
 **DATE**: 08/26（水） 12:01
 <br>
 [☘️MOR...](https://x.com/pj_sekai/status/2092447189100331207)
-
----
-
-**DATE**: 08/25（火） 20:02
-<br>
-[ワールドリ...](https://x.com/pj_sekai/status/2092206076741681505)
-
----
-
-**DATE**: 08/25（火） 18:17
-<br>
-[🏮#プロセ...](https://x.com/pj_sekai/status/2092179570879513046)
-<br>
-#プロセカあやかし横丁の夏休み #レオニ
-
----
-
-**DATE**: 08/25（火） 18:15
-<br>
-[明日、8月...](https://x.com/pj_sekai/status/2092178959408730297)
-
----
-
-**DATE**: 08/25（火） 12:05
-<br>
-[3分間のひ...](https://x.com/pj_sekai/status/2092085918115209286)
-<br>
-#ふわぷち #即席ラーメン記念日
 
 <script>
 let nowDt = new Date();
