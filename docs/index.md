@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/27 05:46
+### 最終更新：2026/11/27 11:05
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -21,6 +21,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/27（金） 10:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2126118809400643691"></a>
 </blockquote>
 
 ---
@@ -59,9 +67,7 @@
 
 **DATE**: 11/26（木） 12:08
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2125788796465922560"></a>
-</blockquote>
+[🎊コネクト...](https://x.com/pj_sekai/status/2125788796465922560)
 
 ---
 
@@ -132,6 +138,14 @@
 **DATE**: 11/25（水） 20:29
 <br>
 [🌟#コネク...](https://x.com/pj_sekai/status/2125552333065228488)
+<br>
+#コネクトライブ #プロセカ放送局
+
+---
+
+**DATE**: 11/25（水） 20:28
+<br>
+[🌟#コネク...](https://x.com/pj_sekai/status/2125552228757033192)
 <br>
 #コネクトライブ #プロセカ放送局
 
@@ -1896,13 +1910,13 @@
 
 **DATE**: 10/25（日） 17:01
 <br>
-[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
+[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
 
 ---
 
 **DATE**: 10/25（日） 17:01
 <br>
-[愛莉・雫の...](https://x.com/pj_sekai/status/2114265958982574354)
+[みのり・遥...](https://x.com/pj_sekai/status/2114265958667997486)
 
 ---
 
