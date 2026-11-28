@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/28 11:20
+### 最終更新：2026/11/28 14:32
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -25,6 +25,38 @@
 
 ---
 
+**DATE**: 11/28（土） 13:01
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2126526755821568165"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/28（土） 12:11
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2126514281764245506"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/28（土） 12:09
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2126513691512439176"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/28（土） 12:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2126511399673463016"></a>
+</blockquote>
+
+---
+
 **DATE**: 11/28（土） 10:00
 <br>
 <blockquote class="twitter-tweet">
@@ -35,33 +67,31 @@
 
 **DATE**: 11/27（金） 20:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2126269830642696387"></a>
-</blockquote>
+[💫総集編イ...](https://x.com/pj_sekai/status/2126269830642696387)
+<br>
+#セカイの4コマ #レオニ
 
 ---
 
 **DATE**: 11/27（金） 19:30
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2126262254593331514"></a>
-</blockquote>
+[💫総集編イ...](https://x.com/pj_sekai/status/2126262254593331514)
+<br>
+#レオニ
 
 ---
 
 **DATE**: 11/27（金） 19:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2126254738178208162"></a>
-</blockquote>
+[💫総集編イ...](https://x.com/pj_sekai/status/2126254738178208162)
+<br>
+#レオニ
 
 ---
 
 **DATE**: 11/27（金） 18:49
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2126252161067823433"></a>
-</blockquote>
+[【お知らせ...](https://x.com/pj_sekai/status/2126252161067823433)
 
 ---
 
@@ -78,6 +108,12 @@
 [💫総集編イ...](https://x.com/pj_sekai/status/2126209408824664323)
 <br>
 #セカイの4コマ #レオニ
+
+---
+
+**DATE**: 11/27（金） 15:12
+<br>
+[本日15時...](https://x.com/pj_sekai/status/2126197509328658551)
 
 ---
 
@@ -1081,13 +1117,13 @@
 
 **DATE**: 11/11（水） 12:06
 <br>
-[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
+[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
 
 ---
 
 **DATE**: 11/11（水） 12:06
 <br>
-[「Capt...](https://x.com/pj_sekai/status/2120352555448643944)
+[【きらめく...](https://x.com/pj_sekai/status/2120352557193470160)
 
 ---
 
@@ -1414,13 +1450,13 @@
 
 **DATE**: 10/31（土） 12:14
 <br>
-[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
+[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
 
 ---
 
 **DATE**: 10/31（土） 12:14
 <br>
-[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
+[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
 
 ---
 
