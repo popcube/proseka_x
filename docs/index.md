@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/28 05:18
+### 最終更新：2026/11/28 10:50
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -21,6 +21,14 @@
 <br>
 <blockquote class="twitter-tweet">
 <a href="https://twitter.com/pj_sekai/status/2116726928166064405"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/28（土） 10:00
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2126481202219827387"></a>
 </blockquote>
 
 ---
@@ -59,9 +67,9 @@
 
 **DATE**: 11/27（金） 18:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2126239613387944357"></a>
-</blockquote>
+[💫総集編イ...](https://x.com/pj_sekai/status/2126239613387944357)
+<br>
+#セカイの4コマ #レオニ
 
 ---
 
@@ -158,6 +166,12 @@
 [💫総集編イ...](https://x.com/pj_sekai/status/2125816825351151972)
 <br>
 #セカイの4コマ #レオニ
+
+---
+
+**DATE**: 11/26（木） 12:38
+<br>
+[【お知らせ...](https://x.com/pj_sekai/status/2125796270031945885)
 
 ---
 
@@ -1392,13 +1406,13 @@
 
 **DATE**: 10/31（土） 12:14
 <br>
-[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
+[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
 
 ---
 
 **DATE**: 10/31（土） 12:14
 <br>
-[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
+[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
 
 ---
 
@@ -2694,13 +2708,13 @@
 
 **DATE**: 10/12（月） 12:16
 <br>
-[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
+[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
 
 ---
 
 **DATE**: 10/12（月） 12:16
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483323798286336)
+[【先輩から...](https://x.com/pj_sekai/status/2109483326067372201)
 
 ---
 
