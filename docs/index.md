@@ -1,7 +1,7 @@
 
 ## プロセカX(旧Twitter) 投稿記録
 当サイトは非公式です。プロセカ運営とは関係がありません。
-### 最終更新：2026/11/28 14:32
+### 最終更新：2026/11/28 20:14
 
 <div class="highlight" id="maint-ongoing-0" style="display: none;"><div class="gd">
 【メンテナンス実施中】
@@ -25,6 +25,30 @@
 
 ---
 
+**DATE**: 11/28（土） 19:30
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2126624642408546486"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/28（土） 19:23
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2126622983020310887"></a>
+</blockquote>
+
+---
+
+**DATE**: 11/28（土） 14:38
+<br>
+<blockquote class="twitter-tweet">
+<a href="https://twitter.com/pj_sekai/status/2126551162396745817"></a>
+</blockquote>
+
+---
+
 **DATE**: 11/28（土） 13:01
 <br>
 <blockquote class="twitter-tweet">
@@ -43,25 +67,25 @@
 
 **DATE**: 11/28（土） 12:09
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2126513691512439176"></a>
-</blockquote>
+[#コネクト...](https://x.com/pj_sekai/status/2126513691512439176)
+<br>
+#コネクトライブ
 
 ---
 
 **DATE**: 11/28（土） 12:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2126511399673463016"></a>
-</blockquote>
+[💫総集編イ...](https://x.com/pj_sekai/status/2126511399673463016)
+<br>
+#セカイの4コマ #レオニ
 
 ---
 
 **DATE**: 11/28（土） 10:00
 <br>
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/pj_sekai/status/2126481202219827387"></a>
-</blockquote>
+[💫総集編イ...](https://x.com/pj_sekai/status/2126481202219827387)
+<br>
+#セカイの4コマ #レオニ
 
 ---
 
@@ -1450,13 +1474,13 @@
 
 **DATE**: 10/31（土） 12:14
 <br>
-[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
+[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
 
 ---
 
 **DATE**: 10/31（土） 12:14
 <br>
-[「Lit ...](https://x.com/pj_sekai/status/2116368059934089570)
+[【鍵を壊す...](https://x.com/pj_sekai/status/2116368062131880045)
 
 ---
 
@@ -2764,13 +2788,13 @@
 
 **DATE**: 10/12（月） 12:15
 <br>
-[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
+[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
 
 ---
 
 **DATE**: 10/12（月） 12:15
 <br>
-[【今はただ...](https://x.com/pj_sekai/status/2109483152519626798)
+[「Soun...](https://x.com/pj_sekai/status/2109483150518964287)
 
 ---
 
